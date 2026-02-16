@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,10 +39,19 @@ jobs:
           OUTPUT_FILE: "japanese-jobs.csv"
         run: python src/scraper/scrape.py
 
-      - name: Commit and push changes
+      - name: Commit data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
           git diff --staged --quiet || git commit -m "Update Japanese jobs data $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Update README with CSV links
+        run: python src/update_readme.py
+
+      - name: Commit README
+        run: |
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update README links"
           git push
