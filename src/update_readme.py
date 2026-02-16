@@ -44,14 +44,20 @@ def get_csv_commits(filename: str, days: int = 30) -> list[dict]:
     )
 
     commits = []
+    seen_dates = set()
     for line in result.stdout.strip().split("\n"):
         if not line:
             continue
         parts = line.split("|", 2)
         if len(parts) == 3:
+            date = parts[1]
+            # Keep only the latest commit per date (first one encountered)
+            if date in seen_dates:
+                continue
+            seen_dates.add(date)
             commits.append({
                 "sha": parts[0],
-                "date": parts[1],
+                "date": date,
                 "message": parts[2],
             })
 
