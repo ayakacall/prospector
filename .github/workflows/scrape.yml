@@ -1,0 +1,50 @@
+name: Scrape Jobs
+
+on:
+  schedule:
+    # Run daily at 8am UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      search_term:
+        description: "Job search term"
+        required: false
+        default: "software engineer"
+      location:
+        description: "Job location"
+        required: false
+        default: "United States"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          SEARCH_TERM: ${{ github.event.inputs.search_term || 'software engineer' }}
+          LOCATION: ${{ github.event.inputs.location || 'United States' }}
+          SITES: "indeed,glassdoor"
+          RESULTS_WANTED: "100"
+          HOURS_OLD: "24"
+        run: python src/scraper/scrape.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update jobs data $(date -u +%Y-%m-%d)"
+          git push
