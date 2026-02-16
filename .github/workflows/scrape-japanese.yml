@@ -27,7 +27,7 @@ jobs:
         env:
           SEARCH_TERM: "japanese"
           LOCATION: "United States"
-          SITES: "indeed,glassdoor"
+          SITES: "indeed,glassdoor,linkedin"
           RESULTS_WANTED: "100"
           HOURS_OLD: "24"
           IS_REMOTE: "true"
