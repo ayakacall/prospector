@@ -26,6 +26,5 @@ dist/
 Thumbs.db
 
 # Project specific
-data/
 output/
 *.log
