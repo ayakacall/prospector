@@ -27,7 +27,7 @@ jobs:
         env:
           SEARCH_TERM: "Human Resources"
           LOCATION: "98589"
-          DISTANCE: "50"
+          DISTANCE: "200"
           SITES: "indeed,glassdoor,linkedin"
           RESULTS_WANTED: "100"
           HOURS_OLD: "24"
@@ -38,7 +38,7 @@ jobs:
         env:
           SEARCH_TERM: "HR"
           LOCATION: "98589"
-          DISTANCE: "50"
+          DISTANCE: "200"
           SITES: "indeed,glassdoor,linkedin"
           RESULTS_WANTED: "100"
           HOURS_OLD: "24"
