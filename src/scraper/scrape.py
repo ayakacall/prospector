@@ -32,12 +32,13 @@ def scrape_new_jobs(
     sites: list[str] | None = None,
     results_wanted: int = 100,
     hours_old: int = 24,
+    distance: int = 50,
 ) -> pd.DataFrame:
     """Scrape jobs from configured sites."""
     if sites is None:
         sites = ["indeed", "linkedin", "glassdoor", "zip_recruiter"]
 
-    print(f"Scraping jobs for: '{search_term}' in '{location}'")
+    print(f"Scraping jobs for: '{search_term}' in '{location}' (within {distance} miles)")
     print(f"Sites: {sites}")
     print(f"Looking for jobs posted in last {hours_old} hours")
 
@@ -45,6 +46,7 @@ def scrape_new_jobs(
         site_name=sites,
         search_term=search_term,
         location=location,
+        distance=distance,
         results_wanted=results_wanted,
         hours_old=hours_old,
         country_indeed="USA",
@@ -109,10 +111,12 @@ def main():
     sites = os.environ.get("SITES", "indeed,linkedin,glassdoor").split(",")
     results_wanted = int(os.environ.get("RESULTS_WANTED", "100"))
     hours_old = int(os.environ.get("HOURS_OLD", "24"))
+    distance = int(os.environ.get("DISTANCE", "50"))
+    output_file = os.environ.get("OUTPUT_FILE", "jobs.csv")
 
     # Output path
     data_dir = Path(__file__).parent.parent.parent / "data"
-    csv_path = data_dir / "jobs.csv"
+    csv_path = data_dir / output_file
 
     # Load existing jobs for deduplication
     existing_urls = load_existing_jobs(csv_path)
@@ -125,6 +129,7 @@ def main():
         sites=sites,
         results_wanted=results_wanted,
         hours_old=hours_old,
+        distance=distance,
     )
 
     # Filter to only new jobs

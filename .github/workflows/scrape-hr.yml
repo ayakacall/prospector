@@ -1,0 +1,54 @@
+name: Scrape HR Jobs
+
+on:
+  schedule:
+    # Run daily at 8am UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape "Human Resources" jobs
+        env:
+          SEARCH_TERM: "Human Resources"
+          LOCATION: "98589"
+          DISTANCE: "50"
+          SITES: "indeed,glassdoor"
+          RESULTS_WANTED: "100"
+          HOURS_OLD: "24"
+          OUTPUT_FILE: "hr-jobs.csv"
+        run: python src/scraper/scrape.py
+
+      - name: Scrape "HR" jobs
+        env:
+          SEARCH_TERM: "HR"
+          LOCATION: "98589"
+          DISTANCE: "50"
+          SITES: "indeed,glassdoor"
+          RESULTS_WANTED: "100"
+          HOURS_OLD: "24"
+          OUTPUT_FILE: "hr-jobs.csv"
+        run: python src/scraper/scrape.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update HR jobs data $(date -u +%Y-%m-%d)"
+          git push
