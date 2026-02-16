@@ -104,7 +104,7 @@ def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
 
 def main():
     # Configuration from environment variables
-    search_term = os.environ.get("SEARCH_TERM", "software engineer")
+    search_term = os.environ.get("SEARCH_TERM", "japanese")
     location = os.environ.get("LOCATION", "United States")
     sites = os.environ.get("SITES", "indeed,linkedin,glassdoor").split(",")
     results_wanted = int(os.environ.get("RESULTS_WANTED", "100"))
