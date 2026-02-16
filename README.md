@@ -23,7 +23,7 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 ### Japanese Jobs (Remote)
 
-- [2026-02-16](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=e94aa030927398c94d0a4aa7278d259e38c969cd)
+- [2026-02-16](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=14c3ebbc641ea4b161b03e4a8d06f01075279ec0)
 
 ### HR Jobs
 
