@@ -1,19 +1,10 @@
-name: Scrape Jobs
+name: Scrape Japanese Jobs (Remote)
 
 on:
   schedule:
     # Run daily at 8am UTC
     - cron: "0 8 * * *"
   workflow_dispatch:
-    inputs:
-      search_term:
-        description: "Job search term"
-        required: false
-        default: "japanese"
-      location:
-        description: "Job location"
-        required: false
-        default: "United States"
 
 jobs:
   scrape:
@@ -34,11 +25,13 @@ jobs:
 
       - name: Run scraper
         env:
-          SEARCH_TERM: ${{ github.event.inputs.search_term || 'japanese' }}
-          LOCATION: ${{ github.event.inputs.location || 'United States' }}
+          SEARCH_TERM: "japanese"
+          LOCATION: "United States"
           SITES: "indeed,glassdoor"
           RESULTS_WANTED: "100"
           HOURS_OLD: "24"
+          IS_REMOTE: "true"
+          OUTPUT_FILE: "japanese-jobs.csv"
         run: python src/scraper/scrape.py
 
       - name: Commit and push changes
@@ -46,5 +39,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --staged --quiet || git commit -m "Update jobs data $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Update Japanese jobs data $(date -u +%Y-%m-%d)"
           git push

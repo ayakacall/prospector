@@ -33,12 +33,14 @@ def scrape_new_jobs(
     results_wanted: int = 100,
     hours_old: int = 24,
     distance: int = 50,
+    is_remote: bool = False,
 ) -> pd.DataFrame:
     """Scrape jobs from configured sites."""
     if sites is None:
         sites = ["indeed", "linkedin", "glassdoor", "zip_recruiter"]
 
-    print(f"Scraping jobs for: '{search_term}' in '{location}' (within {distance} miles)")
+    remote_str = " (remote only)" if is_remote else ""
+    print(f"Scraping jobs for: '{search_term}' in '{location}' (within {distance} miles){remote_str}")
     print(f"Sites: {sites}")
     print(f"Looking for jobs posted in last {hours_old} hours")
 
@@ -49,6 +51,7 @@ def scrape_new_jobs(
         distance=distance,
         results_wanted=results_wanted,
         hours_old=hours_old,
+        is_remote=is_remote,
         country_indeed="USA",
     )
 
@@ -112,6 +115,7 @@ def main():
     results_wanted = int(os.environ.get("RESULTS_WANTED", "100"))
     hours_old = int(os.environ.get("HOURS_OLD", "24"))
     distance = int(os.environ.get("DISTANCE", "50"))
+    is_remote = os.environ.get("IS_REMOTE", "false").lower() == "true"
     output_file = os.environ.get("OUTPUT_FILE", "jobs.csv")
 
     # Output path
@@ -130,6 +134,7 @@ def main():
         results_wanted=results_wanted,
         hours_old=hours_old,
         distance=distance,
+        is_remote=is_remote,
     )
 
     # Filter to only new jobs
