@@ -69,6 +69,27 @@ def filter_new_jobs(jobs: pd.DataFrame, existing_urls: set[str]) -> pd.DataFrame
     return new_jobs
 
 
+def filter_local_only(jobs: pd.DataFrame) -> pd.DataFrame:
+    """Filter out remote jobs, keeping only local positions."""
+    if jobs.empty:
+        return jobs
+
+    original_count = len(jobs)
+
+    # Filter out jobs with "remote" in title or location (case-insensitive)
+    mask = ~(
+        jobs["title"].str.lower().str.contains("remote", na=False)
+        | jobs["location"].str.lower().str.contains("remote", na=False)
+    )
+    local_jobs = jobs[mask]
+
+    filtered_count = original_count - len(local_jobs)
+    if filtered_count > 0:
+        print(f"Filtered out {filtered_count} remote jobs, keeping {len(local_jobs)} local jobs")
+
+    return local_jobs
+
+
 def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
     """Save jobs to CSV, optionally appending to existing file."""
     if jobs.empty:
@@ -116,6 +137,7 @@ def main():
     hours_old = int(os.environ.get("HOURS_OLD", "24"))
     distance = int(os.environ.get("DISTANCE", "50"))
     is_remote = os.environ.get("IS_REMOTE", "false").lower() == "true"
+    local_only = os.environ.get("LOCAL_ONLY", "false").lower() == "true"
     output_file = os.environ.get("OUTPUT_FILE", "jobs.csv")
 
     # Output path
@@ -139,6 +161,10 @@ def main():
 
     # Filter to only new jobs
     new_jobs = filter_new_jobs(jobs, existing_urls)
+
+    # Filter out remote jobs if local_only is set
+    if local_only:
+        new_jobs = filter_local_only(new_jobs)
 
     # Save results
     save_jobs(new_jobs, csv_path, append=True)
