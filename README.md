@@ -23,6 +23,7 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 ### Japanese Jobs (Remote)
 
+- [2026-04-26](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=24f2cddc3fb7bbe821810e9e806ec618b92c9eb0)
 - [2026-04-25](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=619d0d17085462e248f43435aff859f76c33f501)
 - [2026-04-24](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=ad4c6cb1bdbd16e12c56e2e0326c33a5dd33013f)
 - [2026-04-23](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=2839d83d54ddae4b2733d26b10d40ea0791a421b)
@@ -52,7 +53,6 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 - [2026-03-30](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=6c2bca729028e54fb7534e0cbfdfa0c2d4eaa456)
 - [2026-03-29](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=8338222026037ec2f3b7e85e3ed35f7c1eabdc70)
 - [2026-03-28](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=197b3e66eab65eb6709c3c876948c8ad9283652a)
-- [2026-03-27](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=eed078fbeee7017b298f936d99508d2a9f950d6b)
 
 ### HR Jobs
 
@@ -85,7 +85,5 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 - [2026-03-30](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=2aa62bf061eb99c8899fcda6fc9ae8dd1485eb0a)
 - [2026-03-29](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=29a90d9d007264e9c394c082927d32a13ba29482)
 - [2026-03-28](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=3393d5565b4a66e5b7bddd1e4c2de466d4cbfb44)
-- [2026-03-27](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=ec51d2ba13fdfc695195dc697486de01fb367035)
-- [2026-03-26](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=37b76d354f142ec86d8c867b3aa95bfea27715c5)
 
 <!-- CSV_LINKS_END -->
