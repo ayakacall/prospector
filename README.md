@@ -56,6 +56,7 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 ### HR Jobs
 
+- [2026-05-02](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=7b9356331df28f453edf66202a65c950e8be2c6d)
 - [2026-05-01](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=bd9de180f41ba4af60c46eea369264db604ea717)
 - [2026-04-30](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=f5b26a91db6376fb68cca9244ef22ef2d7fcfa0e)
 - [2026-04-29](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=021b8e316b99722af9c87bec995e417a2fe33ebe)
