@@ -23,6 +23,7 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 ### Japanese Jobs (Remote)
 
+- [2026-05-22](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=95d2e7fbe69a73ed5e95ac473d7277117858b0cc)
 - [2026-05-21](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=5cf1535c3a8b18e6fffe6d23a85c66813dd1b849)
 - [2026-05-20](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=a26476a2cfa6718bafa6d4f5dd0665ccd5d2d65e)
 - [2026-05-19](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=b333d0c4c511dc15d4bdd43a4dceaedfbafaa87d)
@@ -52,7 +53,6 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 - [2026-04-25](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=619d0d17085462e248f43435aff859f76c33f501)
 - [2026-04-24](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=ad4c6cb1bdbd16e12c56e2e0326c33a5dd33013f)
 - [2026-04-23](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=2839d83d54ddae4b2733d26b10d40ea0791a421b)
-- [2026-04-22](https://flatgithub.com/ayakacall/prospector?filename=data/japanese-jobs.csv&sha=803381d5168594222634aa9884b77391533f4cb9)
 
 ### HR Jobs
 
@@ -85,6 +85,5 @@ All tools run as GitHub Actions workflows on schedule or manual trigger.
 - [2026-04-25](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=4f0e82f9c2d258f8bac6d98bbf8217c6a43d5027)
 - [2026-04-24](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=4977462de9de819ff14d7390aa29b2bc3d66083a)
 - [2026-04-23](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=0aa604b97b2987011e5abb887ff3300900a8992b)
-- [2026-04-22](https://flatgithub.com/ayakacall/prospector?filename=data/hr-jobs.csv&sha=29ff70eae2b3eaf1b093f075ac1541601983658d)
 
 <!-- CSV_LINKS_END -->
