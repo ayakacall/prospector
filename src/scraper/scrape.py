@@ -30,7 +30,7 @@ def scrape_new_jobs(
     search_term: str,
     location: str = "United States",
     sites: list[str] | None = None,
-    results_wanted: int = 100,
+    results_wanted: int = 50,
     hours_old: int = 24,
     distance: int = 50,
     is_remote: bool = False,
@@ -69,6 +69,28 @@ def filter_new_jobs(jobs: pd.DataFrame, existing_urls: set[str]) -> pd.DataFrame
     return new_jobs
 
 
+def filter_by_title(jobs: pd.DataFrame, include_keywords: list[str] | None = None, exclude_keywords: list[str] | None = None) -> pd.DataFrame:
+    """Filter jobs by title keywords."""
+    if jobs.empty:
+        return jobs
+
+    original_count = len(jobs)
+
+    if include_keywords:
+        pattern = "|".join(include_keywords)
+        jobs = jobs[jobs["title"].str.contains(pattern, case=False, na=False)]
+
+    if exclude_keywords:
+        pattern = "|".join(exclude_keywords)
+        jobs = jobs[~jobs["title"].str.contains(pattern, case=False, na=False)]
+
+    filtered_count = original_count - len(jobs)
+    if filtered_count > 0:
+        print(f"Title filter removed {filtered_count} jobs, keeping {len(jobs)}")
+
+    return jobs
+
+
 def filter_local_only(jobs: pd.DataFrame) -> pd.DataFrame:
     """Filter out remote jobs, keeping only local positions."""
     if jobs.empty:
@@ -76,7 +98,6 @@ def filter_local_only(jobs: pd.DataFrame) -> pd.DataFrame:
 
     original_count = len(jobs)
 
-    # Filter out jobs with "remote" in title or location (case-insensitive)
     mask = ~(
         jobs["title"].str.lower().str.contains("remote", na=False)
         | jobs["location"].str.lower().str.contains("remote", na=False)
@@ -96,11 +117,9 @@ def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
         print("No new jobs to save")
         return
 
-    # Add scraped timestamp
     jobs = jobs.copy()
     jobs["scraped_at"] = datetime.utcnow().isoformat()
 
-    # Select and order columns for clean output
     columns = [
         "title",
         "company",
@@ -115,7 +134,6 @@ def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
         "scraped_at",
     ]
 
-    # Only keep columns that exist
     columns = [c for c in columns if c in jobs.columns]
     jobs = jobs[columns]
 
@@ -129,26 +147,27 @@ def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
 
 
 def main():
-    # Configuration from environment variables
     search_term = os.environ.get("SEARCH_TERM", "japanese")
     location = os.environ.get("LOCATION", "United States")
     sites = os.environ.get("SITES", "indeed,linkedin,glassdoor").split(",")
-    results_wanted = int(os.environ.get("RESULTS_WANTED", "100"))
+    results_wanted = int(os.environ.get("RESULTS_WANTED", "50"))
     hours_old = int(os.environ.get("HOURS_OLD", "24"))
     distance = int(os.environ.get("DISTANCE", "50"))
     is_remote = os.environ.get("IS_REMOTE", "false").lower() == "true"
     local_only = os.environ.get("LOCAL_ONLY", "false").lower() == "true"
     output_file = os.environ.get("OUTPUT_FILE", "jobs.csv")
 
-    # Output path
+    include_titles = os.environ.get("INCLUDE_TITLES", "")
+    exclude_titles = os.environ.get("EXCLUDE_TITLES", "")
+    include_keywords = [k.strip() for k in include_titles.split(",") if k.strip()] or None
+    exclude_keywords = [k.strip() for k in exclude_titles.split(",") if k.strip()] or None
+
     data_dir = Path(__file__).parent.parent.parent / "data"
     csv_path = data_dir / output_file
 
-    # Load existing jobs for deduplication
     existing_urls = load_existing_jobs(csv_path)
     print(f"Existing jobs in database: {len(existing_urls)}")
 
-    # Scrape new jobs
     jobs = scrape_new_jobs(
         search_term=search_term,
         location=location,
@@ -159,20 +178,18 @@ def main():
         is_remote=is_remote,
     )
 
-    # Filter to only new jobs
     new_jobs = filter_new_jobs(jobs, existing_urls)
 
-    # Filter out remote jobs if local_only is set
     if local_only:
         new_jobs = filter_local_only(new_jobs)
 
-    # Save results
+    new_jobs = filter_by_title(new_jobs, include_keywords, exclude_keywords)
+
     save_jobs(new_jobs, csv_path, append=True)
 
-    # Output summary for GitHub Actions
     print(f"\n::notice::Found {len(new_jobs)} new jobs for '{search_term}'")
 
-    return 0 if not new_jobs.empty else 0  # Always succeed
+    return 0
 
 
 if __name__ == "__main__":
