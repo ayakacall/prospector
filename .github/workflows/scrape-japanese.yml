@@ -2,7 +2,6 @@ name: Scrape Japanese Jobs (Remote)
 
 on:
   schedule:
-    # Run daily at 8am UTC
     - cron: "0 8 * * *"
   workflow_dispatch:
 
@@ -33,10 +32,12 @@ jobs:
           SEARCH_TERM: "japanese"
           LOCATION: "United States"
           SITES: "indeed,glassdoor,linkedin"
-          RESULTS_WANTED: "100"
+          RESULTS_WANTED: "50"
           HOURS_OLD: "24"
           IS_REMOTE: "true"
           OUTPUT_FILE: "japanese-jobs.csv"
+          INCLUDE_TITLES: "Japanese,Bilingual,Translator,Interpreter,Japan,Nihongo"
+          EXCLUDE_TITLES: "Japanese Restaurant,Sushi,Chef,Cook"
         run: python src/scraper/scrape.py
 
       - name: Commit data
@@ -47,11 +48,11 @@ jobs:
           git diff --staged --quiet || git commit -m "Update Japanese jobs data $(date -u +%Y-%m-%d)"
           git push
 
-      - name: Update README with CSV links
+      - name: Update README with daily report
         run: python src/update_readme.py
 
       - name: Commit README
         run: |
           git add README.md
-          git diff --staged --quiet || git commit -m "Update README links"
+          git diff --staged --quiet || git commit -m "Update daily job report"
           git push

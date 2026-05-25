@@ -2,7 +2,6 @@ name: Scrape HR Jobs
 
 on:
   schedule:
-    # Run daily at 8am UTC
     - cron: "0 8 * * *"
   workflow_dispatch:
 
@@ -28,28 +27,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape "Human Resources" jobs
+      - name: Scrape HR jobs
         env:
           SEARCH_TERM: "Human Resources"
           LOCATION: "98589"
           DISTANCE: "200"
           SITES: "indeed,linkedin"
-          RESULTS_WANTED: "100"
+          RESULTS_WANTED: "50"
           HOURS_OLD: "24"
           LOCAL_ONLY: "true"
           OUTPUT_FILE: "hr-jobs.csv"
-        run: python src/scraper/scrape.py
-
-      - name: Scrape "HR" jobs
-        env:
-          SEARCH_TERM: "HR"
-          LOCATION: "98589"
-          DISTANCE: "200"
-          SITES: "indeed,linkedin"
-          RESULTS_WANTED: "100"
-          HOURS_OLD: "24"
-          LOCAL_ONLY: "true"
-          OUTPUT_FILE: "hr-jobs.csv"
+          INCLUDE_TITLES: "HR,Human Resources,People Operations,People Partner,HRBP"
+          EXCLUDE_TITLES: "HRIS Developer,Software Engineer,Nurse,RN,Medical,CNA"
         run: python src/scraper/scrape.py
 
       - name: Commit data
@@ -60,11 +49,11 @@ jobs:
           git diff --staged --quiet || git commit -m "Update HR jobs data $(date -u +%Y-%m-%d)"
           git push
 
-      - name: Update README with CSV links
+      - name: Update README with daily report
         run: python src/update_readme.py
 
       - name: Commit README
         run: |
           git add README.md
-          git diff --staged --quiet || git commit -m "Update README links"
+          git diff --staged --quiet || git commit -m "Update daily job report"
           git push
