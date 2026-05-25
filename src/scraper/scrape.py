@@ -59,16 +59,6 @@ def scrape_new_jobs(
     return jobs
 
 
-def filter_new_jobs(jobs: pd.DataFrame, existing_urls: set[str]) -> pd.DataFrame:
-    """Filter out jobs we've already seen."""
-    if jobs.empty:
-        return jobs
-
-    new_jobs = jobs[~jobs["job_url"].isin(existing_urls)]
-    print(f"New jobs after deduplication: {len(new_jobs)}")
-    return new_jobs
-
-
 def filter_by_title(jobs: pd.DataFrame, include_keywords: list[str] | None = None, exclude_keywords: list[str] | None = None) -> pd.DataFrame:
     """Filter jobs by title keywords."""
     if jobs.empty:
@@ -103,7 +93,6 @@ def filter_remote_only(jobs: pd.DataFrame) -> pd.DataFrame:
         | jobs["location"].str.lower().str.contains("remote", na=False)
     )
 
-    # Also keep if job_type contains remote
     if "job_type" in jobs.columns:
         mask = mask | jobs["job_type"].str.lower().str.contains("remote", na=False)
 
@@ -123,14 +112,12 @@ def filter_local_only(jobs: pd.DataFrame, allowed_states: list[str] | None = Non
 
     original_count = len(jobs)
 
-    # Remove jobs marked as remote
     mask = ~(
         jobs["title"].str.lower().str.contains("remote", na=False)
         | jobs["location"].str.lower().str.contains("remote", na=False)
     )
     jobs = jobs[mask]
 
-    # If allowed_states provided, only keep jobs in those states
     if allowed_states:
         state_pattern = "|".join(allowed_states)
         jobs = jobs[jobs["location"].str.contains(state_pattern, case=False, na=False)]
@@ -139,6 +126,20 @@ def filter_local_only(jobs: pd.DataFrame, allowed_states: list[str] | None = Non
     if filtered_count > 0:
         print(f"Local filter removed {filtered_count} jobs, keeping {len(jobs)}")
 
+    return jobs
+
+
+def apply_filters(jobs: pd.DataFrame, local_only: bool, remote_only: bool,
+                  allowed_states: list[str] | None, include_keywords: list[str] | None,
+                  exclude_keywords: list[str] | None) -> pd.DataFrame:
+    """Apply all location and title filters."""
+    if local_only:
+        jobs = filter_local_only(jobs, allowed_states=allowed_states)
+
+    if remote_only:
+        jobs = filter_remote_only(jobs)
+
+    jobs = filter_by_title(jobs, include_keywords, exclude_keywords)
     return jobs
 
 
@@ -177,6 +178,18 @@ def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
     print(f"Saved {len(jobs)} total jobs to {csv_path}")
 
 
+def save_daily_report(jobs: pd.DataFrame, report_path: Path) -> None:
+    """Save today's filtered results to a separate report CSV (overwritten each run)."""
+    jobs = jobs.copy()
+    columns = ["title", "company", "location", "job_url", "site", "date_posted"]
+    columns = [c for c in columns if c in jobs.columns]
+    jobs = jobs[columns]
+
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    jobs.to_csv(report_path, index=False)
+    print(f"Daily report: {len(jobs)} jobs written to {report_path}")
+
+
 def main():
     search_term = os.environ.get("SEARCH_TERM", "japanese")
     location = os.environ.get("LOCATION", "United States")
@@ -186,6 +199,7 @@ def main():
     distance = int(os.environ.get("DISTANCE", "50"))
     is_remote = os.environ.get("IS_REMOTE", "false").lower() == "true"
     local_only = os.environ.get("LOCAL_ONLY", "false").lower() == "true"
+    remote_only = os.environ.get("REMOTE_ONLY", "false").lower() == "true"
     output_file = os.environ.get("OUTPUT_FILE", "jobs.csv")
 
     include_titles = os.environ.get("INCLUDE_TITLES", "")
@@ -195,7 +209,6 @@ def main():
 
     allowed_states_str = os.environ.get("ALLOWED_STATES", "")
     allowed_states = [s.strip() for s in allowed_states_str.split(",") if s.strip()] or None
-    remote_only = os.environ.get("REMOTE_ONLY", "false").lower() == "true"
 
     data_dir = Path(__file__).parent.parent.parent / "data"
     csv_path = data_dir / output_file
@@ -203,6 +216,7 @@ def main():
     existing_urls = load_existing_jobs(csv_path)
     print(f"Existing jobs in database: {len(existing_urls)}")
 
+    # Scrape
     jobs = scrape_new_jobs(
         search_term=search_term,
         location=location,
@@ -213,19 +227,22 @@ def main():
         is_remote=is_remote,
     )
 
-    new_jobs = filter_new_jobs(jobs, existing_urls)
+    # Apply filters to ALL scraped results (before dedup) for the daily report
+    filtered_jobs = apply_filters(
+        jobs, local_only, remote_only, allowed_states, include_keywords, exclude_keywords
+    )
 
-    if local_only:
-        new_jobs = filter_local_only(new_jobs, allowed_states=allowed_states)
+    # Write daily report (all matching jobs from last 24h, even if seen before)
+    report_name = output_file.replace(".csv", "-daily.csv")
+    save_daily_report(filtered_jobs, data_dir / report_name)
 
-    if remote_only:
-        new_jobs = filter_remote_only(new_jobs)
-
-    new_jobs = filter_by_title(new_jobs, include_keywords, exclude_keywords)
+    # Dedup for the historical CSV (only truly new jobs get appended)
+    new_jobs = filtered_jobs[~filtered_jobs["job_url"].isin(existing_urls)]
+    print(f"New jobs after deduplication: {len(new_jobs)}")
 
     save_jobs(new_jobs, csv_path, append=True)
 
-    print(f"\n::notice::Found {len(new_jobs)} new jobs for '{search_term}'")
+    print(f"\n::notice::Found {len(filtered_jobs)} matching jobs, {len(new_jobs)} new for '{search_term}'")
 
     return 0
 

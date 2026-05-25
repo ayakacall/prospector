@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Updates README.md with a daily job report table showing today's new matches.
+Updates README.md with a daily job report table from the latest scrape results.
 """
 
 import re
@@ -14,29 +14,22 @@ README_PATH = Path(__file__).parent.parent / "README.md"
 DATA_DIR = Path(__file__).parent.parent / "data"
 
 SEARCHES = [
-    {"name": "Japanese Jobs (Remote)", "filename": "japanese-jobs.csv"},
-    {"name": "HR Jobs (Local - WA/OR)", "filename": "hr-jobs.csv"},
+    {"name": "Japanese Jobs (Remote)", "report_file": "japanese-jobs-daily.csv"},
+    {"name": "HR Jobs (Olympia, WA area)", "report_file": "hr-jobs-daily.csv"},
 ]
 
 
-def get_todays_jobs(csv_path: Path) -> pd.DataFrame:
-    """Get jobs scraped today."""
-    if not csv_path.exists():
+def load_daily_report(report_path: Path) -> pd.DataFrame:
+    """Load the daily report CSV."""
+    if not report_path.exists():
         return pd.DataFrame()
-
-    df = pd.read_csv(csv_path)
-    if "scraped_at" not in df.columns:
-        return pd.DataFrame()
-
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    df["scraped_date"] = df["scraped_at"].str[:10]
-    return df[df["scraped_date"] == today]
+    return pd.read_csv(report_path)
 
 
 def jobs_to_table(jobs: pd.DataFrame) -> str:
     """Convert jobs DataFrame to a markdown table."""
     if jobs.empty:
-        return "_No new jobs today_\n"
+        return "_No matching jobs found_\n"
 
     lines = ["| Title | Company | Location | Link |", "|-------|---------|----------|------|"]
 
@@ -62,15 +55,16 @@ def jobs_to_table(jobs: pd.DataFrame) -> str:
 
 
 def generate_report() -> str:
-    """Generate the daily job report."""
+    """Generate the daily job report from daily report CSVs."""
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     sections = [f"## Daily Job Report ({today})\n"]
+    sections.append("Jobs posted in the last 24 hours matching search criteria.\n")
 
     for search in SEARCHES:
-        csv_path = DATA_DIR / search["filename"]
-        jobs = get_todays_jobs(csv_path)
+        report_path = DATA_DIR / search["report_file"]
+        jobs = load_daily_report(report_path)
 
-        sections.append(f"### {search['name']} ({len(jobs)} new)\n")
+        sections.append(f"### {search['name']} ({len(jobs)} results)\n")
         sections.append(jobs_to_table(jobs))
 
     return "\n".join(sections)
