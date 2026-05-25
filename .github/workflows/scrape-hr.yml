@@ -30,8 +30,8 @@ jobs:
       - name: Scrape HR jobs
         env:
           SEARCH_TERM: "Human Resources"
-          LOCATION: "98589"
-          DISTANCE: "200"
+          LOCATION: "Olympia, WA"
+          DISTANCE: "50"
           SITES: "indeed,linkedin"
           RESULTS_WANTED: "50"
           HOURS_OLD: "24"
@@ -39,6 +39,7 @@ jobs:
           OUTPUT_FILE: "hr-jobs.csv"
           INCLUDE_TITLES: "HR,Human Resources,People Operations,People Partner,HRBP"
           EXCLUDE_TITLES: "HRIS Developer,Software Engineer,Nurse,RN,Medical,CNA"
+          ALLOWED_STATES: "WA,Washington,OR,Oregon,Olympia,Tacoma,Seattle,Portland,Lacey,Tumwater"
         run: python src/scraper/scrape.py
 
       - name: Commit data
