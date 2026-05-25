@@ -91,24 +91,55 @@ def filter_by_title(jobs: pd.DataFrame, include_keywords: list[str] | None = Non
     return jobs
 
 
-def filter_local_only(jobs: pd.DataFrame) -> pd.DataFrame:
-    """Filter out remote jobs, keeping only local positions."""
+def filter_remote_only(jobs: pd.DataFrame) -> pd.DataFrame:
+    """Keep only jobs that are explicitly remote."""
     if jobs.empty:
         return jobs
 
     original_count = len(jobs)
 
+    mask = (
+        jobs["title"].str.lower().str.contains("remote", na=False)
+        | jobs["location"].str.lower().str.contains("remote", na=False)
+    )
+
+    # Also keep if job_type contains remote
+    if "job_type" in jobs.columns:
+        mask = mask | jobs["job_type"].str.lower().str.contains("remote", na=False)
+
+    remote_jobs = jobs[mask]
+
+    filtered_count = original_count - len(remote_jobs)
+    if filtered_count > 0:
+        print(f"Remote filter removed {filtered_count} non-remote jobs, keeping {len(remote_jobs)}")
+
+    return remote_jobs
+
+
+def filter_local_only(jobs: pd.DataFrame, allowed_states: list[str] | None = None) -> pd.DataFrame:
+    """Filter out remote jobs and jobs outside allowed states."""
+    if jobs.empty:
+        return jobs
+
+    original_count = len(jobs)
+
+    # Remove jobs marked as remote
     mask = ~(
         jobs["title"].str.lower().str.contains("remote", na=False)
         | jobs["location"].str.lower().str.contains("remote", na=False)
     )
-    local_jobs = jobs[mask]
+    jobs = jobs[mask]
 
-    filtered_count = original_count - len(local_jobs)
+    # If allowed_states provided, only keep jobs in those states
+    if allowed_states:
+        state_pattern = "|".join(allowed_states)
+        jobs = jobs[jobs["location"].str.contains(state_pattern, case=False, na=False)]
+
+    filtered_count = original_count - len(jobs)
     if filtered_count > 0:
-        print(f"Filtered out {filtered_count} remote jobs, keeping {len(local_jobs)} local jobs")
+        print(f"Local filter removed {filtered_count} jobs, keeping {len(jobs)}")
 
-    return local_jobs
+    return jobs
 
 
 def save_jobs(jobs: pd.DataFrame, csv_path: Path, append: bool = True) -> None:
@@ -162,6 +193,10 @@ def main():
     include_keywords = [k.strip() for k in include_titles.split(",") if k.strip()] or None
     exclude_keywords = [k.strip() for k in exclude_titles.split(",") if k.strip()] or None
 
+    allowed_states_str = os.environ.get("ALLOWED_STATES", "")
+    allowed_states = [s.strip() for s in allowed_states_str.split(",") if s.strip()] or None
+    remote_only = os.environ.get("REMOTE_ONLY", "false").lower() == "true"
+
     data_dir = Path(__file__).parent.parent.parent / "data"
     csv_path = data_dir / output_file
 
@@ -181,7 +216,10 @@ def main():
     new_jobs = filter_new_jobs(jobs, existing_urls)
 
     if local_only:
-        new_jobs = filter_local_only(new_jobs)
+        new_jobs = filter_local_only(new_jobs, allowed_states=allowed_states)
+
+    if remote_only:
+        new_jobs = filter_remote_only(new_jobs)
 
     new_jobs = filter_by_title(new_jobs, include_keywords, exclude_keywords)
 

@@ -35,6 +35,7 @@ jobs:
           RESULTS_WANTED: "50"
           HOURS_OLD: "24"
           IS_REMOTE: "true"
+          REMOTE_ONLY: "true"
           OUTPUT_FILE: "japanese-jobs.csv"
           INCLUDE_TITLES: "Japanese,Bilingual,Translator,Interpreter,Japan,Nihongo"
           EXCLUDE_TITLES: "Japanese Restaurant,Sushi,Chef,Cook"
