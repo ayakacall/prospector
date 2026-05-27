@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -35,12 +35,10 @@ _No matching jobs found_
 | Junior HRIS Analyst | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6d7110f3c3babf8a) |
 | Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8ccbe8ccaff9ac2f) |
 | Principal HR Business Partner, Automated Reasoning, Agentic AI PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8a3a59711b658d1a) |
+| HR Specialist | Bass Pro Shops | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4401080325) |
 | HR Generalist -  254093 | Medix™ | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4416850991) |
 | Human Resources Director | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4410247278) |
-| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4407792871) |
-| HR Specialist | Bass Pro Shops | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4401080325) |
 | Principal HR Business Partner, Automated Reasoning, Agentic AI PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419554284) |
-| Junior HRIS Analyst | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419563623) |
 | Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419510659) |
 | Manager, HR Systems & Analytics | Morgan, Lewis & Bockius LLP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412195673) |
 
