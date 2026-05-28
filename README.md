@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-05-27)
+## Daily Job Report (2026-05-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Online Japanese Language teacher-ID:1114340 | Language Trainers | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=35709712504a1401) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -46,7 +48,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (152 results)
+### Japanese Jobs (Remote) (153 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -202,6 +204,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) - 54884 | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4419133306) |
 | Remote Business Analyst (Japanese) - 54884 | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4419127631) |
 | Remote Business Analyst (Japanese) - 54884 | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4419126612) |
+| Online Japanese Language teacher-ID:1114340 | Language Trainers | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=35709712504a1401) |
 
 ### HR Jobs (Olympia, WA area) (626 results)
 
