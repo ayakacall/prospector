@@ -30,20 +30,25 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fed5688d2227e1ab) |
-| Solution Architect: ServiceNow HR Service Delivery | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92545ed6fa00e8a9) |
-| VP, People Operations, Systems & Programs | One Workplace | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=38fc6fa844b3a50e) |
-| HR Assistant Senior | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6bd8362b9626ba48) |
-| HR Assistant | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bae22949a1b49333) |
-| Senior HR Program Manager - Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0982c0bc2ab83df) |
-| Human Resources Generalist (Associate or Mid-Level) | Boeing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=546ba612514f0f79) |
-| HR & Recruiting Coordinator | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4407654341) |
-| Human Resources Generalist (Associate or Mid-Level) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4417620753) |
-| HR Assistant Senior | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420218473) |
+| HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ec15adf87099f0f3) |
+| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5db7d54ba7c60fa) |
+| Senior Consultant, Oracle HCM Core HR Module | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=205702599c48aac9) |
+| Bilingual HR Coordinator | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=376dbf1521ce7dcd) |
+| Senior HRIS Analyst | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f531426c42c67a4) |
+| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fcbeaff9c4662fe) |
+| VP of Human Resources | YMCA Of Greater Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98520ee38f99a104) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4364902588) |
+| Human Resources - Leave Specialist | Federal Way Public Schools | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4420640449) |
+| Principal HRBP, AWS Specialists and Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4411291232) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4399594127) |
+| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420667373) |
+| Human Resources Specialist | Anker Innovations | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420621275) |
+| People Consulting-HR Transactions-Senior | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390537912) |
+| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
 
 ## Last 7 Days
 
@@ -115,7 +120,7 @@ All matching jobs found in the past week.
 | Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
 
-### HR Jobs (Olympia, WA area) (326 results)
+### HR Jobs (Olympia, WA area) (341 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -445,6 +450,21 @@ All matching jobs found in the past week.
 | HR & Recruiting Coordinator | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4407654341) |
 | Human Resources Generalist (Associate or Mid-Level) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4417620753) |
 | HR Assistant Senior | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420218473) |
+| HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ec15adf87099f0f3) |
+| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5db7d54ba7c60fa) |
+| Senior Consultant, Oracle HCM Core HR Module | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=205702599c48aac9) |
+| Bilingual HR Coordinator | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=376dbf1521ce7dcd) |
+| Senior HRIS Analyst | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f531426c42c67a4) |
+| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fcbeaff9c4662fe) |
+| VP of Human Resources | YMCA Of Greater Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98520ee38f99a104) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4364902588) |
+| Human Resources - Leave Specialist | Federal Way Public Schools | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4420640449) |
+| Principal HRBP, AWS Specialists and Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4411291232) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4399594127) |
+| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420667373) |
+| Human Resources Specialist | Anker Innovations | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420621275) |
+| People Consulting-HR Transactions-Senior | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390537912) |
+| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
 
 <!-- DAILY_REPORT_END -->
 
