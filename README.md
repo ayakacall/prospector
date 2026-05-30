@@ -19,16 +19,20 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-05-29)
+## Daily Job Report (2026-05-30)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
-| Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
+| Voice Recording Specialist - Japanese and Chinese | Innodata | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7c9266d43dfb732) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421214968) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220956) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220841) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421228551) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421216850) |
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -54,7 +58,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (61 results)
+### Japanese Jobs (Remote) (67 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -119,6 +123,12 @@ All matching jobs found in the past week.
 | Online Japanese Language teacher-ID:1114340 | Language Trainers | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=35709712504a1401) |
 | Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
+| Voice Recording Specialist - Japanese and Chinese | Innodata | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7c9266d43dfb732) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421214968) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220956) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220841) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421228551) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421216850) |
 
 ### HR Jobs (Olympia, WA area) (341 results)
 
