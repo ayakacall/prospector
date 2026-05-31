@@ -27,46 +27,27 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Mid-Market HR Services Sales Consultant | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8874d8f9294d65d1) |
-| HR Recruitment Coordinator | Catholic Community Services and Catholic Housing Services of Western Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=003a3a2b837609e1) |
-| HR Recruitment Coordinator | Catholic Community Services and Catholic Housing Services of Western Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25dd36797cdbd291) |
-| HR Recruitment Coordinator | Catholic Community Services and Catholic Housing Services of Western Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c37d89e1a6ea6efa) |
-| HR Generalist | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f85c5bd515bf474) |
-| Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7597df3f68cbc2f9) |
-| Human Resources Manager | Boeing | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c105bb6819809d80) |
-| Protected Leave and Accommodations Specialist (HRC3/ERD) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=11500fb6084d22a1) |
-| Protected Leave and Accommodations Specialist (HRC3/ERD) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a6bec15d4232b23f) |
-| Human Resources Generalist | Schuchart | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=76c24d3685c513b3) |
-| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c45dbe103e117fda) |
-| Principal HR Business Partner, eCommerce Services | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34f73a9a1907b417) |
-| HR System Analyst | Net2Source (N2S) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417969789) |
-| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4417989406) |
-| Manager, HR Systems & Analytics | Morgan, Lewis & Bockius LLP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412195673) |
+| Human Resources Generalist | Seyfarth Shaw LLP | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43c00482b8f1182d) |
+| Sr. HR Specialist, Executive Development, Talent Experience, Amazon Entertainment | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390836367) |
+| HR Specialist | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392282216) |
+| Workday HR Administrator | TalentoHC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421376252) |
+| Human Resources Manager | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421371342) |
+| Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421370350) |
+| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4418356138) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421385527) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (39 results)
+### Japanese Jobs (Remote) (27 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Orton Gillingham | Multiflex Learning Services | NY, US | [Apply](https://www.indeed.com/viewjob?jk=4778393f7eecc670) |
-| Back of House Team Member | Wagyu Factory | San Antonio, TX, US | [Apply](https://www.indeed.com/viewjob?jk=38a55dd21d098abc) |
-| Concierge (Temporary) | Four Seasons | Oahu Island, HI, US | [Apply](https://www.indeed.com/viewjob?jk=8391024ec3766234) |
-| HIRING NOW !! Cashier AND Stocker in Williamsburg | Tenichi Mart | Brooklyn, NY, US | [Apply](https://www.indeed.com/viewjob?jk=33482d6f38e501ca) |
-| Bilingual Japanese / Vacation Sales Coordinator - Based in Waikiki ($1,000 Incentive* Potential) | Marriott Vacations Worldwide | Honolulu, HI, US | [Apply](https://www.indeed.com/viewjob?jk=0ce9a0df8bfc9fd3) |
-| Transcription Specialist / Remote | LinguaSenseAI | nan | [Apply](https://www.linkedin.com/jobs/view/4417568087) |
-| Japan Member Services Vacation Advisor | The Walt Disney Company | Hawaii, United States | [Apply](https://www.linkedin.com/jobs/view/4417581802) |
-| Project Manager | HRCap, Inc. | nan | [Apply](https://www.linkedin.com/jobs/view/4414822497) |
-| Clinical Design Physician Neuroscience (M.D.) | Eli Lilly and Company | Indiana, United States | [Apply](https://www.linkedin.com/jobs/view/4409542469) |
-| Global Solution Lead | Hitachi Vantara | Lansing, MI | [Apply](https://www.linkedin.com/jobs/view/4418486761) |
-| Project Manager, Risk Americas | Daikin Comfort | Waller, TX | [Apply](https://www.linkedin.com/jobs/view/4407940109) |
-| Actuary II - ICS Reporting Lead - Remote | Symetra | nan | [Apply](https://www.linkedin.com/jobs/view/4418620901) |
 | Import Export Operation Manager - Japanese Bilingual - minimum 7 years | Humina Resource | El Segundo, CA, US | [Apply](https://www.indeed.com/viewjob?jk=a1f1768ccf94205c) |
 | Teacher: World Cultures & Languages (Elementary) - Systemwide 2026-2027 | Worcester Public Schools | Worcester, MA, US | [Apply](https://www.indeed.com/viewjob?jk=ae1a46b0ba0a3328) |
 | Licensed Massage Therapist – Japanese Massage Specialty Preferred | BMG massage | Port Jefferson, NY, US | [Apply](https://www.indeed.com/viewjob?jk=3ccf02e9e636f692) |
@@ -95,99 +76,10 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421228551) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421216850) |
 
-### HR Jobs (Olympia, WA area) (228 results)
+### HR Jobs (Olympia, WA area) (145 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner- West | Planet Fitness | Tigard, OR, US | [Apply](https://www.indeed.com/viewjob?jk=697233f0bad92070) |
-| HR Coordinator | Bi-Mart | Eugene, OR, US | [Apply](https://www.indeed.com/viewjob?jk=155e9af2bda2e2ed) |
-| Patient Access Trainer | CommonSpirit Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8102b5c19e3b6ac1) |
-| Senior Manager, People Business Partner | eBay | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4398812361) |
-| HR Manager - Manufacturing | Harley-Davidson Motor Company | Menomonee Falls, WI | [Apply](https://www.linkedin.com/jobs/view/4397663237) |
-| HR Policy and Program Lead - I-9 Work Authorization | Lowe's Companies, Inc. | Mooresville, NC | [Apply](https://www.linkedin.com/jobs/view/4399208580) |
-| Director, Talent & Workforce Strategy | Insmed Incorporated | Hackensack, NJ | [Apply](https://www.linkedin.com/jobs/view/4407255414) |
-| Account Executive | Gartner | nan | [Apply](https://www.linkedin.com/jobs/view/4394748087) |
-| Director of Human Resources & Recruiting | StratasCorp Technologies | Virginia Beach, VA | [Apply](https://www.linkedin.com/jobs/view/4417548704) |
-| HUMAN RESOURCES TECHNICIAN VI (POSITION MANAGEMENT AND SERVICES) - DOWNTOWN, OAHU | State of Hawaiʻi | Honolulu County, HI | [Apply](https://www.linkedin.com/jobs/view/4418621029) |
-| People Operations & Systems Analyst | Copado | New Orleans, LA | [Apply](https://www.linkedin.com/jobs/view/4399056117) |
-| LOA Administrator | Acosta | Jacksonville, FL | [Apply](https://www.linkedin.com/jobs/view/4407276019) |
-| Human Resources Employee Partner | Raytheon | Tucson, AZ | [Apply](https://www.linkedin.com/jobs/view/4418652940) |
-| Coordinator-Compensation | Baptist Memorial Health Care | Memphis, TN | [Apply](https://www.linkedin.com/jobs/view/4418660067) |
-| Specialist - Leave Administration (Human Resources) | Freshpet | Ennis, TX | [Apply](https://www.linkedin.com/jobs/view/4398157894) |
-| Sr. Human Resources Compliance Specialist | Blue Origin | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4346210164) |
-| Time and Attendance Administrator | American Bureau of Shipping (ABS) | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4398195310) |
-| Benefits Specialist | Orlando Utilities Commission (OUC - The Reliable One) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4409556294) |
-| Senior Human Resources Business Partner | Albertsons Companies | Boise, ID | [Apply](https://www.linkedin.com/jobs/view/4409516646) |
-| Employee Relations Coordinator | The Walt Disney Company | Lake Buena Vista, FL | [Apply](https://www.linkedin.com/jobs/view/4417591398) |
-| Vice President of HR | Robert Half | Milwaukee, WI | [Apply](https://www.linkedin.com/jobs/view/4418601635) |
-| Director, Human Resources Business Partner | Revolution Medicines | nan | [Apply](https://www.linkedin.com/jobs/view/4398707781) |
-| Associate HR Partner, Vehicle Production | Tesla | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/4418656206) |
-| VP, Total Rewards & HR Operations | Confidential | Indianapolis, IN | [Apply](https://www.linkedin.com/jobs/view/4414808547) |
-| Human Resources Business Partner | Würth Industry USA | Sanford, FL | [Apply](https://www.linkedin.com/jobs/view/4387143591) |
-| Director, HR Business Partner (Seattle) | QXO | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418069645) |
-| Human Resources Generalist | Freestone Property Group | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4417585405) |
-| Director Hospital Human Resources | Clinical Management Consultants | Texas, United States | [Apply](https://www.linkedin.com/jobs/view/4409416786) |
-| Director, Human Resources | Brunswick Corporation | Edgewater, FL | [Apply](https://www.linkedin.com/jobs/view/4409560554) |
-| Executive Culture & Talent Coach | Stanley House Consulting | nan | [Apply](https://www.linkedin.com/jobs/view/4418499634) |
-| Human Resources Business Partner | Valor Healthcare | Dallas, TX | [Apply](https://www.linkedin.com/jobs/view/4418637448) |
-| Jr/ Sr HR Generalist | Yami | Brea, CA | [Apply](https://www.linkedin.com/jobs/view/4417587677) |
-| Talent Acquisition Specialist | RemoteHunter | nan | [Apply](https://www.linkedin.com/jobs/view/4417575651) |
-| Human Resources Assistant - Benefits | Kern Valley Healthcare District | Lake Isabella, CA | [Apply](https://www.linkedin.com/jobs/view/4417566454) |
-| Talent Acquisition Business Partner | Keeley Construction Group | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/4407224037) |
-| Receptionist & Events Coordinator | Live Nation Entertainment | Beverly Hills, CA | [Apply](https://www.linkedin.com/jobs/view/4400346113) |
-| Smarter Balanced, Deputy Executive Director | Edgility Search | nan | [Apply](https://www.linkedin.com/jobs/view/4407230498) |
-| HR Coordinator | Payarc | Greenwich, CT | [Apply](https://www.linkedin.com/jobs/view/4418640594) |
-| Director Human Resources US | Alpitronic | Charlotte, NC | [Apply](https://www.linkedin.com/jobs/view/4409433084) |
-| Human Resources (HR) Manager | Robert Half | Madison, IN | [Apply](https://www.linkedin.com/jobs/view/4406612094) |
-| Human Resources Coordinator | Kimley-Horn | Jacksonville, FL | [Apply](https://www.linkedin.com/jobs/view/4407930051) |
-| Site Human Resources Business Partner | The Chemours Company | New Castle County, DE | [Apply](https://www.linkedin.com/jobs/view/4409487394) |
-| Human Resource Business Partner | HOLT Group | San Antonio, TX | [Apply](https://www.linkedin.com/jobs/view/4398133448) |
-| HR & Payroll Generalist | RemoteHunter | nan | [Apply](https://www.linkedin.com/jobs/view/4417577466) |
-| Human Resources Business Partner - North America | NSF | Ann Arbor, MI | [Apply](https://www.linkedin.com/jobs/view/4361686636) |
-| HR Coordinator | Bi-Mart | Eugene, OR | [Apply](https://www.linkedin.com/jobs/view/4417569086) |
-| NEA Workforce Development Intern (Summer 2026)) | National Education Association | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4409526277) |
-| Trainer (PeopleSoft HR) / Training Specialist | Spatial Front, Inc | Arlington, VA | [Apply](https://www.linkedin.com/jobs/view/4398155727) |
-| HR / Office Admin | Robert Half | Exeter, NH | [Apply](https://www.linkedin.com/jobs/view/4418495706) |
-| Insomniac - Media Admin, New Media | Insomniac Events | Calabasas, CA | [Apply](https://www.linkedin.com/jobs/view/4407959906) |
-| HR Generalist | ARCO a Family of Construction Companies | Chicago, IL | [Apply](https://www.linkedin.com/jobs/view/4407233156) |
-| Recruiting Specialist | Palisades Tahoe | Olympic Valley, CA | [Apply](https://www.linkedin.com/jobs/view/4414819929) |
-| Internship in People Development (HR), Crisis Management, and Special Project Management Hybrid Model | Lufthansa | Uniondale, NY | [Apply](https://www.linkedin.com/jobs/view/4414823171) |
-| Senior Manager, Human Resources | Avient Corporation | Avon Lake, OH | [Apply](https://www.linkedin.com/jobs/view/4406799856) |
-| Lifestyle Director | CCMC | Peoria, AZ | [Apply](https://www.linkedin.com/jobs/view/4407216845) |
-| Office Administrator | Kilpatrick Townsend & Stockton LLP | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4409471562) |
-| Human Resources Generalist | Fulton Montgomery Regional Chamber of Commerce | Gloversville, NY | [Apply](https://www.linkedin.com/jobs/view/4414823350) |
-| Physician Recruiter | Emory Healthcare | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4361176154) |
-| Human Resources | Walmart | Islandia, NY | [Apply](https://www.linkedin.com/jobs/view/4418660227) |
-| People Business Partner, IGT-D  (Sr. Director) | Philips | Bedford, MA | [Apply](https://www.linkedin.com/jobs/view/4407988002) |
-| Human Resources Supervisor | Industrial Electric Mfg. (IEM) | Jacksonville, FL | [Apply](https://www.linkedin.com/jobs/view/4345957601) |
-| Lead, Human Resources Business Partner | L3Harris Technologies | Northampton, MA | [Apply](https://www.linkedin.com/jobs/view/4418624341) |
-| Full Time - Scheduling Staffing Admin - Day | Lowe's Companies, Inc. | Fort Worth, TX | [Apply](https://www.linkedin.com/jobs/view/4418647678) |
-| Operations Assistant - Skyla Amphitheatre | Live Nation Entertainment | Charlotte, NC | [Apply](https://www.linkedin.com/jobs/view/4308042940) |
-| Staffing Specialist (School-Based) | Pittsburgh Public Schools | Pittsburgh, PA | [Apply](https://www.linkedin.com/jobs/view/4417575290) |
-| Call Center Training and Quality Assurance Specialist | Neighborly® | nan | [Apply](https://www.linkedin.com/jobs/view/4375555835) |
-| Operations Coordinator | BRG | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/4398137094) |
-| Corporate Recruiting Specialist | Schneider | Green Bay, WI | [Apply](https://www.linkedin.com/jobs/view/4407976219) |
-| Area Manager | Amazon | American Canyon, CA | [Apply](https://www.linkedin.com/jobs/view/4409587945) |
-| Culture & Communications Coordinator | UDR | Highlands Ranch, CO | [Apply](https://www.linkedin.com/jobs/view/4400664924) |
-| People Operations and HR Technology Lead | Badger Meter | Milwaukee, WI | [Apply](https://www.linkedin.com/jobs/view/4409428412) |
-| Area Manager | Amazon | Greenville, SC | [Apply](https://www.linkedin.com/jobs/view/4400659068) |
-| Area Manager | Amazon | Cherry Valley, IL | [Apply](https://www.linkedin.com/jobs/view/4409527589) |
-| Real Estate Relationship Manager-Senior | City National Bank of Florida | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4398142662) |
-| Account Executive | Gartner | Florida, United States | [Apply](https://www.linkedin.com/jobs/view/4394717203) |
-| Junior Management Consultant | ABS Group | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4407971040) |
-| Human Resources Lead | Rural King | Somerset, KY | [Apply](https://www.linkedin.com/jobs/view/4409544422) |
-| Project Manager | CyberCoders | Manchaca, TX | [Apply](https://www.linkedin.com/jobs/view/4407241915) |
-| Benefits Specialist | Magna International | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4400240825) |
-| TPG Workforce Development-Onboarding | Micron Technology | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4417544912) |
-| Multiple Locations (New York, Pittsburgh, Boston, Atlanta) Executive Compensation and Employee Benefits Associate (Junior-to-Mid-Level) | Reed Smith LLP | New York, United States | [Apply](https://www.linkedin.com/jobs/view/4388111434) |
-| Budget Specialist | Elderly Housing Development & Operations Corporation (EHDOC) | Plantation, FL | [Apply](https://www.linkedin.com/jobs/view/4368369855) |
-| Marketing Business Operations - Control Lead | JPMorganChase | Columbus, OH | [Apply](https://www.linkedin.com/jobs/view/4378357234) |
-| General Manager, Parking Operations - MCGHEE TYSON AIRPORT, Knoxville, TN | Reimagined Parking | Alcoa, TN | [Apply](https://www.linkedin.com/jobs/view/4418638500) |
-| Accounts Payable Specialist (Part-Time) | Signature Dental Partners | Phoenix, AZ | [Apply](https://www.linkedin.com/jobs/view/4377287761) |
-| Director of Logistics & Operations (Geospatial Coordinator) #2668 | State of South Carolina | Charleston County, SC | [Apply](https://www.linkedin.com/jobs/view/4417590409) |
-| People Consulting-Organization Design-Senior-Consulting | EY | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4385075892) |
-| Construction Manager | LaBella Associates | Albany, NY | [Apply](https://www.linkedin.com/jobs/view/4308470324) |
-| University Recruiter | Micron Technology | Boise, ID | [Apply](https://www.linkedin.com/jobs/view/4417562032) |
 | Human Resource Generalist | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=502e07a772a411ec) |
 | Human Resources Business Partner | ServiceMaster® Brands | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4417120919) |
 | Part-Time Human Resources Generalist | Ikoniq | Canandaigua, NY | [Apply](https://www.linkedin.com/jobs/view/4414864251) |
@@ -327,6 +219,12 @@ All matching jobs found in the past week.
 | Principal HR Business Partner, eCommerce Services | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34f73a9a1907b417) |
 | HR System Analyst | Net2Source (N2S) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417969789) |
 | Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4417989406) |
+| Human Resources Generalist | Seyfarth Shaw LLP | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43c00482b8f1182d) |
+| Workday HR Administrator | TalentoHC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421376252) |
+| Human Resources Manager | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421371342) |
+| Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421370350) |
+| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4418356138) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421385527) |
 
 <!-- DAILY_REPORT_END -->
 
