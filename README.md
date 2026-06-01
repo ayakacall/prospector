@@ -31,18 +31,14 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
 
-### HR Jobs (Olympia, WA area) (8 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Seyfarth Shaw LLP | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43c00482b8f1182d) |
-| Sr. HR Specialist, Executive Development, Talent Experience, Amazon Entertainment | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390836367) |
-| HR Specialist | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392282216) |
-| Workday HR Administrator | TalentoHC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421376252) |
-| Human Resources Manager | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421371342) |
-| Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421370350) |
-| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4418356138) |
-| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421385527) |
+| People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
+| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4399594127) |
+| Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
 
 ## Last 7 Days
 
@@ -74,7 +70,7 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -135,6 +131,9 @@ All matching jobs found in the past week.
 | Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421370350) |
 | Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4418356138) |
 | Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421385527) |
+| People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
+| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
+| Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
 
 <!-- DAILY_REPORT_END -->
 
