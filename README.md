@@ -39,14 +39,27 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422117648) |
 | Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4412672288) |
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=532423f56e1e25aa) |
+| HR Business Partner Manager | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86afd73da0f5e0e2) |
+| Sr HRIS Analyst | SSA Marine | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4fe7be4e9837017) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=476332f14627dd83) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fbe0ebbb5b47ca6a) |
+| Human Resources Generalist | Nwestco, LLC | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=99e451134df36396) |
+| Human Resources Coordinator | Yelm Community Schools | Yelm, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2c25ece2194029cb) |
+| Director of Human Resources and Support Services | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=889cd9f63fb230ea) |
+| HR Business Partner | Cardiac Study Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2d5704f0281bebe) |
+| Associate Vice President Human Resources | Saint Martin's University | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=479ed33d011bc8db) |
+| Senior HR Business Partner | Axon | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=898943dafb7b2749) |
+| Human Resources Coordinator | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423250449) |
+| Human Resources Generalist | Schuchart | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423202660) |
 | Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4399594127) |
-| Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
+| HR Business Partner Manager | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422146670) |
+| HR Business Partner | Cardiac Study Center (CSC), inc., PS | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423283103) |
+| Human Resources Supervisor | Accurate Personnel | Lacey, WA | [Apply](https://www.linkedin.com/jobs/view/4421874156) |
 
 ## Last 7 Days
 
@@ -87,7 +100,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122568) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422117648) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (76 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -151,6 +164,22 @@ All matching jobs found in the past week.
 | People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
 | Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
 | Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=532423f56e1e25aa) |
+| HR Business Partner Manager | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86afd73da0f5e0e2) |
+| Sr HRIS Analyst | SSA Marine | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4fe7be4e9837017) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=476332f14627dd83) |
+| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fbe0ebbb5b47ca6a) |
+| Human Resources Generalist | Nwestco, LLC | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=99e451134df36396) |
+| Human Resources Coordinator | Yelm Community Schools | Yelm, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2c25ece2194029cb) |
+| Director of Human Resources and Support Services | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=889cd9f63fb230ea) |
+| HR Business Partner | Cardiac Study Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2d5704f0281bebe) |
+| Associate Vice President Human Resources | Saint Martin's University | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=479ed33d011bc8db) |
+| Senior HR Business Partner | Axon | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=898943dafb7b2749) |
+| Human Resources Coordinator | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423250449) |
+| Human Resources Generalist | Schuchart | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423202660) |
+| HR Business Partner Manager | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422146670) |
+| HR Business Partner | Cardiac Study Center (CSC), inc., PS | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423283103) |
+| Human Resources Supervisor | Accurate Personnel | Lacey, WA | [Apply](https://www.linkedin.com/jobs/view/4421874156) |
 
 <!-- DAILY_REPORT_END -->
 
