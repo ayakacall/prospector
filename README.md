@@ -19,17 +19,25 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-01)
+## Daily Job Report (2026-06-02)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4421693090) |
-| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
-| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
+| REMOTE PERSONAL ASSISTANT (Bilingual Japanese & English) | Las Vegas Domestic Staffing | Los Angeles, CA, US | [Apply](https://www.indeed.com/viewjob?jk=3a66fdae34c94b52) |
+| Developer Advocate, Cloud AI (English, Japanese) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8f290f41becd5c42) |
+| JAPANESE LINGUIST | Alta Language Services Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f9d35a24b8c39537) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4423259042) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422110769) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422126588) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422115660) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122574) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122568) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422117648) |
+| Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4412672288) |
 
 ### HR Jobs (Olympia, WA area) (4 results)
 
@@ -44,11 +52,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (21 results)
+### Japanese Jobs (Remote) (30 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Query Vetting Specialist( Data Annotator) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4418947439) |
 | Linguist - English & Japanese - Remote | LILT AI | nan | [Apply](https://www.linkedin.com/jobs/view/4416806392) |
 | 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4419150282) |
 | Remote Business Analyst (Japanese) - 54884 | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4419125648) |
@@ -69,6 +76,16 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4421693090) |
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
+| REMOTE PERSONAL ASSISTANT (Bilingual Japanese & English) | Las Vegas Domestic Staffing | Los Angeles, CA, US | [Apply](https://www.indeed.com/viewjob?jk=3a66fdae34c94b52) |
+| Developer Advocate, Cloud AI (English, Japanese) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8f290f41becd5c42) |
+| JAPANESE LINGUIST | Alta Language Services Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f9d35a24b8c39537) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4423259042) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422110769) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422126588) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422115660) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122574) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122568) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422117648) |
 
 ### HR Jobs (Olympia, WA area) (60 results)
 
