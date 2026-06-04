@@ -19,39 +19,18 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-03)
+## Daily Job Report (2026-06-04)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (25 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=507ac975d27d5479) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1b7490b02f1f4dd6) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5e28153a35c2c2c2) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c2151cc3916a57e) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5e3285b6322973d0) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=74bbd71ba8a4cd4d) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9773f47d99bd556d) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ff7ab42edcf53f51) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=778816099011a34d) |
-| Japanese Language Specialist - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a59fdcfb18a4a2db) |
-| Japanese Language Data Contributor (Multimodal) – Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb7205a5c90a5f54) |
-| Science Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=920a1a9e29722292) |
-| STEM Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=bbdccfbdfb00642b) |
-| Japanese Voice Actor - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4614d6bbc3cf1093) |
-| Japanese Voice Actor - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=345362ee1a98c15f) |
-| Japanese-Korean Bilingual Specialist - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e02ce4f0588c9689) |
-| Medicine Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=504700b77f90b54d) |
-| Mathematics Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e5d3a7770a2c0e51) |
-| Coding Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=04ecdd6369a37b3f) |
-| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424077292) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422649674) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4422660492) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4422669392) |
-| Bilingual English and Japanese Sales Representative (Technology Products）Remote/Hybrid | Triup, Inc. | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4423962528) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4422654542) |
+| Entry level remote role - Annotator (Canada /Japanese/ French) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=94a65107cbee0e97) |
+| Sanctions Risk Specialist (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9d84ff72df45707d) |
+| Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -73,7 +52,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (47 results)
+### Japanese Jobs (Remote) (51 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -124,6 +103,10 @@ All matching jobs found in the past week.
 | Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4422669392) |
 | Bilingual English and Japanese Sales Representative (Technology Products）Remote/Hybrid | Triup, Inc. | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4423962528) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4422654542) |
+| Entry level remote role - Annotator (Canada /Japanese/ French) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=94a65107cbee0e97) |
+| Sanctions Risk Specialist (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9d84ff72df45707d) |
+| Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 
 ### HR Jobs (Olympia, WA area) (73 results)
 
