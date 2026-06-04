@@ -32,31 +32,24 @@ Jobs posted in the last 24 hours matching search criteria.
 | Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04650e7d2bbc2c90) |
-| Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=63e2412d7aac8f61) |
-| Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9fa2450c431f57f9) |
-| Sr. HRBP, PXT HR (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=702e98207b47ebd9) |
-| HR Generalist/Administrator | Premier Talent Partners | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422439072) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
-| Sr. HRBP, PXT HR (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422647373) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| Human Resources Generalist | One Workplace | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421332051) |
-| SEA HR Specialist/Coordinator - Badging | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413819989) |
-| Human Resources Generalist | Baxter Manufacturing | Orting, WA | [Apply](https://www.linkedin.com/jobs/view/4422632096) |
+| Admin and HR Manager | Palm construction | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=255268a2f3271810) |
+| Human Resources Manager | ALLFLIGHT CORPORATION | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f250355af393cd7f) |
+| Senior Bilingual HR Generalist | Liberty Tire Recycling, LLC | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00045d69e5acfe26) |
+| Maritime Claims Administrator (HRC4) In-Training | State of Washington | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd7c7a7111e74f88) |
+| Human Resources Generalist | Baxter | Orting, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d7d5197f8b15983) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (51 results)
+### Japanese Jobs (Remote) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Online Japanese Language teacher-ID:1114340 | Language Trainers | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=35709712504a1401) |
 | Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
 | Voice Recording Specialist - Japanese and Chinese | Innodata | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7c9266d43dfb732) |
@@ -108,7 +101,7 @@ All matching jobs found in the past week.
 | Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -185,6 +178,11 @@ All matching jobs found in the past week.
 | Human Resources Generalist | One Workplace | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421332051) |
 | SEA HR Specialist/Coordinator - Badging | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413819989) |
 | Human Resources Generalist | Baxter Manufacturing | Orting, WA | [Apply](https://www.linkedin.com/jobs/view/4422632096) |
+| Admin and HR Manager | Palm construction | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=255268a2f3271810) |
+| Human Resources Manager | ALLFLIGHT CORPORATION | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f250355af393cd7f) |
+| Senior Bilingual HR Generalist | Liberty Tire Recycling, LLC | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00045d69e5acfe26) |
+| Maritime Claims Administrator (HRC4) In-Training | State of Washington | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd7c7a7111e74f88) |
+| Human Resources Generalist | Baxter | Orting, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d7d5197f8b15983) |
 
 <!-- DAILY_REPORT_END -->
 
