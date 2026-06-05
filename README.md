@@ -39,26 +39,29 @@ Jobs posted in the last 24 hours matching search criteria.
 | Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394788058) |
 | Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Admin and HR Manager | Palm construction | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=255268a2f3271810) |
-| Human Resources Manager | ALLFLIGHT CORPORATION | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f250355af393cd7f) |
-| Senior Bilingual HR Generalist | Liberty Tire Recycling, LLC | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00045d69e5acfe26) |
-| Maritime Claims Administrator (HRC4) In-Training | State of Washington | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd7c7a7111e74f88) |
-| Human Resources Generalist | Baxter | Orting, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d7d5197f8b15983) |
+| Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6fa82e2f787da371) |
+| Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e284855856b3aa74) |
+| Senior Human Resources Business Partner | Boeing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e313635825453f54) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8342b17989cbffc1) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Senior Manager, Asia HR | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4405621668) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424102570) |
+| Human Resources Coordinator | El Centro de la Raza | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424454189) |
+| Manager, HR Systems & Analytics | Morgan, Lewis & Bockius LLP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412195673) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (52 results)
+### Japanese Jobs (Remote) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Copywriter | Translated | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5c0aad1f321c61f4) |
-| Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4420906790) |
 | Voice Recording Specialist - Japanese and Chinese | Innodata | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7c9266d43dfb732) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421214968) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220956) |
@@ -110,7 +113,7 @@ All matching jobs found in the past week.
 | Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
 | Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -182,6 +185,13 @@ All matching jobs found in the past week.
 | Senior Bilingual HR Generalist | Liberty Tire Recycling, LLC | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00045d69e5acfe26) |
 | Maritime Claims Administrator (HRC4) In-Training | State of Washington | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd7c7a7111e74f88) |
 | Human Resources Generalist | Baxter | Orting, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d7d5197f8b15983) |
+| Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6fa82e2f787da371) |
+| Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e284855856b3aa74) |
+| Senior Human Resources Business Partner | Boeing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e313635825453f54) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8342b17989cbffc1) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424102570) |
+| Human Resources Coordinator | El Centro de la Raza | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424454189) |
 
 <!-- DAILY_REPORT_END -->
 
