@@ -19,18 +19,25 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-04)
+## Daily Job Report (2026-06-05)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Entry level remote role - Annotator (Canada /Japanese/ French) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=94a65107cbee0e97) |
-| Sanctions Risk Specialist (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9d84ff72df45707d) |
-| Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
-| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
+| Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
+| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
+| AI Output Analysis Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394790063) |
+| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394753779) |
+| AI Content Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394774259) |
+| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394775265) |
+| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
+| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394781150) |
+| AI Behavior & Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394777229) |
+| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394788058) |
+| Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -46,7 +53,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (50 results)
+### Japanese Jobs (Remote) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -100,21 +107,13 @@ All matching jobs found in the past week.
 | Sanctions Risk Specialist (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9d84ff72df45707d) |
 | Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
+| Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
+| Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fed5688d2227e1ab) |
-| Solution Architect: ServiceNow HR Service Delivery | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92545ed6fa00e8a9) |
-| VP, People Operations, Systems & Programs | One Workplace | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=38fc6fa844b3a50e) |
-| HR Assistant Senior | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6bd8362b9626ba48) |
-| HR Assistant | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bae22949a1b49333) |
-| Senior HR Program Manager - Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0982c0bc2ab83df) |
-| Human Resources Generalist (Associate or Mid-Level) | Boeing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=546ba612514f0f79) |
-| HR & Recruiting Coordinator | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4407654341) |
-| Human Resources Generalist (Associate or Mid-Level) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4417620753) |
-| HR Assistant Senior | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420218473) |
 | HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ec15adf87099f0f3) |
 | Human Resources Generalist - Field | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5db7d54ba7c60fa) |
 | Senior Consultant, Oracle HCM Core HR Module | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=205702599c48aac9) |
