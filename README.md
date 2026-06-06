@@ -19,25 +19,22 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-05)
+## Daily Job Report (2026-06-06)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
-| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
-| AI Output Analysis Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394790063) |
-| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394753779) |
-| AI Content Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394774259) |
-| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394775265) |
-| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
-| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394781150) |
+| Data Annotator(French/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6bdc29e5dd45ed90) |
+| Brokerage Accounting Manager (Japan Securities Entity) New | Alpaca | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=214a86b3ff29eba0) |
 | AI Behavior & Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394777229) |
 | Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394788058) |
-| Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425101009) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424998092) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424985187) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424989210) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -62,12 +59,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Voice Recording Specialist - Japanese and Chinese | Innodata | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7c9266d43dfb732) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421214968) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220956) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421220841) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421228551) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4421216850) |
 | Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4421693090) |
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
@@ -112,26 +103,17 @@ All matching jobs found in the past week.
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 | Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
 | Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
+| Data Annotator(French/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6bdc29e5dd45ed90) |
+| Brokerage Accounting Manager (Japan Securities Entity) New | Alpaca | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=214a86b3ff29eba0) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425101009) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424998092) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424985187) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424989210) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ec15adf87099f0f3) |
-| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5db7d54ba7c60fa) |
-| Senior Consultant, Oracle HCM Core HR Module | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=205702599c48aac9) |
-| Bilingual HR Coordinator | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=376dbf1521ce7dcd) |
-| Senior HRIS Analyst | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f531426c42c67a4) |
-| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fcbeaff9c4662fe) |
-| VP of Human Resources | YMCA Of Greater Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98520ee38f99a104) |
-| Employee Relations Manager, Ops HR-ER | Amazon | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4364902588) |
-| Human Resources - Leave Specialist | Federal Way Public Schools | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4420640449) |
-| Principal HRBP, AWS Specialists and Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4411291232) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4399594127) |
-| Human Resources Generalist - Field | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420667373) |
-| Human Resources Specialist | Anker Innovations | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420621275) |
-| People Consulting-HR Transactions-Senior | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390537912) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
 | Mid-Market HR Services Sales Consultant | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8874d8f9294d65d1) |
 | HR Recruitment Coordinator | Catholic Community Services and Catholic Housing Services of Western Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=003a3a2b837609e1) |
 | HR Recruitment Coordinator | Catholic Community Services and Catholic Housing Services of Western Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25dd36797cdbd291) |
