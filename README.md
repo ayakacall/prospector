@@ -32,31 +32,12 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Arkansas, United States | [Apply](https://www.linkedin.com/jobs/view/4344903352) |
 
-### HR Jobs (Olympia, WA area) (21 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=72a53cf2c1efd795) |
-| Human Resources Business Partner | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0057ff1d8f9bce9f) |
-| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d3e1fe9671c99b53) |
-| Staff Human Resources Assistant 1 | HALEY & ALDRICH | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c1783835b37532c5) |
-| People Operations Coordinator | 1 Hotels | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3babdeab7db9474e) |
-| Human Resources Coordinator | JND Legal Administration | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a76a8b4b9298cfeb) |
-| Associate Director, HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fa00b1eefaaf1eb2) |
-| Sr Manager, HR, People eXperience and Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01073f2a7ab94f8f) |
-| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
-| Human Resources Specialist | O Bee Credit Union | Lacey, WA | [Apply](https://www.linkedin.com/jobs/view/4424730547) |
-| Human Resources Generalist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4424573982) |
-| Head of Human Resources | iMatch Search Accounting & Finance | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421169987) |
-| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| Sr Manager, HR, People eXperience and Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424949192) |
-| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4424994030) |
-| Associate Director, HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424786161) |
-| Human Resources Coordinator | Sierra Pacific Industries | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4424609915) |
-| Staff Human Resources Assistant 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
-| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
+| People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
+| People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
 
 ## Last 7 Days
 
@@ -119,16 +100,10 @@ All matching jobs found in the past week.
 | 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Seyfarth Shaw LLP | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43c00482b8f1182d) |
-| Workday HR Administrator | TalentoHC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421376252) |
-| Human Resources Manager | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421371342) |
-| Human Resources Generalist (Experienced or Senior) | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4421370350) |
-| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4418356138) |
-| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421385527) |
 | People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
 | Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
 | Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
@@ -187,6 +162,8 @@ All matching jobs found in the past week.
 | Human Resources Coordinator | Sierra Pacific Industries | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4424609915) |
 | Staff Human Resources Assistant 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
 | Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
+| People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
+| People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
 
 <!-- DAILY_REPORT_END -->
 
