@@ -19,22 +19,18 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-06)
+## Daily Job Report (2026-06-07)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Data Annotator(French/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6bdc29e5dd45ed90) |
-| Brokerage Accounting Manager (Japan Securities Entity) New | Alpaca | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=214a86b3ff29eba0) |
-| AI Behavior & Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394777229) |
-| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4394788058) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425101009) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424998092) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424985187) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424989210) |
+| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | New Hampshire, United States | [Apply](https://www.linkedin.com/jobs/view/4374799706) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Arkansas, United States | [Apply](https://www.linkedin.com/jobs/view/4344903352) |
 
 ### HR Jobs (Olympia, WA area) (21 results)
 
@@ -66,7 +62,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (50 results)
+### Japanese Jobs (Remote) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -120,6 +116,8 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424998092) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424985187) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424989210) |
+| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 
 ### HR Jobs (Olympia, WA area) (64 results)
 
