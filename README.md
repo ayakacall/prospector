@@ -19,18 +19,24 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-07)
+## Daily Job Report (2026-06-08)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | New Hampshire, United States | [Apply](https://www.linkedin.com/jobs/view/4374799706) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Arkansas, United States | [Apply](https://www.linkedin.com/jobs/view/4344903352) |
+| Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
+| Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | New York, United States | [Apply](https://www.linkedin.com/jobs/view/4345012487) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Delaware, United States | [Apply](https://www.linkedin.com/jobs/view/4344972882) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Colorado, United States | [Apply](https://www.linkedin.com/jobs/view/4344823729) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Nevada, United States | [Apply](https://www.linkedin.com/jobs/view/4344843631) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Minnesota, United States | [Apply](https://www.linkedin.com/jobs/view/4344972880) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Florida, United States | [Apply](https://www.linkedin.com/jobs/view/4344823727) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Texas, United States | [Apply](https://www.linkedin.com/jobs/view/4344813890) |
 
 ### HR Jobs (Olympia, WA area) (2 results)
 
@@ -43,7 +49,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (52 results)
+### Japanese Jobs (Remote) (55 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -99,6 +105,9 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4424989210) |
 | 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
+| Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
+| Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 
 ### HR Jobs (Olympia, WA area) (60 results)
 
