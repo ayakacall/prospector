@@ -38,12 +38,11 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Interpreter (Japanese/English) | DataAnnotation | Florida, United States | [Apply](https://www.linkedin.com/jobs/view/4344823727) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Texas, United States | [Apply](https://www.linkedin.com/jobs/view/4344813890) |
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
-| People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
+| HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
 
 ## Last 7 Days
 
@@ -109,7 +108,7 @@ All matching jobs found in the past week.
 | Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -173,6 +172,7 @@ All matching jobs found in the past week.
 | Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
 | People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
 | People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
+| HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
 
 <!-- DAILY_REPORT_END -->
 
