@@ -19,24 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-08)
+## Daily Job Report (2026-06-09)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (10 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
-| Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | New York, United States | [Apply](https://www.linkedin.com/jobs/view/4345012487) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Delaware, United States | [Apply](https://www.linkedin.com/jobs/view/4344972882) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Colorado, United States | [Apply](https://www.linkedin.com/jobs/view/4344823729) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Nevada, United States | [Apply](https://www.linkedin.com/jobs/view/4344843631) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Minnesota, United States | [Apply](https://www.linkedin.com/jobs/view/4344972880) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Florida, United States | [Apply](https://www.linkedin.com/jobs/view/4344823727) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Texas, United States | [Apply](https://www.linkedin.com/jobs/view/4344813890) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 
 ### HR Jobs (Olympia, WA area) (1 results)
 
@@ -48,13 +39,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (55 results)
+### Japanese Jobs (Remote) (53 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Specialist / USA (Remote) | MyRemoteTeam Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4421693090) |
-| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
-| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
 | REMOTE PERSONAL ASSISTANT (Bilingual Japanese & English) | Las Vegas Domestic Staffing | Los Angeles, CA, US | [Apply](https://www.indeed.com/viewjob?jk=3a66fdae34c94b52) |
 | Developer Advocate, Cloud AI (English, Japanese) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8f290f41becd5c42) |
 | JAPANESE LINGUIST | Alta Language Services Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f9d35a24b8c39537) |
@@ -107,14 +95,12 @@ All matching jobs found in the past week.
 | Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
 | Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Specialist | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422595063) |
-| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
-| Director, People Partnering – AI Infrastructure (US) | Nscale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4392398139) |
 | Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=532423f56e1e25aa) |
 | HR Business Partner Manager | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86afd73da0f5e0e2) |
 | Sr HRIS Analyst | SSA Marine | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4fe7be4e9837017) |
