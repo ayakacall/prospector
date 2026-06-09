@@ -29,11 +29,25 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 
-### HR Jobs (Olympia, WA area) (1 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
+| Senior HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1b20f494a380fc4e) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c3672e7fec892414) |
+| HR -Data Scientist | Tata Consultancy Services (TCS) | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b5d60890bd05332) |
+| HR Director | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c9d8e51d4be2289) |
+| Human Resources Generalist | Specialized Landscaping | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=606d6b79e19ebdab) |
+| Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25f76ba185a63a1a) |
+| VP, Human Resources | The Krusteaz Company | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fc69fffad35b1db) |
+| Human Resources Coordinator | Matrix Finance and Accounting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425252997) |
+| Human Resources Generalist | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4414724182) |
+| VP, Human Resources | The Krusteaz Company | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4425647628) |
+| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4419087281) |
+| Human Resources Coordinator | Oberto Snacks Inc. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4416270237) |
+| HR Director | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425526705) |
+| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
+| HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4425277096) |
 
 ## Last 7 Days
 
@@ -97,7 +111,7 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -159,6 +173,20 @@ All matching jobs found in the past week.
 | People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
 | People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
 | HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
+| Senior HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1b20f494a380fc4e) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c3672e7fec892414) |
+| HR -Data Scientist | Tata Consultancy Services (TCS) | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b5d60890bd05332) |
+| HR Director | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c9d8e51d4be2289) |
+| Human Resources Generalist | Specialized Landscaping | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=606d6b79e19ebdab) |
+| Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25f76ba185a63a1a) |
+| VP, Human Resources | The Krusteaz Company | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fc69fffad35b1db) |
+| Human Resources Coordinator | Matrix Finance and Accounting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425252997) |
+| Human Resources Generalist | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4414724182) |
+| VP, Human Resources | The Krusteaz Company | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4425647628) |
+| Human Resources Coordinator | Oberto Snacks Inc. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4416270237) |
+| HR Director | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425526705) |
+| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
+| HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4425277096) |
 
 <!-- DAILY_REPORT_END -->
 
