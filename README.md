@@ -19,15 +19,18 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-09)
+## Daily Job Report (2026-06-10)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | South Carolina, United States | [Apply](https://www.linkedin.com/jobs/view/4344972884) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Illinois, United States | [Apply](https://www.linkedin.com/jobs/view/4344933110) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | Michigan, United States | [Apply](https://www.linkedin.com/jobs/view/4344913260) |
+| Remote Interpreter (Japanese/English) | DataAnnotation | New Mexico, United States | [Apply](https://www.linkedin.com/jobs/view/4344962886) |
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -53,20 +56,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (53 results)
+### Japanese Jobs (Remote) (43 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| REMOTE PERSONAL ASSISTANT (Bilingual Japanese & English) | Las Vegas Domestic Staffing | Los Angeles, CA, US | [Apply](https://www.indeed.com/viewjob?jk=3a66fdae34c94b52) |
-| Developer Advocate, Cloud AI (English, Japanese) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8f290f41becd5c42) |
-| JAPANESE LINGUIST | Alta Language Services Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f9d35a24b8c39537) |
-| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4423259042) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422110769) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422126588) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422115660) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122574) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422122568) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4422117648) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=507ac975d27d5479) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1b7490b02f1f4dd6) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5e28153a35c2c2c2) |
@@ -111,26 +104,10 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (56 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=532423f56e1e25aa) |
-| HR Business Partner Manager | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86afd73da0f5e0e2) |
-| Sr HRIS Analyst | SSA Marine | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4fe7be4e9837017) |
-| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=476332f14627dd83) |
-| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fbe0ebbb5b47ca6a) |
-| Human Resources Generalist | Nwestco, LLC | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=99e451134df36396) |
-| Human Resources Coordinator | Yelm Community Schools | Yelm, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2c25ece2194029cb) |
-| Director of Human Resources and Support Services | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=889cd9f63fb230ea) |
-| HR Business Partner | Cardiac Study Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2d5704f0281bebe) |
-| Associate Vice President Human Resources | Saint Martin's University | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=479ed33d011bc8db) |
-| Senior HR Business Partner | Axon | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=898943dafb7b2749) |
-| Human Resources Coordinator | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423250449) |
-| Human Resources Generalist | Schuchart | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423202660) |
-| HR Business Partner Manager | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422146670) |
-| HR Business Partner | Cardiac Study Center (CSC), inc., PS | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423283103) |
-| Human Resources Supervisor | Accurate Personnel | Lacey, WA | [Apply](https://www.linkedin.com/jobs/view/4421874156) |
 | Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04650e7d2bbc2c90) |
 | Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=63e2412d7aac8f61) |
 | Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9fa2450c431f57f9) |
