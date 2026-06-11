@@ -38,23 +38,23 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79b124889352a338) |
-| Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3c007f54ba45e135) |
-| Human Resources Manager - Social Sciences 2 | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f21aa7cb9d8726d) |
-| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0659e1bbafd11596) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0c64fe31817acfd7) |
-| Human Resources Payroll & Benefits Specialist | Smith Brothers Farms | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7b68f3f0b4e27fa) |
-| Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8c4bbf9d5a8e8232) |
-| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5070de7b6b477823) |
-| PRO(HR) business partner associate senior | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426017085) |
-| Senior HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426318043) |
-| pro (HR) business partner senior - Finance | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426013099) |
-| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426594665) |
-| HR Recruiter | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426317921) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426394893) |
-| Payroll/HR Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422792672) |
-| Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426575382) |
-| HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426014250) |
+| Human Resources Specialist | pioneer management | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9efd5c8ab3e74a6a) |
+| HR Manager | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d6961644305f25e7) |
+| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=154a5da0b8d8b232) |
+| HR Data and Systems Lead | Agilent Technologies | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74f5f11aea8c11d1) |
+| Payroll / HR / Accounts Payable Specialist | Todd Robinson Painting, Inc. | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8325e4b441ec82) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a4a86c4eedcbe4a) |
+| pro (HR) business partner senior - Finance | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0fe9d778f20f7c61) |
+| Senior HR Analyst (Senior Talent Acquisition Specialist) | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bcc14e0868b6cff9) |
+| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9103dc27b8e3db1b) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423126498) |
+| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427119373) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423638193) |
+| HR Coordinator | Aston Carter | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4427172967) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426146349) |
+| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427158130) |
+| HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413371748) |
 
 ## Last 7 Days
 
@@ -85,7 +85,7 @@ All matching jobs found in the past week.
 | Japanese Content Specialist / $45/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214856) |
 | AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426218225) |
 
-### HR Jobs (Olympia, WA area) (59 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -148,6 +148,22 @@ All matching jobs found in the past week.
 | Payroll/HR Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422792672) |
 | Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426575382) |
 | HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426014250) |
+| Human Resources Specialist | pioneer management | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9efd5c8ab3e74a6a) |
+| HR Manager | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d6961644305f25e7) |
+| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=154a5da0b8d8b232) |
+| HR Data and Systems Lead | Agilent Technologies | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74f5f11aea8c11d1) |
+| Payroll / HR / Accounts Payable Specialist | Todd Robinson Painting, Inc. | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8325e4b441ec82) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a4a86c4eedcbe4a) |
+| pro (HR) business partner senior - Finance | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0fe9d778f20f7c61) |
+| Senior HR Analyst (Senior Talent Acquisition Specialist) | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bcc14e0868b6cff9) |
+| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9103dc27b8e3db1b) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423126498) |
+| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427119373) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423638193) |
+| HR Coordinator | Aston Carter | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4427172967) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426146349) |
+| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427158130) |
+| HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413371748) |
 
 <!-- DAILY_REPORT_END -->
 
