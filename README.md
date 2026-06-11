@@ -19,18 +19,20 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-10)
+## Daily Job Report (2026-06-11)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Interpreter (Japanese/English) | DataAnnotation | South Carolina, United States | [Apply](https://www.linkedin.com/jobs/view/4344972884) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Illinois, United States | [Apply](https://www.linkedin.com/jobs/view/4344933110) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Michigan, United States | [Apply](https://www.linkedin.com/jobs/view/4344913260) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | New Mexico, United States | [Apply](https://www.linkedin.com/jobs/view/4344962886) |
+| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=84f98f6ebfa47d6c) |
+| Analyst- Client Solutions (Japenese Speaker)(Contractual) (Japan Remote) 2026 | The Straits Network | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=076ecb535facff35) |
+| Data Annotator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426776593) |
+| Japanese Language Evaluator / $50/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214889) |
+| Japanese Content Specialist / $45/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214856) |
+| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426218225) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -58,39 +60,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (43 results)
+### Japanese Jobs (Remote) (20 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=507ac975d27d5479) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1b7490b02f1f4dd6) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5e28153a35c2c2c2) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c2151cc3916a57e) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5e3285b6322973d0) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=74bbd71ba8a4cd4d) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9773f47d99bd556d) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ff7ab42edcf53f51) |
-| ATA Certified Translator | CLOVEHITCH | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=778816099011a34d) |
-| Japanese Language Specialist - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a59fdcfb18a4a2db) |
-| Japanese Language Data Contributor (Multimodal) – Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb7205a5c90a5f54) |
-| Science Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=920a1a9e29722292) |
-| STEM Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=bbdccfbdfb00642b) |
-| Japanese Voice Actor - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4614d6bbc3cf1093) |
-| Japanese Voice Actor - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=345362ee1a98c15f) |
-| Japanese-Korean Bilingual Specialist - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e02ce4f0588c9689) |
-| Medicine Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=504700b77f90b54d) |
-| Mathematics Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e5d3a7770a2c0e51) |
-| Coding Specialist (Fluent in Japanese) - Freelance AI Trainer Project | Meridial | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=04ecdd6369a37b3f) |
-| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424077292) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422649674) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4422660492) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4422669392) |
-| Bilingual English and Japanese Sales Representative (Technology Products）Remote/Hybrid | Triup, Inc. | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4423962528) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4422654542) |
-| Entry level remote role - Annotator (Canada /Japanese/ French) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=94a65107cbee0e97) |
-| Sanctions Risk Specialist (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9d84ff72df45707d) |
-| Sanctions Risk Specialist - (Japanese), GBS - Denied Party Screening | Amazon.com | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=a17d8bb9c1dd056e) |
-| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4422986905) |
 | Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
 | Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 | Data Annotator(French/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6bdc29e5dd45ed90) |
@@ -105,25 +78,17 @@ All matching jobs found in the past week.
 | Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
+| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=84f98f6ebfa47d6c) |
+| Analyst- Client Solutions (Japenese Speaker)(Contractual) (Japan Remote) 2026 | The Straits Network | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=076ecb535facff35) |
+| Data Annotator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426776593) |
+| Japanese Language Evaluator / $50/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214889) |
+| Japanese Content Specialist / $45/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214856) |
+| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426218225) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (59 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04650e7d2bbc2c90) |
-| Human Resources Representative | Frontier Door and Cabinet | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=63e2412d7aac8f61) |
-| Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9fa2450c431f57f9) |
-| Sr. HRBP, PXT HR (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=702e98207b47ebd9) |
-| HR Generalist/Administrator | Premier Talent Partners | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422439072) |
-| Sr. HRBP, PXT HR (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4422647373) |
-| Human Resources Generalist | One Workplace | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421332051) |
-| SEA HR Specialist/Coordinator - Badging | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413819989) |
-| Human Resources Generalist | Baxter Manufacturing | Orting, WA | [Apply](https://www.linkedin.com/jobs/view/4422632096) |
-| Admin and HR Manager | Palm construction | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=255268a2f3271810) |
-| Human Resources Manager | ALLFLIGHT CORPORATION | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f250355af393cd7f) |
-| Senior Bilingual HR Generalist | Liberty Tire Recycling, LLC | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00045d69e5acfe26) |
-| Maritime Claims Administrator (HRC4) In-Training | State of Washington | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd7c7a7111e74f88) |
-| Human Resources Generalist | Baxter | Orting, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d7d5197f8b15983) |
 | Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6fa82e2f787da371) |
 | Human Resources Specialist | O Bee Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e284855856b3aa74) |
 | Senior Human Resources Business Partner | Boeing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e313635825453f54) |
