@@ -19,20 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-11)
+## Daily Job Report (2026-06-12)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=84f98f6ebfa47d6c) |
-| Analyst- Client Solutions (Japenese Speaker)(Contractual) (Japan Remote) 2026 | The Straits Network | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=076ecb535facff35) |
-| Data Annotator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426776593) |
-| Japanese Language Evaluator / $50/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214889) |
-| Japanese Content Specialist / $45/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214856) |
-| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426218225) |
+| Bilingual (English & Japanese) Sales specialist for IT Services & System Integration | PTC SYSTEMS SDN BHD | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0c120147c3f2b815) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -60,12 +55,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (20 results)
+### Japanese Jobs (Remote) (19 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Legal Counsel, Global Legal, Construction & Power (US/Japan Focus) | NTT Global Data Centers Americas, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=da7755f74f819f2f) |
-| Senior Tax Manager - International Tax - Japanese Speaking (REMOTE) | Jobot | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4421116832) |
 | Data Annotator(French/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6bdc29e5dd45ed90) |
 | Brokerage Accounting Manager (Japan Securities Entity) New | Alpaca | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=214a86b3ff29eba0) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425101009) |
@@ -84,6 +77,7 @@ All matching jobs found in the past week.
 | Japanese Language Evaluator / $50/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214889) |
 | Japanese Content Specialist / $45/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426214856) |
 | AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426218225) |
+| Bilingual (English & Japanese) Sales specialist for IT Services & System Integration | PTC SYSTEMS SDN BHD | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0c120147c3f2b815) |
 
 ### HR Jobs (Olympia, WA area) (75 results)
 
