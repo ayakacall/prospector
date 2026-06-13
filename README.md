@@ -36,19 +36,19 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f1644c2e4c55910) |
-| Human Resources Consultant (HRC2) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39a854e259e1851a) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=83e8c6b697ef27f2) |
-| Principal HR Business Partner, Global Prime | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ff50fdb97717ad76) |
-| Senior Human Resources Business Partner | Aircall | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417357421) |
-| HR Representative | James Hardie | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4408060587) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4427673117) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4426903745) |
-| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
-| Human Resources Advisor | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427629585) |
-| HRO Total Source - Strategic Sales Specialist | ADP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423639879) |
-| HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4416343159) |
+| Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e14d3bfac5717211) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f495b6a32676e216) |
+| Human Resources Generalist | TransWest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bc55dde69d5fca15) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d536c2a91fdf4d49) |
+| Associate People Partner - Fife, WA | MAERSK | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de5c598355101be9) |
+| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d927b5b49162278d) |
+| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427958410) |
+| Human Resources Coordinator | Edison47 | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4427209570) |
+| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4384093290) |
+| Human Resources Generalist | TransWest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427248002) |
+| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4408590306) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428185551) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427212681) |
 
 ## Last 7 Days
 
@@ -76,28 +76,10 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 
-### HR Jobs (Olympia, WA area) (80 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Onboarding Coordinator | Proliance Surgeons | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=72a53cf2c1efd795) |
-| Human Resources Business Partner | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0057ff1d8f9bce9f) |
-| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d3e1fe9671c99b53) |
-| Staff Human Resources Assistant 1 | HALEY & ALDRICH | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c1783835b37532c5) |
-| People Operations Coordinator | 1 Hotels | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3babdeab7db9474e) |
-| Human Resources Coordinator | JND Legal Administration | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a76a8b4b9298cfeb) |
-| Associate Director, HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fa00b1eefaaf1eb2) |
-| Sr Manager, HR, People eXperience and Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01073f2a7ab94f8f) |
-| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
-| Human Resources Specialist | O Bee Credit Union | Lacey, WA | [Apply](https://www.linkedin.com/jobs/view/4424730547) |
-| Human Resources Generalist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4424573982) |
-| Head of Human Resources | iMatch Search Accounting & Finance | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421169987) |
-| Sr Manager, HR, People eXperience and Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424949192) |
-| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4424994030) |
-| Associate Director, HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424786161) |
-| Human Resources Coordinator | Sierra Pacific Industries | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4424609915) |
-| Staff Human Resources Assistant 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
-| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
 | People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
 | People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
 | HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
@@ -160,6 +142,18 @@ All matching jobs found in the past week.
 | Human Resources Advisor | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427629585) |
 | HRO Total Source - Strategic Sales Specialist | ADP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423639879) |
 | HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4416343159) |
+| Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e14d3bfac5717211) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f495b6a32676e216) |
+| Human Resources Generalist | TransWest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bc55dde69d5fca15) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d536c2a91fdf4d49) |
+| Associate People Partner - Fife, WA | MAERSK | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de5c598355101be9) |
+| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d927b5b49162278d) |
+| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427958410) |
+| Human Resources Coordinator | Edison47 | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4427209570) |
+| Human Resources Generalist | TransWest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427248002) |
+| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4408590306) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428185551) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427212681) |
 
 <!-- DAILY_REPORT_END -->
 
