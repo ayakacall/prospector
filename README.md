@@ -27,23 +27,13 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e14d3bfac5717211) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f495b6a32676e216) |
-| Human Resources Generalist | TransWest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bc55dde69d5fca15) |
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d536c2a91fdf4d49) |
-| Associate People Partner - Fife, WA | MAERSK | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de5c598355101be9) |
-| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d927b5b49162278d) |
-| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427958410) |
-| Human Resources Coordinator | Edison47 | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4427209570) |
-| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4384093290) |
-| Human Resources Generalist | TransWest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427248002) |
-| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4408590306) |
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428185551) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427212681) |
+| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a49cc1f864dbf429) |
+| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428632117) |
 
 ## Last 7 Days
 
@@ -69,7 +59,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -145,6 +135,9 @@ All matching jobs found in the past week.
 | Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4408590306) |
 | Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428185551) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427212681) |
+| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a49cc1f864dbf429) |
+| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428632117) |
 
 <!-- DAILY_REPORT_END -->
 
