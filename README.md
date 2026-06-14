@@ -19,18 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-13)
+## Daily Job Report (2026-06-14)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428126065) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428114892) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (13 results)
 
@@ -54,12 +49,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (17 results)
+### Japanese Jobs (Remote) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| 【Full remote】SaaS Sales Account Representative (Japanese company) | United World Inc | nan | [Apply](https://www.linkedin.com/jobs/view/4424675811) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 | Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
 | Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
 | Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
@@ -76,12 +69,10 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Generalist | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=115307597dbc7304) |
-| People Operations Generalist | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425112647) |
 | HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
 | Senior HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1b20f494a380fc4e) |
 | HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c3672e7fec892414) |
