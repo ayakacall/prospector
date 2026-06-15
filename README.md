@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-14)
+## Daily Job Report (2026-06-15)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -39,13 +39,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (15 results)
+### Japanese Jobs (Remote) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Strategic Partner Manager - SI, Japan | Wiz Soluções | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0eff115b1ba6a335) |
-| Technical Translator | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3b52508c829da971) |
-| Remote Interpreter (Japanese/English) | DataAnnotation | Maryland, United States | [Apply](https://www.linkedin.com/jobs/view/4344923244) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=84f98f6ebfa47d6c) |
 | Analyst- Client Solutions (Japenese Speaker)(Contractual) (Japan Remote) 2026 | The Straits Network | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=076ecb535facff35) |
@@ -59,11 +56,10 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Supervisor | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f969e608c7cf9dc) |
 | Senior HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1b20f494a380fc4e) |
 | HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c3672e7fec892414) |
 | HR -Data Scientist | Tata Consultancy Services (TCS) | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b5d60890bd05332) |
