@@ -31,9 +31,9 @@ _No matching jobs found_
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a49cc1f864dbf429) |
-| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
-| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428632117) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
+| UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
+| HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
 
 ## Last 7 Days
 
@@ -56,7 +56,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (77 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -134,6 +134,9 @@ All matching jobs found in the past week.
 | HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a49cc1f864dbf429) |
 | Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
 | Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428632117) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
+| UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
+| HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
 
 <!-- DAILY_REPORT_END -->
 
