@@ -33,13 +33,32 @@ Jobs posted in the last 24 hours matching search criteria.
 | Business Document Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426488861) |
 | Management Consultant (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426491888) |
 
-### HR Jobs (Olympia, WA area) (3 results)
+### HR Jobs (Olympia, WA area) (22 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
-| UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
-| HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=64e271fd5763407d) |
+| HR Generalist | ATI Restoration | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=020c2dad5e6c77c8) |
+| Northwest HR Manager | Baker Commodities, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=be59f8b5e058b999) |
+| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e68bee5b275f5e4f) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d18ff10589fb913) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e5cfe53e182a186) |
+| Human Resources Specialist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30294c9f6600f7fb) |
+| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8e8878ae0d68fbac) |
+| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c736f77078790843) |
+| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f37a860f7c48725c) |
+| Principal HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec3fe538f6bb1f6) |
+| Human Resources Generalist | TransWest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427248002) |
+| HR Assistant (HR Operations Focus) - Temp to Hire | Kelly | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4420487662) |
+| People Operations & Talent Acquisition Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428017639) |
+| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429114792) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426486045) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427782307) |
+| HR Communications Specialist | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429243043) |
+| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429231284) |
+| VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
+| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4407792871) |
 
 ## Last 7 Days
 
@@ -66,7 +85,7 @@ All matching jobs found in the past week.
 | Business Document Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426488861) |
 | Management Consultant (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426491888) |
 
-### HR Jobs (Olympia, WA area) (63 results)
+### HR Jobs (Olympia, WA area) (83 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -133,6 +152,26 @@ All matching jobs found in the past week.
 | Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
 | UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
 | HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=64e271fd5763407d) |
+| HR Generalist | ATI Restoration | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=020c2dad5e6c77c8) |
+| Northwest HR Manager | Baker Commodities, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=be59f8b5e058b999) |
+| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e68bee5b275f5e4f) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d18ff10589fb913) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e5cfe53e182a186) |
+| Human Resources Specialist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30294c9f6600f7fb) |
+| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8e8878ae0d68fbac) |
+| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c736f77078790843) |
+| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f37a860f7c48725c) |
+| Principal HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec3fe538f6bb1f6) |
+| HR Assistant (HR Operations Focus) - Temp to Hire | Kelly | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4420487662) |
+| People Operations & Talent Acquisition Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428017639) |
+| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429114792) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426486045) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427782307) |
+| HR Communications Specialist | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429243043) |
+| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429231284) |
+| VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
 
 <!-- DAILY_REPORT_END -->
 
