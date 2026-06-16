@@ -19,13 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-15)
+## Daily Job Report (2026-06-16)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Business Analyst (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426479914) |
+| Business Operations Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426484910) |
+| Marketing Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426478885) |
+| Business Document Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426488861) |
+| Management Consultant (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426491888) |
 
 ### HR Jobs (Olympia, WA area) (3 results)
 
@@ -39,11 +45,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (12 results)
+### Japanese Jobs (Remote) (16 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4425649317) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=84f98f6ebfa47d6c) |
 | Analyst- Client Solutions (Japenese Speaker)(Contractual) (Japan Remote) 2026 | The Straits Network | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=076ecb535facff35) |
 | Data Annotator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426776593) |
@@ -55,25 +60,16 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428114892) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
+| Business Analyst (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426479914) |
+| Business Operations Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426484910) |
+| Marketing Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426478885) |
+| Business Document Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426488861) |
+| Management Consultant (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426491888) |
 
-### HR Jobs (Olympia, WA area) (77 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1b20f494a380fc4e) |
-| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c3672e7fec892414) |
-| HR -Data Scientist | Tata Consultancy Services (TCS) | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b5d60890bd05332) |
-| HR Director | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c9d8e51d4be2289) |
-| Human Resources Generalist | Specialized Landscaping | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=606d6b79e19ebdab) |
-| Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25f76ba185a63a1a) |
-| VP, Human Resources | The Krusteaz Company | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fc69fffad35b1db) |
-| Human Resources Coordinator | Matrix Finance and Accounting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425252997) |
-| Human Resources Generalist | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4414724182) |
-| VP, Human Resources | The Krusteaz Company | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4425647628) |
-| Human Resources Coordinator | Oberto Snacks Inc. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4416270237) |
-| HR Director | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425526705) |
-| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
-| HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4425277096) |
 | Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79b124889352a338) |
 | Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3c007f54ba45e135) |
 | Human Resources Manager - Social Sciences 2 | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f21aa7cb9d8726d) |
