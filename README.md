@@ -39,32 +39,31 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429551843) |
 | Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
 
-### HR Jobs (Olympia, WA area) (22 results)
+### HR Jobs (Olympia, WA area) (21 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=64e271fd5763407d) |
-| HR Generalist | ATI Restoration | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=020c2dad5e6c77c8) |
-| Northwest HR Manager | Baker Commodities, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=be59f8b5e058b999) |
-| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e68bee5b275f5e4f) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d18ff10589fb913) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e5cfe53e182a186) |
-| Human Resources Specialist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30294c9f6600f7fb) |
-| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8e8878ae0d68fbac) |
-| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c736f77078790843) |
-| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f37a860f7c48725c) |
-| Principal HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec3fe538f6bb1f6) |
-| Human Resources Generalist | TransWest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427248002) |
-| HR Assistant (HR Operations Focus) - Temp to Hire | Kelly | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4420487662) |
-| People Operations & Talent Acquisition Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428017639) |
-| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429114792) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426486045) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427782307) |
-| HR Communications Specialist | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429243043) |
-| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429231284) |
-| VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
-| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4407792871) |
+| HR Benefits Specialist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4d21df0a6fe30ae) |
+| Senior Director of Human Resources | The Max Foundation | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14b3ac22af0df123) |
+| Human Resources Generalist | Human Resources of Auburn, Inc. | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=95491b01ec26930c) |
+| Principal HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=619f58d02a8ea3cf) |
+| Sr HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d91bd81a4e924f71) |
+| Senior HR Business Partner | Valley Medical Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7b971fcfa9459d01) |
+| Human Resources Assistant | HCSA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=58e899701e659b8f) |
+| Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4b4683a36013187f) |
+| Principal Product Manager - Tech (PMT), HR Experience Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b6260dff404fe6fe) |
+| Sr. Product Manager - Tech (PMT), HR Experience Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9fecce0780cdfdd8) |
+| SR. HR MANAGER | Compass Group USA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=611e3a09543a86c3) |
+| Principal HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429723863) |
+| Human Resources Business Partner | Mathys+Potestio / The Creative Party® | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417407557) |
+| Sr HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429730689) |
+| Human Resources Consultant | Luxium Solutions | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427318380) |
+| HR Generalist | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421253182) |
+| Senior HR Specialist - Business Operations & Engagement, AWS People Experience and Technology (HR) | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429725847) |
+| Director of Human Resources | Valley View Health Center | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4428071144) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429714176) |
+| Senior HR Business Partner (2026-0547) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429701232) |
+| Senior Associate, HR Business Advisor - Advisory | KPMG US | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428404180) |
 
 ## Last 7 Days
 
@@ -102,7 +101,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429551843) |
 | Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (87 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -172,6 +171,27 @@ All matching jobs found in the past week.
 | HR Communications Specialist | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429243043) |
 | HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429231284) |
 | VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
+| HR Benefits Specialist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4d21df0a6fe30ae) |
+| Senior Director of Human Resources | The Max Foundation | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14b3ac22af0df123) |
+| Human Resources Generalist | Human Resources of Auburn, Inc. | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=95491b01ec26930c) |
+| Principal HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=619f58d02a8ea3cf) |
+| Sr HR Business Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d91bd81a4e924f71) |
+| Senior HR Business Partner | Valley Medical Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7b971fcfa9459d01) |
+| Human Resources Assistant | HCSA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=58e899701e659b8f) |
+| Human Resources | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4b4683a36013187f) |
+| Principal Product Manager - Tech (PMT), HR Experience Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b6260dff404fe6fe) |
+| Sr. Product Manager - Tech (PMT), HR Experience Technology | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9fecce0780cdfdd8) |
+| SR. HR MANAGER | Compass Group USA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=611e3a09543a86c3) |
+| Principal HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429723863) |
+| Human Resources Business Partner | Mathys+Potestio / The Creative Party® | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417407557) |
+| Sr HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429730689) |
+| Human Resources Consultant | Luxium Solutions | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427318380) |
+| HR Generalist | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421253182) |
+| Senior HR Specialist - Business Operations & Engagement, AWS People Experience and Technology (HR) | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429725847) |
+| Director of Human Resources | Valley View Health Center | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4428071144) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429714176) |
+| Senior HR Business Partner (2026-0547) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429701232) |
+| Senior Associate, HR Business Advisor - Advisory | KPMG US | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428404180) |
 
 <!-- DAILY_REPORT_END -->
 
