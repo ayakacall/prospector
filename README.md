@@ -19,25 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-17)
+## Daily Job Report (2026-06-18)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Experienced Japanese Speaking Intellectual Property Assistant | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1aec30238b62a0d9) |
-| HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4428474593) |
-| HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4428468570) |
-| HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4428465949) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429564589) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429564560) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429563748) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429556713) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429557742) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429551843) |
-| Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (21 results)
 
