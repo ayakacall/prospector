@@ -29,23 +29,21 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b8010c6319592c8d) |
-| Payroll & HR Specialist | Brumfield Construction, Inc. | Aberdeen, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf432fac8cd89016) |
-| Human Resources Manager | ARM MGMT | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19ecc0174ccda87e) |
-| Human Resources Assistant | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dfe2cf1a5c46c76d) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e21b0125859cd82) |
-| SR. HR MANAGER | Compass Group USA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d62b34b3c45149c7) |
-| HR Benefits Specialist | ITXL | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430103983) |
-| Sr. HR Generalist | Parker Hannifin | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4430180395) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4429027295) |
-| 42A Human Resources Specialist | DC Army National Guard | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4429037164) |
-| 42A Human Resources Specialist | DC Army National Guard | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429024319) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430149705) |
-| Finance and HR Administrator | SSP America | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429008598) |
+| Sr. HRIS Analyst | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d3c84f66e4971d5) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa7e77819c2f4449) |
+| Human Resources Assistant | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=93d76b383d13487a) |
+| HR Administrator / HR Coordinator – Recruiting & Onboarding | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73cce131c987d1b2) |
+| Human Resources Specialist | Emery / Reddy, PC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9d7132429bcbd2f) |
+| Senior HR Generalist | Parker Hannifin | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=026fd8d820ed265b) |
+| HR Assistant | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418872048) |
+| People Partner / Senior People Partner | Herrera Environmental Consultants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429335138) |
+| Senior Human Resources Generalist | Renewal by Andersen of Washington | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4420191171) |
+| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| HR Data and Systems Lead | Agilent Technologies | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4427642217) |
 
 ## Last 7 Days
 
@@ -77,22 +75,10 @@ All matching jobs found in the past week.
 | Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
 
-### HR Jobs (Olympia, WA area) (84 results)
+### HR Jobs (Olympia, WA area) (83 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f1644c2e4c55910) |
-| Human Resources Consultant (HRC2) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39a854e259e1851a) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=83e8c6b697ef27f2) |
-| Principal HR Business Partner, Global Prime | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ff50fdb97717ad76) |
-| Senior Human Resources Business Partner | Aircall | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417357421) |
-| HR Representative | James Hardie | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4408060587) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4427673117) |
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4426903745) |
-| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
-| Human Resources Advisor | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427629585) |
-| HRO Total Source - Strategic Sales Specialist | ADP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423639879) |
-| HR -Data Scientist | Tata Consultancy Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4416343159) |
 | Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e14d3bfac5717211) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f495b6a32676e216) |
 | Human Resources Generalist | TransWest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bc55dde69d5fca15) |
@@ -165,6 +151,17 @@ All matching jobs found in the past week.
 | 42A Human Resources Specialist | DC Army National Guard | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429024319) |
 | Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430149705) |
 | Finance and HR Administrator | SSP America | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429008598) |
+| Sr. HRIS Analyst | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d3c84f66e4971d5) |
+| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa7e77819c2f4449) |
+| Human Resources Assistant | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=93d76b383d13487a) |
+| HR Administrator / HR Coordinator – Recruiting & Onboarding | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73cce131c987d1b2) |
+| Human Resources Specialist | Emery / Reddy, PC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9d7132429bcbd2f) |
+| Senior HR Generalist | Parker Hannifin | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=026fd8d820ed265b) |
+| HR Assistant | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418872048) |
+| People Partner / Senior People Partner | Herrera Environmental Consultants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429335138) |
+| Senior Human Resources Generalist | Renewal by Andersen of Washington | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4420191171) |
+| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| HR Data and Systems Lead | Agilent Technologies | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4427642217) |
 
 <!-- DAILY_REPORT_END -->
 
