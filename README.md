@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-18)
+## Daily Job Report (2026-06-19)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
 
 ### HR Jobs (Olympia, WA area) (13 results)
 
@@ -53,7 +55,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual (English & Japanese) Sales specialist for IT Services & System Integration | PTC SYSTEMS SDN BHD | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=0c120147c3f2b815) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428126065) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428114892) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
@@ -74,27 +75,12 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429557742) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429551843) |
 | Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
 
-### HR Jobs (Olympia, WA area) (100 results)
+### HR Jobs (Olympia, WA area) (84 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist | pioneer management | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9efd5c8ab3e74a6a) |
-| HR Manager | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d6961644305f25e7) |
-| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=154a5da0b8d8b232) |
-| HR Data and Systems Lead | Agilent Technologies | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74f5f11aea8c11d1) |
-| Payroll / HR / Accounts Payable Specialist | Todd Robinson Painting, Inc. | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8325e4b441ec82) |
-| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a4a86c4eedcbe4a) |
-| pro (HR) business partner senior - Finance | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0fe9d778f20f7c61) |
-| Senior HR Analyst (Senior Talent Acquisition Specialist) | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bcc14e0868b6cff9) |
-| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9103dc27b8e3db1b) |
-| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423126498) |
-| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427119373) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423638193) |
-| HR Coordinator | Aston Carter | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4427172967) |
-| HR Business Partner - Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426146349) |
-| Senior Administrative Assistant – Human Resources | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427158130) |
-| HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413371748) |
 | HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f1644c2e4c55910) |
 | Human Resources Consultant (HRC2) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39a854e259e1851a) |
 | Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=83e8c6b697ef27f2) |
