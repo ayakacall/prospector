@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-19)
+## Daily Job Report (2026-06-20)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -49,14 +47,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (21 results)
+### Japanese Jobs (Remote) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428126065) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428114892) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428122107) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4428118834) |
 | Business Analyst (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426479914) |
 | Business Operations Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426484910) |
 | Marketing Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426478885) |
