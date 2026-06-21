@@ -31,28 +31,13 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
 
-### HR Jobs (Olympia, WA area) (18 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e551214fbc358628) |
-| HR Director - Engineered Wood Products | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e5997e4b264365ad) |
-| HR Director - Panels | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=af19d29c07e5f01d) |
-| Human Resources Generalist | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b850f11e86070a44) |
-| Human Resources Coordinator | Marriott International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e4e4268812821a6) |
-| Human Resources Coordinator | Marriott International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1cefa7ca9fd1e6d7) |
-| Senior Human Resources Generalist | Legal Counsel for Youth and Children | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=573bc9482bdde7ea) |
-| HUMAN RESOURCES GENERALIST | Bates Technical College | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78683f1988d4434d) |
-| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=776ca38322c861e5) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430005625) |
-| Employee Relations Manager, Ops HR-ER | Amazon | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4364902588) |
-| HR Director - Panels | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431305590) |
-| HR Director - Engineered Wood Products | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431303579) |
-| People Consulting-HR Transactions-Senior | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4390537912) |
-| Director of People and Culture (HR) | Middleby Coffee Solutions Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| Talent and People Partner (Technical) | Hyperproof | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420473380) |
-| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420937431) |
+| Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
+| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
+| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
 
 ## Last 7 Days
 
@@ -87,9 +72,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a49cc1f864dbf429) |
-| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
-| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428632117) |
 | Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
 | UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
 | HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
@@ -174,6 +156,9 @@ All matching jobs found in the past week.
 | Talent and People Partner (Technical) | Hyperproof | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420473380) |
 | Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
 | Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420937431) |
+| Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
+| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
+| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
 
 <!-- DAILY_REPORT_END -->
 
