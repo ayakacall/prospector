@@ -19,13 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-20)
+## Daily Job Report (2026-06-21)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (3 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
 
 ### HR Jobs (Olympia, WA area) (18 results)
 
@@ -54,7 +58,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (17 results)
+### Japanese Jobs (Remote) (20 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -75,6 +79,9 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4429551843) |
 | Korean / English Bilingual Business Development  -Remote (35936) | Activ8 Recruitment & Solutions | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4429564309) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
 
 ### HR Jobs (Olympia, WA area) (87 results)
 
