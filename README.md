@@ -19,17 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-21)
+## Daily Job Report (2026-06-22)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
+| Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
+| Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
 
 ### HR Jobs (Olympia, WA area) (3 results)
 
@@ -43,7 +42,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (20 results)
+### Japanese Jobs (Remote) (22 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -67,6 +66,8 @@ All matching jobs found in the past week.
 | Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
+| Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
+| Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
 
 ### HR Jobs (Olympia, WA area) (87 results)
 
