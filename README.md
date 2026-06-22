@@ -30,13 +30,12 @@ Jobs posted in the last 24 hours matching search criteria.
 | Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
 | Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
 
-### HR Jobs (Olympia, WA area) (3 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
-| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
-| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
+| People Operations Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6df069e52f1fe728) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431676972) |
 
 ## Last 7 Days
 
@@ -69,7 +68,7 @@ All matching jobs found in the past week.
 | Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
 | Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
 
-### HR Jobs (Olympia, WA area) (87 results)
+### HR Jobs (Olympia, WA area) (89 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -160,6 +159,8 @@ All matching jobs found in the past week.
 | Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
 | Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
 | Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
+| People Operations Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6df069e52f1fe728) |
+| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431676972) |
 
 <!-- DAILY_REPORT_END -->
 
