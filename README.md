@@ -19,16 +19,32 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-22)
+## Daily Job Report (2026-06-23)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (18 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
-| Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
+| Japanese-English Language Evaluator / $40/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430544942) |
+| AI Quality Analyst Specialist (Japanese)  / $15.3 /hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430560452) |
+| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
+| AI Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430557711) |
+| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
+| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
+| AI Evaluator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430561480) |
+| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
+| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571596) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4431780142) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431786356) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4431796236) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431790914) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431796432) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431797573) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4431780125) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
 
 ### HR Jobs (Olympia, WA area) (2 results)
 
@@ -41,7 +57,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (22 results)
+### Japanese Jobs (Remote) (40 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -67,14 +83,29 @@ All matching jobs found in the past week.
 | Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
 | Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
 | Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
+| Japanese-English Language Evaluator / $40/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430544942) |
+| AI Quality Analyst Specialist (Japanese)  / $15.3 /hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430560452) |
+| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
+| AI Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430557711) |
+| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
+| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
+| AI Evaluator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430561480) |
+| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
+| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571596) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4431780142) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431786356) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4431796236) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431790914) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431796432) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431797573) |
+| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4431780125) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
 
-### HR Jobs (Olympia, WA area) (89 results)
+### HR Jobs (Olympia, WA area) (86 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
-| UX Designer-HR Portal | The Brixton Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425791617) |
-| HRIS Service Delivery Lead | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4375573486) |
 | Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=64e271fd5763407d) |
 | HR Generalist | ATI Restoration | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=020c2dad5e6c77c8) |
 | Northwest HR Manager | Baker Commodities, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=be59f8b5e058b999) |
