@@ -46,12 +46,20 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6df069e52f1fe728) |
-| Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431676972) |
+| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27ef3b6006e8fbeb) |
+| Human Resources Manager | Pfau Cochran Vertetis Amala PLLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c5110189e1aaa189) |
+| Human Resources Office Manager | Pacific Lutheran University | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74d1f7931a6d6f2b) |
+| HUMAN RESOURCES CONSULTANT 2 | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ad63a60d587a005) |
+| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=881c3485298a7685) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430836320) |
+| Senior Human Resources Business Partner | Boeing | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4429440798) |
+| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
+| Senior Human Resources Business Partner - Tukwila WA | VetJobs | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4430583557) |
+| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
 
 ## Last 7 Days
 
@@ -102,7 +110,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
 
-### HR Jobs (Olympia, WA area) (86 results)
+### HR Jobs (Olympia, WA area) (95 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -192,6 +200,15 @@ All matching jobs found in the past week.
 | Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
 | People Operations Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6df069e52f1fe728) |
 | Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431676972) |
+| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27ef3b6006e8fbeb) |
+| Human Resources Manager | Pfau Cochran Vertetis Amala PLLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c5110189e1aaa189) |
+| Human Resources Office Manager | Pacific Lutheran University | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74d1f7931a6d6f2b) |
+| HUMAN RESOURCES CONSULTANT 2 | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ad63a60d587a005) |
+| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=881c3485298a7685) |
+| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430836320) |
+| Senior Human Resources Business Partner | Boeing | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4429440798) |
+| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
+| Senior Human Resources Business Partner - Tukwila WA | VetJobs | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4430583557) |
 
 <!-- DAILY_REPORT_END -->
 
