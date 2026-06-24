@@ -31,20 +31,24 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27ef3b6006e8fbeb) |
-| Human Resources Manager | Pfau Cochran Vertetis Amala PLLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c5110189e1aaa189) |
-| Human Resources Office Manager | Pacific Lutheran University | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74d1f7931a6d6f2b) |
-| HUMAN RESOURCES CONSULTANT 2 | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ad63a60d587a005) |
-| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=881c3485298a7685) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430836320) |
-| Senior Human Resources Business Partner | Boeing | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4429440798) |
-| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
-| Senior Human Resources Business Partner - Tukwila WA | VetJobs | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4430583557) |
-| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
+| Corporate HR/Payroll - HR Coordinator | Oak Harbor Freight Lines | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=367e9aadb0769313) |
+| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a10ebbd3d0a8fbe) |
+| HR Generalist | Precision CastParts | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ac3ea3b2eff89dc) |
+| Human Resources Generalist | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da811ecc6c945833) |
+| Human Resources - Classified Contract Coordinator | Olympia School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f03a8024e25c1b51) |
+| Office and Human Resources Manager | Floyd Pflueger Kearns Nedderman & Gress | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e6f3c6c0be4c38e) |
+| HR Manager | Steeler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6f84a31013f2557f) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4904ea3f1013ae34) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62197ad60426e44a) |
+| HR Partner, Human Resources, AMZL | Amazon.com | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7276982fadb10bf1) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432486214) |
+| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
+| HR Generalist | Precision Castparts | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4432492100) |
+| HR Data Specialist - Union & Labor Relations | ACL Digital | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431276643) |
 
 ## Last 7 Days
 
@@ -93,7 +97,7 @@ All matching jobs found in the past week.
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (88 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -172,6 +176,19 @@ All matching jobs found in the past week.
 | Senior Human Resources Business Partner | Boeing | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4429440798) |
 | Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
 | Senior Human Resources Business Partner - Tukwila WA | VetJobs | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4430583557) |
+| Corporate HR/Payroll - HR Coordinator | Oak Harbor Freight Lines | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=367e9aadb0769313) |
+| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a10ebbd3d0a8fbe) |
+| HR Generalist | Precision CastParts | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ac3ea3b2eff89dc) |
+| Human Resources Generalist | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da811ecc6c945833) |
+| Human Resources - Classified Contract Coordinator | Olympia School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f03a8024e25c1b51) |
+| Office and Human Resources Manager | Floyd Pflueger Kearns Nedderman & Gress | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e6f3c6c0be4c38e) |
+| HR Manager | Steeler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6f84a31013f2557f) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4904ea3f1013ae34) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62197ad60426e44a) |
+| HR Partner, Human Resources, AMZL | Amazon.com | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7276982fadb10bf1) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432486214) |
+| HR Generalist | Precision Castparts | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4432492100) |
+| HR Data Specialist - Union & Labor Relations | ACL Digital | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431276643) |
 
 <!-- DAILY_REPORT_END -->
 
