@@ -19,32 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-23)
+## Daily Job Report (2026-06-24)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (18 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese-English Language Evaluator / $40/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430544942) |
-| AI Quality Analyst Specialist (Japanese)  / $15.3 /hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430560452) |
-| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
-| AI Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430557711) |
-| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
-| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
-| AI Evaluator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430561480) |
-| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
-| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571596) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4431780142) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431786356) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4431796236) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431790914) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431796432) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431797573) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4431780125) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ab7802913be8c8e4) |
+| Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
+| Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -65,15 +50,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (40 results)
+### Japanese Jobs (Remote) (38 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Analyst (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426479914) |
-| Business Operations Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426484910) |
-| Marketing Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426478885) |
-| Business Document Specialist (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426488861) |
-| Management Consultant (Japanese Speaker) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4426491888) |
 | Experienced Japanese Speaking Intellectual Property Assistant | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1aec30238b62a0d9) |
 | HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4428474593) |
 | HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4428468570) |
@@ -109,31 +89,14 @@ All matching jobs found in the past week.
 | Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4431780125) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ab7802913be8c8e4) |
+| Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
+| Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
-### HR Jobs (Olympia, WA area) (95 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=64e271fd5763407d) |
-| HR Generalist | ATI Restoration | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=020c2dad5e6c77c8) |
-| Northwest HR Manager | Baker Commodities, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=be59f8b5e058b999) |
-| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e68bee5b275f5e4f) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d18ff10589fb913) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e5cfe53e182a186) |
-| Human Resources Specialist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30294c9f6600f7fb) |
-| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8e8878ae0d68fbac) |
-| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c736f77078790843) |
-| Specialist Human Resources | North Sky Communications | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f37a860f7c48725c) |
-| Principal HR Business Partner, Worldwide Amazon Stores PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec3fe538f6bb1f6) |
-| HR Assistant (HR Operations Focus) - Temp to Hire | Kelly | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4420487662) |
-| People Operations & Talent Acquisition Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4428017639) |
-| HR Talent Strategy & Organizational Effectiveness Manager | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429114792) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426486045) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4427782307) |
-| HR Communications Specialist | Aston Carter | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429243043) |
-| HR Senior Payroll Analyst | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429231284) |
-| VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
 | HR Benefits Specialist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4d21df0a6fe30ae) |
 | Senior Director of Human Resources | The Max Foundation | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14b3ac22af0df123) |
 | Human Resources Generalist | Human Resources of Auburn, Inc. | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=95491b01ec26930c) |
