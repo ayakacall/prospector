@@ -27,24 +27,28 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (18 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Bloodworks Northwest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b588e90a9bc3cd82) |
-| HR Business Partner | Low Income Housing Institute | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c0b2fbd40c58c61b) |
-| Human Resources Dept Mgr/Admin (NE S 7) | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d19554cf10d68001) |
-| Human Resources Assistant | SkyChefs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2893c22ba966cc5b) |
-| Human Resources Specialist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6420abdcf96d4e01) |
-| Senior Human Resources Business Partner | Boeing | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b14ec412ce730f6) |
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432619030) |
-| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4432568352) |
-| Human Resources Specialist | PACCAR Parts | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433027038) |
+| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2beaecf184f80b7) |
+| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c7d204fb5905675a) |
+| Director of Human Resources | The Edgewater, a Noble House Hotel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9897c6bac347a13d) |
+| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=027c95e4ed7f63b8) |
+| Human Resources Analyst | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=faeae3233abcd702) |
+| Human Resources Manager | Pierce County Prosecuting Attorney | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fb4350f21e8e9d9) |
+| HR Transformation Consulting Analyst | Mercer | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9906b023bf6d2ccd) |
+| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82668e208589bcfb) |
+| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4433825011) |
+| Sr HRBP, PXT HR (HR4HR), PXT HR (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413762672) |
+| Senior Manager, Asia HR | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4405621668) |
+| HR Transformation Consulting Analyst | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433527195) |
+| Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433506807) |
 | Human Resources Business Partner | Bloodworks Northwest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433022265) |
 | Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
-| SEA HR Specialist/Coordinator - Badging | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413819989) |
-| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433001357) |
-| Human Resources Coordinator | Renaissance Seattle Hotel | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431883412) |
+| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
+| Director of Human Resources | Noble House Hotels & Resorts | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430292166) |
+| Management Analyst (Human Resources) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA | [Apply](https://www.linkedin.com/jobs/view/4433379276) |
 
 ## Last 7 Days
 
@@ -82,7 +86,7 @@ All matching jobs found in the past week.
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (80 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -152,6 +156,20 @@ All matching jobs found in the past week.
 | Human Resources Business Partner | Bloodworks Northwest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433022265) |
 | Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433001357) |
 | Human Resources Coordinator | Renaissance Seattle Hotel | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431883412) |
+| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2beaecf184f80b7) |
+| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c7d204fb5905675a) |
+| Director of Human Resources | The Edgewater, a Noble House Hotel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9897c6bac347a13d) |
+| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=027c95e4ed7f63b8) |
+| Human Resources Analyst | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=faeae3233abcd702) |
+| Human Resources Manager | Pierce County Prosecuting Attorney | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fb4350f21e8e9d9) |
+| HR Transformation Consulting Analyst | Mercer | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9906b023bf6d2ccd) |
+| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82668e208589bcfb) |
+| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4433825011) |
+| Sr HRBP, PXT HR (HR4HR), PXT HR (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413762672) |
+| HR Transformation Consulting Analyst | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433527195) |
+| Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433506807) |
+| Director of Human Resources | Noble House Hotels & Resorts | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430292166) |
+| Management Analyst (Human Resources) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA | [Apply](https://www.linkedin.com/jobs/view/4433379276) |
 
 <!-- DAILY_REPORT_END -->
 
