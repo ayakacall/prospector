@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-25)
+## Daily Job Report (2026-06-26)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -82,23 +82,10 @@ All matching jobs found in the past week.
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 
-### HR Jobs (Olympia, WA area) (79 results)
+### HR Jobs (Olympia, WA area) (66 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b8010c6319592c8d) |
-| Payroll & HR Specialist | Brumfield Construction, Inc. | Aberdeen, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf432fac8cd89016) |
-| Human Resources Manager | ARM MGMT | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19ecc0174ccda87e) |
-| Human Resources Assistant | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dfe2cf1a5c46c76d) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e21b0125859cd82) |
-| SR. HR MANAGER | Compass Group USA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d62b34b3c45149c7) |
-| HR Benefits Specialist | ITXL | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430103983) |
-| Sr. HR Generalist | Parker Hannifin | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4430180395) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4429027295) |
-| 42A Human Resources Specialist | DC Army National Guard | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4429037164) |
-| 42A Human Resources Specialist | DC Army National Guard | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4429024319) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430149705) |
-| Finance and HR Administrator | SSP America | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429008598) |
 | Sr. HRIS Analyst | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d3c84f66e4971d5) |
 | HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa7e77819c2f4449) |
 | Human Resources Assistant | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=93d76b383d13487a) |
