@@ -32,28 +32,27 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 
-### HR Jobs (Olympia, WA area) (18 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2beaecf184f80b7) |
-| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c7d204fb5905675a) |
-| Director of Human Resources | The Edgewater, a Noble House Hotel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9897c6bac347a13d) |
-| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=027c95e4ed7f63b8) |
-| Human Resources Analyst | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=faeae3233abcd702) |
-| Human Resources Manager | Pierce County Prosecuting Attorney | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fb4350f21e8e9d9) |
-| HR Transformation Consulting Analyst | Mercer | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9906b023bf6d2ccd) |
-| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82668e208589bcfb) |
-| Human Resources Investigator (HRC3) | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4433825011) |
-| Sr HRBP, PXT HR (HR4HR), PXT HR (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413762672) |
-| Senior Manager, Asia HR | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4405621668) |
-| HR Transformation Consulting Analyst | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433527195) |
-| Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433506807) |
-| Human Resources Business Partner | Bloodworks Northwest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433022265) |
-| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
-| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4333112999) |
-| Director of Human Resources | Noble House Hotels & Resorts | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430292166) |
-| Management Analyst (Human Resources) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA | [Apply](https://www.linkedin.com/jobs/view/4433379276) |
+| Senior HR Business Partner | Alaska Airlines | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6318d25b3b0930ad) |
+| HR Director | Community Health Care | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bbe20b67e5b29101) |
+| Human Resources Manager | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4818ea9b41cf708) |
+| Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f50c35910ba5c29) |
+| People Operations Coordinator | The Museum of Flight | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cb0a252d97eb6ab1) |
+| Administrative Assistant - Human Resources Department | HRW | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=512cffa598eb263a) |
+| HR Analyst – Performance Evaluations and Projects | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=16dd4ae1151c47f5) |
+| In-house bookkeeper, business assistant, and HR assistant | Bellefleur Lingerie | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f47041d345d76c50) |
+| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7bc591510c4a95d0) |
+| Human Resources Specialist (Compensation) | United States Attorneys' Offices | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430284087) |
+| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
+| HR Representative II | LaSalle Network | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434004690) |
+| Senior HR Business Partner | Alaska Airlines | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4433445074) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413481720) |
+| People Operations Coordinator | The Museum of Flight | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433430049) |
+| HR Analyst – Performance Evaluations and Projects | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434010813) |
 
 ## Last 7 Days
 
@@ -92,7 +91,7 @@ All matching jobs found in the past week.
 | Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (85 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -165,6 +164,22 @@ All matching jobs found in the past week.
 | Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433506807) |
 | Director of Human Resources | Noble House Hotels & Resorts | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430292166) |
 | Management Analyst (Human Resources) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA | [Apply](https://www.linkedin.com/jobs/view/4433379276) |
+| Senior HR Business Partner | Alaska Airlines | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6318d25b3b0930ad) |
+| HR Director | Community Health Care | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bbe20b67e5b29101) |
+| Human Resources Manager | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4818ea9b41cf708) |
+| Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f50c35910ba5c29) |
+| People Operations Coordinator | The Museum of Flight | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cb0a252d97eb6ab1) |
+| Administrative Assistant - Human Resources Department | HRW | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=512cffa598eb263a) |
+| HR Analyst – Performance Evaluations and Projects | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=16dd4ae1151c47f5) |
+| In-house bookkeeper, business assistant, and HR assistant | Bellefleur Lingerie | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f47041d345d76c50) |
+| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7bc591510c4a95d0) |
+| Human Resources Specialist (Compensation) | United States Attorneys' Offices | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430284087) |
+| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
+| HR Representative II | LaSalle Network | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434004690) |
+| Senior HR Business Partner | Alaska Airlines | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4433445074) |
+| People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413481720) |
+| People Operations Coordinator | The Museum of Flight | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433430049) |
+| HR Analyst – Performance Evaluations and Projects | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434010813) |
 
 <!-- DAILY_REPORT_END -->
 
