@@ -19,13 +19,18 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-26)
+## Daily Job Report (2026-06-27)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (4 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
+| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
+| Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
+| Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 
 ### HR Jobs (Olympia, WA area) (18 results)
 
@@ -54,11 +59,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (27 results)
+### Japanese Jobs (Remote) (28 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f1ed737f94fe40e7) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
 | Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
@@ -85,22 +89,13 @@ All matching jobs found in the past week.
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ab7802913be8c8e4) |
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
+| Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
+| Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 
-### HR Jobs (Olympia, WA area) (80 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. HRIS Analyst | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d3c84f66e4971d5) |
-| HR Business Partner - Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa7e77819c2f4449) |
-| Human Resources Assistant | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=93d76b383d13487a) |
-| HR Administrator / HR Coordinator – Recruiting & Onboarding | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73cce131c987d1b2) |
-| Human Resources Specialist | Emery / Reddy, PC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9d7132429bcbd2f) |
-| Senior HR Generalist | Parker Hannifin | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=026fd8d820ed265b) |
-| HR Assistant | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418872048) |
-| People Partner / Senior People Partner | Herrera Environmental Consultants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429335138) |
-| Senior Human Resources Generalist | Renewal by Andersen of Washington | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4420191171) |
-| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
-| HR Data and Systems Lead | Agilent Technologies | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4427642217) |
 | Human Resources Generalist | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e551214fbc358628) |
 | HR Director - Engineered Wood Products | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e5997e4b264365ad) |
 | HR Director - Panels | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=af19d29c07e5f01d) |
