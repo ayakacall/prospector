@@ -19,18 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-27)
+## Daily Job Report (2026-06-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422812609) |
-| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4422836140) |
-| Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
-| Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -91,26 +88,10 @@ All matching jobs found in the past week.
 | Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 
-### HR Jobs (Olympia, WA area) (85 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e551214fbc358628) |
-| HR Director - Engineered Wood Products | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e5997e4b264365ad) |
-| HR Director - Panels | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=af19d29c07e5f01d) |
-| Human Resources Generalist | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b850f11e86070a44) |
-| Human Resources Coordinator | Marriott International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e4e4268812821a6) |
-| Human Resources Coordinator | Marriott International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1cefa7ca9fd1e6d7) |
-| Senior Human Resources Generalist | Legal Counsel for Youth and Children | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=573bc9482bdde7ea) |
-| HUMAN RESOURCES GENERALIST | Bates Technical College | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78683f1988d4434d) |
-| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=776ca38322c861e5) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430005625) |
-| HR Director - Panels | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431305590) |
-| HR Director - Engineered Wood Products | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431303579) |
-| Director of People and Culture (HR) | Middleby Coffee Solutions Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| Talent and People Partner (Technical) | Hyperproof | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420473380) |
-| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420937431) |
 | Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
 | Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
 | Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
