@@ -29,16 +29,11 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 
-### HR Jobs (Olympia, WA area) (6 results)
+### HR Jobs (Olympia, WA area) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f5c3800dbdfb1cf0) |
-| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
-| Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434240500) |
-| HR Coordinator Per Diem | Virginia Mason Franciscan Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4431010487) |
-| HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4433487068) |
-| Staff Human Resources Generalist 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
+| HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
 
 ## Last 7 Days
 
@@ -75,7 +70,7 @@ All matching jobs found in the past week.
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 
-### HR Jobs (Olympia, WA area) (70 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -149,6 +144,7 @@ All matching jobs found in the past week.
 | Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434240500) |
 | HR Coordinator Per Diem | Virginia Mason Franciscan Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4431010487) |
 | HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4433487068) |
+| HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
 
 <!-- DAILY_REPORT_END -->
 
