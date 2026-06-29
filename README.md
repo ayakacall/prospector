@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-28)
+## Daily Job Report (2026-06-29)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 
 ### HR Jobs (Olympia, WA area) (6 results)
 
@@ -44,13 +44,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (28 results)
+### Japanese Jobs (Remote) (26 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4430078751) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4430090573) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430090575) |
 | Freelance Japanese to English Subtitle Translator | Iyuno | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=816d59e3fe3675a4) |
 | Manager - Mid Market Sales - Japan | HubSpot | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=21a90f62a334b864) |
 | Japanese-English Language Evaluator / $40/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430544942) |
@@ -76,14 +73,12 @@ All matching jobs found in the past week.
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 | Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
+| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (70 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Finance and HR Administrator | SSP America | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=32474d68ede763ff) |
-| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
-| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
 | People Operations Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6df069e52f1fe728) |
 | Finance and HR Administrator | SSP Group plc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431676972) |
 | Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27ef3b6006e8fbeb) |
