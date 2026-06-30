@@ -31,38 +31,45 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 
-### HR Jobs (Olympia, WA area) (1 results)
+### HR Jobs (Olympia, WA area) (26 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
+| HR Compliance & Leave Administration Speciali | T&A Supply Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf8efff68250b46a) |
+| Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1be7ed121b927e9) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fca73a26dfce0833) |
+| Director of Human Resources | Seattle Seahawks / First & Goal Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b36b53634cbf75a2) |
+| HR Analyst Generalist | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ccbed13cba23cb1f) |
+| Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=775c17ad0c8f5467) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5d5388bec19699f1) |
+| Human Resources Business Partner - Temp FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d4d223dfc6498a04) |
+| HR Manager II-People Leader | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84ae616b60d4976f) |
+| Human Resources Manager | Fulcrum Real Estate Services | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=beeea7e747c98fda) |
+| Regional HR Manager- Corporate | Auto Warehousing Company | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62b8525d50659193) |
+| HR Technology Product Manager | Blue Origin | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f55bd287cd7ad534) |
+| Senior Manager, Talent Strategy and HR Business Partnerships | HackerOne | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=007341c19a02beb2) |
+| HR Professional | Institute for Family Development | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b3d5ed7428d7ad5c) |
+| Sr. HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=747c1315f5e71b6d) |
+| Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434733490) |
+| Vice President Human Resources | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4431580021) |
+| Human Resources Generalist | SmartTalent Staffing and Recruiting | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4434154146) |
+| Director of Human Resources | Seattle Seahawks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434958632) |
+| Sr. HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434795659) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434933677) |
+| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4431551068) |
+| HR Assistant Senior | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434797901) |
+| Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434971121) |
+| Human Resources Business Partner - Temp FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434788450) |
+| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (26 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese-English Language Evaluator / $40/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430544942) |
-| AI Quality Analyst Specialist (Japanese)  / $15.3 /hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430560452) |
-| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
-| AI Personalization Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430557711) |
-| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
-| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
-| AI Evaluator (Japanese) / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430561480) |
-| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
-| AI Evaluation Specialist (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571596) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4431780142) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431786356) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4431796236) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431790914) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431796432) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431797573) |
-| Remote Certified Medical Interpreter | CLOVEHITCH | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4431780125) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4431785331) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4432005429) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ab7802913be8c8e4) |
 | Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
 | Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
@@ -72,7 +79,7 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (95 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -145,6 +152,32 @@ All matching jobs found in the past week.
 | HR Coordinator Per Diem | Virginia Mason Franciscan Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4431010487) |
 | HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4433487068) |
 | HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
+| HR Compliance & Leave Administration Speciali | T&A Supply Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf8efff68250b46a) |
+| Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1be7ed121b927e9) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fca73a26dfce0833) |
+| Director of Human Resources | Seattle Seahawks / First & Goal Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b36b53634cbf75a2) |
+| HR Analyst Generalist | Boys & Girls Clubs of America | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ccbed13cba23cb1f) |
+| Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=775c17ad0c8f5467) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5d5388bec19699f1) |
+| Human Resources Business Partner - Temp FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d4d223dfc6498a04) |
+| HR Manager II-People Leader | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84ae616b60d4976f) |
+| Human Resources Manager | Fulcrum Real Estate Services | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=beeea7e747c98fda) |
+| Regional HR Manager- Corporate | Auto Warehousing Company | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62b8525d50659193) |
+| HR Technology Product Manager | Blue Origin | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f55bd287cd7ad534) |
+| Senior Manager, Talent Strategy and HR Business Partnerships | HackerOne | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=007341c19a02beb2) |
+| HR Professional | Institute for Family Development | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b3d5ed7428d7ad5c) |
+| Sr. HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=747c1315f5e71b6d) |
+| Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434733490) |
+| Vice President Human Resources | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4431580021) |
+| Human Resources Generalist | SmartTalent Staffing and Recruiting | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4434154146) |
+| Director of Human Resources | Seattle Seahawks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434958632) |
+| Sr. HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434795659) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434933677) |
+| Vice President of Human Resources | Crystal Mountain Resort | Enumclaw, WA | [Apply](https://www.linkedin.com/jobs/view/4431551068) |
+| HR Assistant Senior | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434797901) |
+| Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434971121) |
+| Human Resources Business Partner - Temp FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434788450) |
+| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
 
 <!-- DAILY_REPORT_END -->
 
