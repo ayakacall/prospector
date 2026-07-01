@@ -19,17 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-06-30)
+## Daily Job Report (2026-07-01)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | New York, United States | [Apply](https://www.linkedin.com/jobs/view/4345012487) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
+| Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 
 ### HR Jobs (Olympia, WA area) (26 results)
 
@@ -66,32 +64,21 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ab7802913be8c8e4) |
-| Japanese Application & Data Support Engineer | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c4baefd6bedea4fa) |
-| Accounting Services Associate IV (Japanese Speaker) | Conduent | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e944584523781d7) |
 | Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
+| Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 
-### HR Jobs (Olympia, WA area) (95 results)
+### HR Jobs (Olympia, WA area) (86 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27ef3b6006e8fbeb) |
-| Human Resources Manager | Pfau Cochran Vertetis Amala PLLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c5110189e1aaa189) |
-| Human Resources Office Manager | Pacific Lutheran University | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=74d1f7931a6d6f2b) |
-| HUMAN RESOURCES CONSULTANT 2 | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ad63a60d587a005) |
-| Sr. HR Business Partner, AWS Compute Abstractions | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=881c3485298a7685) |
-| HR/Payroll Coordinator | Avalon Health Care Group | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430836320) |
-| Senior Human Resources Business Partner | Boeing | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4429440798) |
-| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
-| Senior Human Resources Business Partner - Tukwila WA | VetJobs | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4430583557) |
 | Corporate HR/Payroll - HR Coordinator | Oak Harbor Freight Lines | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=367e9aadb0769313) |
 | Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a10ebbd3d0a8fbe) |
 | HR Generalist | Precision CastParts | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ac3ea3b2eff89dc) |
