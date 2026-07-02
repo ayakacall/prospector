@@ -31,24 +31,25 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Illinois, United States | [Apply](https://www.linkedin.com/jobs/view/4344933110) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Louisiana, United States | [Apply](https://www.linkedin.com/jobs/view/4344803934) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior People Operations Business Partner | The Allen Institute for Artificial Intelligence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=072cf760ea845922) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89dd92b5630275e1) |
-| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79eb5955b6103129) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=44652bd0dc54ae98) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f71dabe82e01527d) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=16b337533a38470d) |
-| Human Resources Manager | Beckwith & Kuffel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=76df2d2c9c6f11ed) |
-| Human Resources Manager | Fulcrum Real Estate Services | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=957eabd7594ee851) |
-| HR Specialist | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431976681) |
-| HR Director | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4425526705) |
-| HR Employee Data Analyst | MultiCare Health System | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4432338057) |
+| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5673c0a8bb715309) |
+| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f59e30c675ed1c07) |
+| HR Operations & Employee Relations Consultant (HRC2) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c4fbbfa7db50b6c) |
+| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2ebecbc0e7780197) |
+| Director, Shipboard HR & Crew Management | Lindblad Expeditions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92d3c53260e1ed4c) |
 | Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
-| Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432338743) |
-| Senior People Operations Business Partner | Ai2 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435396455) |
+| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435809293) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423126498) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435895142) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434933677) |
+| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432713431) |
+| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432703718) |
+| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436181701) |
+| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
+| HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413371748) |
 
 ## Last 7 Days
 
@@ -66,7 +67,7 @@ All matching jobs found in the past week.
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 
-### HR Jobs (Olympia, WA area) (85 results)
+### HR Jobs (Olympia, WA area) (96 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -155,6 +156,17 @@ All matching jobs found in the past week.
 | HR Employee Data Analyst | MultiCare Health System | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4432338057) |
 | Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432338743) |
 | Senior People Operations Business Partner | Ai2 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435396455) |
+| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5673c0a8bb715309) |
+| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f59e30c675ed1c07) |
+| HR Operations & Employee Relations Consultant (HRC2) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c4fbbfa7db50b6c) |
+| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2ebecbc0e7780197) |
+| Director, Shipboard HR & Crew Management | Lindblad Expeditions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92d3c53260e1ed4c) |
+| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435809293) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435895142) |
+| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432713431) |
+| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432703718) |
+| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436181701) |
+| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
 
 <!-- DAILY_REPORT_END -->
 
