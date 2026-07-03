@@ -19,17 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-02)
+## Daily Job Report (2026-07-03)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Illinois, United States | [Apply](https://www.linkedin.com/jobs/view/4344933110) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Louisiana, United States | [Apply](https://www.linkedin.com/jobs/view/4344803934) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -67,22 +63,10 @@ All matching jobs found in the past week.
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 
-### HR Jobs (Olympia, WA area) (96 results)
+### HR Jobs (Olympia, WA area) (84 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Bloodworks Northwest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b588e90a9bc3cd82) |
-| HR Business Partner | Low Income Housing Institute | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c0b2fbd40c58c61b) |
-| Human Resources Dept Mgr/Admin (NE S 7) | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d19554cf10d68001) |
-| Human Resources Assistant | SkyChefs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2893c22ba966cc5b) |
-| Human Resources Specialist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6420abdcf96d4e01) |
-| Senior Human Resources Business Partner | Boeing | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b14ec412ce730f6) |
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432619030) |
-| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4432568352) |
-| Human Resources Specialist | PACCAR Parts | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433027038) |
-| Human Resources Business Partner | Bloodworks Northwest | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433022265) |
-| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433001357) |
-| Human Resources Coordinator | Renaissance Seattle Hotel | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431883412) |
 | Human Resources Investigator (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2beaecf184f80b7) |
 | Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c7d204fb5905675a) |
 | Director of Human Resources | The Edgewater, a Noble House Hotel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9897c6bac347a13d) |
