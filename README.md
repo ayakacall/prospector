@@ -27,25 +27,28 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (18 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5673c0a8bb715309) |
-| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f59e30c675ed1c07) |
-| HR Operations & Employee Relations Consultant (HRC2) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c4fbbfa7db50b6c) |
-| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2ebecbc0e7780197) |
-| Director, Shipboard HR & Crew Management | Lindblad Expeditions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92d3c53260e1ed4c) |
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4400623967) |
-| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435809293) |
-| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423126498) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435895142) |
-| Vice President Human Resources | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434933677) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432713431) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432703718) |
-| Senior Human Resources Business Partner | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436181701) |
+| Human Resources Coordinator | City of Auburn, WA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=932e78ec25c60b8c) |
+| Sr. HRIS Analyst | Playlist | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0020bf142368895f) |
+| HR Business Partner | LevelTen Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=048cfe03577d1e69) |
+| HR Specialist - Employee Relations & Training | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4d8aca4667cf37) |
+| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=13e62615c8a6161b) |
+| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427119373) |
+| Senior Human Resources Business Partner | Aircall | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417357421) |
+| HR Representative | James Hardie | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4408060587) |
+| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436406537) |
+| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435065242) |
+| Human Resources Generalist | One Workplace | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421332051) |
+| HR Recruiter | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436401278) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423638193) |
+| HR Specialist - Employee Relations & Training | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436461298) |
+| Regional HR Manager- Corporate | Auto Warehousing Company, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436387964) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436703535) |
 | HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
-| HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413371748) |
+| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
 
 ## Last 7 Days
 
@@ -63,7 +66,7 @@ All matching jobs found in the past week.
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 
-### HR Jobs (Olympia, WA area) (84 results)
+### HR Jobs (Olympia, WA area) (96 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -151,6 +154,18 @@ All matching jobs found in the past week.
 | Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432703718) |
 | Senior Human Resources Business Partner | Seattle Children's | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436181701) |
 | HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
+| Human Resources Coordinator | City of Auburn, WA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=932e78ec25c60b8c) |
+| Sr. HRIS Analyst | Playlist | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0020bf142368895f) |
+| HR Business Partner | LevelTen Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=048cfe03577d1e69) |
+| HR Specialist - Employee Relations & Training | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4d8aca4667cf37) |
+| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=13e62615c8a6161b) |
+| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436406537) |
+| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435065242) |
+| HR Recruiter | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436401278) |
+| HR Specialist - Employee Relations & Training | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436461298) |
+| Regional HR Manager- Corporate | Auto Warehousing Company, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436387964) |
+| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436703535) |
+| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
 
 <!-- DAILY_REPORT_END -->
 
