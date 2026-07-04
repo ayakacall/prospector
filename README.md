@@ -27,65 +27,37 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (18 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | City of Auburn, WA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=932e78ec25c60b8c) |
-| Sr. HRIS Analyst | Playlist | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0020bf142368895f) |
-| HR Business Partner | LevelTen Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=048cfe03577d1e69) |
-| HR Specialist - Employee Relations & Training | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4d8aca4667cf37) |
-| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=13e62615c8a6161b) |
-| Senior HR Business Partner, Worldwide Amazon Stores PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427119373) |
-| Senior Human Resources Business Partner | Aircall | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4417357421) |
-| HR Representative | James Hardie | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4408060587) |
-| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436406537) |
-| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435065242) |
-| Human Resources Generalist | One Workplace | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421332051) |
-| HR Recruiter | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436401278) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4423638193) |
-| HR Specialist - Employee Relations & Training | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436461298) |
-| Regional HR Manager- Corporate | Auto Warehousing Company, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436387964) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436703535) |
+| Human Resources - Generalist | Woodcreek Provider Services | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e22bc58b6fb808fc) |
+| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e3ead74869d427d) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c75ed182d769a54d) |
 | HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
-| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
+| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
+| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433188395) |
+| Manager, HR Operations | Jade Biosciences | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436769229) |
+| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4427958410) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (7 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese LLM Quality Analyst - USA or Japan (Remote) | Braintrust | nan | [Apply](https://www.linkedin.com/jobs/view/4434044928) |
-| Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4433418866) |
 | Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 
-### HR Jobs (Olympia, WA area) (82 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HR Business Partner | Alaska Airlines | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6318d25b3b0930ad) |
-| HR Director | Community Health Care | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bbe20b67e5b29101) |
-| Human Resources Manager | Hands On Children's Museum | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4818ea9b41cf708) |
-| Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7f50c35910ba5c29) |
-| People Operations Coordinator | The Museum of Flight | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cb0a252d97eb6ab1) |
-| Administrative Assistant - Human Resources Department | HRW | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=512cffa598eb263a) |
-| HR Analyst – Performance Evaluations and Projects | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=16dd4ae1151c47f5) |
-| In-house bookkeeper, business assistant, and HR assistant | Bellefleur Lingerie | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f47041d345d76c50) |
-| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7bc591510c4a95d0) |
-| Human Resources Specialist (Compensation) | United States Attorneys' Offices | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430284087) |
-| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
-| HR Representative II | LaSalle Network | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434004690) |
-| Senior HR Business Partner | Alaska Airlines | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4433445074) |
-| People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413481720) |
-| People Operations Coordinator | The Museum of Flight | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433430049) |
-| HR Analyst – Performance Evaluations and Projects | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434010813) |
 | HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f5c3800dbdfb1cf0) |
 | Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434240500) |
 | HR Coordinator Per Diem | Virginia Mason Franciscan Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4431010487) |
@@ -152,6 +124,11 @@ All matching jobs found in the past week.
 | Regional HR Manager- Corporate | Auto Warehousing Company, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436387964) |
 | HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436703535) |
 | Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
+| Human Resources - Generalist | Woodcreek Provider Services | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e22bc58b6fb808fc) |
+| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e3ead74869d427d) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c75ed182d769a54d) |
+| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433188395) |
+| Manager, HR Operations | Jade Biosciences | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436769229) |
 
 <!-- DAILY_REPORT_END -->
 
