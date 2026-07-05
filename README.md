@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-04)
+## Daily Job Report (2026-07-05)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 
 ### HR Jobs (Olympia, WA area) (8 results)
 
@@ -44,7 +46,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -53,6 +55,7 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
+| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 
 ### HR Jobs (Olympia, WA area) (71 results)
 
