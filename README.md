@@ -27,9 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (0 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Director, HR Business Partner (Seattle) | QXO | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418069645) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
+| Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
+| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
 
 ## Last 7 Days
 
@@ -46,7 +51,7 @@ All matching jobs found in the past week.
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 
-### HR Jobs (Olympia, WA area) (67 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -117,6 +122,8 @@ All matching jobs found in the past week.
 | Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c75ed182d769a54d) |
 | HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433188395) |
 | Manager, HR Operations | Jade Biosciences | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436769229) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
+| Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
 
 <!-- DAILY_REPORT_END -->
 
