@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-05)
+## Daily Job Report (2026-07-06)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (0 results)
 
@@ -48,14 +46,10 @@ All matching jobs found in the past week.
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 
-### HR Jobs (Olympia, WA area) (71 results)
+### HR Jobs (Olympia, WA area) (67 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f5c3800dbdfb1cf0) |
-| Human Resources Coordinator | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434240500) |
-| HR Coordinator Per Diem | Virginia Mason Franciscan Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4431010487) |
-| HR Coordinator Per Diem | CommonSpirit Health | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4433487068) |
 | HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
 | HR Compliance & Leave Administration Speciali | T&A Supply Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf8efff68250b46a) |
 | Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1be7ed121b927e9) |
