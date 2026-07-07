@@ -37,25 +37,34 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437420729) |
 | Sterilization validation expert/R&D Microbiology(remote in Japan) | BSI | nan | [Apply](https://www.linkedin.com/jobs/view/4317465125) |
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
+| Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9df7805d5d0dcca) |
+| Temporary Human Resources Coordinator | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fc721f6d14ee146) |
+| Accounting & HR Coordinator (Cardinal Heating & Air) | Strongpoint Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10ba95d3b9f52394) |
+| Human Resources Manager II | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a25f4e2f751ca7e9) |
+| HR Generalist | KITSAP COMMUNITY RESOURCES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f32c33eacd4f44f) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=847d8eca734f630f) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433992919) |
 | Director, HR Business Partner (Seattle) | QXO | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418069645) |
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
-| Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
-| Sr. HR Generalist, AWS Databases | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418450126) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437483795) |
+| HR Manager | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437701341) |
+| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
+| Temporary Human Resources Coordinator | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437733791) |
+| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
+| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4407792871) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (12 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
@@ -67,7 +76,7 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437411882) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437420729) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (79 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -139,6 +148,17 @@ All matching jobs found in the past week.
 | Manager, HR Operations | Jade Biosciences | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436769229) |
 | Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
 | Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
+| Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9df7805d5d0dcca) |
+| Temporary Human Resources Coordinator | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fc721f6d14ee146) |
+| Accounting & HR Coordinator (Cardinal Heating & Air) | Strongpoint Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10ba95d3b9f52394) |
+| Human Resources Manager II | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a25f4e2f751ca7e9) |
+| HR Generalist | KITSAP COMMUNITY RESOURCES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f32c33eacd4f44f) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=847d8eca734f630f) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433992919) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437483795) |
+| HR Manager | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437701341) |
+| Temporary Human Resources Coordinator | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437733791) |
 
 <!-- DAILY_REPORT_END -->
 
