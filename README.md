@@ -19,13 +19,23 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-06)
+## Daily Job Report (2026-07-07)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (9 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Personal Finance Coach – Japan | Financial Finesse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51b009f19906b3c3) |
+| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437413850) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437428236) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437431015) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437418691) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437411882) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437420729) |
+| Sterilization validation expert/R&D Microbiology(remote in Japan) | BSI | nan | [Apply](https://www.linkedin.com/jobs/view/4317465125) |
 
 ### HR Jobs (Olympia, WA area) (4 results)
 
@@ -40,22 +50,27 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Specialist (Remote) | Hire Feed | nan | [Apply](https://www.linkedin.com/jobs/view/4434448169) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Iowa, United States | [Apply](https://www.linkedin.com/jobs/view/4344943162) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Pennsylvania, United States | [Apply](https://www.linkedin.com/jobs/view/4344953044) |
 | Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
 | Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
+| Personal Finance Coach – Japan | Financial Finesse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51b009f19906b3c3) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437413850) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437428236) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437431015) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437418691) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437411882) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437420729) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Manager II-People Leader | King County, WA | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431084040) |
 | HR Compliance & Leave Administration Speciali | T&A Supply Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf8efff68250b46a) |
 | Temporary Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1be7ed121b927e9) |
 | Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fca73a26dfce0833) |
