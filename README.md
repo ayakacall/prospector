@@ -35,25 +35,29 @@ Jobs posted in the last 24 hours matching search criteria.
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
 | Professional Direct Delivery Manager (PDM) – Remote, USA (Bellevue, WA, Contract)-Japanese (written & spoken proficiency mandatory) | Envision Technology Solutions | Bellevue, WA | [Apply](https://www.linkedin.com/jobs/view/4436825885) |
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (19 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
-| Managing Director, Human Resources | McGee Air Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9df7805d5d0dcca) |
-| Temporary Human Resources Coordinator | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fc721f6d14ee146) |
-| Accounting & HR Coordinator (Cardinal Heating & Air) | Strongpoint Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10ba95d3b9f52394) |
-| Human Resources Manager II | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a25f4e2f751ca7e9) |
-| HR Generalist | KITSAP COMMUNITY RESOURCES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f32c33eacd4f44f) |
-| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=847d8eca734f630f) |
-| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433992919) |
-| Director, HR Business Partner (Seattle) | QXO | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418069645) |
-| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437483795) |
-| HR Manager | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437701341) |
-| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
-| Temporary Human Resources Coordinator | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437733791) |
-| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
-| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4407792871) |
+| Human Resources Specialist | Above Home Health | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e885b1c3aaa8970) |
+| Human Resources Associate *Suquamish Tribal Member Only* | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bfe959462a15d4ee) |
+| Human Resources Benefits Coordinator | Chehalis Tribal Enterprises | Oakville, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30d5df7868b10a75) |
+| HRBP and Transformation Leader | GE HealthCare | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=96d85154d33fed26) |
+| Manager - Human Resources, Leaves | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c3fbd0712224b6c) |
+| STAC - Human Resources Business Partner | VIP Hospitality | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ddea4b88adaf70c1) |
+| HUMAN RESOURCES BUSINESS PARTNER - LABOR RELATIONS | Eurest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cb9cc69b9475b8f) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436832411) |
+| Human Resources Business Partner | BAE Systems | Newcastle, WA | [Apply](https://www.linkedin.com/jobs/view/4437788551) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437862451) |
+| Vice President Human Resources | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4434933677) |
+| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437868342) |
+| Managing Director Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436861252) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4438149080) |
+| Human Resources Manager | gategourmet | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4434585794) |
+| VP, HR Planning, Analytics & Technology | Hasbro | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429189970) |
+| People Operations Manager | Sprague Pest Solutions | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4438125115) |
+| HRBP and Transformation Leader | GE HealthCare | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437865341) |
 
 ## Last 7 Days
 
@@ -80,7 +84,7 @@ All matching jobs found in the past week.
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
 | Professional Direct Delivery Manager (PDM) – Remote, USA (Bellevue, WA, Contract)-Japanese (written & spoken proficiency mandatory) | Envision Technology Solutions | Bellevue, WA | [Apply](https://www.linkedin.com/jobs/view/4436825885) |
 
-### HR Jobs (Olympia, WA area) (53 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -137,6 +141,22 @@ All matching jobs found in the past week.
 | Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437483795) |
 | HR Manager | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437701341) |
 | Temporary Human Resources Coordinator | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437733791) |
+| Human Resources Specialist | Above Home Health | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e885b1c3aaa8970) |
+| Human Resources Associate *Suquamish Tribal Member Only* | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bfe959462a15d4ee) |
+| Human Resources Benefits Coordinator | Chehalis Tribal Enterprises | Oakville, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30d5df7868b10a75) |
+| HRBP and Transformation Leader | GE HealthCare | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=96d85154d33fed26) |
+| Manager - Human Resources, Leaves | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c3fbd0712224b6c) |
+| STAC - Human Resources Business Partner | VIP Hospitality | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ddea4b88adaf70c1) |
+| HUMAN RESOURCES BUSINESS PARTNER - LABOR RELATIONS | Eurest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cb9cc69b9475b8f) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436832411) |
+| Human Resources Business Partner | BAE Systems | Newcastle, WA | [Apply](https://www.linkedin.com/jobs/view/4437788551) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437862451) |
+| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437868342) |
+| Managing Director Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436861252) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4438149080) |
+| Human Resources Manager | gategourmet | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4434585794) |
+| People Operations Manager | Sprague Pest Solutions | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4438125115) |
+| HRBP and Transformation Leader | GE HealthCare | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437865341) |
 
 <!-- DAILY_REPORT_END -->
 
