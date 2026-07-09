@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-08)
+## Daily Job Report (2026-07-09)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,13 +27,13 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Data Content Annotation Specialist (Japanese & Arabic & Australian & Turkish) | pro integrate | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=61ec40a3d47059e3) |
-| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=03e0f59815af6de3) |
-| Field Marketing Manager, Japan | Twilio | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aed725e8339b2a62) |
-| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436537639) |
-| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
-| Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
-| Professional Direct Delivery Manager (PDM) – Remote, USA (Bellevue, WA, Contract)-Japanese (written & spoken proficiency mandatory) | Envision Technology Solutions | Bellevue, WA | [Apply](https://www.linkedin.com/jobs/view/4436825885) |
+| Data Annotator (UAE English/Japanese/Canadian English/Australian English) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=846f815d3a6155ce) |
+| Japanese Instructor | Language in Action, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=92849a424a8e8b5e) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438259251) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438243749) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438251580) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438254438) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438257273) |
 
 ### HR Jobs (Olympia, WA area) (19 results)
 
@@ -63,12 +63,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (16 results)
+### Japanese Jobs (Remote) (21 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Corporate Attorney - Japan | Xsolla | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=10d22e809c966aee) |
-| Senior Intelligence Analyst, Google Threat Intelligence Delivery (Japanese, English) | Google | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b510eac89d164985) |
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 | Personal Finance Coach – Japan | Financial Finesse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51b009f19906b3c3) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437413850) |
@@ -83,23 +81,18 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436537639) |
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
 | Professional Direct Delivery Manager (PDM) – Remote, USA (Bellevue, WA, Contract)-Japanese (written & spoken proficiency mandatory) | Envision Technology Solutions | Bellevue, WA | [Apply](https://www.linkedin.com/jobs/view/4436825885) |
+| Data Annotator (UAE English/Japanese/Canadian English/Australian English) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=846f815d3a6155ce) |
+| Japanese Instructor | Language in Action, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=92849a424a8e8b5e) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438259251) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438243749) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438251580) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438254438) |
+| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438257273) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior People Operations Business Partner | The Allen Institute for Artificial Intelligence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=072cf760ea845922) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89dd92b5630275e1) |
-| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79eb5955b6103129) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=44652bd0dc54ae98) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f71dabe82e01527d) |
-| Sr Human Resources Business Partner | Ash Grove Cement Company | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=16b337533a38470d) |
-| Human Resources Manager | Beckwith & Kuffel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=76df2d2c9c6f11ed) |
-| Human Resources Manager | Fulcrum Real Estate Services | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=957eabd7594ee851) |
-| HR Specialist | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431976681) |
-| HR Employee Data Analyst | MultiCare Health System | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4432338057) |
-| Human Resources Coordinator - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432338743) |
-| Senior People Operations Business Partner | Ai2 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435396455) |
 | Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5673c0a8bb715309) |
 | Senior Human Resources Business Partner | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f59e30c675ed1c07) |
 | HR Operations & Employee Relations Consultant (HRC2) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c4fbbfa7db50b6c) |
