@@ -30,22 +30,30 @@ Jobs posted in the last 24 hours matching search criteria.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (20 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Engineering Manager: HR Technology (Hybrid - Seattle, WA) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139e34ad336663f9) |
-| HRIS Data Specialist | Valley Medical Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf49e91212186c80) |
-| Human Resources Labor and Employee Relations Analyst 1 or 2 | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84eaa51c94b0ea3a) |
-| Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7953ac5a268231d9) |
-| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
-| HRIS Data Specialist (2026-0628) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4438501454) |
-| HR Specialist | Bass Pro Shops | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4401080325) |
-| Senior HRIS Analyst | We. Communications | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438512561) |
-| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429725847) |
-| Sr HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429730689) |
-| Principal HR Business Partner | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429723863) |
-| Senior HR Business Partner (2026-0547) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4429701232) |
+| Sr. Recruiter / HR Business Partner | KEY WORKS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18d0374ac6c55c36) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7fa6c70d9f8899d7) |
+| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e1c433a44744c96) |
+| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4da58468e26f6ec) |
+| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10c67df320acab2b) |
+| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3765619f78ffb171) |
+| Human Resources Assistant | HumanGood | Des Moines, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01e10d675a76b31c) |
+| Senior HR Business Partner, AI Compute | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fa986fc6feef0464) |
+| Academic HR Specialist - Academic Appointments and Compensation | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438815125) |
+| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437599110) |
+| Senior HR Generalist | Parker Hannifin | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4430180395) |
+| Human Resources Manager | InterDent Service Corporation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437914750) |
+| Human Resources Assistant | HumanGood | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435901864) |
+| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435670626) |
+| People Operations Specialist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435680401) |
+| People Partner - Infrastructure & Physical | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429639266) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435957337) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430149705) |
+| Human Resources On-Boarding and Training Coordinator - Light Indistrial | SpectrumCareers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438817920) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4435929224) |
 
 ## Last 7 Days
 
@@ -79,22 +87,10 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (52 results)
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | City of Auburn, WA | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=932e78ec25c60b8c) |
-| Sr. HRIS Analyst | Playlist | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0020bf142368895f) |
-| HR Business Partner | LevelTen Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=048cfe03577d1e69) |
-| HR Specialist - Employee Relations & Training | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4d8aca4667cf37) |
-| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=13e62615c8a6161b) |
-| Human Resources Coordinator | Puyallup Tribal Health Authority | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436406537) |
-| senior PRO (HR) Business Partner- Technology (Nashville or Seattle) | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435065242) |
-| HR Recruiter | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436401278) |
-| HR Specialist - Employee Relations & Training | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436461298) |
-| Regional HR Manager- Corporate | Auto Warehousing Company, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436387964) |
-| HR Business Partner - Associate Relations | Ben Bridge Jeweler | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436703535) |
-| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
 | Human Resources - Generalist | Woodcreek Provider Services | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e22bc58b6fb808fc) |
 | Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e3ead74869d427d) |
 | Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c75ed182d769a54d) |
@@ -135,6 +131,24 @@ All matching jobs found in the past week.
 | Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7953ac5a268231d9) |
 | HRIS Data Specialist (2026-0628) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4438501454) |
 | Senior HRIS Analyst | We. Communications | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438512561) |
+| Sr. Recruiter / HR Business Partner | KEY WORKS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18d0374ac6c55c36) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7fa6c70d9f8899d7) |
+| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e1c433a44744c96) |
+| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4da58468e26f6ec) |
+| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10c67df320acab2b) |
+| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3765619f78ffb171) |
+| Human Resources Assistant | HumanGood | Des Moines, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01e10d675a76b31c) |
+| Senior HR Business Partner, AI Compute | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fa986fc6feef0464) |
+| Academic HR Specialist - Academic Appointments and Compensation | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438815125) |
+| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437599110) |
+| Human Resources Manager | InterDent Service Corporation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437914750) |
+| Human Resources Assistant | HumanGood | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435901864) |
+| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435670626) |
+| People Operations Specialist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435680401) |
+| People Partner - Infrastructure & Physical | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429639266) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435957337) |
+| Human Resources On-Boarding and Training Coordinator - Light Indistrial | SpectrumCareers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438817920) |
+| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4435929224) |
 
 <!-- DAILY_REPORT_END -->
 
