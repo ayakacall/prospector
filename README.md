@@ -31,26 +31,26 @@ _No matching jobs found_
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Recruiter / HR Business Partner | KEY WORKS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18d0374ac6c55c36) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7fa6c70d9f8899d7) |
-| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e1c433a44744c96) |
-| Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4da58468e26f6ec) |
-| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10c67df320acab2b) |
-| Human Resources Manager I (Term-Limited) | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3765619f78ffb171) |
-| Human Resources Assistant | HumanGood | Des Moines, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01e10d675a76b31c) |
-| Senior HR Business Partner, AI Compute | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fa986fc6feef0464) |
-| Academic HR Specialist - Academic Appointments and Compensation | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438815125) |
-| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437599110) |
-| Senior HR Generalist | Parker Hannifin | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4430180395) |
-| Human Resources Manager | InterDent Service Corporation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437914750) |
-| Human Resources Assistant | HumanGood | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435901864) |
-| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435670626) |
-| People Operations Specialist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435680401) |
-| People Partner - Infrastructure & Physical | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429639266) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435957337) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430149705) |
-| Human Resources On-Boarding and Training Coordinator - Light Indistrial | SpectrumCareers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438817920) |
-| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4435929224) |
+| HR Admin - Temporary | Alta Forest Products | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fe40228a7780946f) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d23ae0a787087208) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2570563619cf7a4b) |
+| Sr. HR Generalist | The Krusteaz Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=251ca5133e94c385) |
+| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f0191bc32e9e5a2b) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61571c49b550935d) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=688615d9c78cd4cc) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f2ca62d9cfb3380) |
+| Human Resources Consultant 2 | Green River College | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73f802765a953367) |
+| HR Specialist [210716] | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436606525) |
+| Sr. HR Generalist | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4439390309) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4438149080) |
+| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| Managing Director Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436861252) |
+| PART TIME Assistant Manager - $25 per hr | Regal | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4438903665) |
+| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
+| Admin / Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436602367) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436635554) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436640278) |
 
 ## Last 7 Days
 
@@ -84,7 +84,7 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -146,6 +146,22 @@ All matching jobs found in the past week.
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4435957337) |
 | Human Resources On-Boarding and Training Coordinator - Light Indistrial | SpectrumCareers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438817920) |
 | Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4435929224) |
+| HR Admin - Temporary | Alta Forest Products | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fe40228a7780946f) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d23ae0a787087208) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2570563619cf7a4b) |
+| Sr. HR Generalist | The Krusteaz Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=251ca5133e94c385) |
+| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f0191bc32e9e5a2b) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61571c49b550935d) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=688615d9c78cd4cc) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f2ca62d9cfb3380) |
+| Human Resources Consultant 2 | Green River College | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73f802765a953367) |
+| HR Specialist [210716] | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436606525) |
+| Sr. HR Generalist | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4439390309) |
+| PART TIME Assistant Manager - $25 per hr | Regal | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4438903665) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
+| Admin / Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436602367) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436635554) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436640278) |
 
 <!-- DAILY_REPORT_END -->
 
