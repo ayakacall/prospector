@@ -27,40 +27,28 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (20 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Admin - Temporary | Alta Forest Products | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fe40228a7780946f) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d23ae0a787087208) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2570563619cf7a4b) |
-| Sr. HR Generalist | The Krusteaz Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=251ca5133e94c385) |
-| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f0191bc32e9e5a2b) |
-| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61571c49b550935d) |
-| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=688615d9c78cd4cc) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f2ca62d9cfb3380) |
-| Human Resources Consultant 2 | Green River College | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73f802765a953367) |
-| HR Specialist [210716] | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436606525) |
-| Sr. HR Generalist | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4439390309) |
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4438149080) |
-| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
-| Managing Director Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436861252) |
-| PART TIME Assistant Manager - $25 per hr | Regal | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4438903665) |
+| Human Resources Specialist (NAF/Developmental) NF-03/04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4439543623) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942395) |
+| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420937431) |
+| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430005625) |
+| HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942394) |
+| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
 | Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
-| Admin / Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436602367) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436635554) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436640278) |
+| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431162877) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (23 results)
+### Japanese Jobs (Remote) (22 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 | Personal Finance Coach – Japan | Financial Finesse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51b009f19906b3c3) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437413850) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437428236) |
@@ -84,7 +72,7 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -157,6 +145,11 @@ All matching jobs found in the past week.
 | Admin / Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436602367) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436635554) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436640278) |
+| Human Resources Specialist (NAF/Developmental) NF-03/04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4439543623) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942395) |
+| HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942394) |
+| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431162877) |
 
 <!-- DAILY_REPORT_END -->
 
