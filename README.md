@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-11)
+## Daily Job Report (2026-07-12)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -84,15 +84,10 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources - Generalist | Woodcreek Provider Services | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e22bc58b6fb808fc) |
-| Human Resources Manager, Climate Pledge Arena | Delaware North | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e3ead74869d427d) |
-| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c75ed182d769a54d) |
-| HR Generalist | Scale.jobs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433188395) |
-| Manager, HR Operations | Jade Biosciences | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436769229) |
 | Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
 | Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
 | Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
