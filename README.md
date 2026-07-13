@@ -27,19 +27,11 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist (NAF/Developmental) NF-03/04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4439543623) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942395) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420937431) |
-| HR Director | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4430005625) |
-| HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942394) |
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
-| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431162877) |
+| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
 
 ## Last 7 Days
 
