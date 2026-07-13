@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-12)
+## Daily Job Report (2026-07-13)
 
 Jobs posted in the last 24 hours matching search criteria.
 
