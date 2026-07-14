@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-13)
+## Daily Job Report (2026-07-14)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -64,12 +64,10 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437142477) |
-| Human Resources Director | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4436057551) |
 | Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
 | Managing Director, Human Resources | McGee Air Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9df7805d5d0dcca) |
 | Temporary Human Resources Coordinator | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fc721f6d14ee146) |
