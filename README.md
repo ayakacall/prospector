@@ -27,11 +27,24 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (1 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421264343) |
+| Human Resources Manager | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d570d183f2407b0) |
+| Strategic Programs & Projects Director (HR) | Seismic | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bdb87e72cb4d69c7) |
+| Human Resources Supervisor | Sea Mar Community Health Centers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6d1291f29042841a) |
+| Human Resources Consultant 4 (HR GENERALIST) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=72a0362cc479757c) |
+| Talent Advisor (HR Analyst) TLT/SDA | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=099deaec778daddb) |
+| HR Generalist | Briggs Nursery | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=831a15149f1a4c8e) |
+| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
+| Human Resources Consultant 4 (HR GENERALIST) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4439802756) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439453488) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4440333257) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4439474410) |
+| Human Resources Manager | SoTalent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437609341) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439442560) |
+| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
 
 ## Last 7 Days
 
@@ -64,7 +77,7 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (84 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -140,6 +153,18 @@ All matching jobs found in the past week.
 | HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942394) |
 | Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431162877) |
+| Human Resources Manager | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d570d183f2407b0) |
+| Strategic Programs & Projects Director (HR) | Seismic | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bdb87e72cb4d69c7) |
+| Human Resources Supervisor | Sea Mar Community Health Centers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6d1291f29042841a) |
+| Human Resources Consultant 4 (HR GENERALIST) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=72a0362cc479757c) |
+| Talent Advisor (HR Analyst) TLT/SDA | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=099deaec778daddb) |
+| HR Generalist | Briggs Nursery | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=831a15149f1a4c8e) |
+| Human Resources Consultant 4 (HR GENERALIST) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4439802756) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439453488) |
+| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4440333257) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4439474410) |
+| Human Resources Manager | SoTalent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437609341) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439442560) |
 
 <!-- DAILY_REPORT_END -->
 
