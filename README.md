@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-14)
+## Daily Job Report (2026-07-15)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 
 ### HR Jobs (Olympia, WA area) (14 results)
 
@@ -50,17 +52,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (22 results)
+### Japanese Jobs (Remote) (16 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Personal Finance Coach – Japan | Financial Finesse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51b009f19906b3c3) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437413850) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437428236) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437431015) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437418691) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437411882) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4437420729) |
 | Remote Data Content Annotation Specialist (Japanese & Arabic & Australian & Turkish) | pro integrate | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=61ec40a3d47059e3) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=03e0f59815af6de3) |
 | Field Marketing Manager, Japan | Twilio | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aed725e8339b2a62) |
@@ -76,22 +71,12 @@ All matching jobs found in the past week.
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438257273) |
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
+| Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 
-### HR Jobs (Olympia, WA area) (84 results)
+### HR Jobs (Olympia, WA area) (73 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | gate group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0959cf508870c2a8) |
-| Managing Director, Human Resources | McGee Air Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9df7805d5d0dcca) |
-| Temporary Human Resources Coordinator | Orca Bay Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fc721f6d14ee146) |
-| Accounting & HR Coordinator (Cardinal Heating & Air) | Strongpoint Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=10ba95d3b9f52394) |
-| Human Resources Manager II | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a25f4e2f751ca7e9) |
-| HR Generalist | KITSAP COMMUNITY RESOURCES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f32c33eacd4f44f) |
-| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=847d8eca734f630f) |
-| Managing Director, Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433992919) |
-| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437483795) |
-| HR Manager | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437701341) |
-| Temporary Human Resources Coordinator | Orca Bay Foods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437733791) |
 | Human Resources Specialist | Above Home Health | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e885b1c3aaa8970) |
 | Human Resources Associate *Suquamish Tribal Member Only* | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bfe959462a15d4ee) |
 | Human Resources Benefits Coordinator | Chehalis Tribal Enterprises | Oakville, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30d5df7868b10a75) |
