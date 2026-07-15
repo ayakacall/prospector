@@ -29,39 +29,34 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d570d183f2407b0) |
-| Strategic Programs & Projects Director (HR) | Seismic | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bdb87e72cb4d69c7) |
-| Human Resources Supervisor | Sea Mar Community Health Centers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6d1291f29042841a) |
-| Human Resources Consultant 4 (HR GENERALIST) | State of Washington | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=72a0362cc479757c) |
-| Talent Advisor (HR Analyst) TLT/SDA | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=099deaec778daddb) |
-| HR Generalist | Briggs Nursery | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=831a15149f1a4c8e) |
-| HR Operations & Employee Relations Consultant (HRC2) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4434696287) |
-| Human Resources Consultant 4 (HR GENERALIST) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4439802756) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439453488) |
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4440333257) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4439474410) |
-| Human Resources Manager | SoTalent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437609341) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439442560) |
-| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
+| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18dd66937ea9a306) |
+| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78548c771a0085c1) |
+| Human Resources Generalist | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8c191f96fec235a8) |
+| Senior Program Manager, People Operations | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a26ab54f697a93b4) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79e8568352f4f0b9) |
+| HR Specialist - Temporary | Alta Forest Products | Chehalis, WA, US | [Apply](https://www.indeed.com/viewjob?jk=870c5b1f39ec4286) |
+| Account Manager- Mid-Market, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2965059c57f30a26) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34da276cf1791db6) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4439898953) |
+| HR & Benefits Administrator | Mary's Place | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439969423) |
+| Senior HR Coordinator | Trapper's Sushi Co. | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4440955030) |
+| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
+| HR Specialist - Temporary | Alta Forest Products LLC | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4440879875) |
+| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440858088) |
+| Supervisor, Part Time, University Village, WA ($21.30-$29.49/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431466107) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (16 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Data Content Annotation Specialist (Japanese & Arabic & Australian & Turkish) | pro integrate | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=61ec40a3d47059e3) |
-| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=03e0f59815af6de3) |
-| Field Marketing Manager, Japan | Twilio | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aed725e8339b2a62) |
-| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436537639) |
-| Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
-| Professional Direct Delivery Manager (PDM) – Remote, USA (Bellevue, WA, Contract)-Japanese (written & spoken proficiency mandatory) | Envision Technology Solutions | Bellevue, WA | [Apply](https://www.linkedin.com/jobs/view/4436825885) |
 | Data Annotator (UAE English/Japanese/Canadian English/Australian English) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=846f815d3a6155ce) |
 | Japanese Instructor | Language in Action, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=92849a424a8e8b5e) |
 | Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438259251) |
@@ -73,7 +68,7 @@ All matching jobs found in the past week.
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 | Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (87 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -150,6 +145,20 @@ All matching jobs found in the past week.
 | 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4439474410) |
 | Human Resources Manager | SoTalent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437609341) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439442560) |
+| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18dd66937ea9a306) |
+| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78548c771a0085c1) |
+| Human Resources Generalist | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8c191f96fec235a8) |
+| Senior Program Manager, People Operations | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a26ab54f697a93b4) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79e8568352f4f0b9) |
+| HR Specialist - Temporary | Alta Forest Products | Chehalis, WA, US | [Apply](https://www.indeed.com/viewjob?jk=870c5b1f39ec4286) |
+| Account Manager- Mid-Market, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2965059c57f30a26) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34da276cf1791db6) |
+| Generalist - Human Resources | ProAmpac | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4439898953) |
+| HR & Benefits Administrator | Mary's Place | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439969423) |
+| Senior HR Coordinator | Trapper's Sushi Co. | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4440955030) |
+| HR Specialist - Temporary | Alta Forest Products LLC | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4440879875) |
+| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440858088) |
+| Supervisor, Part Time, University Village, WA ($21.30-$29.49/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431466107) |
 
 <!-- DAILY_REPORT_END -->
 
