@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-15)
+## Daily Job Report (2026-07-16)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -53,7 +53,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (10 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -67,27 +67,12 @@ All matching jobs found in the past week.
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 | Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 
-### HR Jobs (Olympia, WA area) (87 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist | Above Home Health | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e885b1c3aaa8970) |
-| Human Resources Associate *Suquamish Tribal Member Only* | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bfe959462a15d4ee) |
-| Human Resources Benefits Coordinator | Chehalis Tribal Enterprises | Oakville, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30d5df7868b10a75) |
-| HRBP and Transformation Leader | GE HealthCare | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=96d85154d33fed26) |
-| Manager - Human Resources, Leaves | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9c3fbd0712224b6c) |
-| STAC - Human Resources Business Partner | VIP Hospitality | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ddea4b88adaf70c1) |
-| HUMAN RESOURCES BUSINESS PARTNER - LABOR RELATIONS | Eurest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cb9cc69b9475b8f) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436832411) |
-| Human Resources Business Partner | BAE Systems | Newcastle, WA | [Apply](https://www.linkedin.com/jobs/view/4437788551) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437862451) |
-| HR Representative and Student Liaison | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4437868342) |
-| Managing Director Human Resources | McGee Air Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436861252) |
-| Human Resources Manager | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4438149080) |
-| Human Resources Manager | gategourmet | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4434585794) |
-| People Operations Manager | Sprague Pest Solutions | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4438125115) |
-| HRBP and Transformation Leader | GE HealthCare | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4437865341) |
 | Sr. Engineering Manager: HR Technology (Hybrid - Seattle, WA) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139e34ad336663f9) |
 | HRIS Data Specialist | Valley Medical Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf49e91212186c80) |
 | Human Resources Labor and Employee Relations Analyst 1 or 2 | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84eaa51c94b0ea3a) |
