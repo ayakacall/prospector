@@ -29,25 +29,21 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18dd66937ea9a306) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78548c771a0085c1) |
-| Human Resources Generalist | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8c191f96fec235a8) |
-| Senior Program Manager, People Operations | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a26ab54f697a93b4) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79e8568352f4f0b9) |
-| HR Specialist - Temporary | Alta Forest Products | Chehalis, WA, US | [Apply](https://www.indeed.com/viewjob?jk=870c5b1f39ec4286) |
-| Account Manager- Mid-Market, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2965059c57f30a26) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34da276cf1791db6) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4439898953) |
-| HR & Benefits Administrator | Mary's Place | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439969423) |
-| Senior HR Coordinator | Trapper's Sushi Co. | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4440955030) |
-| Executive Director of Human Resources (Ord. Title: Executive 4, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4429450232) |
-| HR Specialist - Temporary | Alta Forest Products LLC | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4440879875) |
-| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440858088) |
-| Supervisor, Part Time, University Village, WA ($21.30-$29.49/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431466107) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=983c023b523a9255) |
+| HRC2: Position Control and Org Management-Olympia/Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d1ef85cbe4ca0ca) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae7dd10c2b38af30) |
+| Human Resources Public Records Specialist | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=075c8a1598695edb) |
+| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4432568352) |
+| HR Generalist | Precision Castparts | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4432492100) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4432486214) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440252445) |
+| Senior Business Systems Analyst, HR & Payroll | Gates Foundation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420944211) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438019636) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441294405) |
 
 ## Last 7 Days
 
@@ -69,7 +65,7 @@ All matching jobs found in the past week.
 | Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 
-### HR Jobs (Olympia, WA area) (71 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -144,6 +140,13 @@ All matching jobs found in the past week.
 | HR Specialist - Temporary | Alta Forest Products LLC | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4440879875) |
 | Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440858088) |
 | Supervisor, Part Time, University Village, WA ($21.30-$29.49/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431466107) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=983c023b523a9255) |
+| HRC2: Position Control and Org Management-Olympia/Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d1ef85cbe4ca0ca) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae7dd10c2b38af30) |
+| Human Resources Public Records Specialist | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=075c8a1598695edb) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440252445) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438019636) |
+| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441294405) |
 
 <!-- DAILY_REPORT_END -->
 
