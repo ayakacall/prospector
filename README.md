@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-16)
+## Daily Job Report (2026-07-17)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -49,32 +47,19 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Data Annotator (UAE English/Japanese/Canadian English/Australian English) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=846f815d3a6155ce) |
-| Japanese Instructor | Language in Action, Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=92849a424a8e8b5e) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438259251) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438243749) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438251580) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438254438) |
-| Remote Business Analyst (Japanese) | Turing | nan | [Apply](https://www.linkedin.com/jobs/view/4438257273) |
 | QuickBooks Migration Support Specialist (Japanese Bilingual) | Cinter Networks | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=3c21353ac71d5f27) |
 | Managed Review Associates with Japanese Fluency | Lighthouse Global | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=31d905132db017bc) |
 | Japanese bilingual Recruiter - Remote/Hybrid | Leverages U.S. Inc. | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4440812003) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Engineering Manager: HR Technology (Hybrid - Seattle, WA) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139e34ad336663f9) |
-| HRIS Data Specialist | Valley Medical Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf49e91212186c80) |
-| Human Resources Labor and Employee Relations Analyst 1 or 2 | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84eaa51c94b0ea3a) |
-| Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7953ac5a268231d9) |
-| HRIS Data Specialist (2026-0628) | Valley Medical Center | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4438501454) |
-| Senior HRIS Analyst | We. Communications | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438512561) |
 | Sr. Recruiter / HR Business Partner | KEY WORKS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18d0374ac6c55c36) |
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7fa6c70d9f8899d7) |
 | Human Resources Manager II | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e1c433a44744c96) |
