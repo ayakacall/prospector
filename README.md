@@ -32,29 +32,19 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
 
-### HR Jobs (Olympia, WA area) (19 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3cebbbb8ee6b44d) |
-| People Operations Generalist | Peak Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0df582ccb7de3f9f) |
-| HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d8b2587c86d93151) |
-| HR Coordinator | Family First | University Place, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fc472dce252d9455) |
-| ESD 113- Executive Director-Human Resources | Sound to Harbor Head Start | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a72351c1d0ec92ae) |
-| HR Payroll Specialist | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a2c38a0b8bb7569) |
-| HR Business Partner, AMZL | Amazon.com | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d3f70799c4aec8b) |
-| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
-| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
-| Human Resources Specialist | PACCAR Parts | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433027038) |
-| SEA HR Specialist/Coordinator - Badging | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4413819989) |
-| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
-| HR Payroll Specialist | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4441651604) |
-| HR Recruiting Specialist | Hermanson Company | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441634602) |
-| Senior HRIS Analyst | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420155156) |
-| HR Transformation Consulting Analyst | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433527195) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433001357) |
-| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441468384) |
+| Senior Human Resources Manager | SHAPE Technologies Group | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=649a034aaa3a3707) |
+| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aeb6468d548ecdb8) |
+| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4091998e9d67a882) |
+| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
+| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4441985051) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442192295) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237495) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441312962) |
+| Human Resources Director | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4441344853) |
 
 ## Last 7 Days
 
@@ -70,7 +60,7 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (77 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -142,6 +132,15 @@ All matching jobs found in the past week.
 | Senior HRIS Analyst | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420155156) |
 | People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
 | Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441468384) |
+| Senior Human Resources Manager | SHAPE Technologies Group | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=649a034aaa3a3707) |
+| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aeb6468d548ecdb8) |
+| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4091998e9d67a882) |
+| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
+| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4441985051) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442192295) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237495) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441312962) |
+| Human Resources Director | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4441344853) |
 
 <!-- DAILY_REPORT_END -->
 
