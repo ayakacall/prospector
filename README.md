@@ -19,18 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-18)
+## Daily Job Report (2026-07-19)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Solutions Engineer - Japan | Kentik | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa4669c1b2dd70ce) |
-| Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
-| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
-| Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -60,26 +55,10 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
 
-### HR Jobs (Olympia, WA area) (77 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Admin - Temporary | Alta Forest Products | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fe40228a7780946f) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d23ae0a787087208) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2570563619cf7a4b) |
-| Sr. HR Generalist | The Krusteaz Company | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=251ca5133e94c385) |
-| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f0191bc32e9e5a2b) |
-| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61571c49b550935d) |
-| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=688615d9c78cd4cc) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f2ca62d9cfb3380) |
-| Human Resources Consultant 2 | Green River College | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=73f802765a953367) |
-| HR Specialist [210716] | Aquent | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436606525) |
-| Sr. HR Generalist | The Krusteaz Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4439390309) |
-| PART TIME Assistant Manager - $25 per hr | Regal | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4438903665) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
-| Admin / Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436602367) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436635554) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436640278) |
 | Human Resources Specialist (NAF/Developmental) NF-03/04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4439543623) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942395) |
 | HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
