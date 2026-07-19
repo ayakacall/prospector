@@ -27,19 +27,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | SHAPE Technologies Group | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=649a034aaa3a3707) |
-| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aeb6468d548ecdb8) |
-| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4091998e9d67a882) |
-| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4441985051) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442192295) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237495) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441312962) |
-| Human Resources Director | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4441344853) |
+| People Operations Coordinator | The Museum of Flight | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433430049) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| HR Representative II | LaSalle Network | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434004690) |
+| HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
+| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424102570) |
+| Staff Human Resources Generalist 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
+| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
 
 ## Last 7 Days
 
@@ -55,15 +54,10 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (59 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist (NAF/Developmental) NF-03/04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4439543623) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942395) |
-| HR Admin - Temporary | Alta Forest Products LLC | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4439554903) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438942394) |
-| Principal HR Business Partner, WW Grocery Stores Supply Chain and Tech PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431162877) |
 | Human Resources Manager | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d570d183f2407b0) |
 | Strategic Programs & Projects Director (HR) | Seismic | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bdb87e72cb4d69c7) |
 | Human Resources Supervisor | Sea Mar Community Health Centers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6d1291f29042841a) |
@@ -120,6 +114,9 @@ All matching jobs found in the past week.
 | Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237495) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441312962) |
 | Human Resources Director | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4441344853) |
+| HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
+| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
+| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
 
 <!-- DAILY_REPORT_END -->
 
