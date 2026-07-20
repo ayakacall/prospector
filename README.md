@@ -29,18 +29,15 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
 
-### HR Jobs (Olympia, WA area) (8 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Coordinator | The Museum of Flight | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4433430049) |
-| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
-| HR Representative II | LaSalle Network | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434004690) |
-| HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
-| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
-| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424102570) |
-| Staff Human Resources Generalist 1 | Haley & Aldrich | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424956033) |
-| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
+| HR & Payroll Generalist | King Electrical Manufacturing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=380bc32065504bb0) |
+| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
+| Human Resources Assistant (MILITARY/Office Automation). | USMEPCOM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442511836) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441791322) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442024906) |
 
 ## Last 7 Days
 
@@ -56,7 +53,7 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
 
-### HR Jobs (Olympia, WA area) (59 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -119,6 +116,10 @@ All matching jobs found in the past week.
 | HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
 | HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
 | HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
+| HR & Payroll Generalist | King Electrical Manufacturing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=380bc32065504bb0) |
+| Human Resources Assistant (MILITARY/Office Automation). | USMEPCOM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442511836) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441791322) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442024906) |
 
 <!-- DAILY_REPORT_END -->
 
