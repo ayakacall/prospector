@@ -19,15 +19,20 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-20)
+## Daily Job Report (2026-07-21)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Tennessee, United States | [Apply](https://www.linkedin.com/jobs/view/4344853650) |
+| Medical Writer (Japanese/English) | Envision Pharma Group | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aa5e9d42577f9c69) |
+| Japanese - Business Analyst P0 Evals | CareerFlow | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f56ec63e8a8357d9) |
+| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Wyoming, United States | [Apply](https://www.linkedin.com/jobs/view/4344923245) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Montana, United States | [Apply](https://www.linkedin.com/jobs/view/4344863592) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | North Dakota, United States | [Apply](https://www.linkedin.com/jobs/view/4345030781) |
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -43,7 +48,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -52,6 +57,10 @@ All matching jobs found in the past week.
 | Solutions Engineer - Japan | Kentik | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa4669c1b2dd70ce) |
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
+| Medical Writer (Japanese/English) | Envision Pharma Group | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aa5e9d42577f9c69) |
+| Japanese - Business Analyst P0 Evals | CareerFlow | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f56ec63e8a8357d9) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Wyoming, United States | [Apply](https://www.linkedin.com/jobs/view/4344923245) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | North Dakota, United States | [Apply](https://www.linkedin.com/jobs/view/4345030781) |
 
 ### HR Jobs (Olympia, WA area) (63 results)
 
