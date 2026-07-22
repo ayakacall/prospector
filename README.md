@@ -30,24 +30,19 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Missouri, United States | [Apply](https://www.linkedin.com/jobs/view/4344853649) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HR Business Partner, Human Resources | PATH | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ce0f5d706e22bb33) |
-| Senior HR Generalist - Emergency Hire | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=553f8bfc97c4a5cb) |
-| Department Staff HR Specialist | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27a72715168c5473) |
-| Payroll/Human Resources Public Works | Road Construction Northwest, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1598bb077b0a44bb) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c56088dcb29adcbf) |
-| Sr. HR Consultant | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ac2423a49cbea13e) |
-| Human Resources Consultant 4 (HR GENERALIST) | Washington State Office of the Insurance Commissioner | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4439802756) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4443023638) |
-| Department Staff HR Specialist | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442786403) |
-| HR Business Partner - Global E-Commerce Logistics - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442261032) |
-| Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4442095223) |
-| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443054208) |
-| Senior HR Business Partner, AI Compute | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443032294) |
-| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443025366) |
+| People Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721dae9cb71ba5ab) |
+| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6104d3889d9ca52b) |
+| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ee06e9463b65693f) |
+| Human Resources Assistant | Springfield Local School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d3f623c2a987e31) |
+| People Operations Manager | Sleep Doctor | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19cc6aa7f8b47b56) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443368079) |
+| People Partner | Twitch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443726246) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4443127250) |
+| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
 
 ## Last 7 Days
 
@@ -67,24 +62,10 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | North Dakota, United States | [Apply](https://www.linkedin.com/jobs/view/4345030781) |
 | Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=18dd66937ea9a306) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=78548c771a0085c1) |
-| Human Resources Generalist | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8c191f96fec235a8) |
-| Senior Program Manager, People Operations | Anduril | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a26ab54f697a93b4) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=79e8568352f4f0b9) |
-| HR Specialist - Temporary | Alta Forest Products | Chehalis, WA, US | [Apply](https://www.indeed.com/viewjob?jk=870c5b1f39ec4286) |
-| Account Manager- Mid-Market, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2965059c57f30a26) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=34da276cf1791db6) |
-| Generalist - Human Resources | ProAmpac | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4439898953) |
-| HR & Benefits Administrator | Mary's Place | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439969423) |
-| Senior HR Coordinator | Trapper's Sushi Co. | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4440955030) |
-| HR Specialist - Temporary | Alta Forest Products LLC | Chehalis, WA | [Apply](https://www.linkedin.com/jobs/view/4440879875) |
-| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440858088) |
-| Supervisor, Part Time, University Village, WA ($21.30-$29.49/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4431466107) |
 | Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=983c023b523a9255) |
 | HRC2: Position Control and Org Management-Olympia/Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d1ef85cbe4ca0ca) |
 | Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae7dd10c2b38af30) |
@@ -135,6 +116,14 @@ All matching jobs found in the past week.
 | Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443054208) |
 | Senior HR Business Partner, AI Compute | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443032294) |
 | Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443025366) |
+| People Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721dae9cb71ba5ab) |
+| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6104d3889d9ca52b) |
+| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ee06e9463b65693f) |
+| Human Resources Assistant | Springfield Local School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d3f623c2a987e31) |
+| People Operations Manager | Sleep Doctor | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19cc6aa7f8b47b56) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443368079) |
+| People Partner | Twitch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443726246) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4443127250) |
 
 <!-- DAILY_REPORT_END -->
 
