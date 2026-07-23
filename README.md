@@ -32,19 +32,24 @@ Jobs posted in the last 24 hours matching search criteria.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Arizona, United States | [Apply](https://www.linkedin.com/jobs/view/4344982905) |
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721dae9cb71ba5ab) |
-| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6104d3889d9ca52b) |
-| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ee06e9463b65693f) |
-| Human Resources Assistant | Springfield Local School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d3f623c2a987e31) |
-| People Operations Manager | Sleep Doctor | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19cc6aa7f8b47b56) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443368079) |
-| People Partner | Twitch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443726246) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4443127250) |
-| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
+| HR Generalist | Sysco | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=87c37720fc8373d4) |
+| Sr. System Analyst - HR Systems - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ca12f8fc114d639e) |
+| HR Manager - SEA | Worldwide Flight Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ab850cb606de36d2) |
+| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=80387c45512914fd) |
+| HR Specialist (Temporary) - Department of Global Health | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3a6a79b5ede2a364) |
+| HR Generalist | SkyChefs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=23d71e357cdef204) |
+| HR Business Partner Manager, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4e0ca28d012bab) |
+| HR Business Partner, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7233b6d25cf6f3f1) |
+| Senior HR Compliance Partner | REI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444274202) |
+| Human Resources Manager | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443400204) |
+| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
+| Assistant Human Resources Officer (NAF) NF-04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4443783756) |
+| Human Resources Assistant | HumanGood | Des Moines, WA | [Apply](https://www.linkedin.com/jobs/view/4443170943) |
+| HR Manager - SEA | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443824016) |
 
 ## Last 7 Days
 
@@ -65,17 +70,10 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4344863547) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (65 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=983c023b523a9255) |
-| HRC2: Position Control and Org Management-Olympia/Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d1ef85cbe4ca0ca) |
-| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae7dd10c2b38af30) |
-| Human Resources Public Records Specialist | Pierce County Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=075c8a1598695edb) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440252445) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438019636) |
-| Principal, HR Business Partner, Applied AI Solutions PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441294405) |
 | Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3cebbbb8ee6b44d) |
 | People Operations Generalist | Peak Credit Union | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0df582ccb7de3f9f) |
 | HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d8b2587c86d93151) |
@@ -127,6 +125,20 @@ All matching jobs found in the past week.
 | Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443368079) |
 | People Partner | Twitch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443726246) |
 | 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4443127250) |
+| HR Generalist | Sysco | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=87c37720fc8373d4) |
+| Sr. System Analyst - HR Systems - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ca12f8fc114d639e) |
+| HR Manager - SEA | Worldwide Flight Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ab850cb606de36d2) |
+| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=80387c45512914fd) |
+| HR Specialist (Temporary) - Department of Global Health | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3a6a79b5ede2a364) |
+| HR Generalist | SkyChefs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=23d71e357cdef204) |
+| HR Business Partner Manager, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4e0ca28d012bab) |
+| HR Business Partner, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7233b6d25cf6f3f1) |
+| Senior HR Compliance Partner | REI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444274202) |
+| Human Resources Manager | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443400204) |
+| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
+| Assistant Human Resources Officer (NAF) NF-04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4443783756) |
+| Human Resources Assistant | HumanGood | Des Moines, WA | [Apply](https://www.linkedin.com/jobs/view/4443170943) |
+| HR Manager - SEA | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443824016) |
 
 <!-- DAILY_REPORT_END -->
 
