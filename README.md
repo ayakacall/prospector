@@ -19,16 +19,18 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-22)
+## Daily Job Report (2026-07-23)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Missouri, United States | [Apply](https://www.linkedin.com/jobs/view/4344853649) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4344863547) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, United States | [Apply](https://www.linkedin.com/jobs/view/4344972881) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Arizona, United States | [Apply](https://www.linkedin.com/jobs/view/4344982905) |
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -48,11 +50,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (9 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4888a5cf800a2897) |
 | Solutions Engineer - Japan | Kentik | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa4669c1b2dd70ce) |
 | Japanese Language Specialist / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441720251) |
 | Translator - Japanese / $35/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4441713550) |
@@ -61,6 +62,8 @@ All matching jobs found in the past week.
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Wyoming, United States | [Apply](https://www.linkedin.com/jobs/view/4344923245) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | North Dakota, United States | [Apply](https://www.linkedin.com/jobs/view/4345030781) |
 | Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4344863547) |
+| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
 
 ### HR Jobs (Olympia, WA area) (58 results)
 
