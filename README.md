@@ -31,39 +31,27 @@ Jobs posted in the last 24 hours matching search criteria.
 | Marketing Manager (Japanese) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444336593) |
 | Japanese Content Specialist / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444320839) |
 
-### HR Jobs (Olympia, WA area) (29 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Field HR Partner | ABM Industries Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3defa2e72b550cf9) |
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=02522ebc1cee620e) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d71a5799143f3ed8) |
-| HR Generalist | nan | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=38573380ad722953) |
-| Human Resources Specialist - Leaves and Accommodations | DESC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3aa04d6d242c8842) |
-| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d8b5f877e4f2ffc) |
-| Faculty Recruitment Operations Specialist - School of Medicine Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=007b9403d4d5adca) |
-| People Operations & Systems Specialist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b83ee1c2d009696a) |
-| Human Resources Generalist FT Exempt w/Benefits | Navy Exchange | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61a4758c044c19cd) |
-| Human Resources Coordinator - Security | GardaWorld Security Services US | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e6dd93b6f0b1ab82) |
-| Academic Human Resources Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b88f07857de262c8) |
-| Associate Director of Human Resources | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4500635b7e6a128d) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d31d9c7f157ef6e) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7b523d4c57e15e9) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443890752) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443890753) |
-| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444448204) |
-| HR Representative | James Hardie | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4408060587) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444469741) |
+| Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dad343835a5f2f94) |
+| Human Resources Coordinator | International Community Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1af62501136728e5) |
+| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=493aecabbd244d44) |
+| Business Partner, People Operations | Unico Properties LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04cae6cb04dd3225) |
+| Employee Success Specialist (HR) | TOURNESOL SITEWORKS | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3b384cd2c1d0dc38) |
+| Human Resources Generalist | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5012762b33d1f346) |
+| HR Strategy & Operations - Senior Associate | PwC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30f34a5da607bca3) |
+| Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445272492) |
+| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4445306521) |
 | HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
-| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444487470) |
-| Associate Director of Human Resources | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444721028) |
-| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444067545) |
-| Human Resources Specialist | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444790527) |
-| Human Resources Generalist | Securitas Global Clients America | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444936345) |
-| Faculty Recruitment Operations Specialist - School of Medicine Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444763898) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4444029247) |
-| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4444033126) |
+| Human Resources Specialist - Leaves and Accommodations | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444989889) |
+| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
+| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444632446) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441893586) |
+| Human Resources Coordinator | International Community Health Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445270002) |
+| Business Partner, People Operations | Unico Properties LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444644448) |
+| HRO Total Source - Strategic Sales Specialist | ADP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423639879) |
 
 ## Last 7 Days
 
@@ -84,19 +72,10 @@ All matching jobs found in the past week.
 | Marketing Manager (Japanese) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444336593) |
 | Japanese Content Specialist / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444320839) |
 
-### HR Jobs (Olympia, WA area) (77 results)
+### HR Jobs (Olympia, WA area) (82 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | SHAPE Technologies Group | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=649a034aaa3a3707) |
-| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aeb6468d548ecdb8) |
-| Human Resources Generalist | Q.E.D. Systems, Inc. | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4091998e9d67a882) |
-| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4441985051) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442192295) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237495) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441312962) |
-| Human Resources Director | Avalanche Energy | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4441344853) |
 | HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
 | HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
 | HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
@@ -165,6 +144,20 @@ All matching jobs found in the past week.
 | Faculty Recruitment Operations Specialist - School of Medicine Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444763898) |
 | Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4444029247) |
 | Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4444033126) |
+| Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dad343835a5f2f94) |
+| Human Resources Coordinator | International Community Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1af62501136728e5) |
+| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=493aecabbd244d44) |
+| Business Partner, People Operations | Unico Properties LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04cae6cb04dd3225) |
+| Employee Success Specialist (HR) | TOURNESOL SITEWORKS | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3b384cd2c1d0dc38) |
+| Human Resources Generalist | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5012762b33d1f346) |
+| HR Strategy & Operations - Senior Associate | PwC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30f34a5da607bca3) |
+| Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445272492) |
+| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4445306521) |
+| Human Resources Specialist - Leaves and Accommodations | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444989889) |
+| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444632446) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441893586) |
+| Human Resources Coordinator | International Community Health Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445270002) |
+| Business Partner, People Operations | Unico Properties LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444644448) |
 
 <!-- DAILY_REPORT_END -->
 
