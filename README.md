@@ -27,27 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (17 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dad343835a5f2f94) |
-| Human Resources Coordinator | International Community Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1af62501136728e5) |
-| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=493aecabbd244d44) |
-| Business Partner, People Operations | Unico Properties LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04cae6cb04dd3225) |
-| Employee Success Specialist (HR) | TOURNESOL SITEWORKS | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3b384cd2c1d0dc38) |
-| Human Resources Generalist | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5012762b33d1f346) |
-| HR Strategy & Operations - Senior Associate | PwC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30f34a5da607bca3) |
-| Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445272492) |
-| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4445306521) |
-| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
-| Human Resources Specialist - Leaves and Accommodations | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444989889) |
-| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
-| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444632446) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441893586) |
-| Human Resources Coordinator | International Community Health Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445270002) |
-| Business Partner, People Operations | Unico Properties LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444644448) |
-| HRO Total Source - Strategic Sales Specialist | ADP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4423639879) |
+| Administrative Manager & Human Resources Coordinator | Intuitus | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86ad213411dce7de) |
+| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444680891) |
 
 ## Last 7 Days
 
@@ -68,13 +55,10 @@ All matching jobs found in the past week.
 | Marketing Manager (Japanese) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444336593) |
 | Japanese Content Specialist / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444320839) |
 
-### HR Jobs (Olympia, WA area) (82 results)
+### HR Jobs (Olympia, WA area) (83 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR & Payroll Generalist | King Electrical Mfg. Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439671535) |
-| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442463508) |
-| HRIS Analyst | Robert Half | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442469264) |
 | HR & Payroll Generalist | King Electrical Manufacturing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=380bc32065504bb0) |
 | Human Resources Assistant (MILITARY/Office Automation). | USMEPCOM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442511836) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441791322) |
@@ -154,6 +138,10 @@ All matching jobs found in the past week.
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441893586) |
 | Human Resources Coordinator | International Community Health Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445270002) |
 | Business Partner, People Operations | Unico Properties LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444644448) |
+| Administrative Manager & Human Resources Coordinator | Intuitus | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86ad213411dce7de) |
+| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444680891) |
 
 <!-- DAILY_REPORT_END -->
 
