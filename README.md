@@ -19,13 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-26)
+## Daily Job Report (2026-07-27)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Financial Documents Specialist (Japanese) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=763c6600e745706e) |
+| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
+| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444879731) |
+| Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
+| Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 
 ### HR Jobs (Olympia, WA area) (4 results)
 
@@ -40,7 +46,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (10 results)
+### Japanese Jobs (Remote) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -54,6 +60,10 @@ All matching jobs found in the past week.
 | Technical Translator (Freelance/Remote) | Translation Management Unit - Afghan Notary Public | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=2d0bded9e9b63ae3) |
 | Marketing Manager (Japanese) / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444336593) |
 | Japanese Content Specialist / $70/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444320839) |
+| Financial Documents Specialist (Japanese) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=763c6600e745706e) |
+| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444879731) |
+| Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
+| Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 
 ### HR Jobs (Olympia, WA area) (83 results)
 
