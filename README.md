@@ -33,14 +33,13 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
 | Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Administrative Manager & Human Resources Coordinator | Intuitus | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86ad213411dce7de) |
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444680891) |
+| Human Resources Coordinator | Care Healthcare of Washington | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa8419b94af2921e) |
+| HR Consultant-Part-time (Back Office Firm) | Making A Difference Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c367f97527b831f) |
+| Human Resources Assistant | AtWork Personnel | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4444842834) |
 
 ## Last 7 Days
 
@@ -65,14 +64,10 @@ All matching jobs found in the past week.
 | Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
 | Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 
-### HR Jobs (Olympia, WA area) (83 results)
+### HR Jobs (Olympia, WA area) (82 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR & Payroll Generalist | King Electrical Manufacturing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=380bc32065504bb0) |
-| Human Resources Assistant (MILITARY/Office Automation). | USMEPCOM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442511836) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441791322) |
-| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442024906) |
 | Senior HR Business Partner, Human Resources | PATH | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ce0f5d706e22bb33) |
 | Senior HR Generalist - Emergency Hire | Puyallup Tribal Health Authority | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=553f8bfc97c4a5cb) |
 | Department Staff HR Specialist | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=27a72715168c5473) |
@@ -152,6 +147,9 @@ All matching jobs found in the past week.
 | Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444680891) |
+| Human Resources Coordinator | Care Healthcare of Washington | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa8419b94af2921e) |
+| HR Consultant-Part-time (Back Office Firm) | Making A Difference Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c367f97527b831f) |
+| Human Resources Assistant | AtWork Personnel | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4444842834) |
 
 <!-- DAILY_REPORT_END -->
 
