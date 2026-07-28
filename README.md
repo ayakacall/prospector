@@ -19,19 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-27)
+## Daily Job Report (2026-07-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Financial Documents Specialist (Japanese) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=763c6600e745706e) |
-| Japanese Language Expert - Remote | YO HR Consultancy | nan | [Apply](https://www.linkedin.com/jobs/view/4431004014) |
-| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444879731) |
-| Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
-| Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
+| Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
 
 ### HR Jobs (Olympia, WA area) (3 results)
 
@@ -45,14 +41,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (14 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Medical Writer (Japanese/English) | Envision Pharma Group | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=aa5e9d42577f9c69) |
-| Japanese - Business Analyst P0 Evals | CareerFlow | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f56ec63e8a8357d9) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Wyoming, United States | [Apply](https://www.linkedin.com/jobs/view/4344923245) |
-| Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | North Dakota, United States | [Apply](https://www.linkedin.com/jobs/view/4345030781) |
 | Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4344863547) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
@@ -63,6 +55,7 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444879731) |
 | Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
 | Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
+| Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
 
 ### HR Jobs (Olympia, WA area) (82 results)
 
