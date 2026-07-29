@@ -19,15 +19,20 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-07-28)
+## Daily Job Report (2026-07-29)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
+| Senior Ecosystem Sales Manager, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ce7ae0d3a561eb97) |
+| HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443274335) |
+| HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443278133) |
+| HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443263899) |
+| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436537639) |
+| Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -55,11 +60,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese &amp; English Linguistic Projects (Remote) | Sigma AI | America, IA | [Apply](https://www.linkedin.com/jobs/view/4442681788) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/4344863547) |
 | Remote Interpreter (Japanese/English) - AI Trainer | DataAnnotation | Virginia, United States | [Apply](https://www.linkedin.com/jobs/view/4344903355) |
 | Technical Translator (Freelance/Remote) | Translation Management Unit - Afghan Notary Public | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=2d0bded9e9b63ae3) |
@@ -70,6 +74,10 @@ All matching jobs found in the past week.
 | Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
 | Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 | Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
+| Senior Ecosystem Sales Manager, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ce7ae0d3a561eb97) |
+| HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443274335) |
+| HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443278133) |
+| HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443263899) |
 
 ### HR Jobs (Olympia, WA area) (85 results)
 
