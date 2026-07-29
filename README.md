@@ -34,27 +34,29 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436537639) |
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4436551005) |
 
-### HR Jobs (Olympia, WA area) (17 results)
+### HR Jobs (Olympia, WA area) (19 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator | Hart Plumbers, Electricians, & HVAC Technicians | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=95602b8813b6cd36) |
-| HR Coordinator | Hart Plumbers, Electricians, & HVAC Technicians | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721c18637ff696bf) |
-| Benefits Administrator (HRC2) - Olympia / Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a786b4da9104ab0) |
-| Human Resources Coordinator | Uline | Lacey, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fcf65e58397c972b) |
-| Human Resources Coordinator | Uline | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dcdcc62c4c210bd1) |
-| Human Resources Coordinator | Uline | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2276d551cc7c2739) |
-| Human Resources Coordinator | Uline | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0446854f2cd7f083) |
-| Human Resources Coordinator | Uline | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a339362ce38534a0) |
-| Sr. Manager - HRBP | Expedia Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cc95577ee29fa32b) |
-| HR Advisor - Corporate Merchandising and Operations - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445476788) |
-| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445158849) |
-| DSHS OOS HR Operations Manager | Washington State Department of Social and Health Services | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4446143391) |
-| Human Resources Coordinator | Uline | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4445401469) |
-| Human Resources Coordinator | Uline | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4445199511) |
-| HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445472230) |
-| Human Resources Coordinator | Uline | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445403445) |
+| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1eb574af38ef8966) |
+| Director of People Operations | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=050578f76b3b1963) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3fcb8c40cb13d68) |
+| HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6101955a4c52bd28) |
+| HR Strategy & Operations Manager - TA Transformation | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=70449237885518ce) |
+| Interim HR Manager & Compensation Specialist | Watchguard Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0417c36ece3d6ac) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b6e1bf33e17223a) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bdd43230432495c) |
+| Senior Human Resources Analyst - Limited Term | City of Tukwila | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=942f79275f44333b) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
+| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4445777471) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4446500515) |
+| Director of Human Resources | Navitas Partners, LLC | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445780214) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445752272) |
+| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237480) |
+| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446520669) |
+| HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
+| Interim HR Manager & Compensation Specialist | WatchGuard Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445787218) |
 
 ## Last 7 Days
 
@@ -79,18 +81,10 @@ All matching jobs found in the past week.
 | HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443278133) |
 | HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443263899) |
 
-### HR Jobs (Olympia, WA area) (85 results)
+### HR Jobs (Olympia, WA area) (94 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721dae9cb71ba5ab) |
-| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6104d3889d9ca52b) |
-| HR Generalist & Culture Lead (Part-Time) | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ee06e9463b65693f) |
-| Human Resources Assistant | Springfield Local School District | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d3f623c2a987e31) |
-| People Operations Manager | Sleep Doctor | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=19cc6aa7f8b47b56) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443368079) |
-| People Partner | Twitch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443726246) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4443127250) |
 | HR Generalist | Sysco | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=87c37720fc8373d4) |
 | Sr. System Analyst - HR Systems - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ca12f8fc114d639e) |
 | HR Manager - SEA | Worldwide Flight Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ab850cb606de36d2) |
@@ -168,6 +162,23 @@ All matching jobs found in the past week.
 | Human Resources Coordinator | Uline | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4445199511) |
 | HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445472230) |
 | Human Resources Coordinator | Uline | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445403445) |
+| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1eb574af38ef8966) |
+| Director of People Operations | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=050578f76b3b1963) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3fcb8c40cb13d68) |
+| HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6101955a4c52bd28) |
+| HR Strategy & Operations Manager - TA Transformation | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=70449237885518ce) |
+| Interim HR Manager & Compensation Specialist | Watchguard Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0417c36ece3d6ac) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b6e1bf33e17223a) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bdd43230432495c) |
+| Senior Human Resources Analyst - Limited Term | City of Tukwila | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=942f79275f44333b) |
+| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4445777471) |
+| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4446500515) |
+| Director of Human Resources | Navitas Partners, LLC | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445780214) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445752272) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237480) |
+| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446520669) |
+| HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
+| Interim HR Manager & Compensation Specialist | WatchGuard Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445787218) |
 
 <!-- DAILY_REPORT_END -->
 
