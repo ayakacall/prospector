@@ -29,29 +29,20 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Senior SOC2 Auditor - Japanese Speaker | Insight Assurance | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cfa9d4525adefede) |
 
-### HR Jobs (Olympia, WA area) (19 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1eb574af38ef8966) |
-| Director of People Operations | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=050578f76b3b1963) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3fcb8c40cb13d68) |
-| HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6101955a4c52bd28) |
-| HR Strategy & Operations Manager - TA Transformation | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=70449237885518ce) |
-| Interim HR Manager & Compensation Specialist | Watchguard Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0417c36ece3d6ac) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b6e1bf33e17223a) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bdd43230432495c) |
-| Senior Human Resources Analyst - Limited Term | City of Tukwila | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=942f79275f44333b) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4429183000) |
-| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4445777471) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4446500515) |
-| Director of Human Resources | Navitas Partners, LLC | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445780214) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445752272) |
-| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237480) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446520669) |
-| HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
-| Interim HR Manager & Compensation Specialist | WatchGuard Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445787218) |
+| Senior People Partner | Herrera Environmental Consultants, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c02de682552ad320) |
+| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=91c41a952d7e6fc1) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434825614) |
+| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444504136) |
+| Payroll, Benefits & HRIS Manager | LHH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446451265) |
+| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4446486352) |
+| Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
+| Field HR Partner | ABM Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444771737) |
+| Senior HRIS Analyst | We. Communications | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438512561) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446096929) |
 
 ## Last 7 Days
 
@@ -75,24 +66,10 @@ All matching jobs found in the past week.
 | HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443263899) |
 | Senior SOC2 Auditor - Japanese Speaker | Insight Assurance | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cfa9d4525adefede) |
 
-### HR Jobs (Olympia, WA area) (94 results)
+### HR Jobs (Olympia, WA area) (89 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Sysco | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=87c37720fc8373d4) |
-| Sr. System Analyst - HR Systems - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ca12f8fc114d639e) |
-| HR Manager - SEA | Worldwide Flight Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ab850cb606de36d2) |
-| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=80387c45512914fd) |
-| HR Specialist (Temporary) - Department of Global Health | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3a6a79b5ede2a364) |
-| HR Generalist | SkyChefs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=23d71e357cdef204) |
-| HR Business Partner Manager, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d4e0ca28d012bab) |
-| HR Business Partner, AAI | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7233b6d25cf6f3f1) |
-| Senior HR Compliance Partner | REI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444274202) |
-| Human Resources Manager | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443400204) |
-| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
-| Assistant Human Resources Officer (NAF) NF-04. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4443783756) |
-| Human Resources Assistant | HumanGood | Des Moines, WA | [Apply](https://www.linkedin.com/jobs/view/4443170943) |
-| HR Manager - SEA | Worldwide Flight Services (WFS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443824016) |
 | Field HR Partner | ABM Industries Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3defa2e72b550cf9) |
 | Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=02522ebc1cee620e) |
 | Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d71a5799143f3ed8) |
@@ -173,6 +150,15 @@ All matching jobs found in the past week.
 | Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446520669) |
 | HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
 | Interim HR Manager & Compensation Specialist | WatchGuard Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445787218) |
+| Senior People Partner | Herrera Environmental Consultants, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c02de682552ad320) |
+| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=91c41a952d7e6fc1) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434825614) |
+| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444504136) |
+| Payroll, Benefits & HRIS Manager | LHH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446451265) |
+| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4446486352) |
+| Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
+| Field HR Partner | ABM Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444771737) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446096929) |
 
 <!-- DAILY_REPORT_END -->
 
