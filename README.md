@@ -32,20 +32,25 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446760990) |
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446780069) |
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior People Partner | Herrera Environmental Consultants, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c02de682552ad320) |
-| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=91c41a952d7e6fc1) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434825614) |
-| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444504136) |
-| Payroll, Benefits & HRIS Manager | LHH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446451265) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4446486352) |
-| Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
-| Field HR Partner | ABM Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444771737) |
-| Senior HRIS Analyst | We. Communications | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4438512561) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446096929) |
+| HR Onboarding Coordinator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84b64ed921ec7b55) |
+| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de2ef393d9fc2bed) |
+| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a05600baaffd0c10) |
+| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d390b56757aa36f) |
+| Human Resources Administrator | BlueCore Power, LLC | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0f0faaaab5560b57) |
+| Human Resources Expert | Target | Gig Harbor, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fec421fd282b6fff) |
+| HR Onboarding Coordinator | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445069955) |
+| Human Resources Coordinator | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4446791938) |
+| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444067545) |
+| Human Resources Assistant | MARTHA AND MARY HEALTH SERVICES | Poulsbo, WA | [Apply](https://www.linkedin.com/jobs/view/4446949810) |
+| Human Resources Expert | Target | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4447009979) |
+| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436102587) |
+| HR & Employment Coordinator | KWA (Korean Women's Association) | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4447065545) |
+| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
+| HRIS Data Specialist (2026-0628) | Valley Medical Center & Clinics | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4438501454) |
 
 ## Last 7 Days
 
@@ -72,36 +77,10 @@ All matching jobs found in the past week.
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446760990) |
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446780069) |
 
-### HR Jobs (Olympia, WA area) (89 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Field HR Partner | ABM Industries Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3defa2e72b550cf9) |
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=02522ebc1cee620e) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d71a5799143f3ed8) |
-| HR Generalist | nan | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=38573380ad722953) |
-| Human Resources Specialist - Leaves and Accommodations | DESC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3aa04d6d242c8842) |
-| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d8b5f877e4f2ffc) |
-| Faculty Recruitment Operations Specialist - School of Medicine Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=007b9403d4d5adca) |
-| People Operations & Systems Specialist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b83ee1c2d009696a) |
-| Human Resources Generalist FT Exempt w/Benefits | Navy Exchange | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61a4758c044c19cd) |
-| Human Resources Coordinator - Security | GardaWorld Security Services US | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e6dd93b6f0b1ab82) |
-| Academic Human Resources Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b88f07857de262c8) |
-| Associate Director of Human Resources | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4500635b7e6a128d) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d31d9c7f157ef6e) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7b523d4c57e15e9) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443890752) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443890753) |
-| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444448204) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444469741) |
-| Sr HRBP, Prime Video Exp Tech, Prime Video Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444487470) |
-| Associate Director of Human Resources | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444721028) |
-| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444067545) |
-| Human Resources Specialist | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444790527) |
-| Human Resources Generalist | Securitas Global Clients America | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444936345) |
-| Faculty Recruitment Operations Specialist - School of Medicine Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444763898) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4444029247) |
-| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4444033126) |
 | Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dad343835a5f2f94) |
 | Human Resources Coordinator | International Community Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1af62501136728e5) |
 | HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=493aecabbd244d44) |
@@ -165,6 +144,18 @@ All matching jobs found in the past week.
 | Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
 | Field HR Partner | ABM Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444771737) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446096929) |
+| HR Onboarding Coordinator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84b64ed921ec7b55) |
+| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de2ef393d9fc2bed) |
+| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a05600baaffd0c10) |
+| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d390b56757aa36f) |
+| Human Resources Administrator | BlueCore Power, LLC | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0f0faaaab5560b57) |
+| Human Resources Expert | Target | Gig Harbor, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fec421fd282b6fff) |
+| HR Onboarding Coordinator | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445069955) |
+| Human Resources Coordinator | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4446791938) |
+| Human Resources Assistant | MARTHA AND MARY HEALTH SERVICES | Poulsbo, WA | [Apply](https://www.linkedin.com/jobs/view/4446949810) |
+| Human Resources Expert | Target | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4447009979) |
+| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436102587) |
+| HR & Employment Coordinator | KWA (Korean Women's Association) | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4447065545) |
 
 <!-- DAILY_REPORT_END -->
 
