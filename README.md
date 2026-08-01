@@ -31,25 +31,21 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4447561439) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Onboarding Coordinator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84b64ed921ec7b55) |
-| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de2ef393d9fc2bed) |
-| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a05600baaffd0c10) |
-| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d390b56757aa36f) |
-| Human Resources Administrator | BlueCore Power, LLC | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0f0faaaab5560b57) |
-| Human Resources Expert | Target | Gig Harbor, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fec421fd282b6fff) |
-| HR Onboarding Coordinator | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445069955) |
-| Human Resources Coordinator | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4446791938) |
-| SENIOR DIRECTOR, HUMAN RESOURCES | Lindblad Expeditions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444067545) |
-| Human Resources Assistant | MARTHA AND MARY HEALTH SERVICES | Poulsbo, WA | [Apply](https://www.linkedin.com/jobs/view/4446949810) |
-| Human Resources Expert | Target | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4447009979) |
-| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436102587) |
-| HR & Employment Coordinator | KWA (Korean Women's Association) | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4447065545) |
-| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
-| HRIS Data Specialist (2026-0628) | Valley Medical Center & Clinics | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4438501454) |
+| HR Assistant | Tacoma Screw Products | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=afe51d7ecb7b7fcf) |
+| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a0def753120de07) |
+| Human Resources Manager | Inventech Marine Solutions | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d20a782b1f43999d) |
+| HR Payroll Administrator | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0881b7baec1e4ed6) |
+| Associate Director, Academic Hiring Experience - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cdde6d4254617b59) |
+| HR Reinvention Consultant, Banking | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3e61387aec05c470) |
+| HR Reinvention Consulting Senior Manager, Capital Markets | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=52d466ca0a18f799) |
+| HR Reinvention Consulting Manager, Insurance | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=794853639c55f7c0) |
+| WDVA Human Resources Manager, Full-Time Permanent, Olympia Central Office | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe42bf2d7502d60) |
+| Advanced Cyber Threat Response & Forensics Lead/Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419873085) |
+| Human Resources Coordinator / Weekly Paychecks! | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4447588747) |
 
 ## Last 7 Days
 
@@ -76,24 +72,10 @@ All matching jobs found in the past week.
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4447561439) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager 3 | Sodexo | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dad343835a5f2f94) |
-| Human Resources Coordinator | International Community Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1af62501136728e5) |
-| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=493aecabbd244d44) |
-| Business Partner, People Operations | Unico Properties LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=04cae6cb04dd3225) |
-| Employee Success Specialist (HR) | TOURNESOL SITEWORKS | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3b384cd2c1d0dc38) |
-| Human Resources Generalist | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5012762b33d1f346) |
-| HR Strategy & Operations - Senior Associate | PwC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=30f34a5da607bca3) |
-| Human Resources Manager 3 | Sodexo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445272492) |
-| HR Partner, Human Resources, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4445306521) |
-| Human Resources Specialist - Leaves and Accommodations | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444989889) |
-| HR Business Partner - Full time, Day, Hybrid | Providence | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444632446) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441893586) |
-| Human Resources Coordinator | International Community Health Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445270002) |
-| Business Partner, People Operations | Unico Properties LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444644448) |
 | Administrative Manager & Human Resources Coordinator | Intuitus | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86ad213411dce7de) |
 | Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
@@ -155,6 +137,17 @@ All matching jobs found in the past week.
 | Human Resources Expert | Target | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4447009979) |
 | Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436102587) |
 | HR & Employment Coordinator | KWA (Korean Women's Association) | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4447065545) |
+| HR Assistant | Tacoma Screw Products | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=afe51d7ecb7b7fcf) |
+| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a0def753120de07) |
+| Human Resources Manager | Inventech Marine Solutions | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d20a782b1f43999d) |
+| HR Payroll Administrator | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0881b7baec1e4ed6) |
+| Associate Director, Academic Hiring Experience - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cdde6d4254617b59) |
+| HR Reinvention Consultant, Banking | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3e61387aec05c470) |
+| HR Reinvention Consulting Senior Manager, Capital Markets | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=52d466ca0a18f799) |
+| HR Reinvention Consulting Manager, Insurance | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=794853639c55f7c0) |
+| WDVA Human Resources Manager, Full-Time Permanent, Olympia Central Office | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe42bf2d7502d60) |
+| Advanced Cyber Threat Response & Forensics Lead/Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419873085) |
+| Human Resources Coordinator / Weekly Paychecks! | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4447588747) |
 
 <!-- DAILY_REPORT_END -->
 
