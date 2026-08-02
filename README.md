@@ -29,21 +29,15 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Assistant | Tacoma Screw Products | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=afe51d7ecb7b7fcf) |
-| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a0def753120de07) |
-| Human Resources Manager | Inventech Marine Solutions | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d20a782b1f43999d) |
-| HR Payroll Administrator | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0881b7baec1e4ed6) |
-| Associate Director, Academic Hiring Experience - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cdde6d4254617b59) |
-| HR Reinvention Consultant, Banking | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3e61387aec05c470) |
-| HR Reinvention Consulting Senior Manager, Capital Markets | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=52d466ca0a18f799) |
-| HR Reinvention Consulting Manager, Insurance | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=794853639c55f7c0) |
-| WDVA Human Resources Manager, Full-Time Permanent, Olympia Central Office | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe42bf2d7502d60) |
-| Advanced Cyber Threat Response & Forensics Lead/Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419873085) |
-| Human Resources Coordinator / Weekly Paychecks! | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4447588747) |
+| Human Resources Assistant I | Renton Technical College | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=736b844994a5d0d3) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4447493885) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
+| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
 
 ## Last 7 Days
 
@@ -71,7 +65,7 @@ All matching jobs found in the past week.
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -147,6 +141,8 @@ All matching jobs found in the past week.
 | WDVA Human Resources Manager, Full-Time Permanent, Olympia Central Office | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe42bf2d7502d60) |
 | Advanced Cyber Threat Response & Forensics Lead/Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419873085) |
 | Human Resources Coordinator / Weekly Paychecks! | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4447588747) |
+| Human Resources Assistant I | Renton Technical College | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=736b844994a5d0d3) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4447493885) |
 
 <!-- DAILY_REPORT_END -->
 
