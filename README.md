@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-02)
+## Daily Job Report (2026-08-03)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -65,14 +63,10 @@ All matching jobs found in the past week.
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (70 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Administrative Manager & Human Resources Coordinator | Intuitus | Port Orchard, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86ad213411dce7de) |
-| Mobility Operation Specialist - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444684966) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444692428) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444680891) |
 | Human Resources Coordinator | Care Healthcare of Washington | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa8419b94af2921e) |
 | HR Consultant-Part-time (Back Office Firm) | Making A Difference Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c367f97527b831f) |
 | Human Resources Assistant | AtWork Personnel | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4444842834) |
