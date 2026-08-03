@@ -27,28 +27,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Human Resources Assistant I | Renton Technical College | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=736b844994a5d0d3) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4447493885) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
-| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
+_No matching jobs found_
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (17 results)
+### Japanese Jobs (Remote) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Financial Documents Specialist (Japanese) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=763c6600e745706e) |
-| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444879731) |
-| Japanese Teacher / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444877690) |
-| Translator (Japanese) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4444896633) |
 | Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
 | Senior Ecosystem Sales Manager, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ce7ae0d3a561eb97) |
 | HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443274335) |
@@ -63,13 +53,10 @@ All matching jobs found in the past week.
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 
-### HR Jobs (Olympia, WA area) (70 results)
+### HR Jobs (Olympia, WA area) (67 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | Care Healthcare of Washington | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aa8419b94af2921e) |
-| HR Consultant-Part-time (Back Office Firm) | Making A Difference Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c367f97527b831f) |
-| Human Resources Assistant | AtWork Personnel | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4444842834) |
 | HR Coordinator | Hart Plumbers, Electricians, & HVAC Technicians | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=95602b8813b6cd36) |
 | HR Coordinator | Hart Plumbers, Electricians, & HVAC Technicians | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=721c18637ff696bf) |
 | Benefits Administrator (HRC2) - Olympia / Hybrid | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a786b4da9104ab0) |
