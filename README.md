@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-03)
+## Daily Job Report (2026-08-04)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -35,11 +35,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (13 results)
+### Japanese Jobs (Remote) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Interpreters U.S.A. Based (Remote) | MasterWord Services | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97213b2b3d39e846) |
 | Senior Ecosystem Sales Manager, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ce7ae0d3a561eb97) |
 | HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443274335) |
 | HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443278133) |
