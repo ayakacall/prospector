@@ -33,27 +33,20 @@ Jobs posted in the last 24 hours matching search criteria.
 | AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
 | Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
 
-### HR Jobs (Olympia, WA area) (17 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a37896ff1c4946cf) |
-| HR Manager | Menzies Aviation | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c3b22b535fd5787) |
-| HR Coordinator | Algas-SDI | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ccb21891611edcc4) |
-| Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fc23ee8ef43690e) |
-| HR Manager | Menzies Aviation | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=893621eae476b8e2) |
-| Administration / Human Resources | FireWater Restoration Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ff64a0378e71f924) |
-| HR Sr. Workplace Accommodations Specialist | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f3d1f183c4a6ad3) |
-| CCSS - Human Resources Coordinator | VIP Hospitality | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ada526a75a6cbab8) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=81bea7547e2f0468) |
-| HR Sr. Workplace Accommodations Specialist | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4448613112) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4446633178) |
-| CCSS - Human Resources Coordinator | VIP Hospitality, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448814989) |
-| Human Resources Manager | Pet Food Experts | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4448610143) |
-| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
+| Payroll/HR | Kelley Create | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d12dbc6202b5bf5) |
+| Academic HR Manager - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=85a7b4e690fa5267) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448854894) |
+| Administration / Human Resources | FireWater Restoration Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4446637249) |
+| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4448517358) |
+| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448506288) |
+| HR Manager | Menzies Aviation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449099152) |
+| HR Manager | Menzies Aviation LATAM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449094879) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
-| Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446606136) |
-| Director of Chronic Disease Coordination | YMCA of the USA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434954709) |
 
 ## Last 7 Days
 
@@ -73,7 +66,7 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -143,6 +136,15 @@ All matching jobs found in the past week.
 | Human Resources Manager | Pet Food Experts | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4448610143) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
 | Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446606136) |
+| Payroll/HR | Kelley Create | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d12dbc6202b5bf5) |
+| Academic HR Manager - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=85a7b4e690fa5267) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448854894) |
+| Administration / Human Resources | FireWater Restoration Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4446637249) |
+| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4448517358) |
+| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448506288) |
+| HR Manager | Menzies Aviation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449099152) |
+| HR Manager | Menzies Aviation LATAM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449094879) |
 
 <!-- DAILY_REPORT_END -->
 
