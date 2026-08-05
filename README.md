@@ -19,13 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-04)
+## Daily Job Report (2026-08-05)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
+| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
+| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
+| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
+| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -53,14 +59,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (12 results)
+### Japanese Jobs (Remote) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Ecosystem Sales Manager, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ce7ae0d3a561eb97) |
-| HR Documents Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443274335) |
-| HR Policy & Documentation Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443278133) |
-| HR Specialist (Japanese) / $55/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4443263899) |
 | Senior SOC2 Auditor - Japanese Speaker | Insight Assurance | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cfa9d4525adefede) |
 | Interpreter (Multiple Languages) – Independent Contractor (1099) | Speakwide | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=828f8a1df3285db1) |
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446760990) |
@@ -69,6 +71,7 @@ All matching jobs found in the past week.
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4447561439) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
+| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 
 ### HR Jobs (Olympia, WA area) (66 results)
 
