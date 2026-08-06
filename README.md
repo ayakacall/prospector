@@ -19,19 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-05)
+## Daily Job Report (2026-08-06)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
-| AI Quality Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430566442) |
-| AI Response Evaluator – Japanese / $15.3/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430570395) |
-| AI Content Evaluation Analyst (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430571680) |
-| Generative AI Evaluator (Japanese) / $15/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4430550987) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -52,11 +46,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (9 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior SOC2 Auditor - Japanese Speaker | Insight Assurance | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cfa9d4525adefede) |
 | Interpreter (Multiple Languages) – Independent Contractor (1099) | Speakwide | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=828f8a1df3285db1) |
 | Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446760990) |
 | Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446780069) |
@@ -66,27 +59,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1eb574af38ef8966) |
-| Director of People Operations | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=050578f76b3b1963) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3fcb8c40cb13d68) |
-| HR Strategy & Operations Consulting Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6101955a4c52bd28) |
-| HR Strategy & Operations Manager - TA Transformation | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=70449237885518ce) |
-| Interim HR Manager & Compensation Specialist | Watchguard Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0417c36ece3d6ac) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9b6e1bf33e17223a) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bdd43230432495c) |
-| Senior Human Resources Analyst - Limited Term | City of Tukwila | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=942f79275f44333b) |
-| Human Resources Coordinator | Harborstone Credit Union | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4445777471) |
-| Human Resources Business Partner | Summit Pacific Medical Center | Elma, WA | [Apply](https://www.linkedin.com/jobs/view/4446500515) |
-| Director of Human Resources | Navitas Partners, LLC | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445780214) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4445752272) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439237480) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446520669) |
-| HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
-| Interim HR Manager & Compensation Specialist | WatchGuard Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4445787218) |
 | Senior People Partner | Herrera Environmental Consultants, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c02de682552ad320) |
 | HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=91c41a952d7e6fc1) |
 | Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434825614) |
