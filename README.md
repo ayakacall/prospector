@@ -27,20 +27,27 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Payroll/HR | Kelley Create | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d12dbc6202b5bf5) |
-| Academic HR Manager - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=85a7b4e690fa5267) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448854894) |
-| Administration / Human Resources | FireWater Restoration Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4446637249) |
-| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4448517358) |
-| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448506288) |
-| HR Manager | Menzies Aviation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449099152) |
-| HR Manager | Menzies Aviation LATAM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449094879) |
+| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f267b1023814a653) |
+| Human Resources Technology Manager | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=919d02ac1eb0a43e) |
+| TTC HUMAN RESOURCES GENERALIST | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=913171d3ec858524) |
+| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Patrol | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=538ce019f24b023a) |
+| HR Director - Infrastructure Software | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=174562dc4d91813b) |
+| Human Resource Consultant 4 - EEO/HR Investigator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1833adc1a2549af) |
+| HR Advisor | The Talent World | Buckley, WA | [Apply](https://www.linkedin.com/jobs/view/4449903549) |
+| Human Resources Manager | Jobfu | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449100652) |
+| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | Seattle Public Utilities | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448073618) |
+| HR Generalist | Precision Castparts | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4432492100) |
+| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4444033126) |
+| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4449386293) |
+| Senior Human Resources Manager | SSP America | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4448053444) |
+| Human Resources Technology Manager | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449910716) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440876312) |
 
 ## Last 7 Days
 
@@ -59,19 +66,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior People Partner | Herrera Environmental Consultants, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c02de682552ad320) |
-| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=91c41a952d7e6fc1) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4434825614) |
-| HRIS Systems Administrator (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444504136) |
-| Payroll, Benefits & HRIS Manager | LHH | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446451265) |
-| Human Resources / Safety Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4446486352) |
-| Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
-| Field HR Partner | ABM Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444771737) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446096929) |
 | HR Onboarding Coordinator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84b64ed921ec7b55) |
 | HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de2ef393d9fc2bed) |
 | HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a05600baaffd0c10) |
@@ -121,6 +119,20 @@ All matching jobs found in the past week.
 | Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448506288) |
 | HR Manager | Menzies Aviation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449099152) |
 | HR Manager | Menzies Aviation LATAM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449094879) |
+| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f267b1023814a653) |
+| Human Resources Technology Manager | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=919d02ac1eb0a43e) |
+| TTC HUMAN RESOURCES GENERALIST | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=913171d3ec858524) |
+| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Patrol | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=538ce019f24b023a) |
+| HR Director - Infrastructure Software | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=174562dc4d91813b) |
+| Human Resource Consultant 4 - EEO/HR Investigator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1833adc1a2549af) |
+| HR Advisor | The Talent World | Buckley, WA | [Apply](https://www.linkedin.com/jobs/view/4449903549) |
+| Human Resources Manager | Jobfu | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449100652) |
+| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | Seattle Public Utilities | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448073618) |
+| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
+| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4449386293) |
+| Senior Human Resources Manager | SSP America | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4448053444) |
+| Human Resources Technology Manager | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449910716) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440876312) |
 
 <!-- DAILY_REPORT_END -->
 
