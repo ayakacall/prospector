@@ -19,17 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-07)
+## Daily Job Report (2026-08-08)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
-| Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
-| Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -55,13 +51,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Interpreter (Multiple Languages) – Independent Contractor (1099) | Speakwide | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=828f8a1df3285db1) |
-| Japanese Language Specialist / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446760990) |
-| Translator (Japanese - English) / $65/hr Remote | Crossing Hurdles | nan | [Apply](https://www.linkedin.com/jobs/view/4446780069) |
 | Looking for Native Bilingual Speaker | AAITS | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=142143a20b8969eb) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4447561439) |
 | Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
@@ -71,22 +64,10 @@ All matching jobs found in the past week.
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (76 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Onboarding Coordinator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=84b64ed921ec7b55) |
-| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=de2ef393d9fc2bed) |
-| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a05600baaffd0c10) |
-| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9d390b56757aa36f) |
-| Human Resources Administrator | BlueCore Power, LLC | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0f0faaaab5560b57) |
-| Human Resources Expert | Target | Gig Harbor, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fec421fd282b6fff) |
-| HR Onboarding Coordinator | State of Washington | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4445069955) |
-| Human Resources Coordinator | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4446791938) |
-| Human Resources Assistant | MARTHA AND MARY HEALTH SERVICES | Poulsbo, WA | [Apply](https://www.linkedin.com/jobs/view/4446949810) |
-| Human Resources Expert | Target | Gig Harbor, WA | [Apply](https://www.linkedin.com/jobs/view/4447009979) |
-| Mgr, HR Operations - HRIS - Seattle, WA (Hybrid) | Nordstrom | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4436102587) |
-| HR & Employment Coordinator | KWA (Korean Women's Association) | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4447065545) |
 | HR Assistant | Tacoma Screw Products | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=afe51d7ecb7b7fcf) |
 | Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a0def753120de07) |
 | Human Resources Manager | Inventech Marine Solutions | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d20a782b1f43999d) |
