@@ -27,25 +27,23 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Accounts Receivable, Payroll & HR Specialist | Teeter | Bonney Lake, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ac171e219d606723) |
-| Finance Associate (Accounts Receivable & Finance/HR Support) | African Community Housing and Development | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9da8be1f63a4526) |
-| Work Study- HR/Payroll Records (multiple openings) | Seattle Colleges District | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f96fabc48a7ad7c8) |
-| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2a6446083a060075) |
-| Oracle HCM Core HR Delivery Lead | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b53c2dd1ac4b4be0) |
-| Senior HR Services Specialist | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ef7af2554399d0c4) |
-| Human Resources Business Partner | Horton Lees Brogden Lighting Design Inc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d68a4c609cce5903) |
-| Human Resources Business Partner | Par Pacific Holdings | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cff3215c335a8c5) |
-| HR Operations Specialist II | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d92cdbd19b8ce94) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4449386293) |
-| Senior HR Services Specialist | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450645013) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
-| Business/HR Recruiter | Insight Global | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449752920) |
-| Recruiter, Human Resources | Downtown Seattle Association | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448711512) |
+| Human Resources Director (EMS3/DLS) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f7f1d08e6a68630) |
+| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a06d064f170f1f) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33901711b6e3442e) |
+| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
+| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
+| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450355819) |
+| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
+| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451021184) |
+| Senior HRIS Analyst | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420155156) |
+| Manager Human Resources Technology | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450345738) |
+| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441666723) |
 
 ## Last 7 Days
 
@@ -64,7 +62,7 @@ All matching jobs found in the past week.
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -132,6 +130,13 @@ All matching jobs found in the past week.
 | Senior HR Services Specialist | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450645013) |
 | Business/HR Recruiter | Insight Global | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449752920) |
 | Recruiter, Human Resources | Downtown Seattle Association | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448711512) |
+| Human Resources Director (EMS3/DLS) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f7f1d08e6a68630) |
+| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a06d064f170f1f) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33901711b6e3442e) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450355819) |
+| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451021184) |
+| Manager Human Resources Technology | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450345738) |
+| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441666723) |
 
 <!-- DAILY_REPORT_END -->
 
