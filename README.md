@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-08)
+## Daily Job Report (2026-08-09)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -49,34 +49,20 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Looking for Native Bilingual Speaker | AAITS | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=142143a20b8969eb) |
-| Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4447561439) |
-| Remote Japanese/English Interpreter and Translator for Global Automotive Company in Raymond, OH | OSI Engineering | nan | [Apply](https://www.linkedin.com/jobs/view/4447165068) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 | Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (71 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Assistant | Tacoma Screw Products | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=afe51d7ecb7b7fcf) |
-| Senior Human Resources Consultant | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a0def753120de07) |
-| Human Resources Manager | Inventech Marine Solutions | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d20a782b1f43999d) |
-| HR Payroll Administrator | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0881b7baec1e4ed6) |
-| Associate Director, Academic Hiring Experience - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cdde6d4254617b59) |
-| HR Reinvention Consultant, Banking | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3e61387aec05c470) |
-| HR Reinvention Consulting Senior Manager, Capital Markets | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=52d466ca0a18f799) |
-| HR Reinvention Consulting Manager, Insurance | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=794853639c55f7c0) |
-| WDVA Human Resources Manager, Full-Time Permanent, Olympia Central Office | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe42bf2d7502d60) |
-| Advanced Cyber Threat Response & Forensics Lead/Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4419873085) |
-| Human Resources Coordinator / Weekly Paychecks! | Logic Staffing | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4447588747) |
 | Human Resources Assistant I | Renton Technical College | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=736b844994a5d0d3) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4447493885) |
 | Human Resources Manager | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a37896ff1c4946cf) |
