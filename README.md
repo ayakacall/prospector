@@ -27,23 +27,13 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director (EMS3/DLS) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f7f1d08e6a68630) |
-| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a06d064f170f1f) |
-| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33901711b6e3442e) |
-| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
-| Human Resources Partner | Tessera | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4433262410) |
-| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450355819) |
-| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451021184) |
-| Senior HRIS Analyst | SSA Marine | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4420155156) |
-| Manager Human Resources Technology | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450345738) |
-| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441666723) |
+| Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
+| HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
+| Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
 
 ## Last 7 Days
 
@@ -59,7 +49,7 @@ All matching jobs found in the past week.
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -123,6 +113,9 @@ All matching jobs found in the past week.
 | HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451021184) |
 | Manager Human Resources Technology | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450345738) |
 | Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441666723) |
+| Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
+| HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
+| Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
 
 <!-- DAILY_REPORT_END -->
 
