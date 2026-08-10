@@ -27,13 +27,15 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (3 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
-| HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
-| Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
+| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
+| Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
+| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
 
 ## Last 7 Days
 
@@ -48,7 +50,7 @@ All matching jobs found in the past week.
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -113,6 +115,9 @@ All matching jobs found in the past week.
 | Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
 | HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
 | Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
+| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
+| Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
 
 <!-- DAILY_REPORT_END -->
 
