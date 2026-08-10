@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-09)
+## Daily Job Report (2026-08-10)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -39,22 +39,19 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=8e3f4af5eae99fa7) |
 | Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 | Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 
-### HR Jobs (Olympia, WA area) (63 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Assistant I | Renton Technical College | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=736b844994a5d0d3) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4447493885) |
 | Human Resources Manager | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a37896ff1c4946cf) |
 | HR Manager | Menzies Aviation | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c3b22b535fd5787) |
 | HR Coordinator | Algas-SDI | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ccb21891611edcc4) |
