@@ -29,15 +29,22 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
-| Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
-| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
-| People Operations Coordinator | Starwood Hotels | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4424610680) |
+| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=977253a8b079501f) |
+| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3105d511215b827) |
+| Payroll & Human Resources Assistant | PENINSULA SERVICES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82a5facee1675255) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e19a02a8797ba581) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42d5bd15a987785d) |
+| HR Partner, Stores Corp HRP | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1539214666fd29c8) |
+| Human Resources Specialist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4451841605) |
+| Human Resources Director | Washington State Health Care Authority | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4451427188) |
+| HR Partner, Stores Corp HRP | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452085517) |
+| HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451466733) |
+| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
 
 ## Last 7 Days
 
@@ -53,7 +60,7 @@ All matching jobs found in the past week.
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (75 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -121,6 +128,17 @@ All matching jobs found in the past week.
 | Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
 | Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
+| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=977253a8b079501f) |
+| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3105d511215b827) |
+| Payroll & Human Resources Assistant | PENINSULA SERVICES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82a5facee1675255) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e19a02a8797ba581) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42d5bd15a987785d) |
+| HR Partner, Stores Corp HRP | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1539214666fd29c8) |
+| Human Resources Specialist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4451841605) |
+| Human Resources Director | Washington State Health Care Authority | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4451427188) |
+| HR Partner, Stores Corp HRP | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452085517) |
+| HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451466733) |
+| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
 
 <!-- DAILY_REPORT_END -->
 
