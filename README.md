@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-10)
+## Daily Job Report (2026-08-11)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -41,7 +43,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -49,6 +51,7 @@ All matching jobs found in the past week.
 | Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
+| Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
 ### HR Jobs (Olympia, WA area) (64 results)
 
