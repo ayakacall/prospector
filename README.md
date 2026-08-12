@@ -27,22 +27,30 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (20 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=977253a8b079501f) |
-| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3105d511215b827) |
-| Payroll & Human Resources Assistant | PENINSULA SERVICES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82a5facee1675255) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e19a02a8797ba581) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42d5bd15a987785d) |
-| HR Partner, Stores Corp HRP | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1539214666fd29c8) |
-| Human Resources Specialist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4451841605) |
-| Human Resources Director | Washington State Health Care Authority | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4451427188) |
-| HR Partner, Stores Corp HRP | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452085517) |
-| HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451466733) |
+| HR Generalist / Onboarding & Employee Experience / $26.00–$35.00/hr / Full-Time | Larson Automotive Group | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd274c1d2f3d85f3) |
+| HR Recruiter | PG Partners | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=237abd222f60dbe4) |
+| Talent HR Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a78b59597f50c5dc) |
+| Human Resources Recruiter | Veterans Security Operations | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7459056fd9c73b99) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0921cee4430d372d) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0812f7040c31bc7) |
+| Human Resources Coordinator | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8794834c89c900) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4443022602) |
+| HR Business Partner, AMZL | Amazon | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4443023638) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4453011730) |
+| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
+| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443025834) |
 | Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451917526) |
+| Sr Human Resources Business Partner , SPX PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443012862) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443030606) |
+| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443023937) |
+| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443057153) |
+| Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443015863) |
+| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443060064) |
 
 ## Last 7 Days
 
@@ -58,7 +66,7 @@ All matching jobs found in the past week.
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -122,6 +130,24 @@ All matching jobs found in the past week.
 | HR Partner, Stores Corp HRP | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452085517) |
 | HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451466733) |
 | Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
+| HR Generalist / Onboarding & Employee Experience / $26.00–$35.00/hr / Full-Time | Larson Automotive Group | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd274c1d2f3d85f3) |
+| HR Recruiter | PG Partners | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=237abd222f60dbe4) |
+| Talent HR Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a78b59597f50c5dc) |
+| Human Resources Recruiter | Veterans Security Operations | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7459056fd9c73b99) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0921cee4430d372d) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0812f7040c31bc7) |
+| Human Resources Coordinator | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8794834c89c900) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4443022602) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4453011730) |
+| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
+| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443025834) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451917526) |
+| Sr Human Resources Business Partner , SPX PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443012862) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443030606) |
+| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443023937) |
+| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443057153) |
+| Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443015863) |
+| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443060064) |
 
 <!-- DAILY_REPORT_END -->
 
