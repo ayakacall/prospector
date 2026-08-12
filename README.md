@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-11)
+## Daily Job Report (2026-08-12)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (12 results)
 
@@ -60,25 +58,10 @@ All matching jobs found in the past week.
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 
-### HR Jobs (Olympia, WA area) (75 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Pet Food Experts Inc | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a37896ff1c4946cf) |
-| HR Manager | Menzies Aviation | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c3b22b535fd5787) |
-| HR Coordinator | Algas-SDI | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ccb21891611edcc4) |
-| Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fc23ee8ef43690e) |
-| HR Manager | Menzies Aviation | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=893621eae476b8e2) |
-| Administration / Human Resources | FireWater Restoration Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ff64a0378e71f924) |
-| HR Sr. Workplace Accommodations Specialist | Columbia Bank | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4f3d1f183c4a6ad3) |
-| CCSS - Human Resources Coordinator | VIP Hospitality | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ada526a75a6cbab8) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=81bea7547e2f0468) |
-| HR Sr. Workplace Accommodations Specialist | Columbia Bank | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4448613112) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4446633178) |
-| CCSS - Human Resources Coordinator | VIP Hospitality, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448814989) |
-| Human Resources Manager | Pet Food Experts | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4448610143) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4439238571) |
-| Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4446606136) |
 | Payroll/HR | Kelley Create | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d12dbc6202b5bf5) |
 | Academic HR Manager - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=85a7b4e690fa5267) |
 | Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448854894) |
