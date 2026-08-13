@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-12)
+## Daily Job Report (2026-08-13)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Amazon US E-Commerce Specialist – Japanese Consumer Brands (Remote) | Cyber Records | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5df4deb80b4ec4c3) |
 
 ### HR Jobs (Olympia, WA area) (20 results)
 
@@ -60,25 +62,16 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Patent Engineer - Chemist - Japanese Language Fluency | Osha Bergman Watanabe & Burton LLP | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=4f12c90ba93f6fe0) |
 | Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
 | Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
 | Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
+| Amazon US E-Commerce Specialist – Japanese Consumer Brands (Remote) | Cyber Records | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5df4deb80b4ec4c3) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Payroll/HR | Kelley Create | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0d12dbc6202b5bf5) |
-| Academic HR Manager - School of Medicine Dean’s Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=85a7b4e690fa5267) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448854894) |
-| Administration / Human Resources | FireWater Restoration Services | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4446637249) |
-| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4448517358) |
-| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448506288) |
-| HR Manager | Menzies Aviation | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449099152) |
-| HR Manager | Menzies Aviation LATAM | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449094879) |
 | Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f267b1023814a653) |
 | Human Resources Technology Manager | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=919d02ac1eb0a43e) |
 | TTC HUMAN RESOURCES GENERALIST | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=913171d3ec858524) |
