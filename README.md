@@ -31,20 +31,18 @@ Jobs posted in the last 24 hours matching search criteria.
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Administrative Assistant | Guardian Security Systems, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f169e9bde8ba830d) |
-| HR Manager | Motive Companies | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b5fb47e610a22df6) |
-| Human Resources Manager | Clark Construction | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=305db8a79c8ef434) |
-| Human Resources Coordinator/Administrator | CWD Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b7d2556809858de1) |
-| HR Operations & Recruitment Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=023f0aa72d1fd81c) |
-| Principal, HRBP, AWS PXT, Global Support | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=eaed0a5502ae8be5) |
-| HR Operations & Recruitment Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453357164) |
-| Human Resources Manager | Motive Workforce | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4452764186) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dd39b441999c9b89) |
+| HR Assistant | Cactus Restaurants | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00aad13d10dfc025) |
+| HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453243193) |
+| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
+| Human Resources Manager | Silver Bay Seafoods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450814173) |
 | Human Resources Manager | Levy Restaurants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453680207) |
-| Human Resources Manager | Clark Construction Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453399894) |
+| Human Resources Director | InCity Properties Holdings, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453239085) |
 
 ## Last 7 Days
 
@@ -60,23 +58,10 @@ All matching jobs found in the past week.
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
-### HR Jobs (Olympia, WA area) (65 results)
+### HR Jobs (Olympia, WA area) (59 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Accounts Receivable, Payroll & HR Specialist | Teeter | Bonney Lake, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ac171e219d606723) |
-| Finance Associate (Accounts Receivable & Finance/HR Support) | African Community Housing and Development | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9da8be1f63a4526) |
-| Work Study- HR/Payroll Records (multiple openings) | Seattle Colleges District | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f96fabc48a7ad7c8) |
-| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2a6446083a060075) |
-| Oracle HCM Core HR Delivery Lead | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b53c2dd1ac4b4be0) |
-| Senior HR Services Specialist | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ef7af2554399d0c4) |
-| Human Resources Business Partner | Horton Lees Brogden Lighting Design Inc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d68a4c609cce5903) |
-| Human Resources Business Partner | Par Pacific Holdings | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cff3215c335a8c5) |
-| HR Operations Specialist II | Fred Hutchinson Cancer Center | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8d92cdbd19b8ce94) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| Senior HR Services Specialist | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450645013) |
-| Business/HR Recruiter | Insight Global | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449752920) |
-| Recruiter, Human Resources | Downtown Seattle Association | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448711512) |
 | Human Resources Director (EMS3/DLS) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f7f1d08e6a68630) |
 | HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a06d064f170f1f) |
 | HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33901711b6e3442e) |
@@ -129,6 +114,13 @@ All matching jobs found in the past week.
 | Human Resources Manager | Motive Workforce | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4452764186) |
 | Human Resources Manager | Levy Restaurants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453680207) |
 | Human Resources Manager | Clark Construction Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453399894) |
+| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dd39b441999c9b89) |
+| HR Assistant | Cactus Restaurants | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00aad13d10dfc025) |
+| HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453243193) |
+| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
+| Human Resources Manager | Silver Bay Seafoods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450814173) |
+| Human Resources Director | InCity Properties Holdings, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453239085) |
 
 <!-- DAILY_REPORT_END -->
 
