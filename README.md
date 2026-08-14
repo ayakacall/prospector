@@ -19,15 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-13)
+## Daily Job Report (2026-08-14)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Amazon US E-Commerce Specialist – Japanese Consumer Brands (Remote) | Cyber Records | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5df4deb80b4ec4c3) |
+| Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
+| Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
+| Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -52,30 +54,16 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Online Japanese Teacher | YoumeCan Education | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=6e41a3ff5b17d41c) |
-| Annotator(Australian/Portuguese/Japanese) | Pro integrate llc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=b44adfe1887dffe4) |
-| Freelance Remote Interpreters - ASIAN Languages | Trans Gulf | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=403e3bdea5c333b0) |
 | Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 | Amazon US E-Commerce Specialist – Japanese Consumer Brands (Remote) | Cyber Records | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5df4deb80b4ec4c3) |
+| Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
+| Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
+| Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
-### HR Jobs (Olympia, WA area) (79 results)
+### HR Jobs (Olympia, WA area) (65 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f267b1023814a653) |
-| Human Resources Technology Manager | Port of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=919d02ac1eb0a43e) |
-| TTC HUMAN RESOURCES GENERALIST | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=913171d3ec858524) |
-| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Patrol | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=538ce019f24b023a) |
-| HR Director - Infrastructure Software | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=174562dc4d91813b) |
-| Human Resource Consultant 4 - EEO/HR Investigator | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a1833adc1a2549af) |
-| HR Advisor | The Talent World | Buckley, WA | [Apply](https://www.linkedin.com/jobs/view/4449903549) |
-| Human Resources Manager | Jobfu | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449100652) |
-| Short-Term (11 month) Temp or Out-of-Class (OOC) HR Operations Specialist (Personnel Specialist, Sr) | Seattle Public Utilities | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448073618) |
-| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4449386293) |
-| Senior Human Resources Manager | SSP America | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4448053444) |
-| Human Resources Technology Manager | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449910716) |
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4440876312) |
 | Accounts Receivable, Payroll & HR Specialist | Teeter | Bonney Lake, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ac171e219d606723) |
 | Finance Associate (Accounts Receivable & Finance/HR Support) | African Community Housing and Development | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a9da8be1f63a4526) |
 | Work Study- HR/Payroll Records (multiple openings) | Seattle Colleges District | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f96fabc48a7ad7c8) |
