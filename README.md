@@ -27,18 +27,22 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (8 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dd39b441999c9b89) |
-| HR Assistant | Cactus Restaurants | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00aad13d10dfc025) |
-| HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453243193) |
-| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
-| Human Resources Manager | Silver Bay Seafoods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450814173) |
-| Human Resources Manager | Levy Restaurants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453680207) |
-| Human Resources Director | InCity Properties Holdings, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453239085) |
+| HR Strategic Partner | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2518172776f1ab6) |
+| Lead People Partner | Socure | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2adda1e9de614be9) |
+| HR Administrator | ivy staffing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6f600b042871c7f1) |
+| HR Business Partner | Brookdale Senior Living | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e82dc60c32dd209) |
+| Human Resources Information System Specialist | Pikemann | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453707905) |
+| HR Business Partner | Brookdale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453707456) |
+| Lead People Partner | Socure | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454823687) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444920338) |
+| Senior Human Resources Business Partner | Restaurant Zone Recruiting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454536807) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454876614) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444939916) |
+| HR Strategic Partner | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454582178) |
 
 ## Last 7 Days
 
@@ -54,7 +58,7 @@ All matching jobs found in the past week.
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
-### HR Jobs (Olympia, WA area) (59 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -117,6 +121,18 @@ All matching jobs found in the past week.
 | Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
 | Human Resources Manager | Silver Bay Seafoods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450814173) |
 | Human Resources Director | InCity Properties Holdings, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453239085) |
+| HR Strategic Partner | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2518172776f1ab6) |
+| Lead People Partner | Socure | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2adda1e9de614be9) |
+| HR Administrator | ivy staffing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6f600b042871c7f1) |
+| HR Business Partner | Brookdale Senior Living | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e82dc60c32dd209) |
+| Human Resources Information System Specialist | Pikemann | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453707905) |
+| HR Business Partner | Brookdale | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453707456) |
+| Lead People Partner | Socure | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454823687) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444920338) |
+| Senior Human Resources Business Partner | Restaurant Zone Recruiting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454536807) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454876614) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444939916) |
+| HR Strategic Partner | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454582178) |
 
 <!-- DAILY_REPORT_END -->
 
