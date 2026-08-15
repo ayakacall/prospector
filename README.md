@@ -19,17 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-14)
+## Daily Job Report (2026-08-15)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
-| Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
-| Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (8 results)
 
