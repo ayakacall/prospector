@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-15)
+## Daily Job Report (2026-08-16)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -58,17 +58,10 @@ All matching jobs found in the past week.
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 
-### HR Jobs (Olympia, WA area) (71 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director (EMS3/DLS) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3f7f1d08e6a68630) |
-| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a06d064f170f1f) |
-| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33901711b6e3442e) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450355819) |
-| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451021184) |
-| Manager Human Resources Technology | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450345738) |
-| Senior Program Manager, People Operations | Anduril Industries | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441666723) |
 | Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
 | HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
 | Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
