@@ -29,12 +29,11 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/2147625050) |
+| Part-Time HR Generalist & Culture Lead | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cdf98fe01e0fe12) |
 
 ## Last 7 Days
 
@@ -51,7 +50,7 @@ All matching jobs found in the past week.
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 
-### HR Jobs (Olympia, WA area) (62 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -117,6 +116,7 @@ All matching jobs found in the past week.
 | Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444939916) |
 | HR Strategic Partner | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454582178) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/2147625050) |
+| Part-Time HR Generalist & Culture Lead | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cdf98fe01e0fe12) |
 
 <!-- DAILY_REPORT_END -->
 
