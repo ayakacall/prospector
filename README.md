@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-16)
+## Daily Job Report (2026-08-17)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 
 ### HR Jobs (Olympia, WA area) (2 results)
 
@@ -38,7 +40,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -47,14 +49,12 @@ All matching jobs found in the past week.
 | Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 
-### HR Jobs (Olympia, WA area) (65 results)
+### HR Jobs (Olympia, WA area) (62 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director (EMS3/DLS) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77cf570354aee7a8) |
-| HR & Administrator (Hybrid) | Torentify | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451083616) |
-| Human Resources Director | Kitsap Transit | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4449259564) |
 | Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
 | Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
