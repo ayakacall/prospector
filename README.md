@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-17)
+## Daily Job Report (2026-08-18)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
+| Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
 ### HR Jobs (Olympia, WA area) (1 results)
 
@@ -39,7 +39,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -49,14 +49,12 @@ All matching jobs found in the past week.
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
 | Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
+| Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (63 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=139dc4c67034923b) |
-| Human Resources Specialist | Girl Scouts of the USA | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=aec9ea8d3c1e61f5) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450971100) |
 | HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=977253a8b079501f) |
 | HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3105d511215b827) |
 | Payroll & Human Resources Assistant | PENINSULA SERVICES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82a5facee1675255) |
