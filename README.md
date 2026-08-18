@@ -29,21 +29,28 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (1 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Part-Time HR Generalist & Culture Lead | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cdf98fe01e0fe12) |
+| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c6ea407a16f38dd3) |
+| Staff & Student HR Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77b846a0751016fc) |
+| Human Resources Manager (Human Resources Consultant 4) | State of Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4338d8acfee43d02) |
+| Human Resources Business Partner (HRBP) or Senior HRBP | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452517040) |
+| Staff & Student HR Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455562147) |
+| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4454290037) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454292663) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444920338) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (7 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Foreign Language Instructors - Spanish, French, Italian, Japanese, Mandarin, Korean, Russian, Arabic | Ciao Languages LLC | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=adebdc82e22bf93c) |
 | Amazon US E-Commerce Specialist – Japanese Consumer Brands (Remote) | Cyber Records | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=5df4deb80b4ec4c3) |
 | Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
 | Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
@@ -51,7 +58,7 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -115,6 +122,14 @@ All matching jobs found in the past week.
 | HR Strategic Partner | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454582178) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/2147625050) |
 | Part-Time HR Generalist & Culture Lead | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cdf98fe01e0fe12) |
+| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c6ea407a16f38dd3) |
+| Staff & Student HR Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77b846a0751016fc) |
+| Human Resources Manager (Human Resources Consultant 4) | State of Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4338d8acfee43d02) |
+| Human Resources Business Partner (HRBP) or Senior HRBP | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452517040) |
+| Staff & Student HR Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455562147) |
+| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4454290037) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454292663) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
 
 <!-- DAILY_REPORT_END -->
 
