@@ -27,19 +27,33 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (23 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c6ea407a16f38dd3) |
-| Staff & Student HR Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77b846a0751016fc) |
-| Human Resources Manager (Human Resources Consultant 4) | State of Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4338d8acfee43d02) |
-| Human Resources Business Partner (HRBP) or Senior HRBP | Woodland Park Zoo | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452517040) |
-| Staff & Student HR Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455562147) |
-| Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4454290037) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454292663) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4444920338) |
-| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
+| Temporary Human Resources Generalist | The Lighthouse for the Blind, Inc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86979b9622c3db87) |
+| Head of HRBP, Global | AfterShip | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b2c0e972bd57a637) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f26b1789aaabf6e8) |
+| Payroll and HR Administrator | BMI Hospitality Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f3639411ce20c51) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4455901585) |
+| HR Generalist | Sysco | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4444212385) |
+| People Operations Partner | Whatnot | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454978132) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452852991) |
+| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454789553) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4454926199) |
+| Human Resources Manager | Westmont Hospitality | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455946111) |
+| Client HR Business Partner I - PEO | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4452588509) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454924220) |
+| HRIS Manager | Port of Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449910716) |
+| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455795242) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914486) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
+| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455908872) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455924194) |
+| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455789919) |
+| Senior HR Business Partner, AI Compute | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455901808) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455907842) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
 
 ## Last 7 Days
 
@@ -56,7 +70,7 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -117,6 +131,27 @@ All matching jobs found in the past week.
 | Human Resources Business Partner | Loar Group | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4454290037) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454292663) |
 | People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
+| Temporary Human Resources Generalist | The Lighthouse for the Blind, Inc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86979b9622c3db87) |
+| Head of HRBP, Global | AfterShip | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b2c0e972bd57a637) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f26b1789aaabf6e8) |
+| Payroll and HR Administrator | BMI Hospitality Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f3639411ce20c51) |
+| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4455901585) |
+| People Operations Partner | Whatnot | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454978132) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452852991) |
+| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454789553) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4454926199) |
+| Human Resources Manager | Westmont Hospitality | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455946111) |
+| Client HR Business Partner I - PEO | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4452588509) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454924220) |
+| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455795242) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914486) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
+| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455908872) |
+| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455924194) |
+| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455789919) |
+| Senior HR Business Partner, AI Compute | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455901808) |
+| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455907842) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
 
 <!-- DAILY_REPORT_END -->
 
