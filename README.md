@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-18)
+## Daily Job Report (2026-08-19)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -58,21 +56,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Business Partner_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=977253a8b079501f) |
-| HR Business Partner_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e3105d511215b827) |
-| Payroll & Human Resources Assistant | PENINSULA SERVICES | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82a5facee1675255) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e19a02a8797ba581) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42d5bd15a987785d) |
-| HR Partner, Stores Corp HRP | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1539214666fd29c8) |
-| Human Resources Specialist | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4451841605) |
-| Human Resources Director | Washington State Health Care Authority | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4451427188) |
-| HR Partner, Stores Corp HRP | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452085517) |
-| HRIS Manager | Merrill Gardens | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451466733) |
-| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
 | HR Generalist / Onboarding & Employee Experience / $26.00–$35.00/hr / Full-Time | Larson Automotive Group | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd274c1d2f3d85f3) |
 | HR Recruiter | PG Partners | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=237abd222f60dbe4) |
 | Talent HR Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a78b59597f50c5dc) |
