@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-19)
+## Daily Job Report (2026-08-20)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -70,28 +70,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist / Onboarding & Employee Experience / $26.00–$35.00/hr / Full-Time | Larson Automotive Group | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cd274c1d2f3d85f3) |
-| HR Recruiter | PG Partners | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=237abd222f60dbe4) |
-| Talent HR Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a78b59597f50c5dc) |
-| Human Resources Recruiter | Veterans Security Operations | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7459056fd9c73b99) |
-| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0921cee4430d372d) |
-| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d0812f7040c31bc7) |
-| Human Resources Coordinator | Port Madison Enterprises | Suquamish, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2e8794834c89c900) |
-| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4443022602) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4453011730) |
-| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
-| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443025834) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451917526) |
-| Sr Human Resources Business Partner , SPX PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443012862) |
-| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443030606) |
-| Principal HR Business Partner, Global Prime | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443023937) |
-| Principal HR Business Partner, eCommerce Services | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443057153) |
-| Sr. HR PM, Business Operations, Talent Acquisition Tech | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443015863) |
-| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443060064) |
 | HR Administrative Assistant | Guardian Security Systems, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f169e9bde8ba830d) |
 | HR Manager | Motive Companies | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b5fb47e610a22df6) |
 | Human Resources Manager | Clark Construction | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=305db8a79c8ef434) |
