@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-20)
+## Daily Job Report (2026-08-21)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -71,20 +71,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (83 results)
+### HR Jobs (Olympia, WA area) (73 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Administrative Assistant | Guardian Security Systems, Inc. | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f169e9bde8ba830d) |
-| HR Manager | Motive Companies | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b5fb47e610a22df6) |
-| Human Resources Manager | Clark Construction | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=305db8a79c8ef434) |
-| Human Resources Coordinator/Administrator | CWD Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b7d2556809858de1) |
-| HR Operations & Recruitment Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=023f0aa72d1fd81c) |
-| Principal, HRBP, AWS PXT, Global Support | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=eaed0a5502ae8be5) |
-| HR Operations & Recruitment Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453357164) |
-| Human Resources Manager | Motive Workforce | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4452764186) |
-| Human Resources Manager | Levy Restaurants | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453680207) |
-| Human Resources Manager | Clark Construction Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453399894) |
 | HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dd39b441999c9b89) |
 | HR Assistant | Cactus Restaurants | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00aad13d10dfc025) |
 | HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
