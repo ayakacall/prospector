@@ -27,51 +27,37 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (25 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98b2487de7ac9b94) |
-| Human Resources Partner | Tessera | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e3bd03ac3a83514) |
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1709289500ccc5b2) |
-| Human Resources Assistant | Redside Partners LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=202857281a8a9f47) |
-| HR Analyst – Compensation | Michels | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12eddef3647e1979) |
-| HR Business Partner II | HMSHost by Avolta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dff2d0afe5f2ee99) |
-| # Sr. HR Business Partner, eCommerce Services, eCommerce Services | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5b6a8f50a6ad6936) |
-| HR/Payroll Coordinator | Cedar River Healthcare Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a63c95b045f821fb) |
-| HR Coordinator | HOA Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d8add8afb1d0329) |
-| Protected Leave Specialist (HRC2) - Olympia | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4d7c91edcbd9a1b) |
-| HR Coordinator- US Corporate Services | Graham Construction | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=433203ac827ad429) |
-| 2nd shift Forklift Operator 23 to 24 hr | Professional Staff Northwest | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2c4812462d786128) |
-| Human Resources Partner (Fixed-Term) | Blue Origin | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=80539effc47bbc31) |
-| Human Resources Assistant | Cheema Freightlines LLC | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dcfdb0b89e5eb0a) |
-| People Operations Partner | Whatnot | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54262a2d1e94eedc) |
-| Human Resources Director | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7808a5a183728ae5) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=50d2b2d466667f6e) |
-| HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e213de9420001b7f) |
-| HR Director | Seattle CARE Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4443632856) |
-| Human Resources Partner | Tessera | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4455473287) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456408639) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453486948) |
+| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ad4eb8de787a7425) |
+| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=88499f0333ae16bc) |
+| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0da94f3fa9766093) |
+| Human Resources Partner - Employee Relations Specialist | Tessera | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4455473287) |
+| HR Business Partner - Global E-Commerce Logistics (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456023842) |
+| HR Business Partner, Field (Seattle) | Total Wine & More | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454136698) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455674840) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4456070978) |
 | People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456498091) |
-| Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453842240) |
-| Regional HR Business Partner | USG | Rainier, WA | [Apply](https://www.linkedin.com/jobs/view/4433136436) |
+| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457008252) |
+| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454134976) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456026385) |
+| HR Receptionist | SEKISUI Aerospace Corporation | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4457013479) |
+| HRIS & Talent Acquisition Systems/Tools Engineer | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418928577) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Technical Solutions Specialist (Japan) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=7be3d958b9cfd21f) |
-| Data Design Specialist (Bilingual in Japanese) at Major Japanese Bank | NSD International | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=22ce51605c9aef94) |
-| Japanese / English Project Manager (Remote) -Automation Manufacturer (36411) | Activ8 Recruitment & Solutions | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4454056507) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (85 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -148,6 +134,18 @@ All matching jobs found in the past week.
 | Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453486948) |
 | People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456498091) |
 | Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453842240) |
+| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ad4eb8de787a7425) |
+| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=88499f0333ae16bc) |
+| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0da94f3fa9766093) |
+| HR Business Partner - Global E-Commerce Logistics (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456023842) |
+| HR Business Partner, Field (Seattle) | Total Wine & More | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454136698) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455674840) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4456070978) |
+| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457008252) |
+| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454134976) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456026385) |
+| HR Receptionist | SEKISUI Aerospace Corporation | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4457013479) |
+| HRIS & Talent Acquisition Systems/Tools Engineer | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418928577) |
 
 <!-- DAILY_REPORT_END -->
 
