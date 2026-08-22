@@ -19,13 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-21)
+## Daily Job Report (2026-08-22)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (3 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=372977de81711ac7) |
+| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
 ### HR Jobs (Olympia, WA area) (14 results)
 
@@ -50,24 +54,20 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=366bf4528cc37fcb) |
 | Expatriate Specialist I - Japanese Bilingual, Eastern Time Zone preferred | Fifth Third Bank | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=306ac9c9cb4e488f) |
+| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=372977de81711ac7) |
+| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (85 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Coordinator (Bilingual) | Peak Landscape, Inc. | Milton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dd39b441999c9b89) |
-| HR Assistant | Cactus Restaurants | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=00aad13d10dfc025) |
-| HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453243193) |
-| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
-| Human Resources Manager | Silver Bay Seafoods, LLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4450814173) |
-| Human Resources Director | InCity Properties Holdings, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453239085) |
 | HR Strategic Partner | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2518172776f1ab6) |
 | Lead People Partner | Socure | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2adda1e9de614be9) |
 | HR Administrator | ivy staffing | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6f600b042871c7f1) |
