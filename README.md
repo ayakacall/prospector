@@ -27,14 +27,16 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e0480130e738dd3) |
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| Human Resources Director | Urban Accessories Inc. | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a8caf90264effaf) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456855960) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456810631) |
+| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4439396781) |
+| Sr. HRIS Analyst | Workday Talent Hub | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458108278) |
+| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
 
 ## Last 7 Days
 
@@ -49,11 +51,10 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (77 results)
+### HR Jobs (Olympia, WA area) (80 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Part-Time HR Generalist & Culture Lead | Vital Mechanical | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0cdf98fe01e0fe12) |
 | Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c6ea407a16f38dd3) |
 | Staff & Student HR Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=77b846a0751016fc) |
 | Human Resources Manager (Human Resources Consultant 4) | State of Washington | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4338d8acfee43d02) |
@@ -130,6 +131,10 @@ All matching jobs found in the past week.
 | Human Resources Director | King County District Court | King County, WA | [Apply](https://www.linkedin.com/jobs/view/4456259663) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456272483) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e0480130e738dd3) |
+| Human Resources Director | Urban Accessories Inc. | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a8caf90264effaf) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456855960) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456810631) |
+| Sr. HRIS Analyst | Workday Talent Hub | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458108278) |
 
 <!-- DAILY_REPORT_END -->
 
