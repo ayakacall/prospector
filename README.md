@@ -27,26 +27,24 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (16 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b29025c2b2fcd326) |
-| People Operations Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=37e7193fc9ff4bea) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=196de0e6aa348ac8) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2eeb49229835bf9d) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c3394e7bf959d15) |
-| HR Employee Services Analyst | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae5c0c4dc39098e8) |
-| Human Resources Generalist | Tessera | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=390dd6ebef3df0f1) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae4614003cb1e679) |
-| Human Resources Generalist | Tessera | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4457155524) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456559401) |
-| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458272858) |
+| STEP HR Apprentice (Must be a Nisqually Tribal Member) | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=612ae405066ca63f) |
+| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0431bf45e8487e2) |
+| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0f2106bceb92674) |
+| Human Resources Specialist (Generalist) - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459044068) |
+| Staffing and Recruitment Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458760597) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458746400) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455674840) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457627930) |
 | Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| HR Employee Services Analyst | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458299516) |
-| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458264856) |
-| Policy and Compliance, HR Specialist II, PXT- WWGS Policy and Compliance | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458270302) |
-| Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458240799) |
+| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456951363) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4446260571) |
+| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457620716) |
+| Human Resources Director | Career Strategies | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457493636) |
+| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457629921) |
 
 ## Last 7 Days
 
@@ -60,31 +58,10 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (87 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Temporary Human Resources Generalist | The Lighthouse for the Blind, Inc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86979b9622c3db87) |
-| Head of HRBP, Global | AfterShip | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b2c0e972bd57a637) |
-| HR Generalist | Valence Surface Technologies | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f26b1789aaabf6e8) |
-| Payroll and HR Administrator | BMI Hospitality Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f3639411ce20c51) |
-| Employee Relations Manager, Ops HR-ER | Amazon | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4455901585) |
-| People Operations Partner | Whatnot | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454978132) |
-| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452852991) |
-| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454789553) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4454926199) |
-| Human Resources Manager | Westmont Hospitality | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455946111) |
-| Client HR Business Partner I - PEO | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4452588509) |
-| HR Generalist | Valence Surface Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454924220) |
-| Senior Specialist, Business Operations & Engagement, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455795242) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914486) |
-| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455908872) |
-| Principal HR Business Partner, Global Finance, Finance & Global Business Services (FGBS) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455924194) |
-| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455789919) |
-| Senior HR Business Partner, AI Compute | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455901808) |
-| Sr. HR Business Partner, PXT, People eXperience and Technology (HR4HR), People eXperience and Technology (HR4HR) | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455907842) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
 | Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98b2487de7ac9b94) |
 | Human Resources Partner | Tessera | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e3bd03ac3a83514) |
 | Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1709289500ccc5b2) |
@@ -151,6 +128,18 @@ All matching jobs found in the past week.
 | Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458264856) |
 | Policy and Compliance, HR Specialist II, PXT- WWGS Policy and Compliance | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458270302) |
 | Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458240799) |
+| STEP HR Apprentice (Must be a Nisqually Tribal Member) | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=612ae405066ca63f) |
+| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0431bf45e8487e2) |
+| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0f2106bceb92674) |
+| Human Resources Specialist (Generalist) - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459044068) |
+| Staffing and Recruitment Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458760597) |
+| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458746400) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457627930) |
+| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456951363) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4446260571) |
+| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457620716) |
+| Human Resources Director | Career Strategies | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457493636) |
+| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457629921) |
 
 <!-- DAILY_REPORT_END -->
 
