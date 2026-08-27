@@ -27,24 +27,22 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| STEP HR Apprentice (Must be a Nisqually Tribal Member) | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=612ae405066ca63f) |
-| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0431bf45e8487e2) |
-| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0f2106bceb92674) |
-| Human Resources Specialist (Generalist) - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459044068) |
-| Staffing and Recruitment Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458760597) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458746400) |
-| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455674840) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457627930) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456951363) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4446260571) |
-| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457620716) |
-| Human Resources Director | Career Strategies | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457493636) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457629921) |
+| HR & Operations Manager | PUBG STUDIOS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25e6ed70e5e02883) |
+| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54f37e9744ec377e) |
+| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62ac81c7face19c1) |
+| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e08bbcb19cd8d93) |
+| HR Business Partner - Full time, Day, Hybrid (Limited Term Engagement) | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=786fcc1d4e6dd8a6) |
+| Human Resources Specialist | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2c826ed71126d60) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9afd33a05df2d8fa) |
+| Human Resources Staffing Coordinator | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da1179076ee7cbdd) |
+| Human Resources Specialist | Bethel School District | Spanaway, WA | [Apply](https://www.linkedin.com/jobs/view/4459613095) |
+| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458264856) |
+| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
+| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459630719) |
 
 ## Last 7 Days
 
@@ -58,7 +56,7 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (55 results)
+### HR Jobs (Olympia, WA area) (65 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -117,6 +115,16 @@ All matching jobs found in the past week.
 | HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457620716) |
 | Human Resources Director | Career Strategies | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457493636) |
 | HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457629921) |
+| HR & Operations Manager | PUBG STUDIOS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25e6ed70e5e02883) |
+| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54f37e9744ec377e) |
+| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62ac81c7face19c1) |
+| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e08bbcb19cd8d93) |
+| HR Business Partner - Full time, Day, Hybrid (Limited Term Engagement) | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=786fcc1d4e6dd8a6) |
+| Human Resources Specialist | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2c826ed71126d60) |
+| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9afd33a05df2d8fa) |
+| Human Resources Staffing Coordinator | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da1179076ee7cbdd) |
+| Human Resources Specialist | Bethel School District | Spanaway, WA | [Apply](https://www.linkedin.com/jobs/view/4459613095) |
+| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459630719) |
 
 <!-- DAILY_REPORT_END -->
 
