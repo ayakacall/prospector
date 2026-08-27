@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-26)
+## Daily Job Report (2026-08-27)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -58,33 +58,10 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (55 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=98b2487de7ac9b94) |
-| Human Resources Partner | Tessera | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4e3bd03ac3a83514) |
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1709289500ccc5b2) |
-| Human Resources Assistant | Redside Partners LLC | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=202857281a8a9f47) |
-| HR Analyst – Compensation | Michels | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12eddef3647e1979) |
-| HR Business Partner II | HMSHost by Avolta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dff2d0afe5f2ee99) |
-| # Sr. HR Business Partner, eCommerce Services, eCommerce Services | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5b6a8f50a6ad6936) |
-| HR/Payroll Coordinator | Cedar River Healthcare Center | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a63c95b045f821fb) |
-| HR Coordinator | HOA Talent | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2d8add8afb1d0329) |
-| Protected Leave Specialist (HRC2) - Olympia | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e4d7c91edcbd9a1b) |
-| HR Coordinator- US Corporate Services | Graham Construction | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=433203ac827ad429) |
-| 2nd shift Forklift Operator 23 to 24 hr | Professional Staff Northwest | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2c4812462d786128) |
-| Human Resources Partner (Fixed-Term) | Blue Origin | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=80539effc47bbc31) |
-| Human Resources Assistant | Cheema Freightlines LLC | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dcfdb0b89e5eb0a) |
-| People Operations Partner | Whatnot | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54262a2d1e94eedc) |
-| Human Resources Director | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7808a5a183728ae5) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=50d2b2d466667f6e) |
-| HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e213de9420001b7f) |
-| Human Resources Partner | Tessera | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4455473287) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456408639) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453486948) |
-| People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456498091) |
-| Sr. Human Resources Generalist | Casey Family Programs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4453842240) |
 | Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ad4eb8de787a7425) |
 | HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=88499f0333ae16bc) |
 | Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0da94f3fa9766093) |
