@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-27)
+## Daily Job Report (2026-08-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -56,22 +56,10 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (65 results)
+### HR Jobs (Olympia, WA area) (53 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ad4eb8de787a7425) |
-| HR Receptionist | SEKISUI Aerospace | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=88499f0333ae16bc) |
-| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0da94f3fa9766093) |
-| HR Business Partner - Global E-Commerce Logistics (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456023842) |
-| HR Business Partner, Field (Seattle) | Total Wine & More | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454136698) |
-| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455674840) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4456070978) |
-| Senior HR Generalist ** 2 Open Positions! ** | Neighborcare Health | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457008252) |
-| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454134976) |
-| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456026385) |
-| HR Receptionist | SEKISUI Aerospace Corporation | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4457013479) |
-| HRIS & Talent Acquisition Systems/Tools Engineer | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4418928577) |
 | Human Resources Generalist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e2fefc26415c70f0) |
 | HR Generalist | Emish Market | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2d20a4203b01a6a) |
 | People Operations & Community Specialist | Paula's Choice Skincare | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4a8f21f1e02c1cb) |
