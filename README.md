@@ -27,22 +27,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR & Operations Manager | PUBG STUDIOS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25e6ed70e5e02883) |
-| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54f37e9744ec377e) |
-| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62ac81c7face19c1) |
-| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e08bbcb19cd8d93) |
-| HR Business Partner - Full time, Day, Hybrid (Limited Term Engagement) | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=786fcc1d4e6dd8a6) |
-| Human Resources Specialist | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2c826ed71126d60) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9afd33a05df2d8fa) |
-| Human Resources Staffing Coordinator | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da1179076ee7cbdd) |
-| Human Resources Specialist | Bethel School District | Spanaway, WA | [Apply](https://www.linkedin.com/jobs/view/4459613095) |
-| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458264856) |
-| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
-| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459630719) |
+| Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
+| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89c40a687d2d48f8) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a269af8df1c069) |
+| STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Mercer Island, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ba47dd2bd6024ff1) |
+| Employee Relations Investigator - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460350446) |
+| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458688175) |
+| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
 
 ## Last 7 Days
 
@@ -56,7 +52,7 @@ All matching jobs found in the past week.
 | Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
 
-### HR Jobs (Olympia, WA area) (53 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -113,6 +109,13 @@ All matching jobs found in the past week.
 | Human Resources Staffing Coordinator | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da1179076ee7cbdd) |
 | Human Resources Specialist | Bethel School District | Spanaway, WA | [Apply](https://www.linkedin.com/jobs/view/4459613095) |
 | HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459630719) |
+| Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
+| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89c40a687d2d48f8) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a269af8df1c069) |
+| STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Mercer Island, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ba47dd2bd6024ff1) |
+| Employee Relations Investigator - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460350446) |
+| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458688175) |
+| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
 
 <!-- DAILY_REPORT_END -->
 
