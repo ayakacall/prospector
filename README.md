@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-28)
+## Daily Job Report (2026-08-29)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -44,29 +44,14 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (0 results)
+
+_No matching jobs found_
+
+### HR Jobs (Olympia, WA area) (49 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=372977de81711ac7) |
-| Clinical Pharmacist - Clinical Pharmacy Programs (Bilingual - Cantonese/Mandarin) | Devoted Health | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=007b7b63279265b1) |
-| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=243175e80501c2fd) |
-
-### HR Jobs (Olympia, WA area) (60 results)
-
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Human Resources Generalist | Therapeutic Health Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e2fefc26415c70f0) |
-| HR Generalist | Emish Market | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c2d20a4203b01a6a) |
-| People Operations & Community Specialist | Paula's Choice Skincare | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a4a8f21f1e02c1cb) |
-| HR Director | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8bd6384ddd8a52da) |
-| HR Coordinator (temp), People Services, HR | PATH | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=354260f8e83939d5) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a8994485ef3b0944) |
-| Human Resources Specialist | Port of Tacoma | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15cbbdc9bac0f6d1) |
-| People Operations & Community Specialist | Paula's Choice Skincare | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457373352) |
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456286695) |
-| Human Resources Director | King County District Court | King County, WA | [Apply](https://www.linkedin.com/jobs/view/4456259663) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456272483) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e0480130e738dd3) |
 | Human Resources Director | Urban Accessories Inc. | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a8caf90264effaf) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456855960) |
