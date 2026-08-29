@@ -27,18 +27,24 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (8 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
+| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bdf852946e3b0e1) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39bc1b0386e4848d) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c5d6c57dfd92335) |
+| Senior HRIS Analyst - Workday | Center for Social Dynamics | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9467af77a13b7104) |
+| HR Compensation Specialist | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e800ca4169645f) |
 | Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
-| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89c40a687d2d48f8) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a269af8df1c069) |
-| STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Mercer Island, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ba47dd2bd6024ff1) |
-| Employee Relations Investigator - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460350446) |
-| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458688175) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458442321) |
 | Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
+| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460564657) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458449490) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4458437538) |
+| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4459407733) |
+| Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
 
 ## Last 7 Days
 
@@ -48,7 +54,7 @@ All matching jobs found in the past week.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (49 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -101,6 +107,17 @@ _No matching jobs found_
 | Employee Relations Investigator - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460350446) |
 | Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458688175) |
 | Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
+| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bdf852946e3b0e1) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39bc1b0386e4848d) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c5d6c57dfd92335) |
+| Senior HRIS Analyst - Workday | Center for Social Dynamics | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9467af77a13b7104) |
+| HR Compensation Specialist | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e800ca4169645f) |
+| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458442321) |
+| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460564657) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458449490) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4458437538) |
+| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4459407733) |
+| Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
 
 <!-- DAILY_REPORT_END -->
 
