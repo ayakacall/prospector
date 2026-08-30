@@ -29,24 +29,15 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bdf852946e3b0e1) |
-| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39bc1b0386e4848d) |
-| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c5d6c57dfd92335) |
-| Senior HRIS Analyst - Workday | Center for Social Dynamics | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9467af77a13b7104) |
-| HR Compensation Specialist | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e800ca4169645f) |
-| Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
-| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458442321) |
-| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460564657) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458449490) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4458437538) |
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4459407733) |
-| Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
+| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
+| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
+| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
 
 ## Last 7 Days
 
@@ -58,7 +49,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (59 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -121,6 +112,8 @@ All matching jobs found in the past week.
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4458437538) |
 | HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4459407733) |
 | Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
+| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
 
 <!-- DAILY_REPORT_END -->
 
