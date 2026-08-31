@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-30)
+## Daily Job Report (2026-08-31)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -49,14 +47,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director | Urban Accessories Inc. | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a8caf90264effaf) |
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456855960) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456810631) |
-| Sr. HRIS Analyst | Workday Talent Hub | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458108278) |
 | Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b29025c2b2fcd326) |
 | People Operations Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=37e7193fc9ff4bea) |
 | Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=196de0e6aa348ac8) |
