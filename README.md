@@ -27,15 +27,16 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Labor Consultant (Contract/Temporary) | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4433518304) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
-| HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4377644388) |
-| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
+| HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
+| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=41976172618af160) |
+| HR Generalist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8e5472782b96441) |
+| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
+| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
 
 ## Last 7 Days
 
@@ -47,7 +48,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -108,6 +109,12 @@ All matching jobs found in the past week.
 | Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
 | Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
+| HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
+| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=41976172618af160) |
+| HR Generalist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8e5472782b96441) |
+| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
+| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
 
 <!-- DAILY_REPORT_END -->
 
