@@ -27,16 +27,20 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (6 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
-| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=41976172618af160) |
-| HR Generalist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8e5472782b96441) |
-| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
-| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
+| HR Contractor | Freedom Project | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7cac7e9513877bd) |
+| Senior Communications Specialist, HR | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8db620b1a1da39c5) |
+| HRIS and Operations Coordinator | The Northwest School Of The Arts | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12ed45fa55ec4dbc) |
+| HR Generalist | PNW Warehousing | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=993390132bc580ba) |
+| Office Reception 22 hr | Professional Staff Northwest | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b347a81c9b514598) |
+| Human Resources Assistant - Receptionist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fcdc3091d7afe8f) |
+| HR Systems and Reporting Specialist | TOTE | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bce69ecc2993f2c5) |
+| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
+| Human Resources Assistant - Receptionist | Kenworth Truck Co. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4461268517) |
+| Business Analyst (Workday HR/Payroll) | TEKsystems | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461726175) |
 
 ## Last 7 Days
 
@@ -48,7 +52,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (48 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -100,6 +104,15 @@ All matching jobs found in the past week.
 | HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
 | HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
 | Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
+| HR Contractor | Freedom Project | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7cac7e9513877bd) |
+| Senior Communications Specialist, HR | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8db620b1a1da39c5) |
+| HRIS and Operations Coordinator | The Northwest School Of The Arts | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12ed45fa55ec4dbc) |
+| HR Generalist | PNW Warehousing | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=993390132bc580ba) |
+| Office Reception 22 hr | Professional Staff Northwest | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b347a81c9b514598) |
+| Human Resources Assistant - Receptionist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fcdc3091d7afe8f) |
+| HR Systems and Reporting Specialist | TOTE | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bce69ecc2993f2c5) |
+| Human Resources Assistant - Receptionist | Kenworth Truck Co. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4461268517) |
+| Business Analyst (Workday HR/Payroll) | TEKsystems | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461726175) |
 
 <!-- DAILY_REPORT_END -->
 
