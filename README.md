@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-08-31)
+## Daily Job Report (2026-09-01)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -48,25 +48,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 
-### HR Jobs (Olympia, WA area) (63 results)
+### HR Jobs (Olympia, WA area) (48 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b29025c2b2fcd326) |
-| People Operations Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=37e7193fc9ff4bea) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=196de0e6aa348ac8) |
-| Talent Acquisition Specialist_Human Resources | Planned Parenthood | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2eeb49229835bf9d) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c3394e7bf959d15) |
-| HR Employee Services Analyst | Weyerhaeuser | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae5c0c4dc39098e8) |
-| Human Resources Generalist | Tessera | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=390dd6ebef3df0f1) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ae4614003cb1e679) |
-| Human Resources Generalist | Tessera | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4457155524) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456559401) |
-| Human Resources (HR) Generalist | Toole Design Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458272858) |
-| HR Employee Services Analyst | Weyerhaeuser | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458299516) |
-| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458264856) |
-| Policy and Compliance, HR Specialist II, PXT- WWGS Policy and Compliance | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458270302) |
-| Sr. Human Resources Transformation Consultant | Mercer | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458240799) |
 | STEP HR Apprentice (Must be a Nisqually Tribal Member) | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=612ae405066ca63f) |
 | HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0431bf45e8487e2) |
 | HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0f2106bceb92674) |
