@@ -19,13 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-01)
+## Daily Job Report (2026-09-02)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (3 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
+| (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
+| Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -46,28 +50,19 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
+| Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
+| (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
+| Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (45 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| STEP HR Apprentice (Must be a Nisqually Tribal Member) | Nisqually Red Wind Casino | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=612ae405066ca63f) |
-| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0431bf45e8487e2) |
-| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a0f2106bceb92674) |
-| Human Resources Specialist (Generalist) - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459044068) |
-| Staffing and Recruitment Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458760597) |
-| Human Resources Generalist | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458746400) |
-| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457627930) |
-| HRIS Systems Analyst (term-limited) | Sound Transit | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456951363) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4446260571) |
-| HR Business Partner | MacDonald-Miller Facility Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457620716) |
-| Human Resources Director | Career Strategies | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457493636) |
-| HR Manager, Total Rewards | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457629921) |
 | HR & Operations Manager | PUBG STUDIOS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25e6ed70e5e02883) |
 | HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54f37e9744ec377e) |
 | Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62ac81c7face19c1) |
