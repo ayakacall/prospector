@@ -31,20 +31,21 @@ Jobs posted in the last 24 hours matching search criteria.
 | (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
 | Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 
-### HR Jobs (Olympia, WA area) (10 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Contractor | Freedom Project | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7cac7e9513877bd) |
-| Senior Communications Specialist, HR | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8db620b1a1da39c5) |
-| HRIS and Operations Coordinator | The Northwest School Of The Arts | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12ed45fa55ec4dbc) |
-| HR Generalist | PNW Warehousing | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=993390132bc580ba) |
-| Office Reception 22 hr | Professional Staff Northwest | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b347a81c9b514598) |
-| Human Resources Assistant - Receptionist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fcdc3091d7afe8f) |
-| HR Systems and Reporting Specialist | TOTE | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bce69ecc2993f2c5) |
-| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
-| Human Resources Assistant - Receptionist | Kenworth Truck Co. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4461268517) |
-| Business Analyst (Workday HR/Payroll) | TEKsystems | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461726175) |
+| Sr. HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f003aef007c83be) |
+| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42fa2bc5f2c67de5) |
+| Warehouse Entry Level 19 hr | Professional Staff Northwest | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f45e629297b0618) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ab591892ed6d282) |
+| Human Resources Business Partner | Apria Healthcare | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=416adfa1142b0ff0) |
+| Manager, Field Human Resources | Americold Logistics | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2c4ea2d3c9436c9) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a312b234d0bb2c2f) |
+| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460617606) |
+| Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
 
 ## Last 7 Days
 
@@ -59,7 +60,7 @@ All matching jobs found in the past week.
 | (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
 | Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 
-### HR Jobs (Olympia, WA area) (45 results)
+### HR Jobs (Olympia, WA area) (55 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -108,6 +109,16 @@ All matching jobs found in the past week.
 | HR Systems and Reporting Specialist | TOTE | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bce69ecc2993f2c5) |
 | Human Resources Assistant - Receptionist | Kenworth Truck Co. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4461268517) |
 | Business Analyst (Workday HR/Payroll) | TEKsystems | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461726175) |
+| Sr. HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f003aef007c83be) |
+| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42fa2bc5f2c67de5) |
+| Warehouse Entry Level 19 hr | Professional Staff Northwest | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f45e629297b0618) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ab591892ed6d282) |
+| Human Resources Business Partner | Apria Healthcare | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=416adfa1142b0ff0) |
+| Manager, Field Human Resources | Americold Logistics | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2c4ea2d3c9436c9) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a312b234d0bb2c2f) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460617606) |
+| Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
 
 <!-- DAILY_REPORT_END -->
 
