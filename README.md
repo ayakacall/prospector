@@ -19,17 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-02)
+## Daily Job Report (2026-09-03)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
-| (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
-| Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
+| Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
+| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -51,7 +50,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -59,6 +58,8 @@ All matching jobs found in the past week.
 | Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
 | (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
 | Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
+| Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
+| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 
 ### HR Jobs (Olympia, WA area) (55 results)
 
