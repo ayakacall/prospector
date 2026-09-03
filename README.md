@@ -30,21 +30,33 @@ Jobs posted in the last 24 hours matching search criteria.
 | Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (23 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f003aef007c83be) |
-| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42fa2bc5f2c67de5) |
-| Warehouse Entry Level 19 hr | Professional Staff Northwest | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f45e629297b0618) |
-| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ab591892ed6d282) |
-| Human Resources Business Partner | Apria Healthcare | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=416adfa1142b0ff0) |
-| Manager, Field Human Resources | Americold Logistics | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2c4ea2d3c9436c9) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a312b234d0bb2c2f) |
-| Parkshore - Human Resources Director | Transforming Age | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452114252) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460617606) |
-| Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
+| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035dd78ee445f404) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2041e574fe487be0) |
+| Senior HR Program Manager - Strategic Solutions -Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86777118a7cef2a3) |
+| Senior HR Coordinator | Kidder Mathews | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d90b4fa2a192a496) |
+| Payroll, Benefits, & HRIS Manager | Northstar Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=03ea5fb2f7005998) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dfcfa3695d89bc9) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3ad2d753ecac141a) |
+| Principal, HRBP, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=53e6ca1ed635e199) |
+| Principal, HRBP, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462724016) |
+| HR Generalist | Absher Construction Company | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4462431826) |
+| Human Resources Specialist | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459995778) |
+| People Partner, Engineering | Anthropic | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461373462) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4460483247) |
+| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
+| Director, People Operations & Workforce Technology (AI) | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462800485) |
+| People Partner, DC Operations | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442627616) |
+| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4453011730) |
+| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
+| Senior HR Coordinator | Kidder Mathews | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462476702) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
+| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462482361) |
+| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Assistant Manager, Levi's®, University Village, Seattle, WA ($23-$36.70/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328126) |
 
 ## Last 7 Days
 
@@ -61,7 +73,7 @@ All matching jobs found in the past week.
 | Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 
-### HR Jobs (Olympia, WA area) (55 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -120,6 +132,25 @@ All matching jobs found in the past week.
 | Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460617606) |
 | Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
+| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035dd78ee445f404) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2041e574fe487be0) |
+| Senior HR Program Manager - Strategic Solutions -Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86777118a7cef2a3) |
+| Senior HR Coordinator | Kidder Mathews | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d90b4fa2a192a496) |
+| Payroll, Benefits, & HRIS Manager | Northstar Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=03ea5fb2f7005998) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dfcfa3695d89bc9) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3ad2d753ecac141a) |
+| Principal, HRBP, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=53e6ca1ed635e199) |
+| Principal, HRBP, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462724016) |
+| HR Generalist | Absher Construction Company | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4462431826) |
+| Human Resources Specialist | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459995778) |
+| People Partner, Engineering | Anthropic | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461373462) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4460483247) |
+| Director, People Operations & Workforce Technology (AI) | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462800485) |
+| People Partner, DC Operations | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442627616) |
+| Senior HR Coordinator | Kidder Mathews | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462476702) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
+| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462482361) |
+| Assistant Manager, Levi's®, University Village, Seattle, WA ($23-$36.70/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328126) |
 
 <!-- DAILY_REPORT_END -->
 
