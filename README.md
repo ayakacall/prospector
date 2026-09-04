@@ -30,33 +30,30 @@ Jobs posted in the last 24 hours matching search criteria.
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 
-### HR Jobs (Olympia, WA area) (23 results)
+### HR Jobs (Olympia, WA area) (20 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035dd78ee445f404) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2041e574fe487be0) |
-| Senior HR Program Manager - Strategic Solutions -Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86777118a7cef2a3) |
-| Senior HR Coordinator | Kidder Mathews | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d90b4fa2a192a496) |
-| Payroll, Benefits, & HRIS Manager | Northstar Energy | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=03ea5fb2f7005998) |
-| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dfcfa3695d89bc9) |
-| HR Generalist | Absher Construction Company | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3ad2d753ecac141a) |
-| Principal, HRBP, AWS Specialists & Partners Organization | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=53e6ca1ed635e199) |
-| Principal, HRBP, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462724016) |
-| HR Generalist | Absher Construction Company | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4462431826) |
-| Human Resources Specialist | DESC (Downtown Emergency Service Center) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459995778) |
-| People Partner, Engineering | Anthropic | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461373462) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4460483247) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
-| Director, People Operations & Workforce Technology (AI) | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462800485) |
-| People Partner, DC Operations | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4442627616) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4453011730) |
-| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
-| Senior HR Coordinator | Kidder Mathews | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462476702) |
-| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
-| HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462482361) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| Assistant Manager, Levi's®, University Village, Seattle, WA ($23-$36.70/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328126) |
+| HR Coordinator | Chief Seattle Club | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=138234df8ef63c3a) |
+| Human Resources Coordinator | Washington Athletic Club | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e98ff22f37ae35) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe41189617bb011) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cecd6043904b33d0) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fcfe17edd1c046b4) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=724195585c7279bd) |
+| Human Resources Manager | Beckwith & Kuffel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cde72b6b598fa7a) |
+| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f157b8862b48058) |
+| Seasonal HR Resource | UPS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7cf6bb0d468cdb57) |
+| Seasonal HR Resource | UPS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e870d3ce415ebc4b) |
+| HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2551afe12d9b8485) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33555bf9b430a425) |
+| Human Resources Consultant | Office of Superintendent of Public Instruction | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4461691839) |
+| HR Generalist | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
+| HR Generalist - Sabey Corporation | Another Source | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4461934059) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463134011) |
+| HR Coordinator | Chief Seattle Club | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461923288) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462886353) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4460779094) |
+| Oracle HCM Cloud Core HR Analyst | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454346180) |
 
 ## Last 7 Days
 
@@ -75,7 +72,7 @@ All matching jobs found in the past week.
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (83 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -143,6 +140,25 @@ All matching jobs found in the past week.
 | HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
 | HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462482361) |
 | Assistant Manager, Levi's®, University Village, Seattle, WA ($23-$36.70/hr) | Levi Strauss & Co. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328126) |
+| HR Coordinator | Chief Seattle Club | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=138234df8ef63c3a) |
+| Human Resources Coordinator | Washington Athletic Club | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e98ff22f37ae35) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cbe41189617bb011) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cecd6043904b33d0) |
+| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fcfe17edd1c046b4) |
+| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=724195585c7279bd) |
+| Human Resources Manager | Beckwith & Kuffel | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cde72b6b598fa7a) |
+| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f157b8862b48058) |
+| Seasonal HR Resource | UPS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7cf6bb0d468cdb57) |
+| Seasonal HR Resource | UPS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e870d3ce415ebc4b) |
+| HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2551afe12d9b8485) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=33555bf9b430a425) |
+| Human Resources Consultant | Office of Superintendent of Public Instruction | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4461691839) |
+| HR Generalist - Sabey Corporation | Another Source | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4461934059) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463134011) |
+| HR Coordinator | Chief Seattle Club | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461923288) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462886353) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4460779094) |
+| Oracle HCM Cloud Core HR Analyst | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454346180) |
 
 <!-- DAILY_REPORT_END -->
 
