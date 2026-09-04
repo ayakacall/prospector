@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-03)
+## Daily Job Report (2026-09-04)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,8 +27,8 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
-| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
+| Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
+| Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 
 ### HR Jobs (Olympia, WA area) (23 results)
 
@@ -62,7 +62,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -72,21 +72,13 @@ All matching jobs found in the past week.
 | Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 | Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
+| Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
+| Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR & Operations Manager | PUBG STUDIOS | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=25e6ed70e5e02883) |
-| HR Recruiter/Benefits Administrator | Martha & Mary | Poulsbo, WA, US | [Apply](https://www.indeed.com/viewjob?jk=54f37e9744ec377e) |
-| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62ac81c7face19c1) |
-| Human Resources and Benefits Coordinator (PT) | The Washington Center for the Performing Arts | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e08bbcb19cd8d93) |
-| HR Business Partner - Full time, Day, Hybrid (Limited Term Engagement) | Providence | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=786fcc1d4e6dd8a6) |
-| Human Resources Specialist | Bethel School District | Spanaway, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2c826ed71126d60) |
-| Corporate Human Resources & Accounting Business Partner | Columbia Safety Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9afd33a05df2d8fa) |
-| Human Resources Staffing Coordinator | Renton School District | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=da1179076ee7cbdd) |
-| Human Resources Specialist | Bethel School District | Spanaway, WA | [Apply](https://www.linkedin.com/jobs/view/4459613095) |
-| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4459630719) |
 | Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
 | Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89c40a687d2d48f8) |
 | Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a269af8df1c069) |
