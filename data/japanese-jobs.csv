@@ -254115,3 +254115,73 @@ All engagements are contingent upon successful completion of identity verificati
 
 
 OcMbDnxgUZ",2026-09-04T11:59:09.356725
+Japanese PDF Annotation & Transcription Expert,,"Remote, US",,2026-05-18,,,https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f,indeed,"Japanese PDF Annotation \& Transcription Expert is a remote Japanese specialist track for evaluating japanese annotation outputs against native\-speaker standards. Reviewers spot fluency, register, and cultural\-context errors that automated checks miss, and write structured rationale that the modeling team can act on in the next training cycle.
+
+**Why this role matters**
+-------------------------
+
+
+Multilingual model quality depends on reviewers who can read Japanese the way a native speaker does. AuraOne uses these reviewers to set the bar for tone, formality, and cultural register before a model ever ships to Japanese users.
+
+**Responsibilities**
+--------------------
+
+* Evaluate Japanese model responses for fluency, accuracy, register, and cultural fit for Japanese PDF Annotation \& Transcription Expert assignments.
+* Compare paired japanese annotation outputs and pick the stronger response with a written rationale.
+* Flag hallucinations, code\-switching errors, and formality mismatches with task\-specific severity tags.
+* Capture native\-speaker edits that demonstrate the correct phrasing alongside each issue.
+* Calibrate against the AuraOne Japanese rubric in weekly reviewer\-quality cycles.
+* Surface ambiguous prompts back to the program team so the rubric can be sharpened.
+* Maintain reviewer notes that document tricky idioms, regionalisms, and emerging usage.
+
+**Qualifications**
+------------------
+
+* Native or near\-native Japanese fluency with strong written\-English ability for Japanese PDF Annotation \& Transcription Expert work.
+* Demonstrable experience editing, translating, or evaluating Japanese content.
+* Comfort applying multi\-page rubrics consistently across long evaluation batches.
+* Clear written reasoning that names the issue and the standard being applied.
+* Reliable async availability for at least 10 hours per week.
+* Prior model\-evaluation, annotation, or human\-rater experience is a plus.
+
+**Example tasks**
+-----------------
+
+* Score a pair of Japanese responses to a customer\-support prompt and pick the better one with a 1\-2 sentence rationale.
+* Flag formality mismatches in japanese annotation outputs (T/V usage, honorifics, regional register).
+* Rewrite a model's Japanese response so it reads naturally and tag the original error category.
+* Audit a 50\-row evaluation batch for rubric consistency and surface drift back to the program lead.
+
+**Nice to have**
+----------------
+
+* Background in Japanese linguistics, journalism, or translation studies.
+* Experience with TMS tools, MQM error taxonomies, or other structured QA frameworks.
+* Familiarity with LLM evaluation rubrics and inter\-rater agreement workflows.
+
+**Skills**
+----------
+
+* Multilingual evaluation
+* Native\-speaker review
+* Rubric application
+* LLM output evaluation
+* Japanese annotation
+
+**Work model**
+--------------
+
+
+Remote — US\-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.
+
+**Compensation**
+----------------
+
+
+$34 / hr
+
+**Application process**
+-----------------------
+
+
+Apply through AuraOne's specialist intake for role\-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",2026-09-05T11:08:11.407248
