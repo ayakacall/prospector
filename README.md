@@ -19,16 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-04)
+## Daily Job Report (2026-09-05)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
-| Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
+| Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
 ### HR Jobs (Olympia, WA area) (20 results)
 
@@ -59,7 +58,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -71,18 +70,12 @@ All matching jobs found in the past week.
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
+| Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
-### HR Jobs (Olympia, WA area) (83 results)
+### HR Jobs (Olympia, WA area) (76 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Manager, Human Resources | Aecon Group Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6a39570fdbf6489b) |
-| Human Resources Manager, Multi Site | Animal Medical Center of Seattle | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=89c40a687d2d48f8) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=15a269af8df1c069) |
-| STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Mercer Island, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ba47dd2bd6024ff1) |
-| Employee Relations Investigator - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460350446) |
-| Human Resources Manager, Multi Site | Ethos Veterinary Health | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458688175) |
-| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
 | Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bdf852946e3b0e1) |
 | Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39bc1b0386e4848d) |
 | Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c5d6c57dfd92335) |
