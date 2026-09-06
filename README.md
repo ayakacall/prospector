@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-05)
+## Daily Job Report (2026-09-06)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -61,21 +59,10 @@ All matching jobs found in the past week.
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
-### HR Jobs (Olympia, WA area) (83 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bdf852946e3b0e1) |
-| Area Human Resources Manager | Securitas | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39bc1b0386e4848d) |
-| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c5d6c57dfd92335) |
-| Senior HRIS Analyst - Workday | Center for Social Dynamics | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9467af77a13b7104) |
-| HR Compensation Specialist | BNBuilders | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=43e800ca4169645f) |
-| People Operations Business Partner | Sensor Tower | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458442321) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460564657) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458449490) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4458437538) |
-| HR Analyst 2 (HR Generalist) | Muckleshoot Indian Tribe | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4459407733) |
-| Employee Relations Specialist - Office of Human Resources Management | GSA | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4460506511) |
 | Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
 | HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
