@@ -27,19 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Specialist | YMCA Of Greater Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2938cd20366ca813) |
-| HR Technology Strategy & Delivery Lead | CVS Health | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=652c7ce71965185f) |
-| HRIS and Operations Analyst | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7afd6c11599e5590) |
-| HR/Scheduler | cedars homecare of wa | Chehalis, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f6358f3b6a2cd63) |
-| Human Resources Coordinator | City of Auburn (Washington) | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4433160106) |
-| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
-| HR Specialist | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461431162) |
-| Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4463360590) |
-| Interim Vice President of Human Resources | Scion Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462324077) |
+| Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
+| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454876614) |
+| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
+| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
 
 ## Last 7 Days
 
@@ -59,7 +54,7 @@ All matching jobs found in the past week.
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -135,6 +130,8 @@ All matching jobs found in the past week.
 | HR Specialist | YMCA of Greater Seattle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461431162) |
 | Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4463360590) |
 | Interim Vice President of Human Resources | Scion Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462324077) |
+| Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
+| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
 
 <!-- DAILY_REPORT_END -->
 
