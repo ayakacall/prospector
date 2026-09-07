@@ -27,14 +27,12 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
-| Senior Human Resources Generalist | KPFF Consulting Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454876614) |
-| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
-| Human Resources Specialist | Foster Garvey PC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4426679099) |
+| Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
+| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
 
 ## Last 7 Days
 
@@ -53,7 +51,7 @@ All matching jobs found in the past week.
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
-### HR Jobs (Olympia, WA area) (72 results)
+### HR Jobs (Olympia, WA area) (73 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -129,6 +127,7 @@ All matching jobs found in the past week.
 | Interim Vice President of Human Resources | Scion Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462324077) |
 | Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
 | Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
+| Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
 
 <!-- DAILY_REPORT_END -->
 
