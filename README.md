@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-06)
+## Daily Job Report (2026-09-07)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -40,11 +40,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (9 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Remote) HR Consultant / HR Expert - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=305c0d938432dd93) |
 | Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
 | (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
 | Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
@@ -54,12 +53,10 @@ All matching jobs found in the past week.
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 
-### HR Jobs (Olympia, WA area) (74 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4458843548) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459703589) |
 | HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
 | HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=41976172618af160) |
 | HR Generalist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8e5472782b96441) |
