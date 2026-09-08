@@ -33,12 +33,14 @@ Jobs posted in the last 24 hours matching search criteria.
 | Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
-| Human Resources Business Partner | Par Pacific Holdings, Inc. | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4450619124) |
+| Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
+| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
+| People Partner, Engineering | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462288650) |
 
 ## Last 7 Days
 
@@ -62,7 +64,7 @@ All matching jobs found in the past week.
 | Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 
-### HR Jobs (Olympia, WA area) (67 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -133,6 +135,10 @@ All matching jobs found in the past week.
 | Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
 | Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
 | Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
+| Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
+| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
+| People Partner, Engineering | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462288650) |
 
 <!-- DAILY_REPORT_END -->
 
