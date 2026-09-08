@@ -19,13 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-07)
+## Daily Job Report (2026-09-08)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
+| Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
+| Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
+| Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
+| Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 
 ### HR Jobs (Olympia, WA area) (2 results)
 
@@ -38,7 +44,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -50,17 +56,16 @@ All matching jobs found in the past week.
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
+| Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
+| Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
+| Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
+| Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
+| Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (67 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | nan | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f6c73e2f464456c4) |
-| HR Generalist | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=41976172618af160) |
-| HR Generalist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8e5472782b96441) |
-| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
-| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
 | HR Contractor | Freedom Project | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7cac7e9513877bd) |
 | Senior Communications Specialist, HR | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8db620b1a1da39c5) |
 | HRIS and Operations Coordinator | The Northwest School Of The Arts | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12ed45fa55ec4dbc) |
