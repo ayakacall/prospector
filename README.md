@@ -29,14 +29,22 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
-| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
-| People Partner, Engineering | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462288650) |
+| HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bc7e621f9891dc4) |
+| HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a35f9661478d302c) |
+| People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=800ade8a09d2c5ff) |
+| Human Resources Manager | Caldera Care | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d475190fa1a3d013) |
+| Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b88e63b70051b5a0) |
+| HR and Payroll Specialist | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f42d0c0462bc9f9c) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454924220) |
+| People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464661618) |
+| HR Labor Relations Specialist | General Dynamics | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4463816508) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
+| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455789919) |
+| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464499404) |
 
 ## Last 7 Days
 
@@ -58,20 +66,10 @@ All matching jobs found in the past week.
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 | AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 
-### HR Jobs (Olympia, WA area) (62 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f003aef007c83be) |
-| Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42fa2bc5f2c67de5) |
-| Warehouse Entry Level 19 hr | Professional Staff Northwest | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f45e629297b0618) |
-| Human Resources Director | Hasbro, Inc. | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6ab591892ed6d282) |
-| Human Resources Business Partner | Apria Healthcare | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=416adfa1142b0ff0) |
-| Manager, Field Human Resources | Americold Logistics | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d2c4ea2d3c9436c9) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a312b234d0bb2c2f) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460617606) |
-| Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
 | HR Administrative Assistant - Bilingual | Trident Seafoods | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035dd78ee445f404) |
 | Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2041e574fe487be0) |
 | Senior HR Program Manager - Strategic Solutions -Hybrid | Providence | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86777118a7cef2a3) |
@@ -124,6 +122,14 @@ All matching jobs found in the past week.
 | Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
 | Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
 | People Partner, Engineering | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462288650) |
+| HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bc7e621f9891dc4) |
+| HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a35f9661478d302c) |
+| People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=800ade8a09d2c5ff) |
+| Human Resources Manager | Caldera Care | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d475190fa1a3d013) |
+| Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b88e63b70051b5a0) |
+| People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464661618) |
+| HR Labor Relations Specialist | General Dynamics | Bremerton, WA | [Apply](https://www.linkedin.com/jobs/view/4463816508) |
+| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464499404) |
 
 <!-- DAILY_REPORT_END -->
 
