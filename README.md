@@ -19,19 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-08)
+## Daily Job Report (2026-09-09)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
-| Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
-| Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
-| Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
-| Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
+| AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 
 ### HR Jobs (Olympia, WA area) (4 results)
 
@@ -46,13 +42,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (13 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Consulting Neurologist - Japanese Fluency | CogState | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=113bc68f50c6112a) |
-| (Remote) Recruitment Consultant / Agency Recruiter - Japanese | Cinter Career | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=51064c52f730a7b2) |
-| Business Development Representative - Japan | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=9c10a6b4af3dd28b) |
 | Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
@@ -63,20 +56,12 @@ All matching jobs found in the past week.
 | Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
 | Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
+| AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 
-### HR Jobs (Olympia, WA area) (71 results)
+### HR Jobs (Olympia, WA area) (62 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Contractor | Freedom Project | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a7cac7e9513877bd) |
-| Senior Communications Specialist, HR | Seattle Children's | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8db620b1a1da39c5) |
-| HRIS and Operations Coordinator | The Northwest School Of The Arts | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=12ed45fa55ec4dbc) |
-| HR Generalist | PNW Warehousing | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=993390132bc580ba) |
-| Office Reception 22 hr | Professional Staff Northwest | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b347a81c9b514598) |
-| Human Resources Assistant - Receptionist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5fcdc3091d7afe8f) |
-| HR Systems and Reporting Specialist | TOTE | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bce69ecc2993f2c5) |
-| Human Resources Assistant - Receptionist | Kenworth Truck Co. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4461268517) |
-| Business Analyst (Workday HR/Payroll) | TEKsystems | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461726175) |
 | Sr. HR Business Partner | Rippling | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f003aef007c83be) |
 | Human Resources Specialist | City Of Renton | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=42fa2bc5f2c67de5) |
 | Warehouse Entry Level 19 hr | Professional Staff Northwest | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9f45e629297b0618) |
