@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-09)
+## Daily Job Report (2026-09-10)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
+| Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 
 ### HR Jobs (Olympia, WA area) (12 results)
 
@@ -50,12 +50,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Development Manager, Japan | SOTI Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ae09cf47829b648) |
-| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=fa07f2431f715bdf) |
 | Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
 | Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
@@ -65,6 +63,7 @@ All matching jobs found in the past week.
 | Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 | AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
+| Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 
 ### HR Jobs (Olympia, WA area) (60 results)
 
