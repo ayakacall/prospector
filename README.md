@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-10)
+## Daily Job Report (2026-09-11)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (16 results)
 
@@ -54,12 +52,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (10 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Development Representative - Japan (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=55ad6f9dff572540) |
-| Japanese - AI Product Evaluator | Productive Playhouse | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=97a1db866f2a3d5b) |
 | Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 | Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
 | Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
