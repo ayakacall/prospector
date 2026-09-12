@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-11)
+## Daily Job Report (2026-09-12)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 
 ### HR Jobs (Olympia, WA area) (35 results)
 
@@ -75,7 +77,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese PDF Annotation & Transcription Expert | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d8057eb4056f0e8f) |
 | Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
 | Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
 | Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
@@ -83,6 +84,7 @@ All matching jobs found in the past week.
 | Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 | AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
+| Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 
 ### HR Jobs (Olympia, WA area) (62 results)
 
