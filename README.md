@@ -27,24 +27,12 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HRIS Administrator (Workday) | McKinstry | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e5085f40ce624f64) |
-| Executive Assistant I, AI-Enabled HR Platforms | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=31fc9b7a523318c8) |
-| Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7069d1c5b316c4dd) |
-| Employee Resource Center Manager (HR) | Aero Controls, Inc | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=142a7f18221c9d70) |
-| Executive Director of Human Resources (Ord. Title: Executive 3, Exempt) | Seattle Police Department | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454134976) |
-| Employee Resource Center Manager (HR) | Aero Controls, LLC. | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4465127524) |
-| Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465164620) |
-| Human Resources Partner - Employee Relations Specialist | Tessera | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4455473287) |
-| HR Specialist - Works Well With Others JN -092026-181015 | Goodwin Recruiting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464898406) |
-| SEA HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465162369) |
-| Payroll, Benefits & HRIS Specialist | Akin (formerly Children's Home Society of Washington + Childhaven) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464223659) |
-| Senior Human Resources Business Partner - Russell Investments | Onyx Staffing | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464499404) |
-| Senior HRIS Administrator (Workday) | McKinstry | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464239457) |
-| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4464276508) |
+| HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
+| Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor) | TRM Labs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457531398) |
 
 ## Last 7 Days
 
@@ -63,7 +51,7 @@ All matching jobs found in the past week.
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (66 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -131,6 +119,8 @@ All matching jobs found in the past week.
 | Payroll, Benefits & HRIS Specialist | Akin (formerly Children's Home Society of Washington + Childhaven) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464223659) |
 | Senior HRIS Administrator (Workday) | McKinstry | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464239457) |
 | STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4464276508) |
+| HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
+| Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor) | TRM Labs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457531398) |
 
 <!-- DAILY_REPORT_END -->
 
