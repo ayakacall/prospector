@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-12)
+## Daily Job Report (2026-09-13)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (14 results)
 
@@ -65,12 +63,10 @@ All matching jobs found in the past week.
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462685335) |
-| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462651617) |
 | Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
 | Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
 | Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
