@@ -27,12 +27,16 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
-| Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor) | TRM Labs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457531398) |
+| HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
+| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
+| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465702049) |
+| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436635070) |
 
 ## Last 7 Days
 
@@ -51,11 +55,10 @@ All matching jobs found in the past week.
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Administrator | Roarke Regenerative | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462944572) |
 | Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
 | Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
 | Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
@@ -121,6 +124,9 @@ All matching jobs found in the past week.
 | STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4464276508) |
 | HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
 | Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor) | TRM Labs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457531398) |
+| HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465702049) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436635070) |
 
 <!-- DAILY_REPORT_END -->
 
