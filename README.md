@@ -29,16 +29,20 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 
-### HR Jobs (Olympia, WA area) (6 results)
+### HR Jobs (Olympia, WA area) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465702049) |
-| Sr. HRIS Analyst | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4430906093) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436635070) |
+| HR Business Partner | Holland America Line | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bd4d3ba1c895241f) |
+| HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7794e5f1dc65299c) |
+| People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464661618) |
+| Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467729030) |
+| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463134011) |
+| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4467711246) |
+| Human Resources Business Partner | Kastle Systems | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466179127) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467233903) |
+| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4467239315) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4436614924) |
 
 ## Last 7 Days
 
@@ -53,7 +57,7 @@ All matching jobs found in the past week.
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 | Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (72 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -121,6 +125,14 @@ All matching jobs found in the past week.
 | HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465702049) |
 | Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436635070) |
+| HR Business Partner | Holland America Line | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bd4d3ba1c895241f) |
+| HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7794e5f1dc65299c) |
+| Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467729030) |
+| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4467711246) |
+| Human Resources Business Partner | Kastle Systems | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466179127) |
+| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467233903) |
+| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4467239315) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4436614924) |
 
 <!-- DAILY_REPORT_END -->
 
