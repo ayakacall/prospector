@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-14)
+## Daily Job Report (2026-09-15)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 
 ### HR Jobs (Olympia, WA area) (6 results)
 
@@ -42,27 +44,19 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Customer Success Manager (Japan) | Regask | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=eb158396ac915ba5) |
-| Bilingual Japanese STEM Expert (PhD) — AI Safety | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=027cf3edcd455c71) |
-| Bilingual Japanese Generalist Expert — AI Safety Evaluation | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=f17e0f734ad88674) |
-| Image Caption Review - Japanese (Bilingual) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09bbade942bb0589) |
-| Japanese-English Bilingual Writer - AI Output Evaluation (Remote, Japan) | nan | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=1ced150202601ee4) |
 | AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
+| Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources & Payroll Manager | Elephant Car Wash | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92800d72699595e9) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=62c6a5732fc60e23) |
-| Human Resources Generalist - Seattle, WA | Austin Allen Inc | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462994722) |
-| People Partner, Engineering | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462288650) |
 | HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bc7e621f9891dc4) |
 | HR Labor Relations Specialist | General Dynamics NASSCO | Bremerton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a35f9661478d302c) |
 | People & Culture Advisor (HRBP) | DCI Engineers | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=800ade8a09d2c5ff) |
