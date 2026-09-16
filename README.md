@@ -19,15 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-15)
+## Daily Job Report (2026-09-16)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
+| Senior Customer Success Engineer, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e8909a11c97f23e7) |
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
 
 ### HR Jobs (Olympia, WA area) (10 results)
 
@@ -48,14 +49,15 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| AI Response Labeler / Annotator – Japanese Specialty | Blueprint Technologies | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=cc69aef86f7609cd) |
 | Regional Sales Director, CMOS Image Sensors - Japan | indie | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=81c9c869bb7e38a9) |
 | Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 | Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
+| Senior Customer Success Engineer, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e8909a11c97f23e7) |
+| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
 
 ### HR Jobs (Olympia, WA area) (72 results)
 
