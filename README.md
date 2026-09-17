@@ -29,26 +29,17 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Japanese/English Bilingual Senior Immigration Paralegal-NYC , Dallas, TX or Remote | Actus Consulting Group, Inc. - Japanese Recruiting Agency | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4467133011) |
 
-### HR Jobs (Olympia, WA area) (16 results)
+### HR Jobs (Olympia, WA area) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=680ff33c340747e9) |
-| Human Resources Manager | XPO | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=68bd42ba4b03ffba) |
-| Director of Total Rewards and HR Operations | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fa7886afa125a20) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5ea8ba466d5d5431) |
-| Human Resources Assistant | Pope's Place | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d700c95250fdb526) |
-| Principal, Human Resources Specialist, ADC Talen | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2140dab6594cac2e) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
-| Human Resources Manager | XPO | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4465971128) |
-| Principal, Human Resources Specialist, ADC Talen | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465582662) |
-| Human Resources Generalist | Tessera | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4457155524) |
-| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466582596) |
-| Director of Total Rewards and HR Operations | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466586989) |
-| HR Business Partner | Holland America Line | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466538843) |
-| Senior HR Business Partner | Cambia Health Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466589067) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465545946) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Manager - Tech Cons- Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465536897) |
+| Contracted HR Support | Theatre Off Jackson | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e31886adc036536) |
+| HR Business Partner | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf1ef059fe70be65) |
+| Recruiting & HR Business Partner | First Fed | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
+| HR Business Partner | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4458449490) |
+| HR Generalist | Precision Castparts | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4432492100) |
+| Human Resources Business Partner | Dungarvin | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4457627930) |
 
 ## Last 7 Days
 
@@ -64,22 +55,10 @@ All matching jobs found in the past week.
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
 | Japanese/English Bilingual Senior Immigration Paralegal-NYC , Dallas, TX or Remote | Actus Consulting Group, Inc. - Japanese Recruiting Agency | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4467133011) |
 
-### HR Jobs (Olympia, WA area) (79 results)
+### HR Jobs (Olympia, WA area) (71 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Reinvention Consultant, Energy | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7dbc496aab5d7767) |
-| Senior Human Resources Generalist | Scarsella Bros., Inc. | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=61d2c84c60a28e63) |
-| Human Resources Manager | Embassy Suites by Hilton | Tukwila, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3a3c07681a38d94d) |
-| Senior HR Operations Specialist | Impinj | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b544cd76afda815c) |
-| Sr. Manager, PMT, AI-Enabled HR Platforms | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7ce4ba9814c29bc8) |
-| Managing Director, Human Resources | All Aviation Jobs | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4465644949) |
-| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455902692) |
-| HR Business Partner | Pet Food Experts | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4463089611) |
-| Senior HR Operations Specialist | Impinj | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463027748) |
-| Regional HR Business Partner-Unions | Vaco by Highspring | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4465088924) |
-| Senior Human Resources (HR) Technology Transformation Analyst | Brooks Running | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465616438) |
 | Director, HR Business Partner | Expedia Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ac41d93e9bbefa8e) |
 | Academic HR Manager - SoM, Academic Appointments and Compensation, Integrated Resources, Academic HR (Multiple Opportunities) | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7c4a9abccf8b5a9d) |
 | Human Resources Business Partner | Seattle Public Schools | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39d409a71a88f24d) |
@@ -147,6 +126,10 @@ All matching jobs found in the past week.
 | Senior HR Business Partner | Cambia Health Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466589067) |
 | ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465545946) |
 | ServiceNow - ServiceNow HR Service Delivery (HRSD) - Manager - Tech Cons- Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465536897) |
+| Contracted HR Support | Theatre Off Jackson | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e31886adc036536) |
+| HR Business Partner | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf1ef059fe70be65) |
+| Recruiting & HR Business Partner | First Fed | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
+| HR Business Partner | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
 
 <!-- DAILY_REPORT_END -->
 
