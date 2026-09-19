@@ -19,16 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-18)
+## Daily Job Report (2026-09-19)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
-| Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (13 results)
 
@@ -52,11 +49,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (7 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Japanese/English E-Commerce Project Manager – Fully Remote | Move On, Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c826d0a27279cb6f) |
 | Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 | Senior Customer Success Engineer, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e8909a11c97f23e7) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
