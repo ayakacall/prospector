@@ -27,23 +27,21 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Experienced Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8de91add7bad9259) |
-| Associate Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fae2c7bbaa0864e1) |
-| PRO (HR) Business Partner Senior – Partner Resources (PRO4PRO) Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fa948fb4afe70ac) |
-| Associate Human Resources Generalist | Boeing | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4466677444) |
 | HR Director - Infrastructure Software | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448439120) |
-| Experienced Human Resources Generalist | Boeing | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4466669604) |
-| PRO (HR) Business Partner Senior – Partner Resources (PRO4PRO) Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467569472) |
-| Senior HR Business Partner | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4421822984) |
+| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4468013619) |
+| Manager, Human Resources (Employee Relations) | McGee Air Services | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4466943047) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4460779094) |
 | People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466666002) |
-| Principal People Partner | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466655130) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4468075383) |
+| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
+| HR Specialist | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466950741) |
+| Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
+| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
 | HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468632418) |
 
 ## Last 7 Days
 
@@ -60,21 +58,10 @@ All matching jobs found in the past week.
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 
-### HR Jobs (Olympia, WA area) (53 results)
+### HR Jobs (Olympia, WA area) (47 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HRIS Administrator (Workday) | McKinstry | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e5085f40ce624f64) |
-| Executive Assistant I, AI-Enabled HR Platforms | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=31fc9b7a523318c8) |
-| Human Resources Business Partner | Plymouth Housing Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7069d1c5b316c4dd) |
-| Employee Resource Center Manager (HR) | Aero Controls, Inc | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=142a7f18221c9d70) |
-| Employee Resource Center Manager (HR) | Aero Controls, LLC. | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4465127524) |
-| Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465164620) |
-| HR Specialist - Works Well With Others JN -092026-181015 | Goodwin Recruiting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464898406) |
-| SEA HR Specialist | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465162369) |
-| Payroll, Benefits & HRIS Specialist | Akin (formerly Children's Home Society of Washington + Childhaven) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464223659) |
-| Senior HRIS Administrator (Workday) | McKinstry | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464239457) |
-| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4464276508) |
 | HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
 | Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor) | TRM Labs | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4457531398) |
 | HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
@@ -117,6 +104,11 @@ All matching jobs found in the past week.
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466666002) |
 | Principal People Partner | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466655130) |
 | HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468632418) |
+| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4468013619) |
+| Manager, Human Resources (Employee Relations) | McGee Air Services | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4466943047) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4468075383) |
+| HR Specialist | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466950741) |
+| Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
 
 <!-- DAILY_REPORT_END -->
 
