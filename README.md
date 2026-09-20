@@ -27,21 +27,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Director - Infrastructure Software | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448439120) |
-| Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4468013619) |
-| Manager, Human Resources (Employee Relations) | McGee Air Services | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4466943047) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4460779094) |
+| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468411281) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
 | People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4468075383) |
-| People Partner | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
-| HR Specialist | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466950741) |
-| Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
-| HR Operations Specialist II | Fred Hutch | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4449366320) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
+| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451340084) |
+| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4460815850) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468093614) |
 
 ## Last 7 Days
 
@@ -58,7 +55,7 @@ All matching jobs found in the past week.
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 
-### HR Jobs (Olympia, WA area) (47 results)
+### HR Jobs (Olympia, WA area) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -109,6 +106,11 @@ All matching jobs found in the past week.
 | Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4468075383) |
 | HR Specialist | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466950741) |
 | Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468411281) |
+| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
+| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451340084) |
+| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4460815850) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468093614) |
 
 <!-- DAILY_REPORT_END -->
 
