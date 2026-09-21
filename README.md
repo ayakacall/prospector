@@ -27,18 +27,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (8 results)
+### HR Jobs (Olympia, WA area) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Manager, Human Resources | Aecon U.S. | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468411281) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
+| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
-| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451340084) |
-| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4460815850) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468093614) |
+| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
+| Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
+| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
 
 ## Last 7 Days
 
@@ -59,9 +58,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Executive | 9series | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f8bf0323799be39c) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465702049) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4436635070) |
 | HR Business Partner | Holland America Line | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bd4d3ba1c895241f) |
 | HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7794e5f1dc65299c) |
 | Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467729030) |
@@ -109,6 +105,9 @@ All matching jobs found in the past week.
 | Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451340084) |
 | Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4460815850) |
 | HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468093614) |
+| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
+| Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
+| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
 
 <!-- DAILY_REPORT_END -->
 
