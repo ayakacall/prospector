@@ -27,34 +27,39 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (7 results)
+### HR Jobs (Olympia, WA area) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr HR Manager | Wizards of the Coast | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4441494818) |
+| LIFE CENTER CENTRAL - HR Coordinator | First Assembly of God Life Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3fdb3c9131019913) |
+| Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e375a068553cf9b) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ecd9d0660f6d9d09) |
+| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=45ce0336e9c9613e) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6558fd9b15408d63) |
+| Human Resources Director | Brown & Haley | Fife, WA | [Apply](https://www.linkedin.com/jobs/view/4457961544) |
+| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
-| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
-| Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
-| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468787152) |
+| HR Business Partner (HRBP) | HiredChina.com国际人才招聘网 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470297557) |
+| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
+| Contracted HR Support | Theatre Off Jackson | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469953843) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Junior Data Scientist - Generative AI and Japanese Language | App Orchid Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=c8ea98880693c6ae) |
 | Senior Customer Success Engineer, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e8909a11c97f23e7) |
 | VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
 | Japanese/English Bilingual Senior Immigration Paralegal-NYC , Dallas, TX or Remote | Actus Consulting Group, Inc. - Japanese Recruiting Agency | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4467133011) |
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 
-### HR Jobs (Olympia, WA area) (50 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -108,6 +113,16 @@ All matching jobs found in the past week.
 | Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
 | Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
 | HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
+| LIFE CENTER CENTRAL - HR Coordinator | First Assembly of God Life Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3fdb3c9131019913) |
+| Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e375a068553cf9b) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ecd9d0660f6d9d09) |
+| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=45ce0336e9c9613e) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6558fd9b15408d63) |
+| Human Resources Director | Brown & Haley | Fife, WA | [Apply](https://www.linkedin.com/jobs/view/4457961544) |
+| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468787152) |
+| HR Business Partner (HRBP) | HiredChina.com国际人才招聘网 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470297557) |
+| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
+| Contracted HR Support | Theatre Off Jackson | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469953843) |
 
 <!-- DAILY_REPORT_END -->
 
