@@ -27,23 +27,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| LIFE CENTER CENTRAL - HR Coordinator | First Assembly of God Life Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3fdb3c9131019913) |
-| Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e375a068553cf9b) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ecd9d0660f6d9d09) |
-| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=45ce0336e9c9613e) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6558fd9b15408d63) |
-| Human Resources Director | Brown & Haley | Fife, WA | [Apply](https://www.linkedin.com/jobs/view/4457961544) |
-| HR Generalist | SBM Management Services, LP | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4459795842) |
+| Human Resources Consultant 4 (HR GENERALIST) | Washington State Health Care Authority | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14f33270eaf7bcb3) |
+| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
+| People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456498091) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
-| HR Generalist | SBM Management Services, LP | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4459783968) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468787152) |
-| HR Business Partner (HRBP) | HiredChina.com国际人才招聘网 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470297557) |
+| Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
+| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
 | Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
-| Contracted HR Support | Theatre Off Jackson | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469953843) |
 
 ## Last 7 Days
 
@@ -57,25 +51,10 @@ All matching jobs found in the past week.
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 
-### HR Jobs (Olympia, WA area) (52 results)
+### HR Jobs (Olympia, WA area) (41 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=680ff33c340747e9) |
-| Human Resources Manager | XPO | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=68bd42ba4b03ffba) |
-| Director of Total Rewards and HR Operations | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fa7886afa125a20) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5ea8ba466d5d5431) |
-| Human Resources Assistant | Pope's Place | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d700c95250fdb526) |
-| Principal, Human Resources Specialist, ADC Talen | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2140dab6594cac2e) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
-| Human Resources Manager | XPO | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4465971128) |
-| Principal, Human Resources Specialist, ADC Talen | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465582662) |
-| Human Resources Manager | Truce Law, PLLC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466582596) |
-| Director of Total Rewards and HR Operations | Dowbuilt | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466586989) |
-| HR Business Partner | Holland America Line | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466538843) |
-| Senior HR Business Partner | Cambia Health Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466589067) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465545946) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Manager - Tech Cons- Open Location | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465536897) |
 | Contracted HR Support | Theatre Off Jackson | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e31886adc036536) |
 | HR Business Partner | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf1ef059fe70be65) |
 | Recruiting & HR Business Partner | First Fed | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
@@ -113,6 +92,10 @@ All matching jobs found in the past week.
 | HR Business Partner (HRBP) | HiredChina.com国际人才招聘网 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470297557) |
 | Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
 | Contracted HR Support | Theatre Off Jackson | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469953843) |
+| Human Resources Consultant 4 (HR GENERALIST) | Washington State Health Care Authority | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14f33270eaf7bcb3) |
+| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
+| Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
+| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
 
 <!-- DAILY_REPORT_END -->
 
