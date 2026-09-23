@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-22)
+## Daily Job Report (2026-09-23)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -49,28 +49,18 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Customer Success Engineer, Japan | GitLab Inc | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e8909a11c97f23e7) |
-| VTuber Live Streamer — Stream on Japan's #1 VTuber App | 株式会社 IRIAM | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e7600794158deb38) |
 | Japanese/English Bilingual Senior Immigration Paralegal-NYC , Dallas, TX or Remote | Actus Consulting Group, Inc. - Japanese Recruiting Agency | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4467133011) |
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Business Partner | Holland America Line | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bd4d3ba1c895241f) |
-| HR Coordinator | Family First | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7794e5f1dc65299c) |
-| Human Resources Director | hireneXus | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467729030) |
-| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4467711246) |
-| Human Resources Business Partner | Kastle Systems | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466179127) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467233903) |
-| HR Consultant | Peregrine Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4467239315) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4436614924) |
 | Human Resources Manager | TransCold Distribution | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=680ff33c340747e9) |
 | Human Resources Manager | XPO | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=68bd42ba4b03ffba) |
 | Director of Total Rewards and HR Operations | Dowbuilt | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fa7886afa125a20) |
