@@ -29,17 +29,33 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (7 results)
+### HR Jobs (Olympia, WA area) (23 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Consultant 4 (HR GENERALIST) | Washington State Health Care Authority | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14f33270eaf7bcb3) |
-| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
+| Labor Relations, Human Resource Consultant 4 (HRC4)/HRC3/HRC2 In-Training | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ea92fa3786e9c84) |
+| HR Reinvention Principal Director - Consumer Goods, Retail and Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a9d120aa934aa88) |
+| HR AUDIT COMPLIANCE ANALYST | Puyallup School District | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86e923e5f1899cf6) |
+| HR Initiatives Project Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bb1a6c761b9da8e) |
+| Human Resources Manager | Arctic Transportation | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=17b65f388c71b837) |
+| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2cdc16cda85173e) |
+| Sr. HR Specialist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d544091f34a78148) |
+| Sr. HR Specialist | PACCAR | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4471101895) |
+| Human Resources Manager | Texas HR Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4471117364) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471115684) |
+| Senior Human Resources Manager | Unifi | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471118055) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469487414) |
+| SEA Manager, HR Business Partner | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328958) |
+| Sr. HR Business Partner | Rippling | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469469854) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4471119218) |
 | People Partner | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4456498091) |
 | Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
-| Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
-| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
-| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
+| People Partner, Technology | Stripe | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455360708) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469480943) |
+| Director, HRBP | LiveRamp | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471187481) |
+| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471444422) |
 
 ## Last 7 Days
 
@@ -53,14 +69,10 @@ All matching jobs found in the past week.
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (41 results)
+### HR Jobs (Olympia, WA area) (55 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Contracted HR Support | Theatre Off Jackson | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e31886adc036536) |
-| HR Business Partner | Meta | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=bf1ef059fe70be65) |
-| Recruiting & HR Business Partner | First Fed | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
-| HR Business Partner | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
 | Experienced Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8de91add7bad9259) |
 | Associate Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fae2c7bbaa0864e1) |
 | PRO (HR) Business Partner Senior – Partner Resources (PRO4PRO) Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fa948fb4afe70ac) |
@@ -98,6 +110,24 @@ All matching jobs found in the past week.
 | Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
 | Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
 | Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
+| Labor Relations, Human Resource Consultant 4 (HRC4)/HRC3/HRC2 In-Training | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ea92fa3786e9c84) |
+| HR Reinvention Principal Director - Consumer Goods, Retail and Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a9d120aa934aa88) |
+| HR AUDIT COMPLIANCE ANALYST | Puyallup School District | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86e923e5f1899cf6) |
+| HR Initiatives Project Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bb1a6c761b9da8e) |
+| Human Resources Manager | Arctic Transportation | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=17b65f388c71b837) |
+| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2cdc16cda85173e) |
+| Sr. HR Specialist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d544091f34a78148) |
+| Sr. HR Specialist | PACCAR | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4471101895) |
+| Human Resources Manager | Texas HR Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4471117364) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471115684) |
+| Senior Human Resources Manager | Unifi | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471118055) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469487414) |
+| SEA Manager, HR Business Partner | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328958) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469469854) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4471119218) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469480943) |
+| Director, HRBP | LiveRamp | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471187481) |
+| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471444422) |
 
 <!-- DAILY_REPORT_END -->
 
