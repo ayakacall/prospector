@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-23)
+## Daily Job Report (2026-09-24)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
 ### HR Jobs (Olympia, WA area) (7 results)
 
@@ -47,9 +49,9 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese/English Bilingual Senior Immigration Paralegal-NYC , Dallas, TX or Remote | Actus Consulting Group, Inc. - Japanese Recruiting Agency | New York, NY | [Apply](https://www.linkedin.com/jobs/view/4467133011) |
 | Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
 | Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
+| Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
 ### HR Jobs (Olympia, WA area) (41 results)
 
