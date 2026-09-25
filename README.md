@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-24)
+## Daily Job Report (2026-09-25)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (23 results)
 
@@ -61,28 +59,16 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Instructor, Online | Speak! Language Center | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=09b0064c6400d8bf) |
-| Freelance Online Japanese Teacher - Remote | busuu | US | [Apply](https://www.indeed.com/viewjob?jk=ae5d4bdb2cbd6787) |
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (55 results)
+### HR Jobs (Olympia, WA area) (45 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Experienced Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8de91add7bad9259) |
-| Associate Human Resources Generalist | Boeing | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=fae2c7bbaa0864e1) |
-| PRO (HR) Business Partner Senior – Partner Resources (PRO4PRO) Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8fa948fb4afe70ac) |
-| Associate Human Resources Generalist | Boeing | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4466677444) |
-| HR Director - Infrastructure Software | Meta | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4448439120) |
-| Experienced Human Resources Generalist | Boeing | Puyallup, WA | [Apply](https://www.linkedin.com/jobs/view/4466669604) |
-| PRO (HR) Business Partner Senior – Partner Resources (PRO4PRO) Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467569472) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466666002) |
-| Principal People Partner | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4466655130) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468632418) |
 | Human Resources Coordinator - Security | GardaWorld | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4468013619) |
 | Manager, Human Resources (Employee Relations) | McGee Air Services | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4466943047) |
 | Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA | [Apply](https://www.linkedin.com/jobs/view/4468075383) |
