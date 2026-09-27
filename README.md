@@ -29,25 +29,15 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager - Bingo | Muckleshoot Casino Resort | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e34d2dea1a7ab1f) |
-| Senior Human Resources Partner | Children's Therapy Center | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a1580c0c0ceaae8) |
-| Human Resources Business Partner | Brinc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c8cef5579367cf00) |
-| Accounting HR Assistant | Farmer & Betts | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a6ddabfb14f11528) |
-| HR Generalist | Axon | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a81e3a93eb761b07) |
-| Senior Human Resources Business Partner | SEIU 775 Benefits Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f78f76709eec81f4) |
-| HR Business Partner- USA | Hitachi Rail | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0577ddce2aa9acf1) |
-| Human Resources Manager | Jobot | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4470553281) |
-| Human Resources Manager - Bingo | Muckleshoot Casino Resort | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4472243951) |
-| HR Generalist | Axon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472071351) |
-| Human Resources Business Partner | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4470176647) |
-| Human Resources Business Partner | BRINC Drones | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470510578) |
-| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463134011) |
-| Senior Human Resources Business Partner | SEIU 775 Benefits Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472096121) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bd215f2cb8aeee0) |
+| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
+| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471053389) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463622060) |
+| Senior Human Resources Partner | Children's Therapy Center | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4472295819) |
 
 ## Last 7 Days
 
@@ -59,15 +49,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468411281) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460779091) |
-| Oracle HCM Core HR Module Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4451340084) |
-| Human Resources (HR) Recruiter | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4460815850) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468093614) |
 | Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
 | Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
 | HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
@@ -132,6 +117,10 @@ All matching jobs found in the past week.
 | Human Resources Business Partner | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4470176647) |
 | Human Resources Business Partner | BRINC Drones | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470510578) |
 | Senior Human Resources Business Partner | SEIU 775 Benefits Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472096121) |
+| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bd215f2cb8aeee0) |
+| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471053389) |
+| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463622060) |
+| Senior Human Resources Partner | Children's Therapy Center | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4472295819) |
 
 <!-- DAILY_REPORT_END -->
 
