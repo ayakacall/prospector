@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-27)
+## Daily Job Report (2026-09-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -49,13 +47,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (65 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467385147) |
-| Sr. Director, Global HR Leader - Tech | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467388029) |
-| HR Business Partner - Global E-Commerce Logistics (Los Angeles) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4468465942) |
 | LIFE CENTER CENTRAL - HR Coordinator | First Assembly of God Life Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3fdb3c9131019913) |
 | Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e375a068553cf9b) |
 | HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ecd9d0660f6d9d09) |
