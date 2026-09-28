@@ -27,15 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4bd215f2cb8aeee0) |
-| Human Resources Business Partner | Environmental Science Associates | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454351585) |
-| Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471053389) |
-| Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463622060) |
-| Senior Human Resources Partner | Children's Therapy Center | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4472295819) |
+| (Temp to Perm) HR Lead and Executive Assistant | Bellevue Rare Coins | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f1b2faa1f389033) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471310058) |
+| Director, HRBP | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470863283) |
+| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
 
 ## Last 7 Days
 
@@ -47,7 +46,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (65 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -116,6 +115,9 @@ All matching jobs found in the past week.
 | Partner Resources (HR) Business Partner, Senior - Corporate Functions, Seattle | Starbucks | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471053389) |
 | Principal Human Resources Business Partner (HRBP) - Amazon Pharmacy, Amazon Pharmacy PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463622060) |
 | Senior Human Resources Partner | Children's Therapy Center | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4472295819) |
+| (Temp to Perm) HR Lead and Executive Assistant | Bellevue Rare Coins | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f1b2faa1f389033) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471310058) |
+| Director, HRBP | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470863283) |
 
 <!-- DAILY_REPORT_END -->
 
