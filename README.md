@@ -27,14 +27,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Temp to Perm) HR Lead and Executive Assistant | Bellevue Rare Coins | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f1b2faa1f389033) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471310058) |
-| Director, HRBP | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470863283) |
-| HR Generalist | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1472f1789aa2cda6) |
+| Operations & HR Manager | The Rants Group | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ec772f1af14afe3) |
+| Accountant, Senior - Human Resources | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cfd824ff2703c3c) |
+| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473041980) |
+| Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
+| HR & Recruiting Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471217717) |
+| Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4473265175) |
 
 ## Last 7 Days
 
@@ -46,7 +49,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (64 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -108,6 +111,12 @@ All matching jobs found in the past week.
 | (Temp to Perm) HR Lead and Executive Assistant | Bellevue Rare Coins | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f1b2faa1f389033) |
 | People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471310058) |
 | Director, HRBP | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470863283) |
+| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1472f1789aa2cda6) |
+| Operations & HR Manager | The Rants Group | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ec772f1af14afe3) |
+| Accountant, Senior - Human Resources | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cfd824ff2703c3c) |
+| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473041980) |
+| HR & Recruiting Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471217717) |
+| Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4473265175) |
 
 <!-- DAILY_REPORT_END -->
 
