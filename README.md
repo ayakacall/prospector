@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-28)
+## Daily Job Report (2026-09-29)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -46,20 +46,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| LIFE CENTER CENTRAL - HR Coordinator | First Assembly of God Life Center | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=3fdb3c9131019913) |
-| Human Resources Manager | nan | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1e375a068553cf9b) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=ecd9d0660f6d9d09) |
-| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=45ce0336e9c9613e) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6558fd9b15408d63) |
-| Human Resources Director | Brown & Haley | Fife, WA | [Apply](https://www.linkedin.com/jobs/view/4457961544) |
-| HR Generalist | Wallenius Wilhelmsen | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4468787152) |
-| HR Business Partner (HRBP) | HiredChina.com国际人才招聘网 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470297557) |
-| Sr. Manager, Human Resources Business Partner | Stanley 1913 | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469980037) |
-| Contracted HR Support | Theatre Off Jackson | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469953843) |
 | Human Resources Consultant 4 (HR GENERALIST) | Washington State Health Care Authority | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14f33270eaf7bcb3) |
 | Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
 | Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
