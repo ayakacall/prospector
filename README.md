@@ -27,17 +27,27 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (7 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1472f1789aa2cda6) |
-| Operations & HR Manager | The Rants Group | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ec772f1af14afe3) |
-| Accountant, Senior - Human Resources | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cfd824ff2703c3c) |
-| HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473041980) |
-| Director, People Operations & Workforce Technology (AI) | Remitly | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4460104913) |
-| HR & Recruiting Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471217717) |
-| Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4473265175) |
+| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=58051bd544f251b8) |
+| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6137b8302e568db0) |
+| People Partner | MAERSK | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec9155a6b96c102) |
+| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=df407711c8050a84) |
+| Human Resources Coordinator - Department of Radiology | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a3e6a061dc3a58d) |
+| HR Reinvention Consulting Manager/Sr. Manager, Industrials Industry | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cab27b61b5ec9ce7) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471935438) |
+| Human Resources Benefits Specialist | Seattle Corporate Search | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519251) |
+| Human Resources Generalist | SkyChefs | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4471976294) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471933605) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4473524696) |
+| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4473730409) |
+| Principal HR Business Partner | Oracle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
+| Human Resources Coordinator - Department of Radiology | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473523186) |
+| People Partner | A.P. Moller - Maersk | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4473280799) |
+| Senior HR Business Partner | Cambia Health Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466589067) |
+| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519627) |
 
 ## Last 7 Days
 
@@ -49,7 +59,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (60 results)
+### HR Jobs (Olympia, WA area) (76 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -113,6 +123,22 @@ All matching jobs found in the past week.
 | HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473041980) |
 | HR & Recruiting Coordinator | CFS | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471217717) |
 | Human Resources (HR) Assistant | Robert Half | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4473265175) |
+| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=58051bd544f251b8) |
+| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6137b8302e568db0) |
+| People Partner | MAERSK | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec9155a6b96c102) |
+| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=df407711c8050a84) |
+| Human Resources Coordinator - Department of Radiology | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a3e6a061dc3a58d) |
+| HR Reinvention Consulting Manager/Sr. Manager, Industrials Industry | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cab27b61b5ec9ce7) |
+| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471935438) |
+| Human Resources Benefits Specialist | Seattle Corporate Search | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519251) |
+| Human Resources Generalist | SkyChefs | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4471976294) |
+| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471933605) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4473524696) |
+| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4473730409) |
+| Principal HR Business Partner | Oracle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
+| Human Resources Coordinator - Department of Radiology | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473523186) |
+| People Partner | A.P. Moller - Maersk | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4473280799) |
+| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519627) |
 
 <!-- DAILY_REPORT_END -->
 
