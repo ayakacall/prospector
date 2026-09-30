@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-29)
+## Daily Job Report (2026-09-30)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -49,14 +49,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
 
-### HR Jobs (Olympia, WA area) (64 results)
+### HR Jobs (Olympia, WA area) (60 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Consultant 4 (HR GENERALIST) | Washington State Health Care Authority | Tumwater, WA, US | [Apply](https://www.indeed.com/viewjob?jk=14f33270eaf7bcb3) |
-| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0bcbd73e35c84828) |
-| Bilingual Human Resources Generalist | LaSalle Network | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4470615680) |
-| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
 | Labor Relations, Human Resource Consultant 4 (HRC4)/HRC3/HRC2 In-Training | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ea92fa3786e9c84) |
 | HR Reinvention Principal Director - Consumer Goods, Retail and Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a9d120aa934aa88) |
 | HR AUDIT COMPLIANCE ANALYST | Puyallup School District | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86e923e5f1899cf6) |
