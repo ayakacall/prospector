@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-09-30)
+## Daily Job Report (2026-10-01)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -53,34 +53,14 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
+
+_No matching jobs found_
+
+### HR Jobs (Olympia, WA area) (58 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Freelance Online Japanese Teacher - Remote | busuu | New Haven, CT, US | [Apply](https://www.indeed.com/viewjob?jk=79055e8515fa1ce5) |
-
-### HR Jobs (Olympia, WA area) (76 results)
-
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Labor Relations, Human Resource Consultant 4 (HRC4)/HRC3/HRC2 In-Training | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ea92fa3786e9c84) |
-| HR Reinvention Principal Director - Consumer Goods, Retail and Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a9d120aa934aa88) |
-| HR AUDIT COMPLIANCE ANALYST | Puyallup School District | Puyallup, WA, US | [Apply](https://www.indeed.com/viewjob?jk=86e923e5f1899cf6) |
-| HR Initiatives Project Manager | King County, WA | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2bb1a6c761b9da8e) |
-| Human Resources Manager | Arctic Transportation | Pacific, WA, US | [Apply](https://www.indeed.com/viewjob?jk=17b65f388c71b837) |
-| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=a2cdc16cda85173e) |
-| Sr. HR Specialist | PACCAR | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d544091f34a78148) |
-| Sr. HR Specialist | PACCAR | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4471101895) |
-| Human Resources Manager | Texas HR Team | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4471117364) |
-| Human Resources Director | Solana HR Consulting | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471115684) |
-| Senior Human Resources Manager | Unifi | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471118055) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469487414) |
-| SEA Manager, HR Business Partner | Swissport | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4461328958) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469469854) |
-| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4471119218) |
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469480943) |
-| Director, HRBP | LiveRamp | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471187481) |
-| Sr. Director, Global HR Leader | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471444422) |
 | Human Resources Business Partner | Boeing | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0e52c4c56845f0ec) |
 | Human Resources Manager | Southwest Youth & Family Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=226ef3d7d3e01270) |
 | Human Resources Liaison | USI Insurance Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2cf2458049aeef83) |
