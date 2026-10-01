@@ -27,27 +27,28 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (17 results)
+### HR Jobs (Olympia, WA area) (18 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=58051bd544f251b8) |
-| Representative, Human Resources | McLane Company | Lakewood, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6137b8302e568db0) |
-| People Partner | MAERSK | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4ec9155a6b96c102) |
-| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=df407711c8050a84) |
-| Human Resources Coordinator - Department of Radiology | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9a3e6a061dc3a58d) |
-| HR Reinvention Consulting Manager/Sr. Manager, Industrials Industry | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=cab27b61b5ec9ce7) |
-| HR Generalist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471935438) |
-| Human Resources Benefits Specialist | Seattle Corporate Search | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519251) |
-| Human Resources Generalist | SkyChefs | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4471976294) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471933605) |
-| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4473524696) |
-| HR Generalist - Benefits Administrator | Navia Benefit Solutions, Inc. | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4473730409) |
-| Principal HR Business Partner | Oracle | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
-| Human Resources Coordinator - Department of Radiology | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473523186) |
-| People Partner | A.P. Moller - Maersk | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4473280799) |
-| Senior HR Business Partner | Cambia Health Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4466589067) |
-| Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519627) |
+| Human Resources Coordinator | HRT Northwest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a5d268028047c4c) |
+| Human Resources Coordinator | Associated Recreation Council | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6aae3425ae1e0274) |
+| Senior Human Resources Business Partner | KeyBank | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b456832bfe1c141b) |
+| HR Business Partner II, Field | Mobis Parts America, LLC. | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fcd02b46729bac1) |
+| HR Generalist | Aero Controls, Inc | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d32fdb765b86534a) |
+| HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5a973cf7f842774) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e55b4c20fd9f521) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=716ca85da670f7e1) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
+| Senior Human Resources Business Partner | KeyBank | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472315770) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474181450) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914486) |
+| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914234) |
+| Senior Human Resources Director | Solid Ground | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648063) |
+| Human Resources Assistant (NAF/Developmental) NF-02/03. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4474149752) |
+| Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
+| Human Resources Operations Manager | Aurion Biotech | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473995316) |
+| Sr. UX Designer, HR Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455798547) |
 
 ## Last 7 Days
 
@@ -57,7 +58,7 @@ All matching jobs found in the past week.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -119,6 +120,22 @@ _No matching jobs found_
 | Human Resources Coordinator - Department of Radiology | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473523186) |
 | People Partner | A.P. Moller - Maersk | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4473280799) |
 | Academic HR Specialist - SoM Academic Appointments and Compensation, Integrated Resources, Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473519627) |
+| Human Resources Coordinator | HRT Northwest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a5d268028047c4c) |
+| Human Resources Coordinator | Associated Recreation Council | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6aae3425ae1e0274) |
+| Senior Human Resources Business Partner | KeyBank | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b456832bfe1c141b) |
+| HR Business Partner II, Field | Mobis Parts America, LLC. | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fcd02b46729bac1) |
+| HR Generalist | Aero Controls, Inc | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d32fdb765b86534a) |
+| HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5a973cf7f842774) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e55b4c20fd9f521) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=716ca85da670f7e1) |
+| Senior Human Resources Business Partner | KeyBank | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472315770) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474181450) |
+| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914234) |
+| Senior Human Resources Director | Solid Ground | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648063) |
+| Human Resources Assistant (NAF/Developmental) NF-02/03. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4474149752) |
+| Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
+| Human Resources Operations Manager | Aurion Biotech | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473995316) |
+| Sr. UX Designer, HR Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455798547) |
 
 <!-- DAILY_REPORT_END -->
 
