@@ -29,28 +29,31 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
 
-### HR Jobs (Olympia, WA area) (18 results)
+### HR Jobs (Olympia, WA area) (21 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | HRT Northwest | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a5d268028047c4c) |
-| Human Resources Coordinator | Associated Recreation Council | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6aae3425ae1e0274) |
-| Senior Human Resources Business Partner | KeyBank | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b456832bfe1c141b) |
-| HR Business Partner II, Field | Mobis Parts America, LLC. | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1fcd02b46729bac1) |
-| HR Generalist | Aero Controls, Inc | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d32fdb765b86534a) |
-| HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel | Accenture | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d5a973cf7f842774) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7e55b4c20fd9f521) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=716ca85da670f7e1) |
-| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
-| Senior Human Resources Business Partner | KeyBank | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472315770) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474181450) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914486) |
-| Principal HRBP, (HR4HR) Senior Talent Transformation | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455914234) |
-| Senior Human Resources Director | Solid Ground | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648063) |
-| Human Resources Assistant (NAF/Developmental) NF-02/03. | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA | [Apply](https://www.linkedin.com/jobs/view/4474149752) |
-| Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
-| Human Resources Operations Manager | Aurion Biotech | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473995316) |
-| Sr. UX Designer, HR Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455798547) |
+| Senior HR Analyst, Employee Relations | Seattle Housing Authority | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=204251426fbc7c48) |
+| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=029be79cdecc0d5e) |
+| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d12090b6ad6e9ef8) |
+| Human Resources Manager | Avenue5 Residential | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=def82019fd36c4ca) |
+| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4a58b4f95f48552) |
+| Recruiter and HR Assistant | Journey Nursing Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d29f58297f2b16a1) |
+| HR Payroll Specialist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4d0559528b924311) |
+| Human Resources Manager | Aeroplastics | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b2e4e1f681190b2) |
+| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92930966b6f79227) |
+| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472843918) |
+| Principal HRBP, Business and Corporate Development | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465837397) |
+| Senior HR Operations Specialist | Impinj | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4463027748) |
+| HR Business Partner, Field (Seattle) | Total Wine & More | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454136698) |
+| Regional HR, Labor, Field Ops | Vaco by Highspring | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4474575053) |
+| Human Resources (HR) Coordinator | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4474750708) |
+| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
+| Human Resources Manager | Avenue5 Residential | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472835576) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
+| Human Resources Business Partner | Avis Budget Group | Tukwila, WA | [Apply](https://www.linkedin.com/jobs/view/4446693573) |
+| Managed Services HR Payroll - Director | PwC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465370266) |
 
 ## Last 7 Days
 
@@ -62,7 +65,7 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
 
-### HR Jobs (Olympia, WA area) (58 results)
+### HR Jobs (Olympia, WA area) (74 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -124,6 +127,22 @@ All matching jobs found in the past week.
 | Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
 | Human Resources Operations Manager | Aurion Biotech | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473995316) |
 | Sr. UX Designer, HR Experience Technology | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4455798547) |
+| Senior HR Analyst, Employee Relations | Seattle Housing Authority | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=204251426fbc7c48) |
+| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=029be79cdecc0d5e) |
+| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d12090b6ad6e9ef8) |
+| Human Resources Manager | Avenue5 Residential | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=def82019fd36c4ca) |
+| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4a58b4f95f48552) |
+| Recruiter and HR Assistant | Journey Nursing Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d29f58297f2b16a1) |
+| HR Payroll Specialist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4d0559528b924311) |
+| Human Resources Manager | Aeroplastics | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b2e4e1f681190b2) |
+| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92930966b6f79227) |
+| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472843918) |
+| Principal HRBP, Business and Corporate Development | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465837397) |
+| Regional HR, Labor, Field Ops | Vaco by Highspring | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4474575053) |
+| Human Resources (HR) Coordinator | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4474750708) |
+| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
+| Human Resources Manager | Avenue5 Residential | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472835576) |
+| Managed Services HR Payroll - Director | PwC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465370266) |
 
 <!-- DAILY_REPORT_END -->
 
