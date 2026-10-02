@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-01)
+## Daily Job Report (2026-10-02)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
 
 ### HR Jobs (Olympia, WA area) (18 results)
 
@@ -54,30 +56,16 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (0 results)
-
-_No matching jobs found_
-
-### HR Jobs (Olympia, WA area) (74 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Boeing | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0e52c4c56845f0ec) |
-| Human Resources Manager | Southwest Youth & Family Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=226ef3d7d3e01270) |
-| Human Resources Liaison | USI Insurance Services | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2cf2458049aeef83) |
-| Human Resources Business Partner | Sound Credit Union | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=273a2ed946e9d99b) |
-| Human Resources Coordinator | Sound Credit Union | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1f4a6e16c216c47a) |
-| Senior Human Resources Manager | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=39e1437497e206f9) |
-| Labor Relations, Human Resource Consultant 4 (HRC4)/HRC3/HRC2 In-Training | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=637485162c82f163) |
-| Human Resources Director | Brown & Haley | Fife, WA, US | [Apply](https://www.indeed.com/viewjob?jk=82f8022670aa76c8) |
-| Human Resources Manager | Westmont Hospitality | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471661683) |
-| Human Resources Business Partner | Sound Credit Union | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4471810119) |
-| Human Resources Liaison | USI Insurance Services | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471699551) |
-| Human Resources Coordinator | Sound Credit Union | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4471803351) |
-| Senior Human Resources Manager | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471656804) |
-| HR Specialist, PXT Employee Onboarding Exp | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4469733722) |
-| HR Compensation Specialist | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4464939482) |
-| Bilingual Human Resources Generalist | LaSalle Network | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4471694210) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
+
+### HR Jobs (Olympia, WA area) (58 results)
+
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
 | Human Resources Manager - Bingo | Muckleshoot Casino Resort | Auburn, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9e34d2dea1a7ab1f) |
 | Senior Human Resources Partner | Children's Therapy Center | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5a1580c0c0ceaae8) |
 | Human Resources Business Partner | Brinc | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c8cef5579367cf00) |
