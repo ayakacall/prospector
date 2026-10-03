@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-02)
+## Daily Job Report (2026-10-03)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
+| Japanese Language Expert Part time | Freelancing | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=102295ff4e319623) |
 
 ### HR Jobs (Olympia, WA area) (21 results)
 
@@ -59,11 +59,12 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
+| Japanese Language Expert Part time | Freelancing | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=102295ff4e319623) |
 
 ### HR Jobs (Olympia, WA area) (74 results)
 
