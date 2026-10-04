@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-03)
+## Daily Job Report (2026-10-04)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Japanese Language Expert Part time | Freelancing | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=102295ff4e319623) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (26 results)
 
