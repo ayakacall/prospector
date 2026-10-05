@@ -27,14 +27,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8181f0efa4f6eaf3) |
-| HR Director | BNBuilders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
-| Human Resources Partner - Employee Relations Specialist | Tessera | Lakewood, WA | [Apply](https://www.linkedin.com/jobs/view/4455473287) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475341600) |
+| Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01ec64161374ff96) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dde3f0278abe8261) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=229a9a9d7bd04525) |
+| Sr. HR Business Partner | PitchBook | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
+| Regional HR Partner Lead Middle East | Vanderlande | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473672129) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4475828029) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Olympia, WA | [Apply](https://www.linkedin.com/jobs/view/4436614924) |
 
 ## Last 7 Days
 
@@ -47,13 +50,10 @@ All matching jobs found in the past week.
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=e75c8da6bbd7a712) |
 | Japanese Language Expert Part time | Freelancing | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=102295ff4e319623) |
 
-### HR Jobs (Olympia, WA area) (80 results)
+### HR Jobs (Olympia, WA area) (82 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Temp to Perm) HR Lead and Executive Assistant | Bellevue Rare Coins | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8f1b2faa1f389033) |
-| People Operations Specialist | Evlo AI | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4471310058) |
-| Director, HRBP | Ladders | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4470863283) |
 | HR Director – Organizational Effectiveness | PCC Community Markets | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=1472f1789aa2cda6) |
 | Operations & HR Manager | The Rants Group | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=9ec772f1af14afe3) |
 | Accountant, Senior - Human Resources | City of Seattle | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5cfd824ff2703c3c) |
@@ -131,6 +131,11 @@ All matching jobs found in the past week.
 | People Consulting - HR Technology - Workforce Management UKG - Manager | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473178462) |
 | Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8181f0efa4f6eaf3) |
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475341600) |
+| Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01ec64161374ff96) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dde3f0278abe8261) |
+| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=229a9a9d7bd04525) |
+| Regional HR Partner Lead Middle East | Vanderlande | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473672129) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4475828029) |
 
 <!-- DAILY_REPORT_END -->
 
