@@ -19,16 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-06)
+## Daily Job Report (2026-10-07)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Remote Japanese Language Teacher (Adult Classes) | Japanese Cultural and Community Center of Washington | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ee38738213818fed) |
-| Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (18 results)
 
