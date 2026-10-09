@@ -29,38 +29,19 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (28 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | ACLU of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ff303162d0bb3ed9) |
-| HR Reinvention Industry & Process Advisor Manager, Chemical & Natural Resources | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c722f07a4dc2dcb) |
-| Human Resources Partner | Tessera | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=257fd0cec1cf8954) |
-| Academic HR Partner - School of Medicine Integrated Resources, Academic HR | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9dd25d3ff224ed16) |
-| HR Partner, Human Resources, NACF | Amazon.com | DuPont, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e1ea92b18a02fd78) |
-| Principal, HRBP, AWS PXT, Global Support | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=50a423812eece03d) |
-| Human Resources Recruiter | Harbor Regional Health Community Hospital | Aberdeen, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=20c6c5eeebe58302) |
-| UKG Ready HR Lead | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=56f06547c5c7fd31) |
-| HR Partner, Human Resources, NACF | Amazon | Dupont, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476943880) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4456408639) |
-| Human Resources Generalist | The ACLU of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475766633) |
-| HR Business Partner | Meta | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
-| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476948815) |
-| Director - HRIS | MultiCare Health System | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474489560) |
-| SENIOR HUMAN RESOURCES MANAGER | Kettle Cuisine | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4474099981) |
-| Principal, Human Resources Specialist, ADC Talent | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465582662) |
+| People Operations Specialist | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a3b3881187d0c8a2) |
+| Human Resources Associate | Kitsap Transit | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8038fe5ab7f326de) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476808285) |
+| Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
+| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474890599) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472754013) |
 | Human Resources Partner | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475701973) |
-| Human Resources Business Partner | AIM | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476770558) |
-| Manager, Human Resources (Employee Relations) | McGee Air Services | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474474714) |
-| Human Resources Business Partner - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4463134011) |
-| Sr. Director, Global HR Leader | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467906517) |
-| HR Business Partner | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466538843) |
-| Sr. Director, Global HR Leader - Tech | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467901483) |
-| Academic HR Partner - School of Medicine Integrated Resources, Academic HR | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476908588) |
-| HR Hypercare Analyst | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475469690) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Manager - Tech Cons- Open Location | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465536897) |
-| HR Business Partner | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475712285) |
-| Senior Human Resources Business Partner | Hansell Tierney | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4475451702) |
+| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
+| Senior Human Resources Business Partner | Wimmer Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477427721) |
 
 ## Last 7 Days
 
@@ -75,26 +56,10 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (95 results)
+### HR Jobs (Olympia, WA area) (86 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior HR Analyst, Employee Relations | Seattle Housing Authority | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=204251426fbc7c48) |
-| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=029be79cdecc0d5e) |
-| Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d12090b6ad6e9ef8) |
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=def82019fd36c4ca) |
-| VP of HR | Eco Global | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=b4a58b4f95f48552) |
-| Recruiter and HR Assistant | Journey Nursing Services | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=d29f58297f2b16a1) |
-| HR Payroll Specialist | nan | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4d0559528b924311) |
-| Human Resources Manager | Aeroplastics | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=2b2e4e1f681190b2) |
-| Protected Leave/Reasonable Accommodation Specialist, Human Resource Consultant 3 (HRC3) | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=92930966b6f79227) |
-| Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472843918) |
-| Principal HRBP, Business and Corporate Development | Amazon | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465837397) |
-| Regional HR, Labor, Field Ops | Vaco by Highspring | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4474575053) |
-| Human Resources (HR) Coordinator | Robert Half | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4474750708) |
-| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
-| Human Resources Manager | Avenue5 Residential | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4472835576) |
-| Managed Services HR Payroll - Director | PwC | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4465370266) |
 | Human Resources Administrator | CalPortland | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4cadcb21656c64dc) |
 | Human Resources Business Partner II | SEIU 775 Benefits Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6b51fa8e32269d99) |
 | HR Generalist | Cascade Community Healthcare | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9d874f2bc881acd) |
@@ -174,6 +139,13 @@ All matching jobs found in the past week.
 | HR Hypercare Analyst | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475469690) |
 | HR Business Partner | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475712285) |
 | Senior Human Resources Business Partner | Hansell Tierney | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4475451702) |
+| People Operations Specialist | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a3b3881187d0c8a2) |
+| Human Resources Associate | Kitsap Transit | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8038fe5ab7f326de) |
+| HR Generalist | Valence Surface Technologies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476808285) |
+| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474890599) |
+| Human Resources Director | Solana HR Consulting | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472754013) |
+| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
+| Senior Human Resources Business Partner | Wimmer Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477427721) |
 
 <!-- DAILY_REPORT_END -->
 
