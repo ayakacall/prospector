@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-09)
+## Daily Job Report (2026-10-10)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -47,40 +45,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Language Expert Part time | Freelancing | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=102295ff4e319623) |
 | Remote Japanese Language Teacher (Adult Classes) | Japanese Cultural and Community Center of Washington | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ee38738213818fed) |
 | Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (86 results)
+### HR Jobs (Olympia, WA area) (65 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Administrator | CalPortland | Federal Way, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4cadcb21656c64dc) |
-| Human Resources Business Partner II | SEIU 775 Benefits Group | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=6b51fa8e32269d99) |
-| HR Generalist | Cascade Community Healthcare | Centralia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=f9d874f2bc881acd) |
-| Area Human Resources Manager | Securitas | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dcaa2ae8cd99ac3b) |
-| Human Resource Consultant 4 (HRC4) with option for HRC3 In-Training | Washington State Health Care Authority | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=373f6d7ecd5541d4) |
-| Human Resource Consultant 4 (HRC4) with option for HRC3 In-Training | State of Washington | Olympia, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5103378a98ceb859) |
-| Human Resources Specialist (SEA) | McGee Air Services | SeaTac, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4a2a45553b620e4f) |
-| Academic HR Manager, Leaves and Accommodations - School of Medicine, Dean's Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University Of Washington | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=c4e2968742839891) |
-| Human Resources Coordinator | HRT Northwest | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=0ecfe36a1af52522) |
-| Human Resources Administrator | CalPortland | Federal Way, WA | [Apply](https://www.linkedin.com/jobs/view/4475307697) |
-| Human Resources Administrator | CalPortland | Auburn, WA | [Apply](https://www.linkedin.com/jobs/view/4473409135) |
-| Human Resources Business Partner II | SEIU 775 Benefits Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475307373) |
-| Client HR Business Partner I - PEO - PST ONLY - WA, AZ, NV or OR ONLY | Paychex | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4473410490) |
-| Human Resources Specialist (SEA) | McGee Air Services | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4473164759) |
-| Senior HR Analyst, Employee Relations | Seattle Housing Authority | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4473375687) |
-| Area Human Resources Manager | Securitas Security Services USA, Inc. | SeaTac, WA | [Apply](https://www.linkedin.com/jobs/view/4473399426) |
-| HR Generalist | Cascade Community Healthcare | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4475040421) |
-| Academic HR Manager, Leaves and Accommodations - School of Medicine, Dean's Office of Academic Appointments & Compensation, Integrated Resources, Academic HR | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475004812) |
-| 42A Human Resources Specialist | DC Army National Guard | McChord Air Force Base, WA | [Apply](https://www.linkedin.com/jobs/view/4473384770) |
-| 42A Human Resources Specialist | DC Army National Guard | Centralia, WA | [Apply](https://www.linkedin.com/jobs/view/4473382866) |
-| People Consulting - HR Technology - Workforce Management UKG - Manager | EY | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473178462) |
 | Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8181f0efa4f6eaf3) |
 | Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475341600) |
 | Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01ec64161374ff96) |
