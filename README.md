@@ -27,19 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Specialist | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a3b3881187d0c8a2) |
-| Human Resources Associate | Kitsap Transit | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8038fe5ab7f326de) |
-| HR Generalist | Valence Surface Technologies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476808285) |
-| Sr. Benefits & HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472648772) |
-| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474890599) |
-| Human Resources Director | Solana HR Consulting | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472754013) |
-| Human Resources Partner | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475701973) |
-| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
-| Senior Human Resources Business Partner | Wimmer Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477427721) |
+| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bd7f55ca715b171e) |
+| Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
+| Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
+| HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
 
 ## Last 7 Days
 
@@ -53,7 +48,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (65 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -122,6 +117,10 @@ All matching jobs found in the past week.
 | Human Resources Director | Solana HR Consulting | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472754013) |
 | People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
 | Senior Human Resources Business Partner | Wimmer Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477427721) |
+| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bd7f55ca715b171e) |
+| Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
+| Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
+| HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
 
 <!-- DAILY_REPORT_END -->
 
