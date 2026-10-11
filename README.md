@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-10)
+## Daily Job Report (2026-10-11)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -48,12 +48,10 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (69 results)
+### HR Jobs (Olympia, WA area) (67 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8181f0efa4f6eaf3) |
-| Human Resources Assistant - Seattle, WA | Concessions International | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475341600) |
 | Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01ec64161374ff96) |
 | Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dde3f0278abe8261) |
 | Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=229a9a9d7bd04525) |
