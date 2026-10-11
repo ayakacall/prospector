@@ -27,14 +27,12 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bd7f55ca715b171e) |
-| Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
-| Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
-| HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
+| Human Resources Generalist | HHI Services | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=08ac4dcfabf6c8c2) |
+| Manager, Human Resources | Aecon U.S. | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
 
 ## Last 7 Days
 
@@ -48,7 +46,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 
-### HR Jobs (Olympia, WA area) (67 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -119,6 +117,7 @@ All matching jobs found in the past week.
 | Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
 | Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
 | HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
+| Human Resources Generalist | HHI Services | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=08ac4dcfabf6c8c2) |
 
 <!-- DAILY_REPORT_END -->
 
