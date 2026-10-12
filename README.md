@@ -29,12 +29,16 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | HHI Services | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=08ac4dcfabf6c8c2) |
-| Manager, Human Resources | Aecon U.S. | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4458974792) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
+| Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
+| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
 
 ## Last 7 Days
 
@@ -49,15 +53,10 @@ All matching jobs found in the past week.
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (66 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Front Desk & HR Administrative Coordinator | nan | Covington, WA, US | [Apply](https://www.indeed.com/viewjob?jk=01ec64161374ff96) |
-| Human Resources Business Partner | Primo Brands | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=dde3f0278abe8261) |
-| Human Resources Support | Sierra Pacific Industries | Shelton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=229a9a9d7bd04525) |
-| Regional HR Partner Lead Middle East | Vanderlande | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4473672129) |
-| Human Resources Support | Sierra Pacific Company | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4475828029) |
 | Human Resources Manager | MV Transportation | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e82cfe8db8b2a1b6) |
 | HR Generalist | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4c491bc03d1af5d1) |
 | Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=424719c15bf7a0bf) |
@@ -121,6 +120,9 @@ All matching jobs found in the past week.
 | Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
 | HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
 | Human Resources Generalist | HHI Services | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=08ac4dcfabf6c8c2) |
+| Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
 
 <!-- DAILY_REPORT_END -->
 
