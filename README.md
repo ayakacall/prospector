@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-12)
+## Daily Job Report (2026-10-13)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -44,35 +44,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Remote Japanese Language Teacher (Adult Classes) | Japanese Cultural and Community Center of Washington | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=ee38738213818fed) |
-| Customer Success Manager — Japanese & Korean Speaking (Remote) | Dropbox | Remote, US | [Apply](https://www.indeed.com/viewjob?jk=d3f633a59ce94e3c) |
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | MV Transportation | Kent, WA, US | [Apply](https://www.indeed.com/viewjob?jk=e82cfe8db8b2a1b6) |
-| HR Generalist | nan | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4c491bc03d1af5d1) |
-| Principal HRBP, AWS HR | Amazon.com | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=424719c15bf7a0bf) |
-| Human Resources Business Partner | Boeing | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4474077289) |
-| Human Resources Manager | MV Transportation | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4474651823) |
-| Human Resources Manager - Social Sciences 2 | University of Washington | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4476113562) |
-| HR/Payroll Coordinator | Evergreen Healthcare Group | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474010081) |
-| HR Recruiter | Robert Half | Tacoma, WA | [Apply](https://www.linkedin.com/jobs/view/4476194744) |
-| Human Resources (HR) Specialist | Robert Half | Shelton, WA | [Apply](https://www.linkedin.com/jobs/view/4476198536) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4475850065) |
-| Human Resources Business Partner | Primo Brands | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4475833885) |
-| Human Resources Coordinator | Hermanson Company | Kent, WA | [Apply](https://www.linkedin.com/jobs/view/4475883188) |
-| Human Resources Services Specialist | Hansell Tierney | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4474649109) |
-| HR Employee Services Analyst | Wimmer Solutions | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474653249) |
-| Human Resources Generalist | Averro | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474646014) |
-| HR Hypercare Analyst | Hansell Tierney | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474639320) |
 | Senior Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=df94de3a28673a7e) |
 | Human Resources Generalist | Metropolitan Development Council | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035de9124e6c68f1) |
 | Human Resources Administrator | Trident Security Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4adc086e2d66a4a6) |
