@@ -29,16 +29,12 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (6 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
-| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
-| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
+| Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
+| Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
 
 ## Last 7 Days
 
@@ -51,7 +47,7 @@ All matching jobs found in the past week.
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (50 results)
+### HR Jobs (Olympia, WA area) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -105,6 +101,8 @@ All matching jobs found in the past week.
 | Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
 | Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
 | HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
+| Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
+| Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
 
 <!-- DAILY_REPORT_END -->
 
