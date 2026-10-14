@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-13)
+## Daily Job Report (2026-10-14)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (2 results)
 
