@@ -27,12 +27,11 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
-| Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
+| HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
 
 ## Last 7 Days
 
@@ -45,7 +44,7 @@ All matching jobs found in the past week.
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 
-### HR Jobs (Olympia, WA area) (52 results)
+### HR Jobs (Olympia, WA area) (53 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -101,6 +100,7 @@ All matching jobs found in the past week.
 | HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
 | Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
 | Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
+| HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
 
 <!-- DAILY_REPORT_END -->
 
