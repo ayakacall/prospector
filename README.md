@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-14)
+## Daily Job Report (2026-10-15)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 
 ### HR Jobs (Olympia, WA area) (1 results)
 
@@ -37,30 +39,18 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
+| Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 
-### HR Jobs (Olympia, WA area) (53 results)
+### HR Jobs (Olympia, WA area) (40 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | Arboreal Management | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=df94de3a28673a7e) |
-| Human Resources Generalist | Metropolitan Development Council | Tacoma, WA, US | [Apply](https://www.indeed.com/viewjob?jk=035de9124e6c68f1) |
-| Human Resources Administrator | Trident Security Solutions | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=4adc086e2d66a4a6) |
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=8bc810d8da11261b) |
-| HR Business Partner II, Field | Mobis Parts America, LLC. | Sumner, WA, US | [Apply](https://www.indeed.com/viewjob?jk=5c52a367ddff19ce) |
-| Human Resources Business Partner | Boeing | Renton, WA, US | [Apply](https://www.indeed.com/viewjob?jk=7d839eb5e9b30b02) |
-| Recruiter & HR Generalist (Seattle) | Housing Connector | Seattle, WA, US | [Apply](https://www.indeed.com/viewjob?jk=efef29e5beb7962a) |
-| Senior Human Resources Manager | Arboreal Management | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4476552976) |
-| Senior Director, HRBPs and Employee Experience | Rover.com | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476553035) |
-| ServiceNow HRSD Manager | Deloitte | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4467972008) |
-| Human Resources Business Partner - Renton WA | VetJobs | Renton, WA | [Apply](https://www.linkedin.com/jobs/view/4475105460) |
-| People Partner | A.P. Moller - Maersk | Sumner, WA | [Apply](https://www.linkedin.com/jobs/view/4476399260) |
-| HR Employee Services Analyst | Hansell Tierney | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/4474993365) |
 | Human Resources Generalist | ACLU of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ff303162d0bb3ed9) |
 | HR Reinvention Industry & Process Advisor Manager, Chemical & Natural Resources | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c722f07a4dc2dcb) |
 | Human Resources Partner | Tessera | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=257fd0cec1cf8954) |
