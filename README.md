@@ -29,11 +29,24 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 
-### HR Jobs (Olympia, WA area) (1 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
+| Senior Manager, People Partner | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db8131c17ae4b1c5) |
+| HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84ba9f0318cb9887) |
+| HRIS Workday Analyst (Fixed Term) | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b5eb024fa8a73956) |
+| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5abd8ebd2f6fa397) |
+| Sr. HR Business Partner | Rippling | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
+| HR Specialist, PXT Employee Onboarding Exp | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479726616) |
+| Principal People Partner | Remitly | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4470956931) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
+| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
+| Senior Manager, People Partner | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479599375) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
+| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479595087) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478478875) |
+| Sr. Lead, People Operations & Automation | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478497139) |
 
 ## Last 7 Days
 
@@ -47,7 +60,7 @@ All matching jobs found in the past week.
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 | Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 
-### HR Jobs (Olympia, WA area) (40 results)
+### HR Jobs (Olympia, WA area) (51 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -91,6 +104,17 @@ All matching jobs found in the past week.
 | Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
 | Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
 | HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
+| Senior Manager, People Partner | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db8131c17ae4b1c5) |
+| HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84ba9f0318cb9887) |
+| HRIS Workday Analyst (Fixed Term) | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b5eb024fa8a73956) |
+| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5abd8ebd2f6fa397) |
+| HR Specialist, PXT Employee Onboarding Exp | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479726616) |
+| Principal People Partner | Remitly | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4470956931) |
+| Senior Manager, People Partner | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479599375) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
+| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479595087) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478478875) |
+| Sr. Lead, People Operations & Automation | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478497139) |
 
 <!-- DAILY_REPORT_END -->
 
