@@ -30,24 +30,36 @@ Jobs posted in the last 24 hours matching search criteria.
 | Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (26 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Manager, People Partner | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db8131c17ae4b1c5) |
-| HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84ba9f0318cb9887) |
-| HRIS Workday Analyst (Fixed Term) | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b5eb024fa8a73956) |
-| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5abd8ebd2f6fa397) |
+| Director, Human Resources Business Partner | Expedia Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa5bb68d01861e00) |
+| HR Director, Central Products | Meta | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=69ce4b1564a51da8) |
+| Human Resources Director | Muckleshoot Indian Tribe | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3771cb0d82d25060) |
+| DC HR Manager - Seattle FDC/BDC | The Home Depot | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7931d3bea9a53f9f) |
+| HR Generalist | Columbia Distributing Company | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bff1aa20ca22ffb) |
+| Senior Human Resources Business Partner | DHL | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a90d6d0c081c1a36) |
+| Senior Director, HRBPs and Employee Experience | Rover.com | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476553035) |
+| Human Resources Business Partner | Sound Credit Union | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471810119) |
+| Human Resources Director | Muckleshoot Indian Tribe | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479329233) |
+| HR Director, Central Products | Meta | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477379300) |
+| SEA Manager, HR Business Partner | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4461328958) |
+| Recruiting & HR Business Partner | First Fed | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
+| Director, Human Resources Business Partner | Expedia Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479347976) |
+| HR Generalist | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454341912) |
+| People Partner, DC Operations | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4442627616) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
+| Sr. HR Specialist | PACCAR | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471101895) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479148503) |
+| Senior Manager, People Operations | Verathon | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467886644) |
+| Senior Human Resources Business Partner | DHL Global Forwarding | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479836852) |
 | Sr. HR Business Partner | Rippling | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
-| HR Specialist, PXT Employee Onboarding Exp | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479726616) |
-| Principal People Partner | Remitly | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4470956931) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
-| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
-| Senior Manager, People Partner | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479599375) |
+| Sr. Program Manager, People Operations | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479194647) |
+| Human Resources Director | hireneXus | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479136351) |
+| HR Generalist | Sysco | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480158832) |
 | Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
-| HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479595087) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478478875) |
-| Sr. Lead, People Operations & Automation | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478497139) |
+| HR Compensation Specialist | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4464939482) |
 
 ## Last 7 Days
 
@@ -63,7 +75,7 @@ All matching jobs found in the past week.
 | Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 
-### HR Jobs (Olympia, WA area) (29 results)
+### HR Jobs (Olympia, WA area) (44 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -96,6 +108,21 @@ All matching jobs found in the past week.
 | HR/Payroll Specialist - School of Medicine Integrated Resources, Staff HR | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479595087) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478478875) |
 | Sr. Lead, People Operations & Automation | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478497139) |
+| Director, Human Resources Business Partner | Expedia Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa5bb68d01861e00) |
+| HR Director, Central Products | Meta | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=69ce4b1564a51da8) |
+| Human Resources Director | Muckleshoot Indian Tribe | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3771cb0d82d25060) |
+| DC HR Manager - Seattle FDC/BDC | The Home Depot | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7931d3bea9a53f9f) |
+| HR Generalist | Columbia Distributing Company | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bff1aa20ca22ffb) |
+| Senior Human Resources Business Partner | DHL | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a90d6d0c081c1a36) |
+| Human Resources Director | Muckleshoot Indian Tribe | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479329233) |
+| HR Director, Central Products | Meta | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477379300) |
+| Director, Human Resources Business Partner | Expedia Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479347976) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479148503) |
+| Senior Manager, People Operations | Verathon | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467886644) |
+| Senior Human Resources Business Partner | DHL Global Forwarding | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479836852) |
+| Sr. Program Manager, People Operations | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479194647) |
+| Human Resources Director | hireneXus | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479136351) |
+| HR Generalist | Sysco | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480158832) |
 
 <!-- DAILY_REPORT_END -->
 
