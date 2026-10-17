@@ -19,16 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-16)
+## Daily Job Report (2026-10-17)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
-| Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
+| Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
 ### HR Jobs (Olympia, WA area) (26 results)
 
@@ -69,23 +68,16 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Urgent Japanese Interpreters Needed | Languagers Inc. | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=6db17f546d94a5af) |
 | Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 | Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 | Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
+| Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (44 results)
+### HR Jobs (Olympia, WA area) (37 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Operations Specialist | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a3b3881187d0c8a2) |
-| Human Resources Associate | Kitsap Transit | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8038fe5ab7f326de) |
-| HR Generalist | Valence Surface Technologies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476808285) |
-| STR MGMT/ASSET PROTECTION DEPT LEADER (HR) | Fred Meyer | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474890599) |
-| Human Resources Director | Solana HR Consulting | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472754013) |
-| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
-| Senior Human Resources Business Partner | Wimmer Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477427721) |
 | Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bd7f55ca715b171e) |
 | Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
 | Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
