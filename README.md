@@ -29,15 +29,13 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Manager, Human Resources Partnerships | Earthjustice | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7a47530b441fa59b) |
-| Manager, HR Solution Architect | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2923eae651d7290e) |
-| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c5d92fefc18d5cd) |
-| Human Resources Representative FT w/Benefits | Navy Exchange | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fe70579392cd31bf) |
-| US&C People Operations Employee Data Specialist | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=83468a0bc28977b8) |
+| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480875828) |
+| HR Generalist | Axon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472071351) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
 
 ## Last 7 Days
 
@@ -53,7 +51,7 @@ All matching jobs found in the past week.
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (38 results)
+### HR Jobs (Olympia, WA area) (39 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -95,6 +93,7 @@ All matching jobs found in the past week.
 | Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c5d92fefc18d5cd) |
 | Human Resources Representative FT w/Benefits | Navy Exchange | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fe70579392cd31bf) |
 | US&C People Operations Employee Data Specialist | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=83468a0bc28977b8) |
+| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480875828) |
 
 <!-- DAILY_REPORT_END -->
 
