@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-17)
+## Daily Job Report (2026-10-18)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
+| Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -53,14 +53,10 @@ All matching jobs found in the past week.
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (42 results)
+### HR Jobs (Olympia, WA area) (38 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bd7f55ca715b171e) |
-| Northwest HR Generalist | Baker Commodities, Inc. | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1ce1ffa6c12dd1ff) |
-| Staff Human Resources Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=68a26f28be60a030) |
-| HR Generalist | Seattle's Union Gospel Mission | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=10bdb10faff237d8) |
 | Human Resources Generalist | HHI Services | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=08ac4dcfabf6c8c2) |
 | Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
 | Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
