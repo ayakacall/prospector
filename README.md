@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-19)
+## Daily Job Report (2026-10-20)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -38,23 +38,19 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Business Japanese Online Course Teacher | Skillademia UAB | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9832125c12f275fa) |
 | Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 | Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (39 results)
+### HR Jobs (Olympia, WA area) (36 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Specialist | Port of Tacoma | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477575612) |
-| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476036302) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477268515) |
 | Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
 | Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
 | HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
