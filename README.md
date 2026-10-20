@@ -27,12 +27,27 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (17 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480232406) |
+| Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
+| Senior Human Resource Consultant (HRC4) - Green Hill School | State of Washington | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4423d420d17763f9) |
+| Senior HR Consultant & Project Manager | Launch Industries | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=62791563844130ec) |
+| HR Manager & Executive Assistant | Bellevue Rare Coins | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a0a28aa125559ee8) |
+| People Operations Partner | Kestra Medical Technologies | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9ca77c114d81c1dc) |
+| HR Onboarding Specialist | MASON GENERAL HOSPITAL | Shelton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=53d4b04ee0a05981) |
+| UTC Human Resource Consultant (HRC2) | State of Washington | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1a429de3a03ca4ff) |
+| Academic HR Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=746d9cc3a3e5f737) |
+| HR Specialist | CFS | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478640897) |
+| Human Resources Specialist (LER) | U.S. Customs and Border Protection | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480450895) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
 | Senior Human Resources Business Partner | DHL Global Forwarding | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479836852) |
+| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480271376) |
+| Academic HR Manager - Department of Medicine | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481247748) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481210463) |
+| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
 
 ## Last 7 Days
 
@@ -47,7 +62,7 @@ All matching jobs found in the past week.
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (36 results)
+### HR Jobs (Olympia, WA area) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -87,6 +102,20 @@ All matching jobs found in the past week.
 | US&C People Operations Employee Data Specialist | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=83468a0bc28977b8) |
 | Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480875828) |
 | Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480232406) |
+| Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
+| Senior Human Resource Consultant (HRC4) - Green Hill School | State of Washington | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4423d420d17763f9) |
+| Senior HR Consultant & Project Manager | Launch Industries | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=62791563844130ec) |
+| HR Manager & Executive Assistant | Bellevue Rare Coins | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a0a28aa125559ee8) |
+| People Operations Partner | Kestra Medical Technologies | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9ca77c114d81c1dc) |
+| HR Onboarding Specialist | MASON GENERAL HOSPITAL | Shelton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=53d4b04ee0a05981) |
+| UTC Human Resource Consultant (HRC2) | State of Washington | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1a429de3a03ca4ff) |
+| Academic HR Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=746d9cc3a3e5f737) |
+| HR Specialist | CFS | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478640897) |
+| Human Resources Specialist (LER) | U.S. Customs and Border Protection | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480450895) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
+| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480271376) |
+| Academic HR Manager - Department of Medicine | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481247748) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481210463) |
 
 <!-- DAILY_REPORT_END -->
 
