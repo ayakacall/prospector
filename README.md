@@ -29,27 +29,34 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
 
-### HR Jobs (Olympia, WA area) (17 results)
+### HR Jobs (Olympia, WA area) (24 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
-| Senior Human Resource Consultant (HRC4) - Green Hill School | State of Washington | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4423d420d17763f9) |
-| Senior HR Consultant & Project Manager | Launch Industries | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=62791563844130ec) |
-| HR Manager & Executive Assistant | Bellevue Rare Coins | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a0a28aa125559ee8) |
-| People Operations Partner | Kestra Medical Technologies | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9ca77c114d81c1dc) |
-| HR Onboarding Specialist | MASON GENERAL HOSPITAL | Shelton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=53d4b04ee0a05981) |
-| UTC Human Resource Consultant (HRC2) | State of Washington | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1a429de3a03ca4ff) |
-| Academic HR Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=746d9cc3a3e5f737) |
-| HR Specialist | CFS | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478640897) |
-| Human Resources Specialist (LER) | U.S. Customs and Border Protection | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480450895) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
-| Senior Human Resources Business Partner | DHL Global Forwarding | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479836852) |
-| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480271376) |
-| Academic HR Manager - Department of Medicine | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481247748) |
-| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
-| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481210463) |
+| Human Resources / Payroll / Scheduler | Cedar River Healthcare Center | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=590c1bcf81e7dbda) |
+| HR Director | EOS IT Solutions | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4109f2a4fc2e1b35) |
+| HR Manager | BPI MEDICAL | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=07a1e3be86fbff83) |
+| Human Resources - Senior Human Resources Business Partner | Franklin Energy / AM Conservation | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=69c77a556a36c417) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af5bc162c9700184) |
+| Human Resources Manager | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4fd8780e6750dd7c) |
+| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ffb61fb34785bcf6) |
+| Executive Assistant (HR) | Seattle Housing Authority | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dd8c7d52daf26e5d) |
+| Director of Human Resources | Puyallup Tribal Enterprises | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c4ecebd9822d916d) |
+| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0cd43f732acb0533) |
+| HR Admin | Olympic Eagle Distributing | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa61eeb005f7f4d0) |
+| HR Manager - Visual Arts | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc6c9db78880c8e9) |
+| HR Manager | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a68b2bf9e27518bc) |
+| Human Resources Manager | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482020114) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482013606) |
+| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480790986) |
+| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group of Companies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482017817) |
 | HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| HR, Administration & Office Coordinator (Senior) – PACE America Inc. | PACE Aerospace & IT | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471929337) |
+| Mobility Operations Specialist - HR Operations - Seattle (Third Party Associate) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4412187541) |
+| HR Manager | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481771278) |
+| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481761864) |
+| HR Manager - Visual Arts | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481773105) |
+| Executive Assistant (HR) | Seattle Housing Authority | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480499619) |
 
 ## Last 7 Days
 
@@ -64,11 +71,10 @@ All matching jobs found in the past week.
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (48 results)
+### HR Jobs (Olympia, WA area) (69 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
 | Senior Manager, People Partner | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db8131c17ae4b1c5) |
 | HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84ba9f0318cb9887) |
 | HRIS Workday Analyst (Fixed Term) | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b5eb024fa8a73956) |
@@ -116,6 +122,28 @@ All matching jobs found in the past week.
 | People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480271376) |
 | Academic HR Manager - Department of Medicine | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481247748) |
 | Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481210463) |
+| Human Resources / Payroll / Scheduler | Cedar River Healthcare Center | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=590c1bcf81e7dbda) |
+| HR Director | EOS IT Solutions | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4109f2a4fc2e1b35) |
+| HR Manager | BPI MEDICAL | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=07a1e3be86fbff83) |
+| Human Resources - Senior Human Resources Business Partner | Franklin Energy / AM Conservation | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=69c77a556a36c417) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af5bc162c9700184) |
+| Human Resources Manager | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4fd8780e6750dd7c) |
+| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ffb61fb34785bcf6) |
+| Executive Assistant (HR) | Seattle Housing Authority | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dd8c7d52daf26e5d) |
+| Director of Human Resources | Puyallup Tribal Enterprises | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c4ecebd9822d916d) |
+| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0cd43f732acb0533) |
+| HR Admin | Olympic Eagle Distributing | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa61eeb005f7f4d0) |
+| HR Manager - Visual Arts | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc6c9db78880c8e9) |
+| HR Manager | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a68b2bf9e27518bc) |
+| Human Resources Manager | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482020114) |
+| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482013606) |
+| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480790986) |
+| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group of Companies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482017817) |
+| HR, Administration & Office Coordinator (Senior) – PACE America Inc. | PACE Aerospace & IT | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471929337) |
+| HR Manager | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481771278) |
+| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481761864) |
+| HR Manager - Visual Arts | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481773105) |
+| Executive Assistant (HR) | Seattle Housing Authority | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480499619) |
 
 <!-- DAILY_REPORT_END -->
 
