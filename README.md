@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-20)
+## Daily Job Report (2026-10-21)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
 
 ### HR Jobs (Olympia, WA area) (17 results)
 
@@ -62,12 +64,10 @@ All matching jobs found in the past week.
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 
-### HR Jobs (Olympia, WA area) (50 results)
+### HR Jobs (Olympia, WA area) (48 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Small and Sons Oil Dist. Co. | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fcddaa7a85cdb7b9) |
-| Finance Manager/HR Generalist | Hughes Group | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=95ed80f5645d2b62) |
 | HR Generalist (Lacey, WA) | Medline Industries | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=16dab458ead2a96b) |
 | Senior Manager, People Partner | nSCALE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db8131c17ae4b1c5) |
 | HR Specialist, PXT Employee Onboarding Exp | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84ba9f0318cb9887) |
