@@ -19,15 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-21)
+## Daily Job Report (2026-10-22)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4321263712) |
+| Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
+| Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
 
 ### HR Jobs (Olympia, WA area) (24 results)
 
@@ -62,14 +63,15 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (4 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Interpreters - Remote (USA Based only) | MasterWord Services | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=60a1e67cdf5c4c4d) |
 | Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
 | Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
+| Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
+| Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
 
 ### HR Jobs (Olympia, WA area) (69 results)
 
