@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-22)
+## Daily Job Report (2026-10-23)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,8 +27,8 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
-| Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
+| Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
+| Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
 
 ### HR Jobs (Olympia, WA area) (12 results)
 
@@ -55,11 +55,11 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Customer Success Architect, Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c0d7f51f3c5c97b6) |
-| Bilingual Cantonese, Vietnamese, Japanese, Psychologists (PhD) and Psychiatrists | TC INNOVATIVE SOLUTIONS LLC | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=f7ee74f4d6f8aaec) |
 | Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 | Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
 | Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
+| Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
+| Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
 
 ### HR Jobs (Olympia, WA area) (67 results)
 
