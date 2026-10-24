@@ -30,31 +30,29 @@ Jobs posted in the last 24 hours matching search criteria.
 | Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 
-### HR Jobs (Olympia, WA area) (21 results)
+### HR Jobs (Olympia, WA area) (19 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c34e7c14593e409) |
-| HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318d3f08513667f0) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=204fa8c987cc673d) |
-| Human Resources | BJ's II Tobacco | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5ea9e5abcfcb6a24) |
-| Human Resources Business Partner | The Evergreen Market | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=994e61fa66fb42ed) |
-| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dadf5ead465cf5cb) |
-| Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480636670) |
-| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
-| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481636573) |
-| Manager, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482779971) |
-| Manager – HR Platform Partnerships | Info Origin Inc. | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4482826915) |
-| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481615429) |
-| DC HR Manager - Seattle FDC/BDC | The Home Depot | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479611215) |
-| Sr. HR Business Partner, AWS Specialists & Partners Organization | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455902692) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474181450) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4473980869) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455902624) |
-| HR Partner - Second Shift | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480090516) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480054557) |
-| Client HR Business Partner I - PEO - AZ, WA, OR, NV ONLY | Paychex | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480076740) |
+| Senior Human Resources Manager | Plymouth Housing Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c70940055e270c2) |
+| Human Resources Coorinator | Serengeti Care | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b22f38f38200bf0) |
+| HR Generalist | SkyChefs | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e13685170a20c032) |
+| HUMAN RESOURCES ANALYST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aed388dd9db34c57) |
+| HUMAN RESOURCES SPECIALIST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a35b7ed660ece88c) |
+| Human Resources Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bc2ed29149c15c48) |
+| HR Manager II | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc3c36c1797b5604) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481016951) |
+| Human Resources Specialist (Recruitment & Placement). | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483315773) |
+| Human Resources Business Partner | Hader Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482310210) |
+| SEA HR Specialist | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465162369) |
+| Human Resources Administrator | CalPortland | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4473409135) |
+| Principal HR Business Partner | Oracle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
+| Senior Human Resources Manager | Plymouth Housing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481952596) |
+| Human Resources Manager | Boys & Girls Clubs of King County | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481969062) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
+| People Operations Generalist | Overland AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483123931) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
 
 ## Last 7 Days
 
@@ -71,15 +69,10 @@ All matching jobs found in the past week.
 | Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 
-### HR Jobs (Olympia, WA area) (70 results)
+### HR Jobs (Olympia, WA area) (78 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Manager, Human Resources Partnerships | Earthjustice | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7a47530b441fa59b) |
-| Manager, HR Solution Architect | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2923eae651d7290e) |
-| Director, People Operations / Human Resources (Hybrid) | The Geneva Foundation | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c5d92fefc18d5cd) |
-| Human Resources Representative FT w/Benefits | Navy Exchange | Bremerton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fe70579392cd31bf) |
-| US&C People Operations Employee Data Specialist | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=83468a0bc28977b8) |
 | Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480875828) |
 | Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480232406) |
 | Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
@@ -145,6 +138,19 @@ All matching jobs found in the past week.
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
 | Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480054557) |
 | Client HR Business Partner I - PEO - AZ, WA, OR, NV ONLY | Paychex | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480076740) |
+| Senior Human Resources Manager | Plymouth Housing Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c70940055e270c2) |
+| Human Resources Coorinator | Serengeti Care | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b22f38f38200bf0) |
+| HR Generalist | SkyChefs | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e13685170a20c032) |
+| HUMAN RESOURCES ANALYST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aed388dd9db34c57) |
+| HUMAN RESOURCES SPECIALIST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a35b7ed660ece88c) |
+| Human Resources Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bc2ed29149c15c48) |
+| HR Manager II | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc3c36c1797b5604) |
+| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481016951) |
+| Human Resources Specialist (Recruitment & Placement). | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483315773) |
+| Human Resources Business Partner | Hader Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482310210) |
+| Senior Human Resources Manager | Plymouth Housing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481952596) |
+| Human Resources Manager | Boys & Girls Clubs of King County | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481969062) |
+| People Operations Generalist | Overland AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483123931) |
 
 <!-- DAILY_REPORT_END -->
 
