@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-23)
+## Daily Job Report (2026-10-24)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,8 +27,8 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
-| Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
+| Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
+| Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 
 ### HR Jobs (Olympia, WA area) (21 results)
 
@@ -60,15 +60,16 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Medical Doctor (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=709d207c6b391c16) |
 | Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
 | Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
 | Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
 | Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
+| Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
+| Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 
 ### HR Jobs (Olympia, WA area) (70 results)
 
