@@ -19,16 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-24)
+## Daily Job Report (2026-10-25)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
-| Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
+| Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
 ### HR Jobs (Olympia, WA area) (19 results)
 
@@ -58,7 +57,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (6 results)
+### Japanese Jobs (Remote) (7 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -68,12 +67,12 @@ All matching jobs found in the past week.
 | Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
 | Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
+| Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
-### HR Jobs (Olympia, WA area) (78 results)
+### HR Jobs (Olympia, WA area) (77 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480875828) |
 | Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480232406) |
 | Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
 | Senior Human Resource Consultant (HRC4) - Green Hill School | State of Washington | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4423d420d17763f9) |
