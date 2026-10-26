@@ -31,10 +31,10 @@ _No matching jobs found_
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Aero Precision LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc01685e3fa9f139) |
-| Human Resources Manager | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482679474) |
-| Human Resources Business Partner | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482651495) |
-| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483326625) |
+| Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
+| Director of People and Culture (HR) | Middleby Coffee | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
+| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
 
 ## Last 7 Days
 
@@ -52,7 +52,7 @@ All matching jobs found in the past week.
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
-### HR Jobs (Olympia, WA area) (81 results)
+### HR Jobs (Olympia, WA area) (83 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -137,6 +137,8 @@ All matching jobs found in the past week.
 | Human Resources Manager | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482679474) |
 | Human Resources Business Partner | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482651495) |
 | HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483326625) |
+| Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
 
 <!-- DAILY_REPORT_END -->
 
