@@ -27,14 +27,22 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
+| Human Resources Manager | Carter Motors, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=694e022abe3fb894) |
+| Instructors (Part-Time), Professional and Continuing Education – Human Resources Essentials Certificate Program | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=421eb255cf53b0df) |
+| HUMAN RESOURCES SPECIALIST (EMPLOYMENT + COMPENSATION) | Highline Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=48d08cbed3d44574) |
+| Principal, HR Specialist to the CHRO | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f9b5c3c3a26c2b07) |
+| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=25c170bbaba2f88b) |
+| Human Resources Generalist | SEIU Local 775 | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=567329b3919be7c7) |
+| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=51c09124dda617b4) |
+| Sr. HR Business Partner, SSD-FC | Amazon.com | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d4457988b775e321) |
+| Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
+| Sr. HR Business Partner | PitchBook | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
+| Human Resources Specialist | Highline Public Schools | Burien, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483243646) |
+| Principal, HR Specialist to the CHRO | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4481815631) |
 
 ## Last 7 Days
 
@@ -52,24 +60,10 @@ All matching jobs found in the past week.
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
-### HR Jobs (Olympia, WA area) (82 results)
+### HR Jobs (Olympia, WA area) (79 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=322f2e897ae2295c) |
-| Senior Human Resource Consultant (HRC4) - Green Hill School | State of Washington | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4423d420d17763f9) |
-| Senior HR Consultant & Project Manager | Launch Industries | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=62791563844130ec) |
-| HR Manager & Executive Assistant | Bellevue Rare Coins | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a0a28aa125559ee8) |
-| People Operations Partner | Kestra Medical Technologies | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9ca77c114d81c1dc) |
-| HR Onboarding Specialist | MASON GENERAL HOSPITAL | Shelton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=53d4b04ee0a05981) |
-| UTC Human Resource Consultant (HRC2) | State of Washington | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1a429de3a03ca4ff) |
-| Academic HR Manager - Department of Medicine | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=746d9cc3a3e5f737) |
-| HR Specialist | CFS | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478640897) |
-| Human Resources Specialist (LER) | U.S. Customs and Border Protection | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480450895) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
-| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480271376) |
-| Academic HR Manager - Department of Medicine | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481247748) |
-| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481210463) |
 | Human Resources / Payroll / Scheduler | Cedar River Healthcare Center | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=590c1bcf81e7dbda) |
 | HR Director | EOS IT Solutions | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4109f2a4fc2e1b35) |
 | HR Manager | BPI MEDICAL | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=07a1e3be86fbff83) |
@@ -138,6 +132,17 @@ All matching jobs found in the past week.
 | HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483326625) |
 | Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
 | Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
+| Human Resources Manager | Carter Motors, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=694e022abe3fb894) |
+| Instructors (Part-Time), Professional and Continuing Education – Human Resources Essentials Certificate Program | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=421eb255cf53b0df) |
+| HUMAN RESOURCES SPECIALIST (EMPLOYMENT + COMPENSATION) | Highline Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=48d08cbed3d44574) |
+| Principal, HR Specialist to the CHRO | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f9b5c3c3a26c2b07) |
+| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=25c170bbaba2f88b) |
+| Human Resources Generalist | SEIU Local 775 | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=567329b3919be7c7) |
+| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=51c09124dda617b4) |
+| Sr. HR Business Partner, SSD-FC | Amazon.com | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d4457988b775e321) |
+| Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
+| Human Resources Specialist | Highline Public Schools | Burien, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483243646) |
+| Principal, HR Specialist to the CHRO | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4481815631) |
 
 <!-- DAILY_REPORT_END -->
 
