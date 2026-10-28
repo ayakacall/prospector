@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-27)
+## Daily Job Report (2026-10-28)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -60,32 +60,10 @@ All matching jobs found in the past week.
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
-### HR Jobs (Olympia, WA area) (79 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources / Payroll / Scheduler | Cedar River Healthcare Center | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=590c1bcf81e7dbda) |
-| HR Director | EOS IT Solutions | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4109f2a4fc2e1b35) |
-| HR Manager | BPI MEDICAL | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=07a1e3be86fbff83) |
-| Human Resources - Senior Human Resources Business Partner | Franklin Energy / AM Conservation | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=69c77a556a36c417) |
-| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af5bc162c9700184) |
-| Human Resources Manager | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4fd8780e6750dd7c) |
-| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ffb61fb34785bcf6) |
-| Executive Assistant (HR) | Seattle Housing Authority | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dd8c7d52daf26e5d) |
-| Director of Human Resources | Puyallup Tribal Enterprises | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c4ecebd9822d916d) |
-| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0cd43f732acb0533) |
-| HR Admin | Olympic Eagle Distributing | Puyallup, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa61eeb005f7f4d0) |
-| HR Manager - Visual Arts | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc6c9db78880c8e9) |
-| HR Manager | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a68b2bf9e27518bc) |
-| Human Resources Manager | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482020114) |
-| HR Generalist | Absher Construction Company | Puyallup, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482013606) |
-| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480790986) |
-| Human Resources Business Partner – Hospitality & Food and Beverage | Onni Group of Companies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482017817) |
-| HR, Administration & Office Coordinator (Senior) – PACE America Inc. | PACE Aerospace & IT | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471929337) |
-| HR Manager | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481771278) |
-| HR Sr Absence Management Specialist | Columbia Bank | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481761864) |
-| HR Manager - Visual Arts | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481773105) |
-| Executive Assistant (HR) | Seattle Housing Authority | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480499619) |
 | STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dcb538158b34fd4a) |
 | HR Specialist (Public Records) | Clover Park School District | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f4e56c3bc16ba20a) |
 | Human Resources Business Partner | Avis Budget Group | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ccb3913a7aba0b0e) |
