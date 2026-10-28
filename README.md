@@ -27,22 +27,23 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Carter Motors, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=694e022abe3fb894) |
-| Instructors (Part-Time), Professional and Continuing Education – Human Resources Essentials Certificate Program | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=421eb255cf53b0df) |
-| HUMAN RESOURCES SPECIALIST (EMPLOYMENT + COMPENSATION) | Highline Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=48d08cbed3d44574) |
-| Principal, HR Specialist to the CHRO | Blue Origin | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f9b5c3c3a26c2b07) |
-| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=25c170bbaba2f88b) |
-| Human Resources Generalist | SEIU Local 775 | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=567329b3919be7c7) |
-| PART TIME Assistant Manager - $25 per hr | Regal Entertainment Group | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=51c09124dda617b4) |
-| Sr. HR Business Partner, SSD-FC | Amazon.com | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d4457988b775e321) |
-| Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
-| Sr. HR Business Partner | PitchBook | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4363165714) |
-| Human Resources Specialist | Highline Public Schools | Burien, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483243646) |
-| Principal, HR Specialist to the CHRO | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4481815631) |
+| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1b4dfdc048ae1aac) |
+| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9926c5be5a23b373) |
+| Senior Human Resource Consultant (HRC4) - Green Hill School | Washington State Health Care Authority | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4dc264da3a95aa80) |
+| UTC Human Resource Consultant (HRC2) | Washington State Health Care Authority | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b7cadc47fa6ff8a) |
+| HR Reinvention Industry & Process Advisor Manager, Banking | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=94f78d187d53c805) |
+| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b0d19d311cc9fad3) |
+| Principal HR Business Partner, M&A | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4484287195) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
+| People Partner | A.P. Moller - Maersk | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476399260) |
+| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475850065) |
+| Senior HR Business Partner | Woodland Park Zoo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482256206) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475833885) |
 
 ## Last 7 Days
 
@@ -60,7 +61,7 @@ All matching jobs found in the past week.
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (66 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -121,6 +122,15 @@ All matching jobs found in the past week.
 | Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
 | Human Resources Specialist | Highline Public Schools | Burien, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483243646) |
 | Principal, HR Specialist to the CHRO | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4481815631) |
+| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1b4dfdc048ae1aac) |
+| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9926c5be5a23b373) |
+| Senior Human Resource Consultant (HRC4) - Green Hill School | Washington State Health Care Authority | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4dc264da3a95aa80) |
+| UTC Human Resource Consultant (HRC2) | Washington State Health Care Authority | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b7cadc47fa6ff8a) |
+| HR Reinvention Industry & Process Advisor Manager, Banking | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=94f78d187d53c805) |
+| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b0d19d311cc9fad3) |
+| Principal HR Business Partner, M&A | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4484287195) |
+| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
+| Senior HR Business Partner | Woodland Park Zoo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482256206) |
 
 <!-- DAILY_REPORT_END -->
 
