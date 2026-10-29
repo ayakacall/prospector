@@ -19,13 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-28)
+## Daily Job Report (2026-10-29)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (2 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
+| Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
 ### HR Jobs (Olympia, WA area) (13 results)
 
@@ -53,27 +56,18 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Solutions Architect - Japan | GitLab Inc | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=dc0043952eaf8e6a) |
-| Japanese Bilingual Corporate Sr Tax Manager / Remote /Accounting Firm | aiTWorks | USA | [Apply](https://www.indeed.com/viewjob?jk=f358020a0493fa7d) |
 | Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
 | Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
 | Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
+| Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
+| Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| STORE/HUMAN RESOURCES | Quality Food Centers (QFC) | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dcb538158b34fd4a) |
-| HR Specialist (Public Records) | Clover Park School District | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f4e56c3bc16ba20a) |
-| Human Resources Business Partner | Avis Budget Group | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ccb3913a7aba0b0e) |
-| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479483740) |
-| Human Resources Representative FT w/Benefits | NAVY EXCHANGE SERVICE COMMAND (NEXCOM) | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480581856) |
-| HR Specialist (Public Records) | Clover Park School District | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481133845) |
-| HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479499335) |
-| Senior Human Resources Business Partner (HRBP) | Brooks Running | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479461256) |
-| STORE/HUMAN RESOURCES | Kroger | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479445431) |
 | Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c34e7c14593e409) |
 | HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318d3f08513667f0) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=204fa8c987cc673d) |
