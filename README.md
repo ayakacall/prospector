@@ -30,23 +30,21 @@ Jobs posted in the last 24 hours matching search criteria.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (13 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1b4dfdc048ae1aac) |
-| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9926c5be5a23b373) |
-| Senior Human Resource Consultant (HRC4) - Green Hill School | Washington State Health Care Authority | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4dc264da3a95aa80) |
-| UTC Human Resource Consultant (HRC2) | Washington State Health Care Authority | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b7cadc47fa6ff8a) |
-| HR Reinvention Industry & Process Advisor Manager, Banking | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=94f78d187d53c805) |
-| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b0d19d311cc9fad3) |
-| Principal HR Business Partner, M&A | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4484287195) |
+| Account Manager - Ent, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e514116b0e00e83) |
+| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
+| SENIOR HUMAN RESOURCES MANAGER | Kettle Cuisine | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4474099981) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| People Partner | A.P. Moller - Maersk | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476399260) |
-| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475850065) |
-| Senior HR Business Partner | Woodland Park Zoo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482256206) |
-| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475833885) |
+| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
+| Vice President of Human Resources | Dowbuilt | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
+| Principal, Human Resources Specialist, ADC Talent | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465582662) |
+| HR Business Partner | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466538843) |
+| Sr. Director, Global HR Leader - Tech | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467901483) |
+| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482526774) |
+| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465545946) |
 
 ## Last 7 Days
 
@@ -64,7 +62,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -125,6 +123,10 @@ All matching jobs found in the past week.
 | Principal HR Business Partner, M&A | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4484287195) |
 | Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
 | Senior HR Business Partner | Woodland Park Zoo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482256206) |
+| Account Manager - Ent, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e514116b0e00e83) |
+| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
+| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
+| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482526774) |
 
 <!-- DAILY_REPORT_END -->
 
