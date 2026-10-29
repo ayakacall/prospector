@@ -255995,3 +255995,127 @@ Language:
 * Japanese fluently (Required)
 
 Work Location: Remote",2026-10-25T12:21:02.590623
+Customer Success Manager — Japan,Dropbox,"Remote, USA",fulltime,2026-10-29,,,https://www.indeed.com/viewjob?jk=9df7cc663a27030b,indeed,"* Remote - Japan
+* Remote
+* Customer Experience and Success
+* Full Time
+
+### **Role Description**
+
+As a Customer Success Manager at Dropbox, you will own the post-sale customer strategy and relationship for a portfolio of customers. You will help customers realize measurable value from their investment while driving product adoption, retention, growth, and Net Revenue Retention (NRR).
+
+You will serve as a trusted advisor throughout the customer journey, developing a deep understanding of each customer’s business priorities, technical environment, key stakeholders, and evolving needs. Using customer insights, product adoption signals, stakeholder relationships, and demonstrated business value, you will proactively set priorities, address risks, and identify opportunities to strengthen the customer’s long-term partnership with Dropbox.
+
+You will develop strong technical fluency across the Dropbox platform and engage confidently with IT administrators on product capabilities, security, configuration, integrations, governance, and customer workflows. You will help translate customers’ business and technical requirements into practical use cases, recommendations, and actionable insights for internal teams.
+
+You will partner closely with Sales and cross-functional teams to align on account strategy, navigate technical and commercial complexities, mitigate renewal risks, identify appropriate growth opportunities, and deliver successful customer outcomes.
+
+The successful candidate is results-driven, commercially minded, technically savvy, and customer-focused. They are comfortable navigating complex customer organizations, taking ownership of customer strategy, and influencing both technical and business stakeholders. They bring strong Customer Success experience and a demonstrated ability to drive adoption, manage risk, support successful renewals, and deliver measurable retention and growth outcomes in a B2B SaaS environment.
+
+### **Responsibilities**
+
+* Build strong relationships across customer organizations, serving as a trusted advisor to executive sponsors, business leaders, technical administrators, and other key stakeholders.
+* Take ownership of the customer strategy across an assigned portfolio, setting priorities and proactively driving adoption, value realization, stakeholder engagement, retention, and growth.
+* Develop strong technical fluency across the Dropbox platform and confidently engage with IT administrators on questions involving product capabilities, security, configuration, integrations, governance, and customer workflows.
+* Understand customers’ technical environments and business requirements, helping translate them into practical use cases, recommendations, and actionable feedback for internal teams.
+* Lead strategic customer engagements—including product education, use-case development, Success Business Reviews, and value-based renewal discussions—that connect Dropbox capabilities to business outcomes.
+* Partner closely with Sales and cross-functional teams to develop account strategies, remove technical and commercial blockers, mitigate renewal risks, and identify appropriate expansion opportunities.
+* Use customer feedback, product usage, business context, and stakeholder engagement to prioritize actions, represent the voice of the customer, and contribute to repeatable playbooks and best practices.
+
+### **Requirements**
+
+* 4+ years of experience in B2B SaaS Customer Success, Account Management, Solutions Consulting, Professional Services, or a comparable customer-facing role, with experience driving product adoption and business value, managing ongoing customer relationships, and engaging technical stakeholders.
+* Business and commercial acumen, with a willingness to develop the skills needed to own assigned customer renewals from 2027, including early renewal planning, commercial discussions, and coordination with Sales and relevant teams to support retention and identify appropriate growth opportunities.
+* Technical aptitude and product curiosity, with the ability to learn SaaS products, customer environments, configurations, and workflows. Comfortable engaging with IT administrators, investigating unfamiliar technical questions, and translating product capabilities into practical guidance.
+* Ability to build relationships across customer organizations, from technical administrators to executive stakeholders, and manage a portfolio across Japan and Korea. The initial allocation is expected to be approximately 80% Japan and 20% Korea, with flexibility to adjust based on business and customer needs.
+* Analytical and problem-solving skills, with the ability to use customer insights, usage data, and business context to assess customer health, identify renewal risks, prioritize actions, and recommend practical solutions.
+* A proactive self-starter who can ramp up quickly, seek out information, navigate ambiguity, and take ownership of moving customer plans forward without close day-to-day direction. Able to build effective working relationships and collaborate with Sales, Product, Support, Legal, Finance, and other teams.
+* Bachelor's degree or equivalent practical experience.
+* Fluent spoken and written Japanese, including business communication.
+* Business-level Korean and English.
+* Ability to engage customers in Japanese and Korean and collaborate with global teams in English.
+* Willingness to travel for customer visits in Japan and Korea, and internationally for company offsites and sales kickoffs.
+
+### **Preferred Qualifications**
+
+* Experience owning or contributing to customer renewals and retention, with examples of identifying risk, coordinating mitigation plans, demonstrating customer value, and supporting successful renewal outcomes.
+* Experience managing strategic customer relationships with multiple stakeholders, complex decision-making processes, and changing business priorities, ideally in Japan or Korea.
+* Experience developing and presenting executive business reviews that connect product adoption and customer outcomes to business value and continued investment.
+* Experience working with channel partners and navigating partner-led customer relationships.
+* Familiarity with CRM, customer-success, health-scoring, or renewal-management systems, and experience using customer usage data or ROI analysis to guide retention and growth opportunities.
+* Experience working with multiple SaaS products, and an interest in or familiarity with generative AI and related technologies.
+
+### **Durable Skills**
+
+AI fluency means using these tools to *amplify* human judgment, not replace it. We believe people with these skills will thrive as work and technology continue to evolve:
+
+* **Awareness:** Understand yourself and others.
+* **Judgment:** Evaluate information and make decisions in complex situations.
+* **Adaptability:** Learn, adjust, and stay effective through change.
+* **Connection:** Communicate, collaborate, and build trust.
+
+Dropbox is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work.",2026-10-29T13:56:44.868018
+Japanese Linguistic Experts,AuraOne Human Data,"Remote, USA",,2026-10-28,50.0,50.0,https://www.indeed.com/viewjob?jk=2ad53183a2e5a948,indeed,"Japanese Linguistic Experts is a remote evaluation track for reviewing japanese generalist evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team can use to retrain.
+
+**Why this role matters**
+-------------------------
+
+AI data reviewers help turn japanese generalist evaluation outputs into auditable labels, rationales, and regression cases for AuraOne Human Data.
+
+**Responsibilities**
+--------------------
+
+* Evaluate japanese generalist evaluation model outputs against a versioned rubric and assign severity tags for Japanese Linguistic Experts assignments.
+* Compare paired responses and pick the stronger answer with a written rationale.
+* Label hallucinations, instruction-following failures, and unsafe content with structured tags.
+* Capture ambiguous prompts and route them back to the program team for rubric updates.
+* Maintain reviewer-quality scores by calibrating against gold-standard examples each week.
+* Document recurring failure modes so the modeling team can target them in the next training run.
+
+**Qualifications**
+------------------
+
+* Prior evaluation, annotation, or human-rater experience on japanese generalist evaluation or adjacent content for Japanese Linguistic Experts work.
+* Comfort applying multi-page rubrics consistently across long batches.
+* Clear written reasoning that names the issue and the rubric clause being applied.
+* Strong attention to detail and the ability to flag when a prompt itself is the problem.
+* Reliable async availability for at least 10 hours per week.
+
+**Example tasks**
+-----------------
+
+* Compare two japanese generalist evaluation model responses to the same prompt and pick the stronger one with rationale.
+* Tag an unsafe response with the correct policy category and severity.
+* Audit a 50-row batch for rubric consistency and report drift to the program lead.
+* Propose a rubric clarification after spotting a recurring failure mode.
+
+**Nice to have**
+----------------
+
+* Background in linguistics, content moderation, or trust & safety review.
+* Experience with inter-rater agreement metrics and calibration cycles.
+* Domain expertise that lets you spot subject-matter errors automated checks miss.
+
+**Skills**
+----------
+
+* Model output evaluation
+* Rubric-based annotation
+* Severity tagging
+* Inter-rater calibration
+* Japanese generalist evaluation
+
+**Work model**
+--------------
+
+Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.
+
+**Compensation**
+----------------
+
+$50 / hr
+
+**Application process**
+-----------------------
+
+Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",2026-10-29T13:56:44.868018
