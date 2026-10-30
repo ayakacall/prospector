@@ -27,21 +27,25 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Account Manager - Ent, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e514116b0e00e83) |
-| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
+| Human Resources - Labor & Employee Relations Manager | Seattle Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1129aa5c4d2cd765) |
+| Account Manager -SMB, Growth & Retention (HR Services) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d8402c5eed6bebac) |
+| Software Development Manager, AtoZ HR Services & Experiences Technology - Connections | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f3e5764e56319de6) |
 | SENIOR HUMAN RESOURCES MANAGER | Kettle Cuisine | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4474099981) |
+| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
+| Human Resources Partner - Employee Relations | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475701973) |
+| HR Business Partner | Meta | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
+| HR Partner, Human Resources, NACF | Amazon | Dupont, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476943880) |
+| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484538475) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484542981) |
+| Principal, HRBP, AWS PXT, Global Support | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476948815) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
-| Principal, Human Resources Specialist, ADC Talent | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465582662) |
-| HR Business Partner | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466538843) |
-| Sr. Director, Global HR Leader - Tech | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4467901483) |
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482526774) |
-| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465545946) |
+| HR Quality Assurance (Recruitment & Staffing) - Office of Human Resources Management | GSA | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484983804) |
+| Director - HRIS | MultiCare Health System | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474489560) |
+| ServiceNow - ServiceNow HR Service Delivery (HRSD) - Manager - Tech Cons- Open Location | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4465536897) |
 
 ## Last 7 Days
 
@@ -57,7 +61,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (43 results)
+### HR Jobs (Olympia, WA area) (49 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -104,6 +108,12 @@ All matching jobs found in the past week.
 | Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
 | Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
 | HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482526774) |
+| Human Resources - Labor & Employee Relations Manager | Seattle Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1129aa5c4d2cd765) |
+| Account Manager -SMB, Growth & Retention (HR Services) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d8402c5eed6bebac) |
+| Software Development Manager, AtoZ HR Services & Experiences Technology - Connections | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f3e5764e56319de6) |
+| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484538475) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484542981) |
+| HR Quality Assurance (Recruitment & Staffing) - Office of Human Resources Management | GSA | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484983804) |
 
 <!-- DAILY_REPORT_END -->
 
