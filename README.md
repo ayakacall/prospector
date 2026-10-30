@@ -19,16 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-29)
+## Daily Job Report (2026-10-30)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
-| Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -50,40 +47,20 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (7 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Freelance Interpreter / Admin Assistant | VoxaFi Global | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=c07dabc3918705aa) |
-| Senior Security Architect - Japanese/English Bilingual remote | hireX | Plano, TX, USA | [Apply](https://www.linkedin.com/jobs/view/4481606456) |
 | Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
 | Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (43 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c34e7c14593e409) |
-| HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318d3f08513667f0) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=204fa8c987cc673d) |
-| Human Resources | BJ's II Tobacco | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5ea9e5abcfcb6a24) |
-| Human Resources Business Partner | The Evergreen Market | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=994e61fa66fb42ed) |
-| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dadf5ead465cf5cb) |
-| Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480636670) |
-| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481636573) |
-| Manager, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482779971) |
-| Manager – HR Platform Partnerships | Info Origin Inc. | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4482826915) |
-| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481615429) |
-| DC HR Manager - Seattle FDC/BDC | The Home Depot | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479611215) |
-| Principal, HRBP , ATG | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4473980869) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455902624) |
-| HR Partner - Second Shift | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4480090516) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Human Resources Service Delivery, Analytics and Insights Partner | Boeing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480054557) |
-| Client HR Business Partner I - PEO - AZ, WA, OR, NV ONLY | Paychex | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480076740) |
 | Senior Human Resources Manager | Plymouth Housing Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c70940055e270c2) |
 | Human Resources Coorinator | Serengeti Care | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b22f38f38200bf0) |
 | HR Generalist | SkyChefs | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e13685170a20c032) |
