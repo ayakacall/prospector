@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-30)
+## Daily Job Report (2026-10-31)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -51,33 +51,18 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Licensed Psychologist (Japan, Bilingual English/Japanese) – Remote AI Evaluation Project | Edgecase.ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=75de1f3a1f91105e) |
-| Remote Japanese / English Bilingual Administrative Assistant –  BPO (KID) | Activ8 Recruitment & Solutions | Brooklyn, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4483147539) |
 | Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (49 results)
+### HR Jobs (Olympia, WA area) (36 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Human Resources Manager | Plymouth Housing Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3c70940055e270c2) |
-| Human Resources Coorinator | Serengeti Care | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b22f38f38200bf0) |
-| HR Generalist | SkyChefs | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e13685170a20c032) |
-| HUMAN RESOURCES ANALYST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aed388dd9db34c57) |
-| HUMAN RESOURCES SPECIALIST | Thurston County | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a35b7ed660ece88c) |
-| Human Resources Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bc2ed29149c15c48) |
-| HR Manager II | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc3c36c1797b5604) |
-| Human Resources Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481016951) |
-| Human Resources Specialist (Recruitment & Placement). | U.S. Army Civilian Human Resources Agency | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483315773) |
-| Human Resources Business Partner | Hader Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482310210) |
-| Senior Human Resources Manager | Plymouth Housing | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481952596) |
-| Human Resources Manager | Boys & Girls Clubs of King County | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481969062) |
-| People Operations Generalist | Overland AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483123931) |
 | HR Generalist | Aero Precision LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc01685e3fa9f139) |
 | Human Resources Manager | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482679474) |
 | Human Resources Business Partner | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482651495) |
