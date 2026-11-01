@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-10-31)
+## Daily Job Report (2026-11-01)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Corporate Sr. Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4403999230) |
 
 ### HR Jobs (Olympia, WA area) (14 results)
 
@@ -50,22 +52,17 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese Teacher - Part-Time (ONLINE) | New England Language School | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=3583634c09445b32) |
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (46 results)
+### HR Jobs (Olympia, WA area) (42 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Aero Precision LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=dc01685e3fa9f139) |
-| Human Resources Manager | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482679474) |
-| Human Resources Business Partner | RG&T Solutions | SeaTac, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482651495) |
-| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483326625) |
 | Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
 | Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
 | Human Resources Manager | Carter Motors, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=694e022abe3fb894) |
