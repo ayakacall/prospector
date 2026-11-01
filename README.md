@@ -29,24 +29,19 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Corporate Sr. Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4403999230) |
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | SEKISUI Aerospace | Sumner, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e12e1a1db29a443) |
-| Human Resources Analyst | Intercity Transit | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e39e5a53d915d0b1) |
-| Deputy Director of Human Resources | Intercity Transit | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4f9a0a41a1a02946) |
-| Manager, Maritime HR Operations | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ebd1dacea2fdb40b) |
-| HR Generalist | Valence Surface Technologies | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476808285) |
-| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477885225) |
-| Manager, Maritime HR Operations | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485645616) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6d78cd692b9e50a9) |
+| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1dafec11e0d6e658) |
+| People Partner | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| HUMAN RESOURCES ASSISTANT (MILITARY). | Naval Education and Training Command | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485677724) |
-| HR Generalist | SEKISUI Aerospace Corporation | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485667831) |
-| SENIOR HUMAN RESOURCES MANAGER | Kettle Cuisine | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4474099981) |
-| Recruiting & HR Business Partner | First Fed | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466206902) |
-| Senior HR Generalist | Geosyntec Consultants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485115235) |
-| Sr. HRIS Analyst | We. Communications | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485394830) |
+| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485174446) |
+| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485162690) |
+| People Consulting - HR Technology - Workforce Management UKG - Senior Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475258354) |
+| People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
 
 ## Last 7 Days
 
@@ -59,7 +54,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (42 results)
+### HR Jobs (Olympia, WA area) (48 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -105,6 +100,12 @@ All matching jobs found in the past week.
 | HR Generalist | SEKISUI Aerospace Corporation | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485667831) |
 | Senior HR Generalist | Geosyntec Consultants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485115235) |
 | Sr. HRIS Analyst | We. Communications | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485394830) |
+| Human Resources Director | Hasbro, Inc. | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6d78cd692b9e50a9) |
+| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1dafec11e0d6e658) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485174446) |
+| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485162690) |
+| People Consulting - HR Technology - Workforce Management UKG - Senior Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475258354) |
+| People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
 
 <!-- DAILY_REPORT_END -->
 
