@@ -27,19 +27,14 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (4 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director | Hasbro, Inc. | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6d78cd692b9e50a9) |
-| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1dafec11e0d6e658) |
-| People Partner | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
-| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485174446) |
-| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485162690) |
-| People Consulting - HR Technology - Workforce Management UKG - Senior Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475258354) |
-| People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
+| Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
+| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
+| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
+| Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
 
 ## Last 7 Days
 
@@ -52,7 +47,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (46 results)
+### HR Jobs (Olympia, WA area) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -102,6 +97,10 @@ All matching jobs found in the past week.
 | People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485162690) |
 | People Consulting - HR Technology - Workforce Management UKG - Senior Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475258354) |
 | People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
+| Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
+| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
+| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
+| Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
 
 <!-- DAILY_REPORT_END -->
 
