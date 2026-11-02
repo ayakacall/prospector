@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-01)
+## Daily Job Report (2026-11-02)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Corporate Sr. Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4403999230) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -54,12 +52,10 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (48 results)
+### HR Jobs (Olympia, WA area) (46 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Director, HRBP | Ladders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481442507) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
 | Human Resources Manager | Carter Motors, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=694e022abe3fb894) |
 | Instructors (Part-Time), Professional and Continuing Education – Human Resources Essentials Certificate Program | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=421eb255cf53b0df) |
 | HUMAN RESOURCES SPECIALIST (EMPLOYMENT + COMPENSATION) | Highline Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=48d08cbed3d44574) |
