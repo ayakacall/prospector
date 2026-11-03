@@ -29,14 +29,26 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Corporate Sr. Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4403999230) |
 
-### HR Jobs (Olympia, WA area) (4 results)
+### HR Jobs (Olympia, WA area) (16 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
+| HR/Payroll Coordinator | Cascadia EE LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7c89d959896a29af) |
+| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2ca7123590cd676e) |
+| Lead Solutions Architect - HR Technology & AI | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0090c0edba01a24b) |
+| Sr. HR Operations Generalist | Saint-Gobain | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=edfbad5cc47c5bbe) |
 | Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
-| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
-| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
+| Employee Relations HR Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=485609294127e0b1) |
+| HR Generalist (Lacey, WA) | Medline | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476446397) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
+| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
+| Senior Manager, ServiceNow HRSD Program and Solution Management | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486854990) |
+| HRIS Workday Analyst (Fixed Term) | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4477019361) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
+| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486184777) |
 | Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
+| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
 
 ## Last 7 Days
 
@@ -49,7 +61,7 @@ All matching jobs found in the past week.
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 
-### HR Jobs (Olympia, WA area) (39 results)
+### HR Jobs (Olympia, WA area) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -92,6 +104,17 @@ All matching jobs found in the past week.
 | People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
 | Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
 | Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
+| HR/Payroll Coordinator | Cascadia EE LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7c89d959896a29af) |
+| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2ca7123590cd676e) |
+| Lead Solutions Architect - HR Technology & AI | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0090c0edba01a24b) |
+| Sr. HR Operations Generalist | Saint-Gobain | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=edfbad5cc47c5bbe) |
+| Employee Relations HR Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=485609294127e0b1) |
+| HR Generalist (Lacey, WA) | Medline | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476446397) |
+| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
+| Senior Manager, ServiceNow HRSD Program and Solution Management | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486854990) |
+| HRIS Workday Analyst (Fixed Term) | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4477019361) |
+| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
+| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486184777) |
 
 <!-- DAILY_REPORT_END -->
 
