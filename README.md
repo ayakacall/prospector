@@ -33,22 +33,22 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR/Payroll Coordinator | Cascadia EE LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7c89d959896a29af) |
-| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2ca7123590cd676e) |
-| Lead Solutions Architect - HR Technology & AI | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0090c0edba01a24b) |
-| Sr. HR Operations Generalist | Saint-Gobain | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=edfbad5cc47c5bbe) |
-| Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
-| Employee Relations HR Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=485609294127e0b1) |
-| HR Generalist (Lacey, WA) | Medline | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476446397) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
-| Senior Manager, ServiceNow HRSD Program and Solution Management | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486854990) |
-| HRIS Workday Analyst (Fixed Term) | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4477019361) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4451345641) |
-| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
-| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486184777) |
-| Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
-| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
+| HR Generalist | Emtech, LLC | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9baa2ee563790929) |
+| Human Resources Specialist | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318bd20f29018b25) |
+| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba68866ce265b99f) |
+| Employee Relations Business Partner - Human Resources | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=609551ecc189f515) |
+| HR Generalist | Husky Terminal and Stevedoring, LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c26c48c65c3c7193) |
+| Human Resources Manager | Gruma | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0a9ebb46a7219a59) |
+| Engineering & Platforms Director - HR Technology | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a45cd2bfbdb4c2ed) |
+| Senior Analyst - HR Technology Products | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c1f78e800204be42) |
+| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487240966) |
+| Staff People Partner, Corporate Functions | Databricks | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485051405) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486363116) |
+| Human Resources Administrator | CalPortland | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487275749) |
+| Senior Consultant, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487226554) |
+| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485019094) |
+| Recruiting & HR Business Partner | First Fed | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485011925) |
+| SEA HR Badging Coordinator | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486065763) |
 
 ## Last 7 Days
 
@@ -62,7 +62,7 @@ All matching jobs found in the past week.
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 
-### HR Jobs (Olympia, WA area) (41 results)
+### HR Jobs (Olympia, WA area) (57 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -107,6 +107,22 @@ All matching jobs found in the past week.
 | HRIS Workday Analyst (Fixed Term) | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4477019361) |
 | Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
 | Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486184777) |
+| HR Generalist | Emtech, LLC | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9baa2ee563790929) |
+| Human Resources Specialist | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318bd20f29018b25) |
+| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba68866ce265b99f) |
+| Employee Relations Business Partner - Human Resources | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=609551ecc189f515) |
+| HR Generalist | Husky Terminal and Stevedoring, LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c26c48c65c3c7193) |
+| Human Resources Manager | Gruma | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0a9ebb46a7219a59) |
+| Engineering & Platforms Director - HR Technology | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a45cd2bfbdb4c2ed) |
+| Senior Analyst - HR Technology Products | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c1f78e800204be42) |
+| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487240966) |
+| Staff People Partner, Corporate Functions | Databricks | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485051405) |
+| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486363116) |
+| Human Resources Administrator | CalPortland | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487275749) |
+| Senior Consultant, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487226554) |
+| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485019094) |
+| Recruiting & HR Business Partner | First Fed | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485011925) |
+| SEA HR Badging Coordinator | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486065763) |
 
 <!-- DAILY_REPORT_END -->
 
