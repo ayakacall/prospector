@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-03)
+## Daily Job Report (2026-11-04)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Corporate Sr. Tax Manager - (Japanese/English) - Remote | EOS Accountants LLP | Teaneck, NJ, USA | [Apply](https://www.linkedin.com/jobs/view/4403999230) |
+| Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 
 ### HR Jobs (Olympia, WA area) (16 results)
 
@@ -54,26 +54,18 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
 | Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
+| Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 
-### HR Jobs (Olympia, WA area) (50 results)
+### HR Jobs (Olympia, WA area) (41 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1b4dfdc048ae1aac) |
-| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9926c5be5a23b373) |
-| Senior Human Resource Consultant (HRC4) - Green Hill School | Washington State Health Care Authority | Chehalis, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4dc264da3a95aa80) |
-| UTC Human Resource Consultant (HRC2) | Washington State Health Care Authority | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b7cadc47fa6ff8a) |
-| HR Reinvention Industry & Process Advisor Manager, Banking | Accenture | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=94f78d187d53c805) |
-| HR Data Team Lead - Human Resource Consultant 3 - Permanent - 2026-08955 | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b0d19d311cc9fad3) |
-| Principal HR Business Partner, M&A | F5 | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4484287195) |
-| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
-| Senior HR Business Partner | Woodland Park Zoo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482256206) |
 | Account Manager - Ent, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e514116b0e00e83) |
 | Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
 | Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
