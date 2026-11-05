@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-04)
+## Daily Job Report (2026-11-05)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -27,7 +27,7 @@ Jobs posted in the last 24 hours matching search criteria.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
 ### HR Jobs (Olympia, WA area) (16 results)
 
@@ -54,22 +54,17 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Customer Success Manager — Japan | Dropbox | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=9df7cc663a27030b) |
-| Japanese Linguistic Experts | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2ad53183a2e5a948) |
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
+| Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (57 results)
+### HR Jobs (Olympia, WA area) (53 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Account Manager - Ent, Growth & Retention (HR Services Channel) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e514116b0e00e83) |
-| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aa49e6a73b9d0f59) |
-| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482526774) |
 | Human Resources - Labor & Employee Relations Manager | Seattle Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1129aa5c4d2cd765) |
 | Account Manager -SMB, Growth & Retention (HR Services) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d8402c5eed6bebac) |
 | Software Development Manager, AtoZ HR Services & Experiences Technology - Connections | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f3e5764e56319de6) |
