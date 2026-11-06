@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-05)
+## Daily Job Report (2026-11-06)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -60,16 +58,10 @@ All matching jobs found in the past week.
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (62 results)
+### HR Jobs (Olympia, WA area) (56 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources - Labor & Employee Relations Manager | Seattle Public Schools | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1129aa5c4d2cd765) |
-| Account Manager -SMB, Growth & Retention (HR Services) | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d8402c5eed6bebac) |
-| Software Development Manager, AtoZ HR Services & Experiences Technology - Connections | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f3e5764e56319de6) |
-| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484538475) |
-| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484542981) |
-| HR Quality Assurance (Recruitment & Staffing) - Office of Human Resources Management | GSA | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484983804) |
 | HR Generalist | SEKISUI Aerospace | Sumner, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7e12e1a1db29a443) |
 | Human Resources Analyst | Intercity Transit | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e39e5a53d915d0b1) |
 | Deputy Director of Human Resources | Intercity Transit | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4f9a0a41a1a02946) |
