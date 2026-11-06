@@ -27,25 +27,33 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (23 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=26de2cc19f06069e) |
-| Employee Relations Business Partner - Human Resources | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e68908ed93dce5cf) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=866449ded1c97fc5) |
-| Sr HR Business Partner, Agentic AI | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c49e87a508de9b9) |
-| Director of Human Resources | Navia Benefit Solutions, Inc. | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487730760) |
-| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486551628) |
-| Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4486590739) |
-| Sr HR Business Partner, Agentic AI | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487589079) |
-| Sr. PM, HR Business Operations, Global Specialty Recruiting | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4470936131) |
-| Sr. Lead, People Operations & Automation | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478497139) |
-| HR Generalist | Robert Half | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4403042892) |
+| Human Resources Coordinator | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=12e0d49a7cd4d4be) |
+| Human Resources Generalist | Peterson Cheese | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c21710e186adf4f8) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc7d2dc0190cf69c) |
+| Human Resources Director - North Seattle College | Seattle Colleges District | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b691846991b36811) |
+| HR Coordinator-Part-Time | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b0697c9b62949a4) |
+| Senior Director, HRBPs and Employee Experience | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485888717) |
+| Human Resources Partner - Employee Relations | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486941136) |
+| Human Resources Generalist | The Peterson Cheese Company | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486932484) |
+| Sr. Program Manager, People Operations | BlinkRx | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479194647) |
+| Sr. HR Business Partner | Rippling | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462166938) |
+| Human Resources Coordinator | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488109176) |
+| Sr. Benefits & HR Operations Analyst | Rover | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485897453) |
+| HR Generalist | Sysco | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480158832) |
+| People Partner, DC Operations | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4442627616) |
+| HR Business Partner - Washington Tacoma, Tukwila, Sedro-Woolley, Stanwood | Telecare Corporation | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462494602) |
+| Manager, HR Solution Architect | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480174982) |
+| Human Resources Director | hireneXus | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479136351) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488065054) |
+| Human Resources Director - North Seattle College | Seattle Colleges | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485843720) |
+| Benefits & HRIS Generalist | Verity Credit Union | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4452620060) |
+| Director, HRBP | LiveRamp | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486901486) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Human Resources (HR) Specialist | Robert Half | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476198536) |
-| Human Resources Generalist | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486533087) |
+| HR Compensation Specialist | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4464939482) |
 
 ## Last 7 Days
 
@@ -58,7 +66,7 @@ All matching jobs found in the past week.
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (56 results)
+### HR Jobs (Olympia, WA area) (70 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -118,6 +126,20 @@ All matching jobs found in the past week.
 | Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4486590739) |
 | Sr HR Business Partner, Agentic AI | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487589079) |
 | Human Resources Generalist | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486533087) |
+| Human Resources Coordinator | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=12e0d49a7cd4d4be) |
+| Human Resources Generalist | Peterson Cheese | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c21710e186adf4f8) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc7d2dc0190cf69c) |
+| Human Resources Director - North Seattle College | Seattle Colleges District | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b691846991b36811) |
+| HR Coordinator-Part-Time | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b0697c9b62949a4) |
+| Senior Director, HRBPs and Employee Experience | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485888717) |
+| Human Resources Partner - Employee Relations | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486941136) |
+| Human Resources Generalist | The Peterson Cheese Company | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486932484) |
+| Human Resources Coordinator | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488109176) |
+| Sr. Benefits & HR Operations Analyst | Rover | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485897453) |
+| Manager, HR Solution Architect | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480174982) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488065054) |
+| Human Resources Director - North Seattle College | Seattle Colleges | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485843720) |
+| Director, HRBP | LiveRamp | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486901486) |
 
 <!-- DAILY_REPORT_END -->
 
