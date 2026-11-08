@@ -27,29 +27,12 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (19 results)
+### HR Jobs (Olympia, WA area) (2 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ac1971fac485761) |
-| Human Resources Manager | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b269c33e8f9bfa4f) |
-| Human Resources Business Partner - Shared Services | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=14de5f279e4818d9) |
-| Human Resources Manager / Associate Relations | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4cf4a6663c68c6ab) |
-| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5ada82b843f19516) |
-| Administrative Assistant - Human Resources | Port of Seattle | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c5068167eab518d5) |
-| SEA Manager, HR Business Partner | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4461328958) |
-| Human Resources Administrator | CalPortland | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488479337) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Human Resources Business Partner - Shared Services | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488472957) |
-| Human Resources Liaison | USI Insurance Services | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471699551) |
-| Human Resources Business Partner | AIM | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4488400617) |
-| Human Resources Coordinator | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488109176) |
-| HR Generalist | Sysco | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480158832) |
-| HR Business Partner II, Field | MOBIS Parts America | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488434110) |
-| Administrative Assistant - Human Resources | Port of Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488195270) |
-| People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477345434) |
-| People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477335828) |
-| HR Generalist | SEKISUI Aerospace Corporation | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485667831) |
+| Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
 
 ## Last 7 Days
 
@@ -62,16 +45,10 @@ All matching jobs found in the past week.
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (73 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Director | Hasbro, Inc. | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6d78cd692b9e50a9) |
-| Human Resource Consultant 4 - EEO/HR Investigator | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1dafec11e0d6e658) |
-| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485174446) |
-| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485162690) |
-| People Consulting - HR Technology - Workforce Management UKG - Senior Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475258354) |
-| People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
 | Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
 | People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
 | Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
@@ -139,6 +116,7 @@ All matching jobs found in the past week.
 | Administrative Assistant - Human Resources | Port of Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488195270) |
 | People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477345434) |
 | People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477335828) |
+| Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
 
 <!-- DAILY_REPORT_END -->
 
