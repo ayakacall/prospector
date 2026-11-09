@@ -27,12 +27,13 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (2 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
+| Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
 
 ## Last 7 Days
 
@@ -45,14 +46,10 @@ All matching jobs found in the past week.
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (66 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Director of Human Resources | Chick-fil-A Restaurants | Maple Valley, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1b50692ebd00789) |
-| People Operations Specialist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485416742) |
-| Human Resources Information System Analyst | LHH | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485746801) |
-| Human Resources Information System Analyst | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485734881) |
 | HR/Payroll Coordinator | Cascadia EE LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7c89d959896a29af) |
 | Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2ca7123590cd676e) |
 | Lead Solutions Architect - HR Technology & AI | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0090c0edba01a24b) |
@@ -117,6 +114,8 @@ All matching jobs found in the past week.
 | People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477345434) |
 | People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477335828) |
 | Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
+| Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
+| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
 
 <!-- DAILY_REPORT_END -->
 
