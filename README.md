@@ -27,13 +27,24 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (3 results)
+### HR Jobs (Olympia, WA area) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
+| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af13afa06081ecaa) |
+| Human Resources Consultant (Multiple Openings) | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bb962f7447f8010c) |
+| Human Resources Business Partner | Think Academy US | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d766d4f30e1e0214) |
+| Academic HR Manager - Department of Medicine | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488376064) |
+| Human Resources Consultant (Multiple Openings) | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488360467) |
+| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
+| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487966735) |
+| HR Business Partner, Advisor | Seattle CARE Department | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487196136) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
+| People Consulting - HR Transformation - Workday - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487424182) |
+| HR Systems & Talent Acquisition Manager (Rippling) | Universal Language Service, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487967405) |
+| Human Resources Consultant (Multiple Openings) | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489158138) |
+| HR Generalist | AppleOne Employment Services | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487946996) |
+| HR Generalist | Robert Half | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489123758) |
 
 ## Last 7 Days
 
@@ -46,21 +57,10 @@ All matching jobs found in the past week.
 | Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (66 results)
+### HR Jobs (Olympia, WA area) (68 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR/Payroll Coordinator | Cascadia EE LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7c89d959896a29af) |
-| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2ca7123590cd676e) |
-| Lead Solutions Architect - HR Technology & AI | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0090c0edba01a24b) |
-| Sr. HR Operations Generalist | Saint-Gobain | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=edfbad5cc47c5bbe) |
-| Employee Relations HR Generalist | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=485609294127e0b1) |
-| HR Generalist (Lacey, WA) | Medline | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476446397) |
-| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
-| Senior Manager, ServiceNow HRSD Program and Solution Management | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486854990) |
-| HRIS Workday Analyst (Fixed Term) | Blue Origin | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4477019361) |
-| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
-| Human Resources Support | Sierra Pacific Company | Shelton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486184777) |
 | HR Generalist | Emtech, LLC | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9baa2ee563790929) |
 | Human Resources Specialist | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318bd20f29018b25) |
 | Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba68866ce265b99f) |
@@ -116,6 +116,19 @@ All matching jobs found in the past week.
 | Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
 | Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
+| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af13afa06081ecaa) |
+| Human Resources Consultant (Multiple Openings) | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bb962f7447f8010c) |
+| Human Resources Business Partner | Think Academy US | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d766d4f30e1e0214) |
+| Academic HR Manager - Department of Medicine | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488376064) |
+| Human Resources Consultant (Multiple Openings) | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488360467) |
+| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
+| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487966735) |
+| HR Business Partner, Advisor | Seattle CARE Department | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487196136) |
+| People Consulting - HR Transformation - Workday - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487424182) |
+| HR Systems & Talent Acquisition Manager (Rippling) | Universal Language Service, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487967405) |
+| Human Resources Consultant (Multiple Openings) | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489158138) |
+| HR Generalist | AppleOne Employment Services | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487946996) |
+| HR Generalist | Robert Half | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489123758) |
 
 <!-- DAILY_REPORT_END -->
 
