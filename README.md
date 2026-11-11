@@ -27,37 +27,37 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (14 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af13afa06081ecaa) |
-| Human Resources Consultant (Multiple Openings) | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bb962f7447f8010c) |
-| Human Resources Business Partner | Think Academy US | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d766d4f30e1e0214) |
-| Academic HR Manager - Department of Medicine | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488376064) |
-| Human Resources Consultant (Multiple Openings) | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488360467) |
-| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
-| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487966735) |
-| HR Business Partner, Advisor | Seattle CARE Department | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487196136) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| People Consulting - HR Transformation - Workday - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487424182) |
-| HR Systems & Talent Acquisition Manager (Rippling) | Universal Language Service, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487967405) |
-| Human Resources Consultant (Multiple Openings) | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489158138) |
-| HR Generalist | AppleOne Employment Services | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487946996) |
-| HR Generalist | Robert Half | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489123758) |
+| Human Resources Analyst | Pierce Transit | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=890075162cc0010b) |
+| Human Resources - Corporate Recruiter | Kidder Mathews | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db99cfcba6db9be4) |
+| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84acb58c03978c30) |
+| Human Resources Generalist | Investco LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f808799ca965e8da) |
+| HR Assistant Senior | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba52590aa074bc91) |
+| HR Contractor | Freedom Project | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=47757934e9621c2b) |
+| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480790986) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487869375) |
+| HR Assistant Senior | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489685685) |
+| HR, Administration & Office Coordinator (Senior) – PACE America Inc. | PACE Aerospace & IT | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471929337) |
+| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
+| Human Resources Assistant (Information Systems) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488625505) |
+| Human Resources - Corporate Recruiter | Kidder Mathews | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489646614) |
+| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481636573) |
+| Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488382512) |
 
 ## Last 7 Days
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Senior Marketing Manager - Japan (Contract) | Mozilla Corporation | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=be2495604c327e84) |
 | Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
 
-### HR Jobs (Olympia, WA area) (68 results)
+### HR Jobs (Olympia, WA area) (79 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -129,6 +129,17 @@ All matching jobs found in the past week.
 | Human Resources Consultant (Multiple Openings) | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489158138) |
 | HR Generalist | AppleOne Employment Services | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487946996) |
 | HR Generalist | Robert Half | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489123758) |
+| Human Resources Analyst | Pierce Transit | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=890075162cc0010b) |
+| Human Resources - Corporate Recruiter | Kidder Mathews | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db99cfcba6db9be4) |
+| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84acb58c03978c30) |
+| Human Resources Generalist | Investco LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f808799ca965e8da) |
+| HR Assistant Senior | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba52590aa074bc91) |
+| HR Contractor | Freedom Project | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=47757934e9621c2b) |
+| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487869375) |
+| HR Assistant Senior | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489685685) |
+| Human Resources Assistant (Information Systems) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488625505) |
+| Human Resources - Corporate Recruiter | Kidder Mathews | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489646614) |
+| Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488382512) |
 
 <!-- DAILY_REPORT_END -->
 
