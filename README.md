@@ -19,7 +19,7 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-11)
+## Daily Job Report (2026-11-12)
 
 Jobs posted in the last 24 hours matching search criteria.
 
@@ -51,32 +51,14 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
+
+_No matching jobs found_
+
+### HR Jobs (Olympia, WA area) (63 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Bilingual Game Operations Support [Remote] | Century Games | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=08431216e6144fd4) |
-
-### HR Jobs (Olympia, WA area) (79 results)
-
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| HR Generalist | Emtech, LLC | Centralia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=9baa2ee563790929) |
-| Human Resources Specialist | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=318bd20f29018b25) |
-| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba68866ce265b99f) |
-| Employee Relations Business Partner - Human Resources | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=609551ecc189f515) |
-| HR Generalist | Husky Terminal and Stevedoring, LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c26c48c65c3c7193) |
-| Human Resources Manager | Gruma | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=0a9ebb46a7219a59) |
-| Engineering & Platforms Director - HR Technology | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a45cd2bfbdb4c2ed) |
-| Senior Analyst - HR Technology Products | CVS Health | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c1f78e800204be42) |
-| Director of Human Resources | Federal Way Public Schools | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487240966) |
-| Staff People Partner, Corporate Functions | Databricks | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485051405) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486363116) |
-| Human Resources Administrator | CalPortland | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487275749) |
-| Senior Consultant, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487226554) |
-| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485019094) |
-| Recruiting & HR Business Partner | First Fed | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485011925) |
-| SEA HR Badging Coordinator | Swissport | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486065763) |
 | Human Resources Manager | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=26de2cc19f06069e) |
 | Employee Relations Business Partner - Human Resources | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e68908ed93dce5cf) |
 | Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=866449ded1c97fc5) |
