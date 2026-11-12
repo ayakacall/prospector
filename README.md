@@ -27,25 +27,19 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Analyst | Pierce Transit | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=890075162cc0010b) |
-| Human Resources - Corporate Recruiter | Kidder Mathews | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db99cfcba6db9be4) |
-| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84acb58c03978c30) |
-| Human Resources Generalist | Investco LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f808799ca965e8da) |
-| HR Assistant Senior | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba52590aa074bc91) |
-| HR Contractor | Freedom Project | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=47757934e9621c2b) |
-| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480790986) |
-| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487869375) |
-| HR Assistant Senior | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489685685) |
-| HR, Administration & Office Coordinator (Senior) – PACE America Inc. | PACE Aerospace & IT | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471929337) |
-| VP of Human Resources | YMCA of Greater Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4478628083) |
-| Human Resources Assistant (Information Systems) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488625505) |
-| Human Resources - Corporate Recruiter | Kidder Mathews | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489646614) |
-| HR Operations Specialist (HRIS) | Trupanion | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4481636573) |
-| Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488382512) |
+| Human Resources Coordinator | UNIQLO | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=37a880695159f549) |
+| People & Culture (HR) Administrator | Fairmont | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1c6cbcb14255713) |
+| Human Resources Generalist Part-Time | Pacific Northwest Beauty & Wellness Group | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b89323815899bbc) |
+| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479483740) |
+| People & Culture (HR) Administrator | Fairmont Hotels & Resorts | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490090803) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490045309) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489024665) |
+| HR Sourcing Recruiter II | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488250722) |
 
 ## Last 7 Days
 
@@ -55,19 +49,10 @@ All matching jobs found in the past week.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (63 results)
+### HR Jobs (Olympia, WA area) (61 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=26de2cc19f06069e) |
-| Employee Relations Business Partner - Human Resources | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e68908ed93dce5cf) |
-| Human Resources Coordinator - Pacific, WA | Freightliner Northwest | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=866449ded1c97fc5) |
-| Sr HR Business Partner, Agentic AI | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1c49e87a508de9b9) |
-| Director of Human Resources | Navia Benefit Solutions, Inc. | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487730760) |
-| Human Resources Manager | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486551628) |
-| Human Resources Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4486590739) |
-| Sr HR Business Partner, Agentic AI | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487589079) |
-| Human Resources Generalist | Averro | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486533087) |
 | Human Resources Coordinator | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=12e0d49a7cd4d4be) |
 | Human Resources Generalist | Peterson Cheese | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c21710e186adf4f8) |
 | Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc7d2dc0190cf69c) |
@@ -122,6 +107,13 @@ _No matching jobs found_
 | Human Resources Assistant (Information Systems) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488625505) |
 | Human Resources - Corporate Recruiter | Kidder Mathews | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489646614) |
 | Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488382512) |
+| Human Resources Coordinator | UNIQLO | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=37a880695159f549) |
+| People & Culture (HR) Administrator | Fairmont | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1c6cbcb14255713) |
+| Human Resources Generalist Part-Time | Pacific Northwest Beauty & Wellness Group | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b89323815899bbc) |
+| People & Culture (HR) Administrator | Fairmont Hotels & Resorts | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490090803) |
+| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490045309) |
+| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489024665) |
+| HR Sourcing Recruiter II | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488250722) |
 
 <!-- DAILY_REPORT_END -->
 
