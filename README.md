@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-12)
+## Daily Job Report (2026-11-13)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -45,9 +47,11 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 
 ### HR Jobs (Olympia, WA area) (61 results)
 
