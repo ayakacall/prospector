@@ -29,19 +29,22 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | UNIQLO | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=37a880695159f549) |
-| People & Culture (HR) Administrator | Fairmont | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1c6cbcb14255713) |
-| Human Resources Generalist Part-Time | Pacific Northwest Beauty & Wellness Group | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b89323815899bbc) |
-| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4479483740) |
-| People & Culture (HR) Administrator | Fairmont Hotels & Resorts | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490090803) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490045309) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489024665) |
-| HR Sourcing Recruiter II | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488250722) |
+| Human Resources Support Staff | South Kitsap Fire Rescue | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=82bd74af2f341178) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bfe36ecaba3bb38) |
+| Senior Consultant, Oracle HCM Cloud Core HR | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b281690ab2f1a588) |
+| Product Design Lead, HRIS | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=49768c52b61f1151) |
+| HR Business Partner , AMXL | Amazon.com | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=89a69f1903e0bb4c) |
+| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
+| HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
+| HR Business Partner, AMZL | Amazon | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455902624) |
+| Manager, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482779971) |
+| HR Business Partner , AMXL | Amazon | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490398426) |
+| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
 
 ## Last 7 Days
 
@@ -53,24 +56,10 @@ All matching jobs found in the past week.
 |-------|---------|----------|------|
 | Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 
-### HR Jobs (Olympia, WA area) (61 results)
+### HR Jobs (Olympia, WA area) (55 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | Levy | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=12e0d49a7cd4d4be) |
-| Human Resources Generalist | Peterson Cheese | Auburn, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c21710e186adf4f8) |
-| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=fc7d2dc0190cf69c) |
-| Human Resources Director - North Seattle College | Seattle Colleges District | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b691846991b36811) |
-| HR Coordinator-Part-Time | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b0697c9b62949a4) |
-| Senior Director, HRBPs and Employee Experience | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485888717) |
-| Human Resources Partner - Employee Relations | Tessera | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486941136) |
-| Human Resources Generalist | The Peterson Cheese Company | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486932484) |
-| Human Resources Coordinator | Levy Restaurants | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488109176) |
-| Sr. Benefits & HR Operations Analyst | Rover | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485897453) |
-| Manager, HR Solution Architect | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4480174982) |
-| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488065054) |
-| Human Resources Director - North Seattle College | Seattle Colleges | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485843720) |
-| Director, HRBP | LiveRamp | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486901486) |
 | HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ac1971fac485761) |
 | Human Resources Manager | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b269c33e8f9bfa4f) |
 | Human Resources Business Partner - Shared Services | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=14de5f279e4818d9) |
@@ -118,6 +107,14 @@ All matching jobs found in the past week.
 | Representative, Human Resources | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490045309) |
 | HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489024665) |
 | HR Sourcing Recruiter II | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488250722) |
+| Human Resources Support Staff | South Kitsap Fire Rescue | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=82bd74af2f341178) |
+| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bfe36ecaba3bb38) |
+| Senior Consultant, Oracle HCM Cloud Core HR | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b281690ab2f1a588) |
+| Product Design Lead, HRIS | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=49768c52b61f1151) |
+| HR Business Partner , AMXL | Amazon.com | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=89a69f1903e0bb4c) |
+| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
+| HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
+| HR Business Partner , AMXL | Amazon | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490398426) |
 
 <!-- DAILY_REPORT_END -->
 
