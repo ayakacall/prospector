@@ -29,22 +29,21 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 
-### HR Jobs (Olympia, WA area) (12 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Support Staff | South Kitsap Fire Rescue | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=82bd74af2f341178) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bfe36ecaba3bb38) |
-| Senior Consultant, Oracle HCM Cloud Core HR | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b281690ab2f1a588) |
 | Product Design Lead, HRIS | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=49768c52b61f1151) |
-| HR Business Partner , AMXL | Amazon.com | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=89a69f1903e0bb4c) |
-| Human Resources Manager | Trelleborg Sealing Solutions | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4472835354) |
+| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489861341) |
+| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
+| Human Resources Administrator | CalPortland | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4473409135) |
+| Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
+| Human Resources Assistant | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489318240) |
 | Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
 | HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
-| HR Business Partner, AMZL | Amazon | Bremerton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455902624) |
-| Manager, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482779971) |
-| HR Business Partner , AMXL | Amazon | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490398426) |
-| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
 
 ## Last 7 Days
 
@@ -57,23 +56,10 @@ All matching jobs found in the past week.
 | Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 
-### HR Jobs (Olympia, WA area) (55 results)
+### HR Jobs (Olympia, WA area) (46 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR GENERALIST | Habitat for Humanity Seattle-King & Kittitas Counties | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ac1971fac485761) |
-| Human Resources Manager | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b269c33e8f9bfa4f) |
-| Human Resources Business Partner - Shared Services | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=14de5f279e4818d9) |
-| Human Resources Manager / Associate Relations | Avenue5 Residential | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4cf4a6663c68c6ab) |
-| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5ada82b843f19516) |
-| Administrative Assistant - Human Resources | Port of Seattle | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c5068167eab518d5) |
-| Human Resources Administrator | CalPortland | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488479337) |
-| Human Resources Business Partner - Shared Services | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488472957) |
-| Human Resources Business Partner | AIM | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4488400617) |
-| HR Business Partner II, Field | MOBIS Parts America | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488434110) |
-| Administrative Assistant - Human Resources | Port of Seattle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488195270) |
-| People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477345434) |
-| People Consulting - HR Technology - Workforce Management - ADP Workforce Software - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477335828) |
 | Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
 | Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
@@ -116,6 +102,10 @@ All matching jobs found in the past week.
 | Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
 | HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
 | HR Business Partner , AMXL | Amazon | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490398426) |
+| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489861341) |
+| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
+| Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
+| Human Resources Assistant | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489318240) |
 
 <!-- DAILY_REPORT_END -->
 
