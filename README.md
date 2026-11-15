@@ -29,21 +29,16 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 
-### HR Jobs (Olympia, WA area) (11 results)
+### HR Jobs (Olympia, WA area) (6 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Product Design Lead, HRIS | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=49768c52b61f1151) |
-| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489861341) |
-| Sr. Human Resources Business Partner, Infrastructure Supply Chain | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455797475) |
-| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455900207) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4455915120) |
-| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
-| Human Resources Administrator | CalPortland | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4473409135) |
-| Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
-| Human Resources Assistant | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489318240) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
-| HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
+| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490225541) |
+| Principal HR Business Partner | Oracle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
+| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
+| Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
+| HRIS & Talent Acquisition Systems/Tools Engineer | Axon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4418928577) |
 
 ## Last 7 Days
 
@@ -57,11 +52,10 @@ All matching jobs found in the past week.
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 
-### HR Jobs (Olympia, WA area) (46 results)
+### HR Jobs (Olympia, WA area) (49 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Administrator | RoShay Services | Auburn, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488723698) |
 | Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
 | HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
 | Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af13afa06081ecaa) |
@@ -107,6 +101,10 @@ All matching jobs found in the past week.
 | Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
 | Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
 | Human Resources Assistant | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489318240) |
+| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490225541) |
+| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
+| Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
+| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
 
 <!-- DAILY_REPORT_END -->
 
