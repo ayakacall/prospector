@@ -27,16 +27,15 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (6 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490225541) |
-| Principal HR Business Partner | Oracle | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471783546) |
-| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
-| Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
-| HRIS & Talent Acquisition Systems/Tools Engineer | Axon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4418928577) |
+| Director of People and Culture (HR) | Middleby Coffee | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
+| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
+| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
+| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
 
 ## Last 7 Days
 
@@ -50,7 +49,7 @@ All matching jobs found in the past week.
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 
-### HR Jobs (Olympia, WA area) (49 results)
+### HR Jobs (Olympia, WA area) (50 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -103,6 +102,7 @@ All matching jobs found in the past week.
 | Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
 | Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
+| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
 
 <!-- DAILY_REPORT_END -->
 
