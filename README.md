@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-15)
+## Daily Job Report (2026-11-16)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (6 results)
 
