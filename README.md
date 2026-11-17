@@ -33,15 +33,26 @@ Jobs posted in the last 24 hours matching search criteria.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (16 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Director of People and Culture (HR) | Middleby Coffee | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4389840818) |
-| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
-| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
+| HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
+| Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
+| Senior Director, Human Resources | HealthPoint (Washington) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=146372559a94d098) |
+| Department Academic HR Specialist - Department of Psychiatry and Behavioral Sciences | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=03ee9c6b46721ec1) |
+| Principal HR Business Partner, Amazon Ads PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c94d937e2867a9df) |
+| Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
+| Principal HR Business Partner, Amazon Ads PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490156972) |
+| Senior HR Compliance Partner | REI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490187841) |
+| Senior HR Compliance Partner | REI | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490956518) |
+| Senior Director of HRBP | Strativ Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491152746) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Sales Executive - HR Solutions (Seattle/Tacoma/Olympia) | Paychex | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4436624629) |
+| HR Assistant (Military/Employee Benefits). | Obsolete Site | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490421804) |
+| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
+| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
+| Human Resources Coordinator | Seattle Social Housing Developer | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490958073) |
+| Sr. HR Operations Analyst | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490131213) |
 
 ## Last 7 Days
 
@@ -60,7 +71,7 @@ All matching jobs found in the past week.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
-### HR Jobs (Olympia, WA area) (35 results)
+### HR Jobs (Olympia, WA area) (47 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -99,6 +110,18 @@ All matching jobs found in the past week.
 | Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
 | Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
 | Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
+| HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
+| Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
+| Senior Director, Human Resources | HealthPoint (Washington) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=146372559a94d098) |
+| Department Academic HR Specialist - Department of Psychiatry and Behavioral Sciences | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=03ee9c6b46721ec1) |
+| Principal HR Business Partner, Amazon Ads PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c94d937e2867a9df) |
+| Principal HR Business Partner, Amazon Ads PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490156972) |
+| Senior HR Compliance Partner | REI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490187841) |
+| Senior HR Compliance Partner | REI | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490956518) |
+| Senior Director of HRBP | Strativ Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491152746) |
+| HR Assistant (Military/Employee Benefits). | Obsolete Site | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490421804) |
+| Human Resources Coordinator | Seattle Social Housing Developer | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490958073) |
+| Sr. HR Operations Analyst | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490131213) |
 
 <!-- DAILY_REPORT_END -->
 
