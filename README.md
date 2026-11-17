@@ -19,13 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-16)
+## Daily Job Report (2026-11-17)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
+| Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
+| Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
+| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
+| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -41,33 +47,23 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (8 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
 | Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
+| Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
+| Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
+| Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
+| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
+| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
-### HR Jobs (Olympia, WA area) (50 results)
+### HR Jobs (Olympia, WA area) (35 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. Human Resources Manager | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487942201) |
-| HR Business Partner - Global E-commerce Operations (Seattle) | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487663176) |
-| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=af13afa06081ecaa) |
-| Human Resources Consultant (Multiple Openings) | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=bb962f7447f8010c) |
-| Human Resources Business Partner | Think Academy US | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d766d4f30e1e0214) |
-| Academic HR Manager - Department of Medicine | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488376064) |
-| Human Resources Consultant (Multiple Openings) | UW Advancement Careers | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488360467) |
-| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
-| Assistant Director of Human Resources | Highgate | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487966735) |
-| HR Business Partner, Advisor | Seattle CARE Department | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487196136) |
-| People Consulting - HR Transformation - Workday - Manager | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487424182) |
-| HR Systems & Talent Acquisition Manager (Rippling) | Universal Language Service, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487967405) |
-| Human Resources Consultant (Multiple Openings) | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489158138) |
-| HR Generalist | AppleOne Employment Services | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487946996) |
-| HR Generalist | Robert Half | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489123758) |
 | Human Resources Analyst | Pierce Transit | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=890075162cc0010b) |
 | Human Resources - Corporate Recruiter | Kidder Mathews | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db99cfcba6db9be4) |
 | Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84acb58c03978c30) |
