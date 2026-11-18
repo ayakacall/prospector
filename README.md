@@ -27,26 +27,25 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (16 results)
+### HR Jobs (Olympia, WA area) (15 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
-| Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
-| Senior Director, Human Resources | HealthPoint (Washington) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=146372559a94d098) |
-| Department Academic HR Specialist - Department of Psychiatry and Behavioral Sciences | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=03ee9c6b46721ec1) |
-| Principal HR Business Partner, Amazon Ads PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c94d937e2867a9df) |
-| Sr. HR Business Partner, SSD-FC | Amazon | Federal Way, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4483783115) |
-| Principal HR Business Partner, Amazon Ads PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490156972) |
+| People Partner Lead | HealthierHere | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=974719b5617b3cdd) |
+| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=80a24d28faadf90e) |
+| Director, People Operations Solutions | CRUSOE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=737fa82570e9bf16) |
+| Vice President of Human Resources | Dowbuilt | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
+| VP of Human Resources | YMCA of the USA | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490869876) |
+| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
+| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475850065) |
 | Senior HR Compliance Partner | REI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490187841) |
-| Senior HR Compliance Partner | REI | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490956518) |
-| Senior Director of HRBP | Strativ Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491152746) |
 | HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| HR Assistant (Military/Employee Benefits). | Obsolete Site | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490421804) |
-| HR Director | BNBuilders | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4454664710) |
-| Sr. HR Generalist | Crisis Connections | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487184783) |
-| Human Resources Coordinator | Seattle Social Housing Developer | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490958073) |
-| Sr. HR Operations Analyst | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490131213) |
+| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
+| People Partner | A.P. Moller - Maersk | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476399260) |
+| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491417068) |
+| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491199630) |
+| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
 
 ## Last 7 Days
 
@@ -65,7 +64,7 @@ All matching jobs found in the past week.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
-### HR Jobs (Olympia, WA area) (36 results)
+### HR Jobs (Olympia, WA area) (42 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -105,6 +104,12 @@ All matching jobs found in the past week.
 | HR Assistant (Military/Employee Benefits). | Obsolete Site | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490421804) |
 | Human Resources Coordinator | Seattle Social Housing Developer | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490958073) |
 | Sr. HR Operations Analyst | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490131213) |
+| People Partner Lead | HealthierHere | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=974719b5617b3cdd) |
+| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=80a24d28faadf90e) |
+| Director, People Operations Solutions | CRUSOE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=737fa82570e9bf16) |
+| VP of Human Resources | YMCA of the USA | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490869876) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491417068) |
+| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491199630) |
 
 <!-- DAILY_REPORT_END -->
 
