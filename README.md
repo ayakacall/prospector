@@ -19,19 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-17)
+## Daily Job Report (2026-11-18)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
-| Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
-| Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
-| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
-| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (16 results)
 
@@ -71,21 +65,10 @@ All matching jobs found in the past week.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 
-### HR Jobs (Olympia, WA area) (47 results)
+### HR Jobs (Olympia, WA area) (36 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Analyst | Pierce Transit | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=890075162cc0010b) |
-| Human Resources - Corporate Recruiter | Kidder Mathews | Tukwila, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=db99cfcba6db9be4) |
-| Manager, Employee Relations & Human Resources Operations | Brooks Running | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=84acb58c03978c30) |
-| Human Resources Generalist | Investco LLC | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f808799ca965e8da) |
-| HR Assistant Senior | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ba52590aa074bc91) |
-| HR Contractor | Freedom Project | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=47757934e9621c2b) |
-| Human Resources Business Partner | Primo Brands | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487869375) |
-| HR Assistant Senior | University of Washington | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489685685) |
-| Human Resources Assistant (Information Systems) | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488625505) |
-| Human Resources - Corporate Recruiter | Kidder Mathews | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489646614) |
-| Human Resources Generalist | Gravis Law, PLLC | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488382512) |
 | Human Resources Coordinator | UNIQLO | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=37a880695159f549) |
 | People & Culture (HR) Administrator | Fairmont | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1c6cbcb14255713) |
 | Human Resources Generalist Part-Time | Pacific Northwest Beauty & Wellness Group | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b89323815899bbc) |
