@@ -19,13 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-18)
+## Daily Job Report (2026-11-19)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (2 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
+| Audit Staff Accountant (Japanese/English) - Remote | EOS Accountants LLP | Novi, MI, USA | [Apply](https://www.linkedin.com/jobs/view/4322252527) |
 
 ### HR Jobs (Olympia, WA area) (15 results)
 
@@ -51,7 +54,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (8 results)
+### Japanese Jobs (Remote) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -63,6 +66,7 @@ All matching jobs found in the past week.
 | Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
 
 ### HR Jobs (Olympia, WA area) (42 results)
 
