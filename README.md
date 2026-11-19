@@ -30,25 +30,21 @@ Jobs posted in the last 24 hours matching search criteria.
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
 | Audit Staff Accountant (Japanese/English) - Remote | EOS Accountants LLP | Novi, MI, USA | [Apply](https://www.linkedin.com/jobs/view/4322252527) |
 
-### HR Jobs (Olympia, WA area) (15 results)
+### HR Jobs (Olympia, WA area) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner Lead | HealthierHere | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=974719b5617b3cdd) |
-| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=80a24d28faadf90e) |
-| Director, People Operations Solutions | CRUSOE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=737fa82570e9bf16) |
-| Vice President of Human Resources | Dowbuilt | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466802072) |
-| VP of Human Resources | YMCA of the USA | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490869876) |
-| Employee Relations HR Generalist | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484611061) |
-| Principal HRBP, AWS HR | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475850065) |
-| Senior HR Compliance Partner | REI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490187841) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
-| Director HR Partnership and Talent Acquisition | Zenoti | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486834113) |
+| Vice President of Human Resources | The Lighthouse for the Blind, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aba75af983e1b409) |
+| HR Service Delivery Manager | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d0c749c4e159f79f) |
+| Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491600212) |
+| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492172896) |
 | People Partner | A.P. Moller - Maersk | Sumner, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4476399260) |
-| Senior Product Manager - HR Technology (Hybrid - Seattle) | Nordstrom | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484420349) |
-| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491417068) |
-| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491199630) |
-| Senior HR Business Partner - Support Services (Woodinville, WA) | BDA, LLC | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4476684874) |
+| HRIS Manager – UKG UltiPro | NW Recruiting Partners | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4492168687) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492090133) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
+| Human Resources & Talent Acquisition Director | HHS, LLC | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492108233) |
+| Human Resources (HR) Generalist | Robert Half | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492034200) |
+| HR Generalist | Tundra Technical Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491732942) |
 
 ## Last 7 Days
 
@@ -68,17 +64,10 @@ All matching jobs found in the past week.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
 
-### HR Jobs (Olympia, WA area) (42 results)
+### HR Jobs (Olympia, WA area) (44 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Coordinator | UNIQLO | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=37a880695159f549) |
-| People & Culture (HR) Administrator | Fairmont | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=a1c6cbcb14255713) |
-| Human Resources Generalist Part-Time | Pacific Northwest Beauty & Wellness Group | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7b89323815899bbc) |
-| People & Culture (HR) Administrator | Fairmont Hotels & Resorts | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490090803) |
-| Representative, Human Resources | McLane Company, Inc. | Lakewood, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490045309) |
-| HRIS Manager | Merrill Gardens | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489024665) |
-| HR Sourcing Recruiter II | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4488250722) |
 | Human Resources Support Staff | South Kitsap Fire Rescue | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=82bd74af2f341178) |
 | Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bfe36ecaba3bb38) |
 | Senior Consultant, Oracle HCM Cloud Core HR | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b281690ab2f1a588) |
@@ -114,6 +103,15 @@ All matching jobs found in the past week.
 | VP of Human Resources | YMCA of the USA | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490869876) |
 | HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491417068) |
 | Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491199630) |
+| Vice President of Human Resources | The Lighthouse for the Blind, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aba75af983e1b409) |
+| HR Service Delivery Manager | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d0c749c4e159f79f) |
+| Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491600212) |
+| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492172896) |
+| HRIS Manager – UKG UltiPro | NW Recruiting Partners | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4492168687) |
+| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492090133) |
+| Human Resources & Talent Acquisition Director | HHS, LLC | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492108233) |
+| Human Resources (HR) Generalist | Robert Half | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492034200) |
+| HR Generalist | Tundra Technical Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491732942) |
 
 <!-- DAILY_REPORT_END -->
 
