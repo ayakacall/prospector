@@ -19,16 +19,17 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-19)
+## Daily Job Report (2026-11-20)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
-| Audit Staff Accountant (Japanese/English) - Remote | EOS Accountants LLP | Novi, MI, USA | [Apply](https://www.linkedin.com/jobs/view/4322252527) |
+| Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
+| Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
+| Patent Engineer / Scientist - Physics/Applied Math - Japanese Language Fluency Required | Osha Bergman Watanabe & Burton LLP | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=938e2fa2bf240231) |
 
 ### HR Jobs (Olympia, WA area) (11 results)
 
@@ -50,11 +51,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (9 results)
+### Japanese Jobs (Remote) (11 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Audit Staff Accountant - Japanese/English - Hybrid/Remote | EOS Accountants LLP | Torrance, CA, USA | [Apply](https://www.linkedin.com/jobs/view/4489282312) |
 | Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 | Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
@@ -63,19 +63,14 @@ All matching jobs found in the past week.
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
 | 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
+| Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
+| Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
+| Patent Engineer / Scientist - Physics/Applied Math - Japanese Language Fluency Required | Osha Bergman Watanabe & Burton LLP | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=938e2fa2bf240231) |
 
-### HR Jobs (Olympia, WA area) (44 results)
+### HR Jobs (Olympia, WA area) (36 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Support Staff | South Kitsap Fire Rescue | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=82bd74af2f341178) |
-| Oracle HCM Cloud Core HR Consultant | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bfe36ecaba3bb38) |
-| Senior Consultant, Oracle HCM Cloud Core HR | Deloitte | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=b281690ab2f1a588) |
-| Product Design Lead, HRIS | Rippling | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=49768c52b61f1151) |
-| HR Business Partner , AMXL | Amazon.com | Lacey, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=89a69f1903e0bb4c) |
-| Sr. HR Partner, AWS BeXT HR Partner Team | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4474190108) |
-| HR Manager | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4489574868) |
-| HR Business Partner , AMXL | Amazon | Lacey, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490398426) |
 | Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489861341) |
 | Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
 | Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
