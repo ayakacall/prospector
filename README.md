@@ -33,31 +33,15 @@ Jobs posted in the last 24 hours matching search criteria.
 | Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
 | Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
 
-### HR Jobs (Olympia, WA area) (21 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner, Tech | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e9514b13d71e971a) |
-| HR Generalist Investigations | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=17b3fc148dddeda9) |
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1873d8a582d4bdb8) |
-| Human Resources Business Partner | Suddath | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=30165c51d60dabc8) |
-| Human Resources | Sierra Pacific Industries | Aberdeen, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=4702f9573b669abe) |
-| People Operations Partner | Kestra Medical Technologies | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e728506e971c845c) |
-| Director, People Operations | Kivo Health | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492746650) |
-| Senior Director, HRBPs and Employee Experience | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4485888717) |
-| People Operations Manager | Gradial | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492527671) |
-| People Operations Specialist | Nscale | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477481462) |
-| Human Resources Generalist | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4492587013) |
-| HR Business Partner | Meta | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4466259140) |
-| Human Resources | Sierra Pacific Company | Aberdeen, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492771554) |
-| Principal AI & HR Systems Partner | Circle | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4491945262) |
-| Senior Human Resources Manager | Unifi | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4471118055) |
-| HR Generalist Investigations | Securitas Security Services USA, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491646789) |
-| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492172896) |
-| Human Resources Business Partner | Suddath | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492712707) |
-| HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492712602) |
-| Manager - HR Support Services | Skanska | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491651602) |
-| Maritime HR Operations Analyst | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4484956236) |
+| Human Resources Business Partner | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=453ef680b6c0f15c) |
+| Human Resources Coordinator | RAM Mounts | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=66d54bf3b5969f08) |
+| Human Resources Operations Specialist | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3022c1b8394f1444) |
+| TESTING** HUMAN RESOURCES GENERALIST | Seattle Indian Health Board | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5dddfadaba710647) |
+| HR Coordinator | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=960f0cc304f1764b) |
 
 ## Last 7 Days
 
@@ -81,7 +65,7 @@ All matching jobs found in the past week.
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
 | (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
 
-### HR Jobs (Olympia, WA area) (47 results)
+### HR Jobs (Olympia, WA area) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -132,6 +116,11 @@ All matching jobs found in the past week.
 | Human Resources Business Partner | Suddath | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492712707) |
 | HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492712602) |
 | Manager - HR Support Services | Skanska | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491651602) |
+| Human Resources Business Partner | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=453ef680b6c0f15c) |
+| Human Resources Coordinator | RAM Mounts | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=66d54bf3b5969f08) |
+| Human Resources Operations Specialist | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3022c1b8394f1444) |
+| TESTING** HUMAN RESOURCES GENERALIST | Seattle Indian Health Board | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5dddfadaba710647) |
+| HR Coordinator | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=960f0cc304f1764b) |
 
 <!-- DAILY_REPORT_END -->
 
