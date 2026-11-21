@@ -19,17 +19,19 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-20)
+## Daily Job Report (2026-11-21)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (3 results)
+### Japanese Jobs (Remote) (5 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
+| Business Analyst (Japanese Language) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=1bab82c60198cf8f) |
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
+| (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
 | Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
-| Patent Engineer / Scientist - Physics/Applied Math - Japanese Language Fluency Required | Osha Bergman Watanabe & Burton LLP | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=938e2fa2bf240231) |
+| Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
 
 ### HR Jobs (Olympia, WA area) (21 results)
 
@@ -61,11 +63,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (11 results)
+### Japanese Jobs (Remote) (13 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Fab Safety and Emergency Response Expert (Japanese) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=7ee99aac6fd10b11) |
 | HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 | Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
 | Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
@@ -76,15 +77,14 @@ All matching jobs found in the past week.
 | Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
 | Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
 | Patent Engineer / Scientist - Physics/Applied Math - Japanese Language Fluency Required | Osha Bergman Watanabe & Burton LLP | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=938e2fa2bf240231) |
+| Business Analyst (Japanese Language) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=1bab82c60198cf8f) |
+| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
+| (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
 
-### HR Jobs (Olympia, WA area) (51 results)
+### HR Jobs (Olympia, WA area) (47 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Principal HR Business Partner | Coupang | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489861341) |
-| Head of HR | Tideworks Technology | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491058523) |
-| Human Resources Assistant (Military/Office Automation). | USMEPCOM | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491053988) |
-| Human Resources Assistant | Aston Carter | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489318240) |
 | Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490225541) |
 | Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
 | Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
