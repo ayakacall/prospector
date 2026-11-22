@@ -19,19 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-21)
+## Daily Job Report (2026-11-22)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (5 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Business Analyst (Japanese Language) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=1bab82c60198cf8f) |
-| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
-| (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
-| Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
-| Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -47,11 +41,10 @@ Jobs posted in the last 24 hours matching search criteria.
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (13 results)
+### Japanese Jobs (Remote) (12 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HYBRID Remote Primary Care FNP  - Bilingual Spanish (Downtown Manhattan - must live in NYC metro)) | Jobot | New York, NY, USA | [Apply](https://www.linkedin.com/jobs/view/4489370966) |
 | Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
 | Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
 | Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
