@@ -27,15 +27,19 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (9 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Human Resources Business Partner | State of Washington | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=453ef680b6c0f15c) |
-| Human Resources Coordinator | RAM Mounts | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=66d54bf3b5969f08) |
-| Human Resources Operations Specialist | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3022c1b8394f1444) |
-| TESTING** HUMAN RESOURCES GENERALIST | Seattle Indian Health Board | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5dddfadaba710647) |
-| HR Coordinator | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=960f0cc304f1764b) |
+| Human Resources Business Partner | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c1c202c01aaf2ed3) |
+| Human Resources Manager - FT | Pioneer Human Services | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477885225) |
+| Human Resources Manager | Strive Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492333548) |
+| People Partner | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441157804) |
+| HR Generalist | Strive Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492341227) |
+| HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492322686) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493114018) |
+| Manager, Maritime HR Operations | Holland America Line | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485645616) |
+| People Consulting - HR Technology - Workforce Management UKG - Senior | EY | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475262212) |
 
 ## Last 7 Days
 
@@ -58,14 +62,10 @@ All matching jobs found in the past week.
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
 | (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
 
-### HR Jobs (Olympia, WA area) (52 results)
+### HR Jobs (Olympia, WA area) (53 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490225541) |
-| Senior Manager, HR Cloud Operate | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4475062357) |
-| Sr. Director, Global People Operations | Shield | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491084606) |
-| Mobility Operation Specialist (AI & Automation) - HR Operation - Seattle | TikTok | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4489896708) |
 | Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
 | HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
 | Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
@@ -114,6 +114,11 @@ All matching jobs found in the past week.
 | Human Resources Operations Specialist | Mastercraft Electric, Inc. | Pacific, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=3022c1b8394f1444) |
 | TESTING** HUMAN RESOURCES GENERALIST | Seattle Indian Health Board | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=5dddfadaba710647) |
 | HR Coordinator | ABC Legal Services | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=960f0cc304f1764b) |
+| Human Resources Business Partner | Washington State Health Care Authority | Olympia, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c1c202c01aaf2ed3) |
+| Human Resources Manager | Strive Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492333548) |
+| HR Generalist | Strive Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492341227) |
+| HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492322686) |
+| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493114018) |
 
 <!-- DAILY_REPORT_END -->
 
