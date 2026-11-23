@@ -19,13 +19,16 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-22)
+## Daily Job Report (2026-11-23)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (2 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| JAPANESE - ENGLISH MEDICAL INTERPRETER (WFH - US BASED) | LanguageBridge Solutions | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=92069cb7ecce20b5) |
+| Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 
 ### HR Jobs (Olympia, WA area) (9 results)
 
@@ -45,7 +48,7 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (12 results)
+### Japanese Jobs (Remote) (14 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -61,12 +64,13 @@ All matching jobs found in the past week.
 | Business Analyst (Japanese Language) | AuraOne Human Data | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=1bab82c60198cf8f) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=800657e4bfb6ac08) |
 | (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
+| JAPANESE - ENGLISH MEDICAL INTERPRETER (WFH - US BASED) | LanguageBridge Solutions | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=92069cb7ecce20b5) |
+| Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 
-### HR Jobs (Olympia, WA area) (53 results)
+### HR Jobs (Olympia, WA area) (52 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Chief Human Resources Officer | hireneXus | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491508419) |
 | HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
 | Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
 | Senior Director, Human Resources | HealthPoint (Washington) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=146372559a94d098) |
