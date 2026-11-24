@@ -19,16 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-23)
+## Daily Job Report (2026-11-24)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (2 results)
+### Japanese Jobs (Remote) (1 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| JAPANESE - ENGLISH MEDICAL INTERPRETER (WFH - US BASED) | LanguageBridge Solutions | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=92069cb7ecce20b5) |
-| Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
+| Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
 ### HR Jobs (Olympia, WA area) (0 results)
 
@@ -38,15 +37,10 @@ _No matching jobs found_
 
 All matching jobs found in the past week.
 
-### Japanese Jobs (Remote) (14 results)
+### Japanese Jobs (Remote) (10 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Freelance Game Translator (JA>EN) | GTE Localize | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=2a24a19367c47a3c) |
-| Multiple language interpreters | REAL PEOPLE TODAY | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bfd3567634812eb) |
-| Bilingual Japanese Analyst, Merchant Monitoring | LegitScript | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=5bb21a238271de7c) |
-| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4490983185) |
-| 【日本語バイリンガル】Japanese Bilingual Sr. Recruiter - Remote | Leverages U.S. Inc. | Greater Chicago Area | [Apply](https://www.linkedin.com/jobs/view/4490983191) |
 | (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
 | Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
 | Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
@@ -56,23 +50,12 @@ All matching jobs found in the past week.
 | (Remote) Recruitment Consultant - Japanese | Cinter Career | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=cf304995708d88d3) |
 | JAPANESE - ENGLISH MEDICAL INTERPRETER (WFH - US BASED) | LanguageBridge Solutions | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=92069cb7ecce20b5) |
 | Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
+| Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
-### HR Jobs (Olympia, WA area) (52 results)
+### HR Jobs (Olympia, WA area) (40 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Generalist | POWTEC Holding | Port Orchard, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8b0fcc041bf09a8e) |
-| Sr. HR Operations Analyst | Rover.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=2cca64f2cf6fe19a) |
-| Senior Director, Human Resources | HealthPoint (Washington) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=146372559a94d098) |
-| Department Academic HR Specialist - Department of Psychiatry and Behavioral Sciences | University Of Washington | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=03ee9c6b46721ec1) |
-| Principal HR Business Partner, Amazon Ads PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=c94d937e2867a9df) |
-| Principal HR Business Partner, Amazon Ads PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490156972) |
-| Senior HR Compliance Partner | REI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490187841) |
-| Senior HR Compliance Partner | REI | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490956518) |
-| Senior Director of HRBP | Strativ Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491152746) |
-| HR Assistant (Military/Employee Benefits). | Obsolete Site | Joint Base Lewis-McChord, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490421804) |
-| Human Resources Coordinator | Seattle Social Housing Developer | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490958073) |
-| Sr. HR Operations Analyst | Rover | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4490131213) |
 | People Partner Lead | HealthierHere | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=974719b5617b3cdd) |
 | Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=80a24d28faadf90e) |
 | Director, People Operations Solutions | CRUSOE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=737fa82570e9bf16) |
