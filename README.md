@@ -29,9 +29,15 @@ Jobs posted in the last 24 hours matching search criteria.
 |-------|---------|----------|------|
 | Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
-### HR Jobs (Olympia, WA area) (0 results)
+### HR Jobs (Olympia, WA area) (5 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Sr. HR Specialist, Responsive HR, High Touch Support | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ba011c11b95080a) |
+| Part-Time HR & Payroll Specialist | RealNetworks | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=eb4edcc43acb22be) |
+| Sr. HR Specialist, Responsive HR, High Touch Support | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494403020) |
+| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
 
 ## Last 7 Days
 
@@ -52,7 +58,7 @@ All matching jobs found in the past week.
 | Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 | Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
-### HR Jobs (Olympia, WA area) (40 results)
+### HR Jobs (Olympia, WA area) (43 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -96,6 +102,9 @@ All matching jobs found in the past week.
 | HR Generalist | Strive Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492341227) |
 | HR Coordinator | Crystal Mountain Resort | Enumclaw, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492322686) |
 | HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493114018) |
+| Sr. HR Specialist, Responsive HR, High Touch Support | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ba011c11b95080a) |
+| Part-Time HR & Payroll Specialist | RealNetworks | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=eb4edcc43acb22be) |
+| Sr. HR Specialist, Responsive HR, High Touch Support | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494403020) |
 
 <!-- DAILY_REPORT_END -->
 
