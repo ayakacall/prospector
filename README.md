@@ -27,15 +27,26 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (5 results)
+### HR Jobs (Olympia, WA area) (16 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Sr. HR Specialist, Responsive HR, High Touch Support | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ba011c11b95080a) |
-| Part-Time HR & Payroll Specialist | RealNetworks | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=eb4edcc43acb22be) |
+| Human Resources Labor Relations Analyst 1 | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=584b00e2a110e674) |
+| Human Resources Labor Relations Analyst 2 | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6794edba84306020) |
+| HR SPECIALIST | The GEO Group, Inc. | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=711c7c359e29db66) |
+| Temporarily - Human Resources Generalist | TOTE | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ffbedcdda5cc4177) |
+| Principal, HR Strategy & Transformation, PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7f893551f6ddd55a) |
+| DISTRICT 3 HR LEADER | Quality Food Centers (QFC) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bf549ca5eab7794) |
+| Regional HR Manager | NorthStar Memorial Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=58267964e220b78f) |
+| Human Resources Manager | Mission Foods | Fife, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485019094) |
+| HR Director | iPromo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493434828) |
+| Staff People Partner, Corporate Functions | Databricks | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4485051405) |
+| Senior Manager, ServiceNow HRSD Program and Solution Management | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486854990) |
+| Senior Consultant, Functional Transformation - ServiceNow HRSD | Deloitte | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487226554) |
+| HR SPECIALIST | The GEO Group, Inc. | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494751288) |
+| DISTRICT 3 HR LEADER | Quality Food Center | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493049970) |
+| Human Resources Assistant | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494409878) |
 | Sr. HR Specialist, Responsive HR, High Touch Support | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494403020) |
-| People Partner, Manufacturing | Fluidstack | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4441151791) |
-| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
 
 ## Last 7 Days
 
@@ -56,7 +67,7 @@ All matching jobs found in the past week.
 | Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 | Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
-### HR Jobs (Olympia, WA area) (37 results)
+### HR Jobs (Olympia, WA area) (48 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
@@ -97,6 +108,17 @@ All matching jobs found in the past week.
 | Sr. HR Specialist, Responsive HR, High Touch Support | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8ba011c11b95080a) |
 | Part-Time HR & Payroll Specialist | RealNetworks | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=eb4edcc43acb22be) |
 | Sr. HR Specialist, Responsive HR, High Touch Support | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494403020) |
+| Human Resources Labor Relations Analyst 1 | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=584b00e2a110e674) |
+| Human Resources Labor Relations Analyst 2 | Pierce County Washington | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=6794edba84306020) |
+| HR SPECIALIST | The GEO Group, Inc. | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=711c7c359e29db66) |
+| Temporarily - Human Resources Generalist | TOTE | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=ffbedcdda5cc4177) |
+| Principal, HR Strategy & Transformation, PXT | Amazon.com | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=7f893551f6ddd55a) |
+| DISTRICT 3 HR LEADER | Quality Food Centers (QFC) | Renton, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=8bf549ca5eab7794) |
+| Regional HR Manager | NorthStar Memorial Group | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=58267964e220b78f) |
+| HR Director | iPromo | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493434828) |
+| HR SPECIALIST | The GEO Group, Inc. | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494751288) |
+| DISTRICT 3 HR LEADER | Quality Food Center | Renton, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493049970) |
+| Human Resources Assistant | Navy Region Northwest Fleet and Family Readiness (FFR) | Keyport, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494409878) |
 
 <!-- DAILY_REPORT_END -->
 
