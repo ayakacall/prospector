@@ -19,15 +19,13 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-24)
+## Daily Job Report (2026-11-25)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (1 results)
+### Japanese Jobs (Remote) (0 results)
 
-| Title | Company | Location | Link |
-|-------|---------|----------|------|
-| Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
+_No matching jobs found_
 
 ### HR Jobs (Olympia, WA area) (5 results)
 
@@ -58,16 +56,10 @@ All matching jobs found in the past week.
 | Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 | Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
 
-### HR Jobs (Olympia, WA area) (43 results)
+### HR Jobs (Olympia, WA area) (37 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| People Partner Lead | HealthierHere | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=974719b5617b3cdd) |
-| Human Resources Business Partner | Stoke Space | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=80a24d28faadf90e) |
-| Director, People Operations Solutions | CRUSOE | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=737fa82570e9bf16) |
-| VP of Human Resources | YMCA of the USA | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4490869876) |
-| HR Generalist | Evlo AI | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491417068) |
-| Senior HR Advisor | Clyde & Co | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491199630) |
 | Vice President of Human Resources | The Lighthouse for the Blind, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aba75af983e1b409) |
 | HR Service Delivery Manager | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d0c749c4e159f79f) |
 | Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491600212) |
