@@ -19,13 +19,15 @@ Automated job hunting at scale, powered by GitHub Actions.
 All tools run as GitHub Actions workflows on schedule or manual trigger.
 
 <!-- DAILY_REPORT_START -->
-## Daily Job Report (2026-11-25)
+## Daily Job Report (2026-11-26)
 
 Jobs posted in the last 24 hours matching search criteria.
 
-### Japanese Jobs (Remote) (0 results)
+### Japanese Jobs (Remote) (1 results)
 
-_No matching jobs found_
+| Title | Company | Location | Link |
+|-------|---------|----------|------|
+| Tax Director - Chinese-English Bilingual - Remote (San Francisco Bay Area) | Jobgether | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4495027128) |
 
 ### HR Jobs (Olympia, WA area) (16 results)
 
@@ -56,7 +58,6 @@ All matching jobs found in the past week.
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| (Remote) Account Manager for HR Consulting - Japanese | Cinter Career | USA | [Apply](https://www.glassdoor.com/job-listing/j?jl=1009671323340) |
 | Japanese SMB AI Rater | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=873eed45227b57af) |
 | Japanese speakers | Rezolve Ai | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=fb357c6df0901e54) |
 | Patent Engineer / Scientist - Physics/Applied Math - Japanese Language Fluency Required | Osha Bergman Watanabe & Burton LLP | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=938e2fa2bf240231) |
@@ -66,20 +67,12 @@ All matching jobs found in the past week.
 | JAPANESE - ENGLISH MEDICAL INTERPRETER (WFH - US BASED) | LanguageBridge Solutions | Remote, USA | [Apply](https://www.indeed.com/viewjob?jk=92069cb7ecce20b5) |
 | Japanese Bilingual - Business Systems & IT Manager (REMOTE) | TOP Group - Japanese Recruiting Agency | New York City Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4494042326) |
 | Tax Staff Accountant (Japanese/English) - Hybrid/Remote | EOS Accountants LLP | Honolulu, HI, USA | [Apply](https://www.linkedin.com/jobs/view/4494096191) |
+| Tax Director - Chinese-English Bilingual - Remote (San Francisco Bay Area) | Jobgether | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4495027128) |
 
-### HR Jobs (Olympia, WA area) (48 results)
+### HR Jobs (Olympia, WA area) (39 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| Vice President of Human Resources | The Lighthouse for the Blind, Inc | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=aba75af983e1b409) |
-| HR Service Delivery Manager | King County, WA | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=d0c749c4e159f79f) |
-| Human Resources Manager | Jobot | Tacoma, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491600212) |
-| People Operations Partner | Kestra Medical Technologies, Inc. | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492172896) |
-| HRIS Manager – UKG UltiPro | NW Recruiting Partners | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4492168687) |
-| Principal HRBP, Prime Video, Entertainment PXT | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492090133) |
-| Human Resources & Talent Acquisition Director | HHS, LLC | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492108233) |
-| Human Resources (HR) Generalist | Robert Half | Kent, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492034200) |
-| HR Generalist | Tundra Technical Solutions | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4491732942) |
 | People Partner, Tech | Uber | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=e9514b13d71e971a) |
 | HR Generalist Investigations | Securitas | Seattle, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=17b3fc148dddeda9) |
 | HR Generalist | Imperial Brady | Kent, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=1873d8a582d4bdb8) |
