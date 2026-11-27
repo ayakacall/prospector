@@ -27,19 +27,13 @@ Jobs posted in the last 24 hours matching search criteria.
 
 _No matching jobs found_
 
-### HR Jobs (Olympia, WA area) (9 results)
+### HR Jobs (Olympia, WA area) (3 results)
 
 | Title | Company | Location | Link |
 |-------|---------|----------|------|
-| HR Training & Development Coordinator | Demgy Pacific | Tacoma, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f10120392e1f4224) |
-| Human Resources Generalist | Quinault Community Health & Quinault Wellness Center | Aberdeen, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=de25f1a845cf6ead) |
-| HR Generalist | LAKEWOOD ACQUISITION LLC | Lakewood, WA, USA | [Apply](https://www.indeed.com/viewjob?jk=f44c2181dd823248) |
-| Human Resources Manager | LHH | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4494990010) |
-| Human Resources Generalist | Haystack | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4495031382) |
-| Sr HR Business Partner, Agentic AI | Amazon | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4487589079) |
-| HR Coordinator – Store Operations (Seattle Area) | Groupe Dynamite | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4477014485) |
-| Human Resources Coordinator | RAM Mounts | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4492841633) |
-| Human Resources Manager | Dubin Law Group | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4493444796) |
+| Principal, HR Business Partner, AWS AMER West Data Centers | Amazon Web Services (AWS) | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4462087828) |
+| Director, HRBP | LiveRamp | Seattle, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4486901486) |
+| HR Business Partner - Ops | UNFI | Centralia, WA, USA | [Apply](https://www.linkedin.com/jobs/view/4482705252) |
 
 ## Last 7 Days
 
